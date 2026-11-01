@@ -1,0 +1,5 @@
+# P0-M01 — یادآوری اپیدمیولوژی و آمار + آزمون ورودی
+
+**وضعیت:** نوشته نشده
+
+فایل‌های این ماژول طبق الگوی [module_template](../../00_admin/module_template/) ساخته می‌شوند: `lesson.md`، `references.md`، `videos.md`، `exercises.md`، `solutions.md` و در صورت نیاز `code/`.

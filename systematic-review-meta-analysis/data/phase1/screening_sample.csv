@@ -1,0 +1,41 @@
+record_id,title,reviewer_A,reviewer_B
+R001,BCG scar as a marker of vaccination: diagnostic accuracy study,exclude,exclude
+R002,Systematic review of interferon-gamma release assays for latent tuberculosis,exclude,exclude
+R003,Mycobacterium vaccae immunotherapy for tuberculosis treatment: randomised trial,exclude,exclude
+R004,Contact tracing for tuberculosis: cluster randomised trial,exclude,exclude
+R005,BCG vaccination in leprosy prevention: randomised trial,exclude,exclude
+R006,Conference abstract: BCG uptake in migrants,exclude,exclude
+R007,BCG vaccination versus no vaccination in young adults: a randomised field trial,include,include
+R008,History of BCG: a narrative review,exclude,exclude
+R009,Cost-effectiveness of BCG vaccination policies: a modelling study,exclude,exclude
+R010,BCG vaccine and tuberculosis incidence: 10-year follow-up of a community randomised trial,include,include
+R011,Adverse events after BCG vaccination: case series,exclude,exclude
+R012,Isoniazid preventive therapy in HIV-positive adults: randomised trial,exclude,exclude
+R013,Tuberculin skin test conversion after BCG: cross-sectional survey,exclude,exclude
+R014,Protective effect of BCG against tuberculosis in a rural population: randomised trial,include,include
+R015,Case-control study of BCG effectiveness against tuberculous meningitis,exclude,exclude
+R016,BCG vaccination and risk of asthma: a cohort study,exclude,include
+R017,BCG revaccination in adolescents: randomised trial of tuberculosis prevention,include,exclude
+R018,"Tuberculosis notification trends in a high-burden country, 1990-2020",exclude,include
+R019,Genomic comparison of BCG daughter strains,exclude,exclude
+R020,Comparison of BCG strains in a randomised trial: tuberculosis outcomes,include,exclude
+R021,Intravesical BCG for non-muscle invasive bladder cancer: randomised trial,exclude,exclude
+R022,Immunological response to BCG in mice: experimental study,exclude,exclude
+R023,Modelling the impact of a new TB vaccine on incidence,exclude,exclude
+R024,Letter: BCG vaccine shortage,exclude,exclude
+R025,Tuberculosis treatment outcomes in children: retrospective cohort,exclude,exclude
+R026,Trial of BCG among military recruits: incidence of tuberculosis over 5 years,include,exclude
+R027,Controlled trial of BCG vaccination among household contacts of tuberculosis cases,include,include
+R028,Randomised trial of BCG in infants: protection against tuberculous disease,include,include
+R029,Knowledge of tuberculosis among health workers: a questionnaire study,exclude,exclude
+R030,Efficacy of BCG vaccination against pulmonary tuberculosis: a randomised controlled trial in school children,include,include
+R031,Protocol for a trial of BCG revaccination,exclude,exclude
+R032,Editorial: the future of tuberculosis vaccines,exclude,exclude
+R033,Non-specific effects of BCG on all-cause neonatal mortality: randomised trial,exclude,exclude
+R034,Tuberculosis among prisoners: prevalence study,exclude,exclude
+R035,BCG and COVID-19 severity: an ecological analysis,exclude,exclude
+R036,Long-term efficacy of BCG: results from a placebo-controlled trial,include,include
+R037,Vitamin D supplementation for tuberculosis prevention: randomised trial,exclude,exclude
+R038,BCG-induced trained immunity: in vitro study,exclude,exclude
+R039,BCG vaccine coverage and socioeconomic status: national survey,exclude,exclude
+R040,Alternate-allocation trial of BCG vaccine in newborns,include,include

@@ -2,14 +2,12 @@
 
 Research design, evidence synthesis and population-health metrics.
 
-> 🚧 Under construction — content will be added over time.
+> 🚧 Under construction — content is being added over time.
 
-## Modules
+## Contents
 
 - [Research Methodology](research-methodology/)
-- [Systematic Review & Meta-Analysis](systematic-review-meta-analysis/)
-- [Umbrella Review](umbrella-review/)
-- [Burden of Disease](burden-of-disease/)
+- [Systematic Review, Meta-Analysis, Umbrella Review & Burden of Disease](systematic-review-meta-analysis/)
 
 ## Related
 
