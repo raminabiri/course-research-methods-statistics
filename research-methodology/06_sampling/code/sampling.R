@@ -1,87 +1,159 @@
-# =============================================================
-# فصل ۶ — روش‌های نمونه‌گیری احتمالی، اثر طرح و تخصیص تصادفی (R پایه)
-# اجرا از ریشه پروژه: Rscript 06_sampling/code/sampling.R
-# جامعه فرضی = ۴۰۰ نفر فایل survey_data.csv
-# =============================================================
-set.seed(123)
-pop <- read.csv("data/survey_data.csv")
-N <- nrow(pop); n <- 80
-cat("True population mean of pre_score:", round(mean(pop$pre_score), 2), "\n\n")
+# Educational examples; not a clinical allocation service.
+# Run: Rscript --vanilla 06_sampling/code/sampling.R
+# No package installation, network access, or patient data is required.
 
-## ---- ۱) تصادفی ساده (SRS) بدون جایگذاری
-srs <- pop[sample(N, n), ]
-
-## ---- ۲) سیستماتیک: فاصله k = N/n، شروع تصادفی
-k     <- N / n
-start <- sample(1:k, 1)
-sys   <- pop[seq(start, N, by = k), ]
-
-## ---- ۳) طبقه‌ای با تخصیص متناسب
-Nh    <- table(pop$region)
-nh    <- round(n * Nh / N)
-strat <- do.call(rbind, lapply(names(Nh), function(h) {
-  sub <- pop[pop$region == h, ]; sub[sample(nrow(sub), nh[h]), ] }))
-print(rbind(N_h = Nh, n_h_proportional = nh))
-
-# تخصیص بهینه نیمن: n_h ∝ N_h × S_h
-Sh <- tapply(pop$pre_score, pop$region, sd)
-cat("Neyman allocation:", round(n * Nh * Sh / sum(Nh * Sh)), "\n\n")
-
-## ---- ۴) خوشه‌ای یک‌مرحله‌ای: ۸ مدرسه از ۴۰ و همه افراد آن‌ها
-cl_sel  <- sample(unique(pop$school), 8)
-cluster <- pop[pop$school %in% cl_sel, ]
-
-## ---- ۵) دومرحله‌ای: ۱۶ مدرسه، سپس ۵ نفر از هر مدرسه
-s1 <- sample(unique(pop$school), 16)
-two_stage <- do.call(rbind, lapply(s1, function(s) {
-  sub <- pop[pop$school == s, ]; sub[sample(nrow(sub), 5), ] }))
-
-## ---- ۶) احتمال متناسب با اندازه (PPS) سیستماتیک — مثال با اندازه‌های فرضی خوشه
-size <- c(120, 80, 300, 50, 150, 220, 90, 60, 180, 250)        # جمعیت ۱۰ روستا
-cum  <- cumsum(size); interval <- sum(size) / 3                    # انتخاب ۳ روستا
-picks <- runif(1, 0, interval) + interval * (0:2)
-cat("PPS selected villages:", sapply(picks, function(p) which(cum >= p)[1]), "\n\n")
-
-## ---- ۷) مقایسه برآوردها
-est <- sapply(list(SRS = srs, Systematic = sys, Stratified = strat,
-                   Cluster = cluster, TwoStage = two_stage),
-              function(s) c(n = nrow(s), mean = mean(s$pre_score)))
-print(round(est, 2))
-
-## ---- ۸) شبیه‌سازی ۲۰۰۰ تکرار: خطای معیار SRS در برابر خوشه‌ای ← اثر طرح
-reps <- 2000
-m_srs <- replicate(reps, mean(pop$pre_score[sample(N, n)]))
-m_cl  <- replicate(reps, mean(pop$pre_score[pop$school %in% sample(1:40, 8)]))
-deff_emp <- var(m_cl) / var(m_srs)
-
-# ICC بین مدارس از ANOVA و اثر طرح نظری: DEFF = 1 + (m - 1) * ICC
-a   <- anova(lm(pre_score ~ factor(school), data = pop))
-m   <- 10
-icc <- (a$`Mean Sq`[1] - a$`Mean Sq`[2]) / (a$`Mean Sq`[1] + (m - 1) * a$`Mean Sq`[2])
-cat("SE SRS =", round(sd(m_srs), 3), "| SE cluster =", round(sd(m_cl), 3),
-    "| empirical DEFF =", round(deff_emp, 2), "\n")
-cat("ICC =", round(icc, 3), "| theoretical DEFF = 1 + (10-1)*ICC =", round(1 + (m - 1) * icc, 2), "\n\n")
-
-## ---- ۹) تخصیص تصادفی بلوکی (برای کارآزمایی): بلوک‌های ۴ و ۶ به صورت تصادفی
-block_rand <- function(n_total, sizes = c(4, 6), arms = c("A", "B")) {
-  out <- character(0)
-  while (length(out) < n_total) {
-    b <- sample(sizes, 1)
-    out <- c(out, sample(rep(arms, b / length(arms))))
-  }
-  out[1:n_total]
+check_count <- function(x, label, minimum = 1L) {
+  if (length(x) != 1L || !is.numeric(x) || is.na(x) || !is.finite(x) ||
+      x < minimum || x != floor(x)) stop(label, " must be an integer >= ", minimum)
 }
-alloc <- block_rand(40)
-print(table(alloc)); cat(alloc, "\n")
 
-# تخصیص طبقه‌ای-بلوکی: یک فهرست جدا برای هر طبقه (مثلاً جنس)
-strat_alloc <- lapply(c(male = 20, female = 20), block_rand)
-str(strat_alloc)
+srs_ids <- function(N, n) {
+  check_count(N, "N"); check_count(n, "n")
+  if (n > N) stop("n must not exceed N")
+  sample.int(N, n, replace = FALSE)
+}
 
-## ---- ۱۰) اختیاری: برآورد با وزن طرح در بسته survey
-if (requireNamespace("survey", quietly = TRUE)) {
-  library(survey)
-  cluster$fpc <- 40
-  des <- svydesign(ids = ~school, fpc = ~fpc, data = cluster)
-  print(svymean(~pre_score, des, deff = TRUE))
+systematic_ids <- function(N, n, start = NULL) {
+  check_count(N, "N"); check_count(n, "n")
+  if (n > N) stop("n must not exceed N")
+  interval <- N / n
+  if (is.null(start)) start <- runif(1L, 0, interval)
+  if (length(start) != 1L || !is.numeric(start) || is.na(start) ||
+      !is.finite(start) || start < 0 || start >= interval) {
+    stop("start must be in [0, N/n)")
+  }
+  # Positions use a zero-based continuous start, then become one-based IDs.
+  as.integer(floor(start + (seq_len(n) - 1L) * interval) + 1L)
+}
+
+allocate_counts <- function(n, sizes, spread = NULL) {
+  check_count(n, "n")
+  if (!is.numeric(sizes) || !length(sizes) || anyNA(sizes) ||
+      any(!is.finite(sizes)) || any(sizes <= 0) || any(sizes != floor(sizes))) {
+    stop("sizes must contain positive finite integer counts")
+  }
+  if (n > sum(sizes)) stop("sample exceeds population")
+  if (is.null(spread)) spread <- rep(1, length(sizes))
+  if (!is.numeric(spread) || length(spread) != length(sizes) ||
+      anyNA(spread) || any(!is.finite(spread)) || any(spread <= 0)) {
+    stop("spread must contain positive finite values")
+  }
+  raw <- n * sizes * spread / sum(sizes * spread)
+  if (any(raw > sizes)) stop("allocation exceeds stratum capacity; redesign required")
+  out <- floor(raw)
+  left <- as.integer(n - sum(out))
+  if (left > 0L) {
+    # Stable tie break: earlier stratum in the input wins.
+    rank <- order(-(raw - out), seq_along(raw))
+    chosen <- rank[seq_len(left)]
+    out[chosen] <- out[chosen] + 1L
+  }
+  names(out) <- names(sizes)
+  if (any(out > sizes)) stop("rounded allocation exceeds capacity")
+  if (any(out == 0L)) stop("zero stratum allocation; set a minimum and redesign")
+  as_counts <- as.integer(out)
+  names(as_counts) <- names(sizes)
+  as_counts
+}
+
+pps_one <- function(sizes) {
+  if (!is.numeric(sizes) || !length(sizes) || anyNA(sizes) ||
+      any(!is.finite(sizes)) || any(sizes <= 0)) stop("invalid cluster sizes")
+  # One draw only. This is NOT a general multi-draw inclusion-probability routine.
+  sample.int(length(sizes), 1L, prob = sizes)
+}
+
+block_rand <- function(n_total, sizes = c(4L, 6L), arms = c("A", "B")) {
+  check_count(n_total, "n_total")
+  if (!is.character(arms) || length(arms) < 2L || anyNA(arms) ||
+      any(!nzchar(arms)) || anyDuplicated(arms)) stop("invalid arm labels")
+  if (!is.numeric(sizes) || !length(sizes) || anyNA(sizes) ||
+      any(!is.finite(sizes)) || any(sizes <= 0) ||
+      any(sizes != floor(sizes)) || any(sizes %% length(arms) != 0)) {
+    stop("block sizes must be positive multiples of the number of arms")
+  }
+  out <- character(); block_id <- integer(); full_sizes <- integer()
+  b_id <- 0L
+  while (length(out) < n_total) {
+    b <- sizes[sample.int(length(sizes), 1L)]
+    b_id <- b_id + 1L
+    block <- rep(arms, each = b / length(arms))
+    block <- block[sample.int(length(block))]
+    out <- c(out, block)
+    block_id <- c(block_id, rep(b_id, b))
+    full_sizes <- c(full_sizes, b)
+  }
+  out <- out[seq_len(n_total)]
+  attr(out, "block_id") <- block_id[seq_len(n_total)]
+  attr(out, "generated_block_sizes") <- full_sizes
+  attr(out, "last_block_complete") <- n_total == sum(full_sizes)
+  # Truncation need not preserve final arm balance; metadata makes that visible.
+  out
+}
+
+run_demo <- function(root = ".") {
+  set.seed(123)
+  pop <- read.csv(file.path(root, "data", "survey_data.csv"))
+  required <- c("id", "region", "school", "pre_score")
+  if (!all(required %in% names(pop)) || anyNA(pop[required]) ||
+      anyDuplicated(pop$id)) stop("invalid teaching population")
+  N <- nrow(pop); n <- 80L
+  srs <- pop[srs_ids(N, n), ]
+  systematic <- pop[systematic_ids(N, n), ]
+  sizes <- table(pop$region)
+  nh <- allocate_counts(n, sizes)
+  stratified <- do.call(rbind, lapply(names(sizes), function(h) {
+    sub <- pop[pop$region == h, ]
+    sub[srs_ids(nrow(sub), nh[h]), ]
+  }))
+  sh <- tapply(pop$pre_score, pop$region, sd)
+  cat("Teaching population mean:", round(mean(pop$pre_score), 2), "\n")
+  print(rbind(population = sizes, proportional = nh,
+              neyman = allocate_counts(n, sizes, sh)))
+  clusters <- unique(pop$school)
+  cl_sizes <- table(pop$school)
+  if (length(clusters) < 16L || length(unique(as.integer(cl_sizes))) != 1L ||
+      any(cl_sizes < 5L)) stop("demo requires >=16 equal-size clusters, size >=5")
+  picked <- clusters[sample.int(length(clusters), 8L)]
+  cluster <- pop[pop$school %in% picked, ]
+  picked2 <- clusters[sample.int(length(clusters), 16L)]
+  two_stage <- do.call(rbind, lapply(picked2, function(s) {
+    sub <- pop[pop$school == s, ]
+    sub[srs_ids(nrow(sub), 5L), ]
+  }))
+  estimates <- sapply(list(SRS = srs, Systematic = systematic,
+                           Stratified = stratified, Cluster = cluster,
+                           TwoStage = two_stage), function(d) {
+    c(n = nrow(d), mean = mean(d$pre_score))
+  })
+  print(round(estimates, 3))
+  # Compare equal-size samples; the cluster mean is appropriate here because
+  # cluster sizes are equal and every member of each selected cluster is measured.
+  cluster_n <- nrow(cluster)
+  reps <- 2000L
+  means_srs <- replicate(reps, mean(pop$pre_score[srs_ids(N, cluster_n)]))
+  means_cluster <- replicate(reps, {
+    chosen <- clusters[sample.int(length(clusters), 8L)]
+    mean(pop$pre_score[pop$school %in% chosen])
+  })
+  cat("Monte Carlo DEFF (this finite teaching population):",
+      round(var(means_cluster) / var(means_srs), 3), "\n")
+  cat("One PPS draw, cluster index:", pps_one(c(100, 200, 300)), "\n")
+  cat("Noninteger systematic example:", systematic_ids(103, 10, 2), "\n")
+  alloc <- block_rand(61L)
+  cat("Allocation demo, n=61 (exact equal counts impossible):\n")
+  print(table(alloc))
+  cat("Last block complete:", attr(alloc, "last_block_complete"), "\n")
+  invisible(list(estimates = estimates, allocation = alloc))
+}
+
+if (sys.nframe() == 0L) {
+  arg <- grep("^--file=", commandArgs(FALSE), value = TRUE)
+  if (!length(arg)) stop("run with Rscript")
+  raw_path <- sub("^--file=", "", arg[1L])
+  # R encodes spaces in --file as ~+~ on some Rscript builds.
+  if (!file.exists(raw_path)) raw_path <- gsub("~+~", " ", raw_path, fixed = TRUE)
+  script_path <- normalizePath(raw_path, mustWork = TRUE)
+  root <- dirname(dirname(dirname(script_path)))
+  run_demo(root)
 }

@@ -1,0 +1,316 @@
+{
+  "checked_on": "2026-11-14",
+  "references": {
+    "SC-P": {
+      "title": "Statistics Canada. Probability sampling.",
+      "url": "https://www150.statcan.gc.ca/n1/edu/power-pouvoir/ch13/prob/5214899-eng.htm",
+      "description": "راهنمای باز؛ مبانی روش‌های احتمالی",
+      "verification": "صفحه باز شد"
+    },
+    "SC-N": {
+      "title": "Statistics Canada. Non-probability sampling.",
+      "url": "https://www150.statcan.gc.ca/n1/edu/power-pouvoir/ch13/nonprob/5214898-eng.htm",
+      "description": "راهنمای باز؛ روش‌های غیراحتمالی",
+      "verification": "صفحه باز شد"
+    },
+    "WHO-M": {
+      "title": "WHO. STEPS Manual.",
+      "url": "https://www.who.int/teams/noncommunicable-diseases/surveillance/systems-tools/steps/manuals",
+      "description": "راهنمای رسمی؛ بخش آماده‌سازی نمونه و بخش مدیریت و وزن‌دهی داده",
+      "verification": "صفحهٔ فهرست و شرح بخش‌ها بررسی شد؛ همهٔ پیوست‌ها خوانده نشده‌اند"
+    },
+    "WHO-S": {
+      "title": "WHO. STEPS planning and sampling tools.",
+      "url": "https://www.who.int/teams/noncommunicable-diseases/surveillance/systems-tools/steps/planning-sampling",
+      "description": "ابزارهای برنامه‌ریزی و انتخاب نمونه",
+      "verification": "صفحهٔ رسمی بررسی شد؛ فایل‌های محاسبه اجرا نشده‌اند"
+    },
+    "PSU": {
+      "title": "Penn State. STAT 506: Sampling Theory and Methods.",
+      "url": "https://online.stat.psu.edu/stat506/index.html",
+      "description": "یادداشت‌های دانشگاهی برای مطالعهٔ بیشتر",
+      "verification": "عنوان و فهرست در جست‌وجو تأیید شد؛ بازکردن مستقیم با خطای زمان پاسخ روبه‌رو شد"
+    },
+    "PSU-U": {
+      "title": "Penn State. STAT 506, Lesson 03: Unequal Probability Sampling.",
+      "url": "https://online.stat.psu.edu/stat506/Lesson03",
+      "description": "یادداشت دانشگاهی؛ احتمال نابرابر و برآوردگرها",
+      "verification": "عنوان در جست‌وجو تأیید شد؛ بازکردن مستقیم با خطای درگاه روبه‌رو شد"
+    },
+    "LOHR": {
+      "title": "Lohr SL. Sampling: Design and Analysis. 3rd ed. Chapman & Hall/CRC; 2022.",
+      "url": "https://www.routledge.com/Sampling-Design-and-Analysis/Lohr/p/book/9780367279509",
+      "description": "کتاب مرجع؛ فصل‌های ۲، ۳، ۵ تا ۹ و ۱۵ متناسب با درس",
+      "verification": "اطلاعات کتاب و فهرست در صفحهٔ ناشر تأیید شد؛ متن کامل کتاب در این بررسی خوانده نشد"
+    },
+    "MAL": {
+      "title": "Malterud K, Siersma VD, Guassora AD. Sample Size in Qualitative Interview Studies: Guided by Information Power. Qual Health Res. 2016;26(13):1753–1760. doi:10.1177/1049732315617444.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26613970/",
+      "description": "مقالهٔ چارچوب قدرت اطلاعاتی",
+      "verification": "چکیده و اطلاعات مقاله در نتیجهٔ نمایه بررسی شد؛ بازکردن مستقیم متن چکیده را نمایش نداد"
+    },
+    "KOR": {
+      "title": "Moser A, Korstjens I. Series: Practical guidance to qualitative research. Part 3: Sampling, data collection and analysis. Eur J Gen Pract. 2018;24(1):9–18. doi:10.1080/13814788.2017.1375091.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5774281/",
+      "description": "راهنمای پژوهش کیفی",
+      "verification": "صفحهٔ متن باز شد؛ بخش‌های مرتبط مرور شد"
+    },
+    "NICE-Q": {
+      "title": "NICE. Real-world evidence framework. Appendix 4: Conduct of qualitative research studies.",
+      "url": "https://www.nice.org.uk/corporate/ecd9/chapter/appendix-4-conduct-of-qualitative-research-studies",
+      "description": "راهنمای رسمی برای توجیه روش کیفی",
+      "verification": "عنوان و شرح مرتبط در جست‌وجو تأیید شد؛ دسترسی مستقیم 403 بود"
+    },
+    "EDA-U": {
+      "title": "NC3Rs. Experimental Design Assistant: Experimental unit.",
+      "url": "https://eda.nc3rs.org.uk/experimental-design-unit",
+      "description": "راهنمای رسمی؛ شناسایی واحد آزمایشی",
+      "verification": "صفحه و نمونه‌های مرتبط بازبینی شد"
+    },
+    "EDA-A": {
+      "title": "NC3Rs. Experimental Design Assistant: Allocation.",
+      "url": "https://eda.nc3rs.org.uk/experimental-design-allocation",
+      "description": "راهنمای رسمی؛ تخصیص در آزمایش زیستی",
+      "verification": "صفحه و بخش‌های مرتبط بازبینی شد"
+    },
+    "LAZ": {
+      "title": "Lazic SE, Clarke-Williams CJ, Munafò MR. What exactly is ‘N’ in cell culture and animal experiments? PLoS Biol. 2018;16(4):e2005282. doi:10.1371/journal.pbio.2005282.",
+      "url": "https://doi.org/10.1371/journal.pbio.2005282",
+      "description": "مقالهٔ روش‌شناختی؛ سطح تکرار و استنباط",
+      "verification": "چکیده و اطلاعات مقاله بررسی شد؛ خواندن کامل و داوری تخصصی نهایی ادعا نشده است"
+    },
+    "SUPER": {
+      "title": "Lord SJ, Velle KB, Mullins RD, Fritz-Laylin LK. SuperPlots: Communicating reproducibility and variability in cell biology. J Cell Biol. 2020;219(6):e202001064. doi:10.1083/jcb.202001064.",
+      "url": "https://rupress.org/jcb/article/219/6/e202001064/151717/SuperPlots-Communicating-reproducibility-and",
+      "description": "مقاله؛ نمایش منابع زیستی و تغییرپذیری",
+      "verification": "صفحهٔ مقاله باز شد و شرح مرتبط بررسی شد"
+    },
+    "CONSORT": {
+      "title": "CONSORT 2025 explanation and elaboration: updated guideline for reporting randomised trials. BMJ. 2025;389:e081124. doi:10.1136/bmj-2024-081124.",
+      "url": "https://www.bmj.com/content/bmj/389/bmj-2024-081124.full.pdf",
+      "description": "رهنمود گزارش کارآزمایی؛ منبع جاری در تاریخ بررسی",
+      "verification": "نسخهٔ PDF در جست‌وجو بررسی شد؛ صفحهٔ HTML مستقیم 403 بود؛ همهٔ بندها ممیزی نشده‌اند"
+    },
+    "CDC-V": {
+      "title": "CDC / NCHS. NHANES Tutorials: Variance Estimation.",
+      "url": "https://wwwn.cdc.gov/nchs/nhanes/tutorials/varianceestimation.aspx",
+      "description": "تعریف اثر طرح و وابستگی آن به برآورد و پیامد",
+      "verification": "صفحه و بخش اثر طرح بررسی شد"
+    },
+    "CDC-W": {
+      "title": "CDC / NCHS. NHANES Tutorials: Weighting.",
+      "url": "https://wwwn.cdc.gov/nchs/nhanes/tutorials/weighting.aspx",
+      "description": "وزن پایه و تعدیل پاسخ در یک پیمایش واقعی",
+      "verification": "صفحه و بخش‌های مرتبط بررسی شد"
+    },
+    "AAPOR": {
+      "title": "AAPOR. Response Rates: An Overview.",
+      "url": "https://aapor.org/response-rates/",
+      "description": "تعریف نرخ پاسخ و مرز ارتباط آن با سوگیری",
+      "verification": "صفحهٔ رسمی و شرح مرتبط بررسی شد؛ محاسبه‌گر اجرا نشد"
+    },
+    "TA": {
+      "title": "Braun and Clarke. Designing for Reflexive TA.",
+      "url": "https://www.thematicanalysis.net/designing-for-reflexive-ta/",
+      "description": "همسویی طراحی و کفایت داده با تحلیل مضمون بازاندیشانه",
+      "verification": "عنوان و توضیح مرتبط در جست‌وجوی وب بررسی شد؛ بازکردن مستقیم با خطای زمان پاسخ روبه‌رو شد"
+    }
+  },
+  "videos": {
+    "V1": {
+      "title": "Populations and Samples",
+      "provider": "Stat Trek / H. G. Berman",
+      "url": "https://stattrek.com/video/populations-and-samples.html",
+      "topic": "جامعه، نمونه و انتخاب ساده",
+      "level": "مقدماتی",
+      "duration": "در صفحهٔ بررسی‌شده روشن نبود",
+      "status": "صفحهٔ دارای فیلم HTML5 باز شد؛ پخش آزموده نشد"
+    },
+    "V2": {
+      "title": "Samples and Surveys — Against All Odds",
+      "provider": "CUNY TV",
+      "url": "https://tv.cuny.edu/show/againstallodds/PR1000095",
+      "topic": "پیمایش و انتخاب طبقه‌ای",
+      "level": "مقدماتی و متوسط",
+      "duration": "در صفحهٔ بررسی‌شده روشن نبود",
+      "status": "صفحهٔ میزبان و شرح قسمت بررسی شد؛ پخش آزموده نشد"
+    },
+    "V3": {
+      "title": "Introduction to Complex Samples",
+      "provider": "NCRM / Roxanne Connelly",
+      "url": "https://repository.ncrm.ac.uk/resources/video/?id=4512",
+      "topic": "طرح پیچیده و پیامدهای آن برای تحلیل",
+      "level": "متوسط و پیشرفته",
+      "duration": "ثبت نشد",
+      "status": "صفحهٔ رسمی و پیوند فیلم بررسی شد؛ پخش آزموده نشد"
+    },
+    "V4": {
+      "title": "What is Survey Weights?",
+      "provider": "NCRM / Natalie Shlomo",
+      "url": "https://repository.ncrm.ac.uk/resources/video/?id=9593",
+      "topic": "وزن پیمایش و بی‌پاسخی",
+      "level": "متوسط و پیشرفته",
+      "duration": "ثبت نشد",
+      "status": "صفحهٔ رسمی و پیوند فیلم بررسی شد؛ پخش آزموده نشد"
+    },
+    "V5": {
+      "title": "Qualitative Sampling — Video 4",
+      "provider": "University of Georgia / Jennifer Jo Thompson / CIRTL–BioTAP",
+      "url": "https://kaltura.uga.edu/media/t/1_pvzkvr4o/31868161",
+      "host": "https://site.caes.uga.edu/anthfood/research/qualitative-methods/",
+      "topic": "انتخاب نمونه در پژوهش کیفی",
+      "level": "مقدماتی",
+      "duration": "۳ دقیقه و ۱۲ ثانیه؛ بنا بر صفحهٔ دانشگاه",
+      "status": "پیوند از صفحهٔ دانشگاه استخراج شد؛ صفحهٔ پخش باز شد ولی متن نداشت؛ پخش آزموده نشد"
+    },
+    "V6": {
+      "title": "Collecting Qualitative Data — Video 3",
+      "provider": "University of Georgia / Jennifer Jo Thompson / CIRTL–BioTAP",
+      "url": "https://kaltura.uga.edu/media/t/1_4h2iiolv/31868161",
+      "host": "https://site.caes.uga.edu/anthfood/research/qualitative-methods/",
+      "topic": "گردآوری داده و پیوند آن با انتخاب مشارکت‌کننده",
+      "level": "مقدماتی و متوسط",
+      "duration": "۷ دقیقه و ۱۵ ثانیه؛ بنا بر صفحهٔ دانشگاه",
+      "status": "پیوند و عنوان در صفحهٔ دانشگاه تأیید شد؛ بازکردن مستقیم خطای حافظهٔ واسط داشت؛ پخش آزموده نشد"
+    },
+    "V7": {
+      "title": "Experimental Unit",
+      "provider": "British Pharmacological Society؛ معرفی در NC3Rs",
+      "url": "https://www.youtube.com/watch?v=WQSWJLDcy5M",
+      "host": "https://eda.nc3rs.org.uk/experimental-design-unit",
+      "topic": "واحد آزمایشی و تکرار",
+      "level": "مقدماتی و متوسط",
+      "duration": "ثبت نشد",
+      "status": "شناسهٔ فیلم از صفحهٔ رسمی NC3Rs استخراج شد؛ پخش مستقیم آزموده نشد"
+    },
+    "V8": {
+      "title": "Who decides what treatment I get? (randomisation)",
+      "provider": "Oxford Vaccine Group",
+      "url": "https://www.ovg.ox.ac.uk/studies/randomisation",
+      "topic": "معنای تخصیص تصادفی؛ مکمل بالینی درس",
+      "level": "مقدماتی",
+      "duration": "در صفحهٔ بررسی‌شده روشن نبود",
+      "status": "صفحهٔ رسمی دارای فیلم و زبان‌ها بررسی شد؛ پخش آزموده نشد"
+    },
+    "YT_RANDOM": {
+      "title": "Techniques for random sampling and avoiding bias",
+      "provider": "Khan Academy",
+      "url": "https://www.youtube.com/watch?v=PdXDLNNXPik",
+      "host": "https://www.youtube.com/watch?v=PdXDLNNXPik",
+      "topic": "انتخاب احتمالی، طبقه، خوشه و مرز سوگیری انتخاب",
+      "level": "مقدماتی و متوسط؛ بخش تکمیلی با توجه به درس",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-14",
+      "playback_verified": false,
+      "duration": "در این بررسی ثبت نشد",
+      "verification": "عنوان، سازنده و صفحهٔ YouTube بررسی شد؛ پخش آزموده نشد",
+      "status": "عنوان، سازنده و صفحهٔ YouTube بررسی شد؛ پخش آزموده نشد"
+    },
+    "YT_COMPLEX": {
+      "title": "Introduction to Complex Samples",
+      "provider": "NCRM / Roxanne Connelly",
+      "url": "https://www.youtube.com/watch?v=6RuRSZIUcn8",
+      "host": "https://repository.ncrm.ac.uk/resources/video/?id=4512",
+      "topic": "خوشه، طرح پیچیده و پیامد آن برای تحلیل",
+      "level": "مقدماتی و متوسط؛ بخش تکمیلی با توجه به درس",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-14",
+      "playback_verified": false,
+      "duration": "در این بررسی ثبت نشد",
+      "verification": "عنوان و شناسه از صفحهٔ رسمی NCRM استخراج شد؛ YouTube مستقیم خطا داشت و پخش آزموده نشد",
+      "status": "عنوان و شناسه از صفحهٔ رسمی NCRM استخراج شد؛ YouTube مستقیم خطا داشت و پخش آزموده نشد"
+    },
+    "YT_SYSTEMATIC": {
+      "title": "Systematic random sampling",
+      "provider": "Khan Academy",
+      "url": "https://www.youtube.com/watch?v=TrOS8OnM1u4",
+      "host": "https://www.youtube.com/watch?v=TrOS8OnM1u4",
+      "topic": "آغاز تصادفی و فاصلهٔ انتخاب در فهرست",
+      "level": "مقدماتی و متوسط؛ بخش تکمیلی با توجه به درس",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-14",
+      "playback_verified": false,
+      "duration": "در این بررسی ثبت نشد",
+      "verification": "عنوان و سازنده در نمایهٔ ناشر و درس رسمی Khan Academy بررسی شد؛ پخش آزموده نشد",
+      "status": "عنوان و سازنده در نمایهٔ ناشر و درس رسمی Khan Academy بررسی شد؛ پخش آزموده نشد"
+    },
+    "YT_WEIGHTS": {
+      "title": "What is Survey Weights?",
+      "provider": "NCRM / Natalie Shlomo",
+      "url": "https://www.youtube.com/watch?v=ZAeWaB7JYn4",
+      "host": "https://repository.ncrm.ac.uk/resources/video/?id=9593",
+      "topic": "وزن پیمایش و بی‌پاسخی",
+      "level": "مقدماتی و متوسط؛ بخش تکمیلی با توجه به درس",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-14",
+      "playback_verified": false,
+      "duration": "در این بررسی ثبت نشد",
+      "verification": "عنوان و شناسه از صفحهٔ رسمی NCRM استخراج شد؛ YouTube مستقیم خطا داشت و پخش آزموده نشد",
+      "status": "عنوان و شناسه از صفحهٔ رسمی NCRM استخراج شد؛ YouTube مستقیم خطا داشت و پخش آزموده نشد"
+    },
+    "YT_QUAL": {
+      "title": "Qualitative Sampling",
+      "provider": "Chris Flipp",
+      "url": "https://www.youtube.com/watch?v=-Dn4u9DPmDs",
+      "host": "https://study.sagepub.com/bloomberg4e/student-resources/additional-online-dissertation-resources",
+      "topic": "انتخاب نمونه در پژوهش کیفی",
+      "level": "مقدماتی و متوسط؛ بخش تکمیلی با توجه به درس",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-14",
+      "playback_verified": false,
+      "duration": "در این بررسی ثبت نشد",
+      "verification": "شناسه و موضوع در صفحهٔ ناشر SAGE و برنامهٔ University of Florida بررسی شد؛ پخش آزموده نشد",
+      "status": "شناسه و موضوع در صفحهٔ ناشر SAGE و برنامهٔ University of Florida بررسی شد؛ پخش آزموده نشد"
+    },
+    "YT_PURPOSIVE": {
+      "title": "Qualitative Sampling Techniques: Convenience, Purposive, Snowball & Quota",
+      "provider": "Research on Wheels",
+      "url": "https://www.youtube.com/watch?v=X_ufLyJbQjU",
+      "host": "https://advancing-evidence-based-nursing-research.pressbooks.tru.ca/chapter/sample-size-and-sampling-techniques/",
+      "topic": "گونه‌های انتخاب غیراحتمالی؛ معیار کفایت مطابق توضیح همین درس بررسی شود",
+      "level": "مقدماتی و متوسط؛ بخش تکمیلی با توجه به درس",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-14",
+      "playback_verified": false,
+      "duration": "در این بررسی ثبت نشد",
+      "verification": "عنوان و شناسه در منبع آموزشی دانشگاهی بررسی شد؛ YouTube مستقیم محدودیت دسترسی داشت و پخش آزموده نشد",
+      "status": "عنوان و شناسه در منبع آموزشی دانشگاهی بررسی شد؛ YouTube مستقیم محدودیت دسترسی داشت و پخش آزموده نشد"
+    },
+    "YT_UNIT": {
+      "title": "Experimental Unit",
+      "provider": "British Pharmacological Society",
+      "url": "https://www.youtube.com/watch?v=WQSWJLDcy5M",
+      "host": "https://eda.nc3rs.org.uk/experimental-design-unit",
+      "topic": "واحد آزمایشی و تمایز آن از شمار سنجش‌ها",
+      "level": "مقدماتی و متوسط؛ بخش تکمیلی با توجه به درس",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-14",
+      "playback_verified": false,
+      "duration": "در این بررسی ثبت نشد",
+      "verification": "شناسهٔ فیلم و موضوع در صفحهٔ رسمی NC3Rs بررسی شد؛ پخش آزموده نشد",
+      "status": "شناسهٔ فیلم و موضوع در صفحهٔ رسمی NC3Rs بررسی شد؛ پخش آزموده نشد"
+    },
+    "YT_EXPERIMENT": {
+      "title": "Introduction to experimental design",
+      "provider": "Khan Academy",
+      "url": "https://www.youtube.com/watch?v=ceWyayKg3QY",
+      "host": "https://www.youtube.com/watch?v=ceWyayKg3QY",
+      "topic": "فرضیه، شاهد، کورسازی و منطق طراحی آزمایش",
+      "level": "مقدماتی و متوسط؛ بخش تکمیلی با توجه به درس",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-14",
+      "playback_verified": false,
+      "duration": "در این بررسی ثبت نشد",
+      "verification": "عنوان، سازنده و شرح فیلم در نمایهٔ YouTube بررسی شد؛ پخش آزموده نشد",
+      "status": "عنوان، سازنده و شرح فیلم در نمایهٔ YouTube بررسی شد؛ پخش آزموده نشد"
+    }
+  }
+}

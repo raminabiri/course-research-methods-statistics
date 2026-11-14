@@ -1,0 +1,385 @@
+{
+  "module": "M06",
+  "version": 1,
+  "date": "2026-11-14",
+  "lessons": [
+    {
+      "id": "M06-L01",
+      "title": "جامعه، چارچوب و مرز تعمیم",
+      "path": "06_sampling/lessons/01_population_frame.md",
+      "exercises_path": "06_sampling/exercises/01_exercises.md",
+      "solutions_path": "solutions/06_sampling/01_solutions.md",
+      "exercise_ids": [
+        "M06-L01-B01",
+        "M06-L01-B02",
+        "M06-L01-B03",
+        "M06-L01-I01",
+        "M06-L01-I02",
+        "M06-L01-I03",
+        "M06-L01-A01",
+        "M06-L01-A02",
+        "M06-L01-A03"
+      ],
+      "levels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "references": [
+        "SC-P",
+        "WHO-M",
+        "PSU",
+        "LOHR"
+      ],
+      "videos": [
+        "YT_RANDOM",
+        "YT_COMPLEX"
+      ],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "supplementary_video_ids": [
+        "V1",
+        "V2"
+      ],
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M06-L02",
+      "title": "نمونه‌گیری تصادفی ساده و منظم",
+      "path": "06_sampling/lessons/02_simple_systematic.md",
+      "exercises_path": "06_sampling/exercises/02_exercises.md",
+      "solutions_path": "solutions/06_sampling/02_solutions.md",
+      "exercise_ids": [
+        "M06-L02-B01",
+        "M06-L02-B02",
+        "M06-L02-B03",
+        "M06-L02-I01",
+        "M06-L02-I02",
+        "M06-L02-I03",
+        "M06-L02-A01",
+        "M06-L02-A02",
+        "M06-L02-A03"
+      ],
+      "levels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "references": [
+        "SC-P",
+        "PSU",
+        "WHO-S",
+        "LOHR"
+      ],
+      "videos": [
+        "YT_RANDOM",
+        "YT_SYSTEMATIC"
+      ],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "supplementary_video_ids": [
+        "V1",
+        "V2"
+      ],
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M06-L03",
+      "title": "نمونه‌گیری طبقه‌ای و تخصیص نمونه",
+      "path": "06_sampling/lessons/03_stratified.md",
+      "exercises_path": "06_sampling/exercises/03_exercises.md",
+      "solutions_path": "solutions/06_sampling/03_solutions.md",
+      "exercise_ids": [
+        "M06-L03-B01",
+        "M06-L03-B02",
+        "M06-L03-B03",
+        "M06-L03-I01",
+        "M06-L03-I02",
+        "M06-L03-I03",
+        "M06-L03-A01",
+        "M06-L03-A02",
+        "M06-L03-A03"
+      ],
+      "levels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "references": [
+        "SC-P",
+        "PSU",
+        "WHO-M",
+        "LOHR"
+      ],
+      "videos": [
+        "YT_RANDOM",
+        "YT_COMPLEX"
+      ],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "supplementary_video_ids": [
+        "V2",
+        "V3"
+      ],
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M06-L04",
+      "title": "نمونه‌گیری خوشه‌ای، چندمرحله‌ای و احتمال متناسب با اندازه",
+      "path": "06_sampling/lessons/04_cluster_multistage.md",
+      "exercises_path": "06_sampling/exercises/04_exercises.md",
+      "solutions_path": "solutions/06_sampling/04_solutions.md",
+      "exercise_ids": [
+        "M06-L04-B01",
+        "M06-L04-B02",
+        "M06-L04-B03",
+        "M06-L04-I01",
+        "M06-L04-I02",
+        "M06-L04-I03",
+        "M06-L04-A01",
+        "M06-L04-A02",
+        "M06-L04-A03"
+      ],
+      "levels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "references": [
+        "SC-P",
+        "PSU-U",
+        "WHO-S",
+        "LOHR"
+      ],
+      "videos": [
+        "YT_RANDOM",
+        "YT_COMPLEX"
+      ],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "supplementary_video_ids": [
+        "V2",
+        "V3"
+      ],
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M06-L05",
+      "title": "وزن نمونه‌گیری، بی‌پاسخی و اثر طرح",
+      "path": "06_sampling/lessons/05_weights_nonresponse.md",
+      "exercises_path": "06_sampling/exercises/05_exercises.md",
+      "solutions_path": "solutions/06_sampling/05_solutions.md",
+      "exercise_ids": [
+        "M06-L05-B01",
+        "M06-L05-B02",
+        "M06-L05-B03",
+        "M06-L05-I01",
+        "M06-L05-I02",
+        "M06-L05-I03",
+        "M06-L05-A01",
+        "M06-L05-A02",
+        "M06-L05-A03"
+      ],
+      "levels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "references": [
+        "PSU-U",
+        "WHO-M",
+        "WHO-S",
+        "LOHR",
+        "CDC-V",
+        "CDC-W",
+        "AAPOR"
+      ],
+      "videos": [
+        "YT_COMPLEX",
+        "YT_WEIGHTS"
+      ],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "supplementary_video_ids": [
+        "V3",
+        "V4"
+      ],
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M06-L06",
+      "title": "نمونه‌گیری غیراحتمالی، کیفی و آمیخته",
+      "path": "06_sampling/lessons/06_qualitative_nonprobability.md",
+      "exercises_path": "06_sampling/exercises/06_exercises.md",
+      "solutions_path": "solutions/06_sampling/06_solutions.md",
+      "exercise_ids": [
+        "M06-L06-B01",
+        "M06-L06-B02",
+        "M06-L06-B03",
+        "M06-L06-I01",
+        "M06-L06-I02",
+        "M06-L06-I03",
+        "M06-L06-A01",
+        "M06-L06-A02",
+        "M06-L06-A03"
+      ],
+      "levels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "references": [
+        "SC-N",
+        "MAL",
+        "KOR",
+        "NICE-Q",
+        "TA"
+      ],
+      "videos": [
+        "YT_QUAL",
+        "YT_PURPOSIVE"
+      ],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "supplementary_video_ids": [
+        "V5",
+        "V6"
+      ],
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M06-L07",
+      "title": "نمونه‌گیری بالینی و آزمایشگاهی؛ تکرار و شبه‌تکرار",
+      "path": "06_sampling/lessons/07_clinical_biological.md",
+      "exercises_path": "06_sampling/exercises/07_exercises.md",
+      "solutions_path": "solutions/06_sampling/07_solutions.md",
+      "exercise_ids": [
+        "M06-L07-B01",
+        "M06-L07-B02",
+        "M06-L07-B03",
+        "M06-L07-I01",
+        "M06-L07-I02",
+        "M06-L07-I03",
+        "M06-L07-A01",
+        "M06-L07-A02",
+        "M06-L07-A03"
+      ],
+      "levels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "references": [
+        "EDA-U",
+        "LAZ",
+        "SUPER"
+      ],
+      "videos": [
+        "YT_UNIT",
+        "YT_EXPERIMENT"
+      ],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "supplementary_video_ids": [
+        "V7",
+        "V8"
+      ],
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M06-L08",
+      "title": "از نمونه‌گیری تا روش کار پژوهش؛ تخصیص و گزارش",
+      "path": "06_sampling/lessons/08_protocol_randomization.md",
+      "exercises_path": "06_sampling/exercises/08_exercises.md",
+      "solutions_path": "solutions/06_sampling/08_solutions.md",
+      "exercise_ids": [
+        "M06-L08-B01",
+        "M06-L08-B02",
+        "M06-L08-B03",
+        "M06-L08-I01",
+        "M06-L08-I02",
+        "M06-L08-I03",
+        "M06-L08-A01",
+        "M06-L08-A02",
+        "M06-L08-A03"
+      ],
+      "levels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "references": [
+        "CONSORT",
+        "EDA-A",
+        "WHO-S"
+      ],
+      "videos": [
+        "YT_EXPERIMENT",
+        "YT_COMPLEX"
+      ],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "supplementary_video_ids": [
+        "V8",
+        "V3"
+      ],
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    }
+  ]
+}

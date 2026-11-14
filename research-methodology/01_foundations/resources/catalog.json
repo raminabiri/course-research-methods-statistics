@@ -1,0 +1,383 @@
+{
+  "checked_on": "2026-11-14",
+  "references": {
+    "KNOW": {
+      "title": "Stanford Encyclopedia of Philosophy. The Analysis of Knowledge.",
+      "url": "https://plato.stanford.edu/entries/knowledge-analysis/",
+      "description": "دانش گزاره‌ای و نقد تعریف‌های سادهٔ دانش",
+      "verification": "صفحهٔ مدخل و بخش آغازین بررسی شد؛ داوری جامع همهٔ نظریه‌های دانش ادعا نشده است"
+    },
+    "DEMAR": {
+      "title": "Stanford Encyclopedia of Philosophy. Science and Pseudo-Science.",
+      "url": "https://plato.stanford.edu/entries/pseudo-science/",
+      "description": "مسئلهٔ مرزبندی و محدودیت معیارهای یگانه",
+      "verification": "صفحه و شرح معیارهای مرزبندی بررسی شد"
+    },
+    "METHOD": {
+      "title": "Stanford Encyclopedia of Philosophy. Scientific Method.",
+      "url": "https://plato.stanford.edu/entries/scientific-method/",
+      "description": "تاریخ روش، فرضیه و گوناگونی کار علمی",
+      "verification": "صفحه، فهرست و بخش‌های مرتبط با منطق و تنوع روش بررسی شد"
+    },
+    "NASEM": {
+      "title": "National Academies of Sciences, Engineering, and Medicine. Reproducibility and Replicability in Science. 2019. Executive Summary.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK547535/",
+      "description": "تعریف بازتولید محاسباتی و تکرار با دادهٔ تازه",
+      "verification": "متن نمایه و تعریف‌های چکیدهٔ اجرایی در جست‌وجو بررسی شد؛ دسترسی مستقیم برخی صفحات کتاب با محدودیت نمایش روبه‌رو بود"
+    },
+    "IND": {
+      "title": "Stanford Encyclopedia of Philosophy. The Problem of Induction.",
+      "url": "https://plato.stanford.edu/entries/induction-problem/",
+      "description": "مسئلهٔ توجیه استقرا",
+      "verification": "صفحهٔ مدخل و شرح مرتبط بررسی شد؛ خواندن همهٔ منابع کتاب‌شناختی مدخل ادعا نشده است"
+    },
+    "POPPER": {
+      "title": "Stanford Encyclopedia of Philosophy. Karl Popper.",
+      "url": "https://plato.stanford.edu/entries/popper/",
+      "description": "ابطال‌پذیری و رشد شناخت",
+      "verification": "صفحهٔ مدخل و شرح مرتبط بررسی شد؛ خواندن همهٔ منابع کتاب‌شناختی مدخل ادعا نشده است"
+    },
+    "KUHN": {
+      "title": "Stanford Encyclopedia of Philosophy. Thomas Kuhn.",
+      "url": "https://plato.stanford.edu/entries/thomas-kuhn/",
+      "description": "پارادایم و تغییر چارچوب",
+      "verification": "صفحهٔ مدخل و شرح مرتبط بررسی شد؛ خواندن همهٔ منابع کتاب‌شناختی مدخل ادعا نشده است"
+    },
+    "LAK": {
+      "title": "Stanford Encyclopedia of Philosophy. Imre Lakatos.",
+      "url": "https://plato.stanford.edu/entries/lakatos/",
+      "description": "برنامه‌های پژوهشی و پیش‌روندگی",
+      "verification": "صفحهٔ مدخل و شرح مرتبط بررسی شد؛ خواندن همهٔ منابع کتاب‌شناختی مدخل ادعا نشده است"
+    },
+    "FEY": {
+      "title": "Stanford Encyclopedia of Philosophy. Paul Feyerabend.",
+      "url": "https://plato.stanford.edu/entries/feyerabend/",
+      "description": "نقد روش یگانه",
+      "verification": "صفحهٔ مدخل و شرح مرتبط بررسی شد؛ خواندن همهٔ منابع کتاب‌شناختی مدخل ادعا نشده است"
+    },
+    "BAYES": {
+      "title": "Stanford Encyclopedia of Philosophy. Bayesian Epistemology.",
+      "url": "https://plato.stanford.edu/entries/epistemology-bayesian/",
+      "description": "درجهٔ باور و به‌روزرسانی",
+      "verification": "صفحهٔ مدخل و شرح مرتبط بررسی شد؛ خواندن همهٔ منابع کتاب‌شناختی مدخل ادعا نشده است"
+    },
+    "REAL": {
+      "title": "Stanford Encyclopedia of Philosophy. Scientific Realism.",
+      "url": "https://plato.stanford.edu/entries/scientific-realism/",
+      "description": "تعهد به نظریه و سازوکار",
+      "verification": "صفحهٔ مدخل و شرح مرتبط بررسی شد؛ خواندن همهٔ منابع کتاب‌شناختی مدخل ادعا نشده است"
+    },
+    "EMP": {
+      "title": "Stanford Encyclopedia of Philosophy. Logical Empiricism.",
+      "url": "https://plato.stanford.edu/entries/logical-empiricism/",
+      "description": "تنوع دیدگاه‌های تجربه‌گرایی منطقی",
+      "verification": "صفحهٔ مدخل و شرح مرتبط بررسی شد؛ خواندن همهٔ منابع کتاب‌شناختی مدخل ادعا نشده است"
+    },
+    "VALUES": {
+      "title": "Stanford Encyclopedia of Philosophy. Scientific Objectivity.",
+      "url": "https://plato.stanford.edu/entries/scientific-objectivity/",
+      "description": "عینیت، ارزش و نقد جمعی",
+      "verification": "صفحهٔ مدخل و شرح مرتبط بررسی شد؛ خواندن همهٔ منابع کتاب‌شناختی مدخل ادعا نشده است"
+    },
+    "MEASURE": {
+      "title": "Stanford Encyclopedia of Philosophy. Measurement in Science.",
+      "url": "https://plato.stanford.edu/entries/measurement-science/",
+      "description": "مفهوم و منطق اندازه‌گیری",
+      "verification": "صفحهٔ مدخل و شرح مرتبط بررسی شد؛ خواندن همهٔ منابع کتاب‌شناختی مدخل ادعا نشده است"
+    },
+    "NIH-MM": {
+      "title": "Creswell JW, Klassen AC, Plano Clark VL, Smith KC. Best Practices for Mixed Methods Research in the Health Sciences. NIH/OBSSR; 2011.",
+      "url": "https://obssr.od.nih.gov/research-resources/mixed-methods-research",
+      "description": "طراحی و ارزیابی پژوهش آمیخته در سلامت",
+      "verification": "صفحهٔ رسمی، ساختار راهنما و شرح هدف بررسی شد؛ همهٔ پیوست‌ها خوانده نشده‌اند"
+    },
+    "MM-DESIGN": {
+      "title": "Schoonenboom J, Johnson RB. How to Construct a Mixed Methods Research Design. 2017.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5602001/",
+      "description": "منطق طراحی و تلفیق بخش‌های کمی و کیفی",
+      "verification": "عنوان و شرح در جست‌وجو بررسی شد؛ بازکردن مستقیم با صفحهٔ بررسی مرورگر روبه‌رو شد"
+    },
+    "AMEE": {
+      "title": "Battista A, Torre D, Konopasky A. Essential concepts for effective mixed methods research in the health professions: AMEE Guide No. 173. Med Teach. 2025;47(5):766–778. doi:10.1080/0142159X.2024.2401464.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39312179/",
+      "description": "هدف، موضع فلسفی و تلفیق در پژوهش آمیخته",
+      "verification": "اطلاعات مقاله و شرح چکیده در صفحهٔ نمایه بررسی شد؛ متن کامل ادعا نشده است"
+    },
+    "RQ-W": {
+      "title": "Willis LD. Formulating the Research Question and Framing the Hypothesis. Respir Care. 2023;68(8):1180–1185. doi:10.4187/respcare.10975.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10353175/",
+      "description": "پرسش، فرضیه و چارچوب FINER/PICO",
+      "verification": "صفحهٔ مقاله و بخش‌های مرتبط بررسی شد"
+    },
+    "RQ-M": {
+      "title": "Mitchell RD, et al. Developing a research question: A research primer for low- and middle-income countries. Afr J Emerg Med. 2020;10(Suppl 2):S109–S114. doi:10.1016/j.afjem.2020.05.004.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7718466/",
+      "description": "تبدیل موضوع به پرسش و امکان‌سنجی",
+      "verification": "صفحهٔ مقاله و بخش‌های مرتبط بررسی شد"
+    },
+    "COL-RQ": {
+      "title": "Columbia University Irving Institute. Designing and Refining a Research Question.",
+      "url": "https://www.irvinginstitute.columbia.edu/designing-and-refining-research-question",
+      "description": "چارچوب‌های پرسش و پیوند ویدئوهای دانشگاهی",
+      "verification": "صفحهٔ رسمی و پیوندهای مرتبط بررسی شد"
+    },
+    "HARK": {
+      "title": "Kerr NL. HARKing: Hypothesizing After the Results are Known. Pers Soc Psychol Rev. 1998;2(3):196–217. doi:10.1207/s15327957pspr0203_4.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15647155/",
+      "description": "مرز اکتشاف و معرفی نادرست فرضیهٔ پسینی به‌عنوان پیشینی",
+      "verification": "عنوان و تعریف در نتیجهٔ ناشر بررسی شد؛ DOI مستقیم خطای زمان پاسخ و صفحهٔ PubMed نمایش محدود داشت"
+    },
+    "ICH": {
+      "title": "ICH. E9(R1): Addendum on Estimands and Sensitivity Analysis in Clinical Trials. 2019.",
+      "url": "https://database.ich.org/sites/default/files/E9-R1_Step4_Guideline_2019_1203.pdf",
+      "description": "صورت دقیق پرسش و برآورد هدف در کارآزمایی",
+      "verification": "نشانی رسمی، عنوان و شرح رهنمود بررسی شد؛ همهٔ بندهای سند ممیزی نشده‌اند"
+    },
+    "FRAME": {
+      "title": "Varpio L, Paradis E, Uijtdehaage S, Young M. The Distinctions Between Theory, Theoretical Framework, and Conceptual Framework. Acad Med. 2020;95(7):989–994. doi:10.1097/ACM.0000000000003075.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31725464/",
+      "description": "کاربرد چارچوب‌ها و تنوع معنای آن‌ها در رویکردها",
+      "verification": "عنوان و شرح مقاله در نمایه بررسی شد؛ DOI مستقیم درگاه دسترس‌ناپذیر داشت و صفحهٔ PubMed نمایش محدود داشت"
+    },
+    "EDA-U": {
+      "title": "NC3Rs. Experimental Design Assistant: Experimental unit.",
+      "url": "https://eda.nc3rs.org.uk/experimental-design-unit",
+      "description": "واحد آزمایشی و تمایز آن از سنجش‌های تکراری",
+      "verification": "صفحهٔ رسمی و نمونه‌های آن در بررسی همین پروژه بازبینی شد"
+    },
+    "COSMIN": {
+      "title": "COSMIN. Explanation & Elaboration document of the COSMIN Reporting Guideline 2.0. Version 1.0; September 2024.",
+      "url": "https://www.cosmin.nl/wp-content/uploads/EE-document_final-version-website.pdf",
+      "description": "تعریف سازه و تمایز مدل بازتابی و تکوینی",
+      "verification": "عنوان سند، فهرست و شرح مرتبط بررسی شد؛ همهٔ بندها ممیزی نشده‌اند"
+    },
+    "CAUSAL": {
+      "title": "Hernán MA, Robins JM. Causal Inference: What If. 2020. Author resource page.",
+      "url": "https://miguelhernan.org/whatifbook",
+      "description": "مرجع مطالعهٔ بیشتر برای نقش‌های علّی و نمودارها",
+      "verification": "صفحهٔ نویسنده و پیوند کتاب بررسی شد؛ متن کامل کتاب در این مرحله خوانده نشده است"
+    }
+  },
+  "videos": {
+    "V1": {
+      "title": "Karl Popper, Science, & Pseudoscience — Crash Course Philosophy #8",
+      "provider": "Crash Course",
+      "url": "https://www.youtube.com/watch?v=-X8Xfl0JdTQ",
+      "topic": "آشنایی آغازین با ابطال‌پذیری و مرزبندی؛ جایگزین بحث تفصیلی درس نیست",
+      "level": "مقدماتی",
+      "duration": "در این بررسی ثبت نشد",
+      "verification": "عنوان در نتیجهٔ وب تأیید شد؛ صفحهٔ YouTube متن محدود نمایش داد؛ پخش آزموده نشد"
+    },
+    "V2": {
+      "title": "Understanding science: what we cannot know",
+      "provider": "The Open University / OpenLearn / Marcus du Sautoy",
+      "url": "https://www.open.edu/openlearn/science-maths-technology/understanding-science-what-we-cannot-know",
+      "topic": "دورهٔ دارای ویدئوی معرفی دربارهٔ مرز شناخت علمی",
+      "level": "مقدماتی و متوسط",
+      "duration": "دوره است؛ زمان ویدئوی معرفی ثبت نشد",
+      "verification": "صفحهٔ دوره و وجود ویدئوی معرفی بررسی شد؛ پخش آزموده نشد"
+    },
+    "V3": {
+      "title": "Philosophy and the Sciences: Introduction to the Philosophy of Physical Sciences — Week 1",
+      "provider": "University of Edinburgh / Coursera",
+      "url": "https://www.coursera.org/learn/philosophy-physical-sciences",
+      "topic": "فیلم‌های What is Science? و Duhem & Kuhn در هفتهٔ نخست؛ زمینهٔ فیلم علوم فیزیکی است",
+      "level": "متوسط و پیشرفته",
+      "duration": "فیلم What is Science? نزدیک به ۱۴ دقیقه؛ Duhem & Kuhn نزدیک به ۸ دقیقه، بنا بر فهرست دوره",
+      "verification": "صفحه، دانشگاه ارائه‌دهنده و فهرست فیلم‌ها بررسی شد؛ پخش و شرایط دسترسی کامل آزموده نشد؛ برخی بخش‌ها به ثبت‌نام یا پرداخت نیاز دارند"
+    },
+    "V4": {
+      "title": "What is qualitative research? — Video 1",
+      "provider": "University of Georgia / Jennifer Jo Thompson / CIRTL–BioTAP",
+      "url": "https://kaltura.uga.edu/media/t/1_v7ylrn8r/31868161",
+      "host": "https://site.caes.uga.edu/anthfood/research/qualitative-methods/",
+      "topic": "پرسش و شناخت در پژوهش کیفی",
+      "level": "مقدماتی",
+      "duration": "۳ دقیقه و ۳۷ ثانیه، بنا بر صفحهٔ دانشگاه",
+      "verification": "عنوان و پیوند در صفحهٔ دانشگاه تأیید شد؛ صفحهٔ پخش متن نداشت؛ پخش آزموده نشد"
+    },
+    "V5": {
+      "title": "Creative Research Methods — Technology and mixed methods research",
+      "provider": "NCRM / Helen Kara",
+      "url": "https://repository.ncrm.ac.uk/resources/video/?id=4026",
+      "topic": "گوناگونی روش‌ها و پیوند آن‌ها؛ مکمل بحث تلفیق",
+      "level": "متوسط",
+      "duration": "در این بررسی ثبت نشد",
+      "verification": "صفحهٔ رسمی و پیوند فیلم بررسی شد؛ پخش آزموده نشد"
+    },
+    "V6": {
+      "title": "Choosing a Research Question: Introduction to Choosing a Research Topic — Part 1 of 3",
+      "provider": "NIH VideoCast",
+      "url": "https://videocast.nih.gov/watch/c69d44a9-d5db-11f0-9cf9-12c45c580ad9",
+      "topic": "گزینش موضوع و پرسش پژوهش",
+      "level": "مقدماتی و متوسط",
+      "duration": "در صفحهٔ بررسی‌شده روشن نبود",
+      "verification": "عنوان در صفحهٔ رسمی تأیید شد؛ جزئیات پخش با ابزار متنی نمایش داده نشد؛ پخش آزموده نشد"
+    },
+    "V7": {
+      "title": "Identifying a Research Question",
+      "provider": "MD Anderson / Kevin Diao",
+      "url": "https://openworks.mdanderson.org/mozart/1/",
+      "host": "https://www.irvinginstitute.columbia.edu/designing-and-refining-research-question",
+      "topic": "چارچوب PICOT و FINER",
+      "level": "مقدماتی و متوسط",
+      "duration": "۱۴ دقیقه، بنا بر صفحهٔ Columbia",
+      "verification": "صفحهٔ میزبان و معرفی دانشگاهی بررسی شد؛ پخش آزموده نشد"
+    },
+    "V8": {
+      "title": "Introduction to Clinical Study Design: Tips for Good Study Design — Part 4 of 4",
+      "provider": "NIH VideoCast",
+      "url": "https://videocast.nih.gov/watch/c6735c06-d5db-11f0-9cf9-12c45c580ad9",
+      "host": "https://www.irvinginstitute.columbia.edu/designing-and-refining-research-question",
+      "topic": "پیوند پرسش، متغیر و طراحی؛ مکمل است و درس ویژهٔ روان‌سنجی نیست",
+      "level": "متوسط",
+      "duration": "۲۵ دقیقه، بنا بر صفحهٔ Columbia",
+      "verification": "صفحهٔ رسمی، عنوان و معرفی دانشگاهی بررسی شد؛ پخش آزموده نشد"
+    },
+    "V9": {
+      "title": "Experimental Unit",
+      "provider": "British Pharmacological Society؛ معرفی در NC3Rs",
+      "url": "https://www.youtube.com/watch?v=WQSWJLDcy5M",
+      "host": "https://eda.nc3rs.org.uk/experimental-design-unit",
+      "topic": "واحد آزمایشی و سطح ثبت؛ مکمل بخش پایانی درس متغیرها",
+      "level": "مقدماتی و متوسط",
+      "duration": "در این بررسی ثبت نشد",
+      "verification": "پیوند و عنوان در صفحهٔ رسمی NC3Rs طی بررسی پروژه تأیید شد؛ پخش آزموده نشد"
+    },
+    "YT_POPPER": {
+      "title": "Karl Popper, Science, & Pseudoscience — Crash Course Philosophy #8",
+      "provider": "Crash Course",
+      "url": "https://www.youtube.com/watch?v=-X8Xfl0JdTQ",
+      "host": "https://www.youtube.com/watch?v=-X8Xfl0JdTQ",
+      "topic": "ابطال‌پذیری و مرزبندی علم",
+      "level": "مقدماتی و متوسط؛ بخش تکمیلی با توجه به درس",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-14",
+      "playback_verified": false,
+      "duration": "در این بررسی ثبت نشد",
+      "verification": "عنوان و صفحهٔ ناشر بررسی شد؛ پخش آزموده نشد",
+      "status": "عنوان و صفحهٔ ناشر بررسی شد؛ پخش آزموده نشد"
+    },
+    "YT_REPRO": {
+      "title": "Reproducibility and Replicability in Science",
+      "provider": "National Academies of Sciences, Engineering, and Medicine",
+      "url": "https://www.youtube.com/watch?v=Y6hhJvIZhls",
+      "host": "https://www.youtube.com/watch?v=Y6hhJvIZhls",
+      "topic": "تمایز بازتولید و تکرار با دادهٔ تازه",
+      "level": "مقدماتی و متوسط؛ بخش تکمیلی با توجه به درس",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-14",
+      "playback_verified": false,
+      "duration": "در این بررسی ثبت نشد",
+      "verification": "عنوان، سازنده و شرح فیلم در نمایهٔ وب بررسی شد؛ بازکردن مستقیم خطا داشت و پخش آزموده نشد",
+      "status": "عنوان، سازنده و شرح فیلم در نمایهٔ وب بررسی شد؛ بازکردن مستقیم خطا داشت و پخش آزموده نشد"
+    },
+    "YT_INDUCTION": {
+      "title": "Hume: Skepticism and Induction, Part 1",
+      "provider": "Wireless Philosophy",
+      "url": "https://www.youtube.com/watch?v=-QpUrSn3cWU",
+      "host": "https://www.khanacademy.org/v/humes-skepticism-part-1",
+      "topic": "مسئلهٔ استقرا و مرز گذار از تجربه به انتظار",
+      "level": "مقدماتی و متوسط؛ بخش تکمیلی با توجه به درس",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-14",
+      "playback_verified": false,
+      "duration": "در این بررسی ثبت نشد",
+      "verification": "عنوان در صفحهٔ شریک رسمی Khan Academy و شناسه در برنامهٔ دانشگاهی بررسی شد؛ YouTube مستقیم باز نشد؛ پخش آزموده نشد",
+      "status": "عنوان در صفحهٔ شریک رسمی Khan Academy و شناسه در برنامهٔ دانشگاهی بررسی شد؛ YouTube مستقیم باز نشد؛ پخش آزموده نشد"
+    },
+    "YT_ONTOLOGY": {
+      "title": "Ontology, Epistemology, Methodology and Methods in Research Simplified!",
+      "provider": "NurseKillam / Laura Killam",
+      "url": "https://www.youtube.com/watch?v=hCOsY5rkRs8",
+      "host": "https://www.youtube.com/watch?v=hCOsY5rkRs8",
+      "topic": "چهار لایهٔ پیش‌فرض تا روش در پژوهش",
+      "level": "مقدماتی و متوسط؛ بخش تکمیلی با توجه به درس",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-14",
+      "playback_verified": false,
+      "duration": "در این بررسی ثبت نشد",
+      "verification": "عنوان صفحهٔ YouTube و معرفی دانشگاهی بررسی شد؛ پخش آزموده نشد",
+      "status": "عنوان صفحهٔ YouTube و معرفی دانشگاهی بررسی شد؛ پخش آزموده نشد"
+    },
+    "YT_MIXED": {
+      "title": "Creative Research Methods — Technology and mixed methods research",
+      "provider": "NCRM / Helen Kara",
+      "url": "https://www.youtube.com/watch?v=4vhXUJQecVA",
+      "host": "https://repository.ncrm.ac.uk/resources/video/?id=4026",
+      "topic": "تنوع روش‌ها و پیوند بخش‌های پژوهش",
+      "level": "مقدماتی و متوسط؛ بخش تکمیلی با توجه به درس",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-14",
+      "playback_verified": false,
+      "duration": "در این بررسی ثبت نشد",
+      "verification": "عنوان، سازنده و شناسهٔ فیلم از صفحهٔ رسمی NCRM استخراج شد؛ پخش آزموده نشد",
+      "status": "عنوان، سازنده و شناسهٔ فیلم از صفحهٔ رسمی NCRM استخراج شد؛ پخش آزموده نشد"
+    },
+    "YT_QUESTION": {
+      "title": "IPPCR 2015: A Research Question and Implications for Efficient Clinical Trials",
+      "provider": "NIH VideoCast / John Powers III",
+      "url": "https://www.youtube.com/watch?v=tOj9TimZU7k",
+      "host": "https://medschool.vanderbilt.edu/career-development/wp-content/uploads/sites/5/public_files/course-schedule.pdf",
+      "topic": "صورت‌بندی پرسش و پیامد آن برای طراحی کارآزمایی",
+      "level": "مقدماتی و متوسط؛ بخش تکمیلی با توجه به درس",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-14",
+      "playback_verified": false,
+      "duration": "در این بررسی ثبت نشد",
+      "verification": "شناسه، موضوع و سخنران در برنامهٔ دانشگاهی بررسی شد؛ دسترسی مستقیم YouTube خطا داشت و پخش آزموده نشد",
+      "status": "شناسه، موضوع و سخنران در برنامهٔ دانشگاهی بررسی شد؛ دسترسی مستقیم YouTube خطا داشت و پخش آزموده نشد"
+    },
+    "YT_FINER": {
+      "title": "Framework for Developing a Research Question",
+      "provider": "PearlCasts / H. Lee Higdon III",
+      "url": "https://www.youtube.com/watch?v=LHPe9F0LGEQ",
+      "host": "https://www.youtube.com/watch?v=LHPe9F0LGEQ",
+      "topic": "چارچوب PICO و FINER برای پژوهش پزشکی",
+      "level": "مقدماتی و متوسط؛ بخش تکمیلی با توجه به درس",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-14",
+      "playback_verified": false,
+      "duration": "در این بررسی ثبت نشد",
+      "verification": "عنوان، سخنران و شرح فیلم در نمایهٔ ناشر بررسی شد؛ پخش آزموده نشد",
+      "status": "عنوان، سخنران و شرح فیلم در نمایهٔ ناشر بررسی شد؛ پخش آزموده نشد"
+    },
+    "YT_FRAMEWORK": {
+      "title": "How to Develop a Conceptual Framework — with a REAL Example",
+      "provider": "Scribbr",
+      "url": "https://www.youtube.com/watch?v=MnfRdTCUIsc",
+      "host": "https://www.scribbr.com/methodology/conceptual-framework/",
+      "topic": "چارچوب مفهومی و نقش متغیرها؛ مکمل آموزشی و نه مرجع اثبات علیت",
+      "level": "مقدماتی و متوسط؛ بخش تکمیلی با توجه به درس",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-14",
+      "playback_verified": false,
+      "duration": "در این بررسی ثبت نشد",
+      "verification": "عنوان و شناسه در نمایه‌های معرفی فیلم و صفحهٔ مرتبط سازنده بررسی شد؛ بازکردن مستقیم زمان پاسخ را گذراند و پخش آزموده نشد",
+      "status": "عنوان و شناسه در نمایه‌های معرفی فیلم و صفحهٔ مرتبط سازنده بررسی شد؛ بازکردن مستقیم زمان پاسخ را گذراند و پخش آزموده نشد"
+    },
+    "YT_UNIT": {
+      "title": "Experimental Unit",
+      "provider": "British Pharmacological Society",
+      "url": "https://www.youtube.com/watch?v=WQSWJLDcy5M",
+      "host": "https://eda.nc3rs.org.uk/experimental-design-unit",
+      "topic": "واحد آزمایشی و تمایز آن از شمار سنجش‌ها",
+      "level": "مقدماتی و متوسط؛ بخش تکمیلی با توجه به درس",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-14",
+      "playback_verified": false,
+      "duration": "در این بررسی ثبت نشد",
+      "verification": "شناسهٔ فیلم و موضوع در صفحهٔ رسمی NC3Rs بررسی شد؛ پخش آزموده نشد",
+      "status": "شناسهٔ فیلم و موضوع در صفحهٔ رسمی NC3Rs بررسی شد؛ پخش آزموده نشد"
+    }
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "module": "M01",
+  "version": 1,
+  "date": "2026-11-14",
+  "lessons": [
+    {
+      "id": "M01-L01",
+      "title": "علم، دانش و مرز ادعای علمی",
+      "path": "01_foundations/lessons/01_science_knowledge.md",
+      "exercises_path": "01_foundations/exercises/01_exercises.md",
+      "solutions_path": "solutions/01_foundations/01_solutions.md",
+      "exercise_ids": [
+        "M01-L01-B01",
+        "M01-L01-B02",
+        "M01-L01-B03",
+        "M01-L01-I01",
+        "M01-L01-I02",
+        "M01-L01-I03",
+        "M01-L01-A01",
+        "M01-L01-A02",
+        "M01-L01-A03"
+      ],
+      "levels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "references": [
+        "KNOW",
+        "DEMAR",
+        "METHOD",
+        "NASEM"
+      ],
+      "videos": [
+        "YT_POPPER",
+        "YT_REPRO"
+      ],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "supplementary_video_ids": [
+        "V1",
+        "V2"
+      ],
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M01-L02",
+      "title": "فلسفهٔ علم و منطق پژوهش",
+      "path": "01_foundations/lessons/02_philosophy_reasoning.md",
+      "exercises_path": "01_foundations/exercises/02_exercises.md",
+      "solutions_path": "solutions/01_foundations/02_solutions.md",
+      "exercise_ids": [
+        "M01-L02-B01",
+        "M01-L02-B02",
+        "M01-L02-B03",
+        "M01-L02-I01",
+        "M01-L02-I02",
+        "M01-L02-I03",
+        "M01-L02-A01",
+        "M01-L02-A02",
+        "M01-L02-A03"
+      ],
+      "levels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "references": [
+        "IND",
+        "POPPER",
+        "KUHN",
+        "LAK",
+        "FEY",
+        "BAYES",
+        "REAL",
+        "METHOD",
+        "EMP",
+        "VALUES"
+      ],
+      "videos": [
+        "YT_POPPER",
+        "YT_INDUCTION"
+      ],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "supplementary_video_ids": [
+        "V1",
+        "V3"
+      ],
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M01-L03",
+      "title": "پارادایم‌ها و رویکردهای پژوهش",
+      "path": "01_foundations/lessons/03_paradigms_approaches.md",
+      "exercises_path": "01_foundations/exercises/03_exercises.md",
+      "solutions_path": "solutions/01_foundations/03_solutions.md",
+      "exercise_ids": [
+        "M01-L03-B01",
+        "M01-L03-B02",
+        "M01-L03-B03",
+        "M01-L03-I01",
+        "M01-L03-I02",
+        "M01-L03-I03",
+        "M01-L03-A01",
+        "M01-L03-A02",
+        "M01-L03-A03"
+      ],
+      "levels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "references": [
+        "NIH-MM",
+        "MM-DESIGN",
+        "AMEE",
+        "METHOD"
+      ],
+      "videos": [
+        "YT_ONTOLOGY",
+        "YT_MIXED"
+      ],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "supplementary_video_ids": [
+        "V4",
+        "V5"
+      ],
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M01-L04",
+      "title": "از ایده تا پرسش و فرضیه",
+      "path": "01_foundations/lessons/04_question_hypothesis.md",
+      "exercises_path": "01_foundations/exercises/04_exercises.md",
+      "solutions_path": "solutions/01_foundations/04_solutions.md",
+      "exercise_ids": [
+        "M01-L04-B01",
+        "M01-L04-B02",
+        "M01-L04-B03",
+        "M01-L04-I01",
+        "M01-L04-I02",
+        "M01-L04-I03",
+        "M01-L04-A01",
+        "M01-L04-A02",
+        "M01-L04-A03"
+      ],
+      "levels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "references": [
+        "RQ-W",
+        "RQ-M",
+        "COL-RQ",
+        "HARK",
+        "ICH"
+      ],
+      "videos": [
+        "YT_QUESTION",
+        "YT_FINER"
+      ],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "supplementary_video_ids": [
+        "V6",
+        "V7"
+      ],
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M01-L05",
+      "title": "متغیر، سازه و چارچوب مفهومی",
+      "path": "01_foundations/lessons/05_variables_frameworks.md",
+      "exercises_path": "01_foundations/exercises/05_exercises.md",
+      "solutions_path": "solutions/01_foundations/05_solutions.md",
+      "exercise_ids": [
+        "M01-L05-B01",
+        "M01-L05-B02",
+        "M01-L05-B03",
+        "M01-L05-I01",
+        "M01-L05-I02",
+        "M01-L05-I03",
+        "M01-L05-A01",
+        "M01-L05-A02",
+        "M01-L05-A03"
+      ],
+      "levels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "references": [
+        "MEASURE",
+        "FRAME",
+        "EDA-U",
+        "COSMIN",
+        "CAUSAL"
+      ],
+      "videos": [
+        "YT_FRAMEWORK",
+        "YT_UNIT"
+      ],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "supplementary_video_ids": [
+        "V8",
+        "V9"
+      ],
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    }
+  ]
+}

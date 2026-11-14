@@ -1,0 +1,3378 @@
+{
+  "version": 1,
+  "date": "2026-11-14",
+  "statistics_scope": "brief_methodology_support_only",
+  "lessons": [
+    {
+      "id": "M01-L01",
+      "module": "M01",
+      "module_title": "مبانی شناخت و پرسش پژوهش",
+      "title": "علم، دانش و مرز ادعای علمی",
+      "prerequisites": [],
+      "levels": {
+        "beginner": "تمایز علم و دانش",
+        "intermediate": "سنجش آزمون‌پذیری ادعا",
+        "advanced": "نقد مرزبندی علم و شبه‌علم"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M01-L01-B01",
+          "M01-L01-B02",
+          "M01-L01-B03"
+        ],
+        "intermediate": [
+          "M01-L01-I01",
+          "M01-L01-I02",
+          "M01-L01-I03"
+        ],
+        "advanced": [
+          "M01-L01-A01",
+          "M01-L01-A02",
+          "M01-L01-A03"
+        ]
+      },
+      "status": "written_for_review",
+      "existing_content": "rewritten",
+      "source_review": "documented_partial_verification",
+      "path": "01_foundations/lessons/01_science_knowledge.md",
+      "exercises_path": "01_foundations/exercises/01_exercises.md",
+      "solutions_path": "solutions/01_foundations/01_solutions.md",
+      "human_scientific_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M01-L02",
+      "module": "M01",
+      "module_title": "مبانی شناخت و پرسش پژوهش",
+      "title": "فلسفهٔ علم و منطق پژوهش",
+      "prerequisites": [],
+      "levels": {
+        "beginner": "استقرا و قیاس",
+        "intermediate": "ابطال‌پذیری و تغییر نظریه",
+        "advanced": "واقع‌گرایی، نگاه بیزی و نقش ارزش‌ها"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M01-L02-B01",
+          "M01-L02-B02",
+          "M01-L02-B03"
+        ],
+        "intermediate": [
+          "M01-L02-I01",
+          "M01-L02-I02",
+          "M01-L02-I03"
+        ],
+        "advanced": [
+          "M01-L02-A01",
+          "M01-L02-A02",
+          "M01-L02-A03"
+        ]
+      },
+      "status": "written_for_review",
+      "existing_content": "rewritten",
+      "source_review": "documented_partial_verification",
+      "path": "01_foundations/lessons/02_philosophy_reasoning.md",
+      "exercises_path": "01_foundations/exercises/02_exercises.md",
+      "solutions_path": "solutions/01_foundations/02_solutions.md",
+      "human_scientific_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M01-L03",
+      "module": "M01",
+      "module_title": "مبانی شناخت و پرسش پژوهش",
+      "title": "پارادایم‌ها و رویکردهای پژوهش",
+      "prerequisites": [],
+      "levels": {
+        "beginner": "کمی، کیفی و آمیخته",
+        "intermediate": "همسویی پرسش و رویکرد",
+        "advanced": "نقد پیش‌فرض‌های شناخت‌شناختی"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M01-L03-B01",
+          "M01-L03-B02",
+          "M01-L03-B03"
+        ],
+        "intermediate": [
+          "M01-L03-I01",
+          "M01-L03-I02",
+          "M01-L03-I03"
+        ],
+        "advanced": [
+          "M01-L03-A01",
+          "M01-L03-A02",
+          "M01-L03-A03"
+        ]
+      },
+      "status": "written_for_review",
+      "existing_content": "rewritten",
+      "source_review": "documented_partial_verification",
+      "path": "01_foundations/lessons/03_paradigms_approaches.md",
+      "exercises_path": "01_foundations/exercises/03_exercises.md",
+      "solutions_path": "solutions/01_foundations/03_solutions.md",
+      "human_scientific_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M01-L04",
+      "module": "M01",
+      "module_title": "مبانی شناخت و پرسش پژوهش",
+      "title": "از ایده تا پرسش و فرضیه",
+      "prerequisites": [],
+      "levels": {
+        "beginner": "صورت‌بندی پرسش روشن",
+        "intermediate": "چارچوب‌های پرسش و امکان‌سنجی",
+        "advanced": "شکاف دانشی و اهمیت تصمیم‌گیری"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M01-L04-B01",
+          "M01-L04-B02",
+          "M01-L04-B03"
+        ],
+        "intermediate": [
+          "M01-L04-I01",
+          "M01-L04-I02",
+          "M01-L04-I03"
+        ],
+        "advanced": [
+          "M01-L04-A01",
+          "M01-L04-A02",
+          "M01-L04-A03"
+        ]
+      },
+      "status": "written_for_review",
+      "existing_content": "rewritten",
+      "source_review": "documented_partial_verification",
+      "path": "01_foundations/lessons/04_question_hypothesis.md",
+      "exercises_path": "01_foundations/exercises/04_exercises.md",
+      "solutions_path": "solutions/01_foundations/04_solutions.md",
+      "human_scientific_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M01-L05",
+      "module": "M01",
+      "module_title": "مبانی شناخت و پرسش پژوهش",
+      "title": "متغیر، سازه و چارچوب مفهومی",
+      "prerequisites": [],
+      "levels": {
+        "beginner": "گونه‌های متغیر",
+        "intermediate": "تعریف عملیاتی و مدل مفهومی",
+        "advanced": "پیوند سازه، سنجش و استنباط"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M01-L05-B01",
+          "M01-L05-B02",
+          "M01-L05-B03"
+        ],
+        "intermediate": [
+          "M01-L05-I01",
+          "M01-L05-I02",
+          "M01-L05-I03"
+        ],
+        "advanced": [
+          "M01-L05-A01",
+          "M01-L05-A02",
+          "M01-L05-A03"
+        ]
+      },
+      "status": "written_for_review",
+      "existing_content": "rewritten",
+      "source_review": "documented_partial_verification",
+      "path": "01_foundations/lessons/05_variables_frameworks.md",
+      "exercises_path": "01_foundations/exercises/05_exercises.md",
+      "solutions_path": "solutions/01_foundations/05_solutions.md",
+      "human_scientific_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M02-L01",
+      "module": "M02",
+      "module_title": "جست‌وجو، مرور و ارزیابی شواهد",
+      "title": "جست‌وجوی ساختاریافته",
+      "prerequisites": [
+        "M01"
+      ],
+      "levels": {
+        "beginner": "کلیدواژه و سرعنوان",
+        "intermediate": "ساخت و ثبت راهبرد جست‌وجو",
+        "advanced": "بازبینی راهبرد و جست‌وجوی بازتولیدپذیر"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M02-L01-B01",
+          "M02-L01-B02",
+          "M02-L01-B03"
+        ],
+        "intermediate": [
+          "M02-L01-I01",
+          "M02-L01-I02",
+          "M02-L01-I03"
+        ],
+        "advanced": [
+          "M02-L01-A01",
+          "M02-L01-A02",
+          "M02-L01-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M02-L02",
+      "module": "M02",
+      "module_title": "جست‌وجو، مرور و ارزیابی شواهد",
+      "title": "مدیریت منابع و غربالگری",
+      "prerequisites": [
+        "M01"
+      ],
+      "levels": {
+        "beginner": "ثبت منبع و شناسه",
+        "intermediate": "غربالگری و رفع رکورد تکراری",
+        "advanced": "کار دو ارزیاب و ثبت تصمیم‌ها"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M02-L02-B01",
+          "M02-L02-B02",
+          "M02-L02-B03"
+        ],
+        "intermediate": [
+          "M02-L02-I01",
+          "M02-L02-I02",
+          "M02-L02-I03"
+        ],
+        "advanced": [
+          "M02-L02-A01",
+          "M02-L02-A02",
+          "M02-L02-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M02-L03",
+      "module": "M02",
+      "module_title": "جست‌وجو، مرور و ارزیابی شواهد",
+      "title": "مرور روایتی، دامنه‌ای و نظام‌مند",
+      "prerequisites": [
+        "M01"
+      ],
+      "levels": {
+        "beginner": "شناخت گونه‌های مرور",
+        "intermediate": "انتخاب مرور و نوشتن پروتکل",
+        "advanced": "توجیه مرز دامنه و به‌روزرسانی مرور"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M02-L03-B01",
+          "M02-L03-B02",
+          "M02-L03-B03"
+        ],
+        "intermediate": [
+          "M02-L03-I01",
+          "M02-L03-I02",
+          "M02-L03-I03"
+        ],
+        "advanced": [
+          "M02-L03-A01",
+          "M02-L03-A02",
+          "M02-L03-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M02-L04",
+      "module": "M02",
+      "module_title": "جست‌وجو، مرور و ارزیابی شواهد",
+      "title": "ارزیابی نقادانه و خطر سوگیری",
+      "prerequisites": [
+        "M01"
+      ],
+      "levels": {
+        "beginner": "تشخیص پرسش و طرح",
+        "intermediate": "سنجش خطر سوگیری متناسب با طرح",
+        "advanced": "داوری قطعیت مجموعهٔ شواهد"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M02-L04-B01",
+          "M02-L04-B02",
+          "M02-L04-B03"
+        ],
+        "intermediate": [
+          "M02-L04-I01",
+          "M02-L04-I02",
+          "M02-L04-I03"
+        ],
+        "advanced": [
+          "M02-L04-A01",
+          "M02-L04-A02",
+          "M02-L04-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M02-L05",
+      "module": "M02",
+      "module_title": "جست‌وجو، مرور و ارزیابی شواهد",
+      "title": "تلفیق شواهد و مبانی فراتحلیل",
+      "prerequisites": [
+        "M01"
+      ],
+      "levels": {
+        "beginner": "خواندن نمودار جنگلی",
+        "intermediate": "ناهمگنی و انتخاب شیوهٔ تلفیق",
+        "advanced": "سوگیری انتشار و تحلیل حساسیت؛ بدون آموزش جامع محاسبات"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M02-L05-B01",
+          "M02-L05-B02",
+          "M02-L05-B03"
+        ],
+        "intermediate": [
+          "M02-L05-I01",
+          "M02-L05-I02",
+          "M02-L05-I03"
+        ],
+        "advanced": [
+          "M02-L05-A01",
+          "M02-L05-A02",
+          "M02-L05-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M03-L01",
+      "module": "M03",
+      "module_title": "طراحی مطالعه در پزشکی و زیست‌شناسی",
+      "title": "مطالعات توصیفی و مقطعی",
+      "prerequisites": [
+        "M01"
+      ],
+      "levels": {
+        "beginner": "جمعیت، زمان و پیامد",
+        "intermediate": "طراحی پیمایش و محدودیت زمانی",
+        "advanced": "نقد تعمیم و سوگیری انتخاب"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M03-L01-B01",
+          "M03-L01-B02",
+          "M03-L01-B03"
+        ],
+        "intermediate": [
+          "M03-L01-I01",
+          "M03-L01-I02",
+          "M03-L01-I03"
+        ],
+        "advanced": [
+          "M03-L01-A01",
+          "M03-L01-A02",
+          "M03-L01-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M03-L02",
+      "module": "M03",
+      "module_title": "طراحی مطالعه در پزشکی و زیست‌شناسی",
+      "title": "هم‌گروهی و موردـشاهدی",
+      "prerequisites": [
+        "M01"
+      ],
+      "levels": {
+        "beginner": "تمایز مسیر انتخاب",
+        "intermediate": "انتخاب گروه مقایسه و زمان آغاز",
+        "advanced": "طرح تودرتو و موردـهم‌گروهی"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M03-L02-B01",
+          "M03-L02-B02",
+          "M03-L02-B03"
+        ],
+        "intermediate": [
+          "M03-L02-I01",
+          "M03-L02-I02",
+          "M03-L02-I03"
+        ],
+        "advanced": [
+          "M03-L02-A01",
+          "M03-L02-A02",
+          "M03-L02-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M03-L03",
+      "module": "M03",
+      "module_title": "طراحی مطالعه در پزشکی و زیست‌شناسی",
+      "title": "کارآزمایی بالینی",
+      "prerequisites": [
+        "M01"
+      ],
+      "levels": {
+        "beginner": "گروه مقایسه و پیامد اصلی",
+        "intermediate": "تصادفی‌سازی، کورسازی و پیگیری",
+        "advanced": "طرح خوشه‌ای، متقاطع، سازگاری و کاربردمحور"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M03-L03-B01",
+          "M03-L03-B02",
+          "M03-L03-B03"
+        ],
+        "intermediate": [
+          "M03-L03-I01",
+          "M03-L03-I02",
+          "M03-L03-I03"
+        ],
+        "advanced": [
+          "M03-L03-A01",
+          "M03-L03-A02",
+          "M03-L03-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M03-L04",
+      "module": "M03",
+      "module_title": "طراحی مطالعه در پزشکی و زیست‌شناسی",
+      "title": "طراحی آزمایشگاهی، سلولی و حیوانی",
+      "prerequisites": [
+        "M01"
+      ],
+      "levels": {
+        "beginner": "شاهد و واحد آزمایشی",
+        "intermediate": "طرح عاملی، بلوک و تکرار زیستی",
+        "advanced": "شبه‌تکرار، اثر دسته و چندسطحی بودن طرح"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M03-L04-B01",
+          "M03-L04-B02",
+          "M03-L04-B03"
+        ],
+        "intermediate": [
+          "M03-L04-I01",
+          "M03-L04-I02",
+          "M03-L04-I03"
+        ],
+        "advanced": [
+          "M03-L04-A01",
+          "M03-L04-A02",
+          "M03-L04-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M03-L05",
+      "module": "M03",
+      "module_title": "طراحی مطالعه در پزشکی و زیست‌شناسی",
+      "title": "مطالعات تشخیصی و غربالگری",
+      "prerequisites": [
+        "M01"
+      ],
+      "levels": {
+        "beginner": "آزمون شاخص و معیار مرجع",
+        "intermediate": "طراحی مسیر جذب و تأیید تشخیص",
+        "advanced": "سوگیری طیف، تأیید ناقص و کاربرد بالینی"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M03-L05-B01",
+          "M03-L05-B02",
+          "M03-L05-B03"
+        ],
+        "intermediate": [
+          "M03-L05-I01",
+          "M03-L05-I02",
+          "M03-L05-I03"
+        ],
+        "advanced": [
+          "M03-L05-A01",
+          "M03-L05-A02",
+          "M03-L05-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M03-L06",
+      "module": "M03",
+      "module_title": "طراحی مطالعه در پزشکی و زیست‌شناسی",
+      "title": "مدل‌های پیش‌بینی و پژوهش اُمیکس",
+      "prerequisites": [
+        "M01"
+      ],
+      "levels": {
+        "beginner": "هدف پیش‌بینی و دادهٔ ورودی",
+        "intermediate": "تفکیک توسعه و ارزیابی مدل",
+        "advanced": "اعتبارسنجی بیرونی، نشت داده و آزمون‌های متعدد"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M03-L06-B01",
+          "M03-L06-B02",
+          "M03-L06-B03"
+        ],
+        "intermediate": [
+          "M03-L06-I01",
+          "M03-L06-I02",
+          "M03-L06-I03"
+        ],
+        "advanced": [
+          "M03-L06-A01",
+          "M03-L06-A02",
+          "M03-L06-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M03-L07",
+      "module": "M03",
+      "module_title": "طراحی مطالعه در پزشکی و زیست‌شناسی",
+      "title": "پژوهش کیفی و آمیخته",
+      "prerequisites": [
+        "M01"
+      ],
+      "levels": {
+        "beginner": "پرسش تجربه و معنا",
+        "intermediate": "انتخاب روش کیفی و طرح آمیخته",
+        "advanced": "همسویی پارادایم و تلفیق یافته‌ها"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M03-L07-B01",
+          "M03-L07-B02",
+          "M03-L07-B03"
+        ],
+        "intermediate": [
+          "M03-L07-I01",
+          "M03-L07-I02",
+          "M03-L07-I03"
+        ],
+        "advanced": [
+          "M03-L07-A01",
+          "M03-L07-A02",
+          "M03-L07-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M03-L08",
+      "module": "M03",
+      "module_title": "طراحی مطالعه در پزشکی و زیست‌شناسی",
+      "title": "ترجمان دانش و پژوهش پیاده‌سازی",
+      "prerequisites": [
+        "M01"
+      ],
+      "levels": {
+        "beginner": "فاصلهٔ شواهد تا کار",
+        "intermediate": "بافت، پذیرش و پیامد پیاده‌سازی",
+        "advanced": "ارزیابی فرایند و طرح‌های ترکیبی"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M03-L08-B01",
+          "M03-L08-B02",
+          "M03-L08-B03"
+        ],
+        "intermediate": [
+          "M03-L08-I01",
+          "M03-L08-I02",
+          "M03-L08-I03"
+        ],
+        "advanced": [
+          "M03-L08-A01",
+          "M03-L08-A02",
+          "M03-L08-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M04-L01",
+      "module": "M04",
+      "module_title": "خطا، سوگیری و علیت",
+      "title": "خطای تصادفی و سوگیری",
+      "prerequisites": [
+        "M01",
+        "M03"
+      ],
+      "levels": {
+        "beginner": "دقت و درستی",
+        "intermediate": "ردیابی سرچشمهٔ سوگیری",
+        "advanced": "سوگیری انتخاب در مسیر ورود و پیگیری"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M04-L01-B01",
+          "M04-L01-B02",
+          "M04-L01-B03"
+        ],
+        "intermediate": [
+          "M04-L01-I01",
+          "M04-L01-I02",
+          "M04-L01-I03"
+        ],
+        "advanced": [
+          "M04-L01-A01",
+          "M04-L01-A02",
+          "M04-L01-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M04-L02",
+      "module": "M04",
+      "module_title": "خطا، سوگیری و علیت",
+      "title": "مخدوش‌گری و تغییر اثر",
+      "prerequisites": [
+        "M01",
+        "M03"
+      ],
+      "levels": {
+        "beginner": "تمایز دو مفهوم",
+        "intermediate": "راه‌های طراحی برای مهار مخدوش‌گری",
+        "advanced": "تعدیل بیش‌ازاندازه و مخدوش‌گر سنجیده‌نشده"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M04-L02-B01",
+          "M04-L02-B02",
+          "M04-L02-B03"
+        ],
+        "intermediate": [
+          "M04-L02-I01",
+          "M04-L02-I02",
+          "M04-L02-I03"
+        ],
+        "advanced": [
+          "M04-L02-A01",
+          "M04-L02-A02",
+          "M04-L02-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M04-L03",
+      "module": "M04",
+      "module_title": "خطا، سوگیری و علیت",
+      "title": "نمودار علّی و برآورد هدف",
+      "prerequisites": [
+        "M01",
+        "M03"
+      ],
+      "levels": {
+        "beginner": "علت، میانجی و برخوردگر",
+        "intermediate": "ساخت نمودار و انتخاب متغیرها",
+        "advanced": "شرط‌های شناسایی و نقد استنباط علّی"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M04-L03-B01",
+          "M04-L03-B02",
+          "M04-L03-B03"
+        ],
+        "intermediate": [
+          "M04-L03-I01",
+          "M04-L03-I02",
+          "M04-L03-I03"
+        ],
+        "advanced": [
+          "M04-L03-A01",
+          "M04-L03-A02",
+          "M04-L03-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M04-L04",
+      "module": "M04",
+      "module_title": "خطا، سوگیری و علیت",
+      "title": "روایی و انتقال‌پذیری",
+      "prerequisites": [
+        "M01",
+        "M03"
+      ],
+      "levels": {
+        "beginner": "روایی درونی و بیرونی",
+        "intermediate": "تعیین مرز تعمیم",
+        "advanced": "تفاوت انتقال اثر و تعمیم شیوع"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M04-L04-B01",
+          "M04-L04-B02",
+          "M04-L04-B03"
+        ],
+        "intermediate": [
+          "M04-L04-I01",
+          "M04-L04-I02",
+          "M04-L04-I03"
+        ],
+        "advanced": [
+          "M04-L04-A01",
+          "M04-L04-A02",
+          "M04-L04-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M05-L01",
+      "module": "M05",
+      "module_title": "اندازه‌گیری و ابزار گردآوری داده",
+      "title": "سازه و سنجه",
+      "prerequisites": [
+        "M01",
+        "M03"
+      ],
+      "levels": {
+        "beginner": "مقیاس و تعریف عملیاتی",
+        "intermediate": "انتخاب سنجه و شیوهٔ ثبت",
+        "advanced": "خطای سنجش و هم‌ارزی بین گروه‌ها"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M05-L01-B01",
+          "M05-L01-B02",
+          "M05-L01-B03"
+        ],
+        "intermediate": [
+          "M05-L01-I01",
+          "M05-L01-I02",
+          "M05-L01-I03"
+        ],
+        "advanced": [
+          "M05-L01-A01",
+          "M05-L01-A02",
+          "M05-L01-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M05-L02",
+      "module": "M05",
+      "module_title": "اندازه‌گیری و ابزار گردآوری داده",
+      "title": "ساخت و سازگارکردن پرسشنامه",
+      "prerequisites": [
+        "M01",
+        "M03"
+      ],
+      "levels": {
+        "beginner": "گویه و قالب پاسخ",
+        "intermediate": "ترجمه، مصاحبهٔ شناختی و پیش‌آزمون",
+        "advanced": "نقد سازگاری فرهنگی و بار پاسخ‌گویی"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M05-L02-B01",
+          "M05-L02-B02",
+          "M05-L02-B03"
+        ],
+        "intermediate": [
+          "M05-L02-I01",
+          "M05-L02-I02",
+          "M05-L02-I03"
+        ],
+        "advanced": [
+          "M05-L02-A01",
+          "M05-L02-A02",
+          "M05-L02-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M05-L03",
+      "module": "M05",
+      "module_title": "اندازه‌گیری و ابزار گردآوری داده",
+      "title": "روایی و پایایی",
+      "prerequisites": [
+        "M01",
+        "M03"
+      ],
+      "levels": {
+        "beginner": "معنای روایی و پایایی",
+        "intermediate": "انتخاب شاهد و شاخص مناسب",
+        "advanced": "روایی ساختاری، توافق و پاسخ‌پذیری"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M05-L03-B01",
+          "M05-L03-B02",
+          "M05-L03-B03"
+        ],
+        "intermediate": [
+          "M05-L03-I01",
+          "M05-L03-I02",
+          "M05-L03-I03"
+        ],
+        "advanced": [
+          "M05-L03-A01",
+          "M05-L03-A02",
+          "M05-L03-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M05-L04",
+      "module": "M05",
+      "module_title": "اندازه‌گیری و ابزار گردآوری داده",
+      "title": "سنجش بالینی و آزمایشگاهی",
+      "prerequisites": [
+        "M01",
+        "M03"
+      ],
+      "levels": {
+        "beginner": "کالیبراسیون و روش کار",
+        "intermediate": "کنترل کیفیت و سنجش تکراری",
+        "advanced": "خطای پیش‌تحلیلی و اثر دسته"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M05-L04-B01",
+          "M05-L04-B02",
+          "M05-L04-B03"
+        ],
+        "intermediate": [
+          "M05-L04-I01",
+          "M05-L04-I02",
+          "M05-L04-I03"
+        ],
+        "advanced": [
+          "M05-L04-A01",
+          "M05-L04-A02",
+          "M05-L04-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M06-L01",
+      "module": "M06",
+      "module_title": "نمونه‌گیری",
+      "title": "جامعه، چارچوب و مرز تعمیم",
+      "prerequisites": [
+        "M01",
+        "M03"
+      ],
+      "levels": {
+        "beginner": "جامعهٔ هدف و نمونه",
+        "intermediate": "ساخت و بازبینی چارچوب",
+        "advanced": "پوشش، انتخاب و برآورد هدف"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M06-L01-B01",
+          "M06-L01-B02",
+          "M06-L01-B03"
+        ],
+        "intermediate": [
+          "M06-L01-I01",
+          "M06-L01-I02",
+          "M06-L01-I03"
+        ],
+        "advanced": [
+          "M06-L01-A01",
+          "M06-L01-A02",
+          "M06-L01-A03"
+        ]
+      },
+      "status": "written_for_review",
+      "existing_content": "rewritten",
+      "source_review": "documented_partial_verification",
+      "path": "06_sampling/lessons/01_population_frame.md",
+      "exercises_path": "06_sampling/exercises/01_exercises.md",
+      "solutions_path": "solutions/06_sampling/01_solutions.md",
+      "human_scientific_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M06-L02",
+      "module": "M06",
+      "module_title": "نمونه‌گیری",
+      "title": "نمونه‌گیری تصادفی ساده و منظم",
+      "prerequisites": [
+        "M01",
+        "M03"
+      ],
+      "levels": {
+        "beginner": "احتمال انتخاب",
+        "intermediate": "اجرای روش و ثبت مسیر",
+        "advanced": "تناوب، فهرست و خطای استنباط"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M06-L02-B01",
+          "M06-L02-B02",
+          "M06-L02-B03"
+        ],
+        "intermediate": [
+          "M06-L02-I01",
+          "M06-L02-I02",
+          "M06-L02-I03"
+        ],
+        "advanced": [
+          "M06-L02-A01",
+          "M06-L02-A02",
+          "M06-L02-A03"
+        ]
+      },
+      "status": "written_for_review",
+      "existing_content": "rewritten",
+      "source_review": "documented_partial_verification",
+      "path": "06_sampling/lessons/02_simple_systematic.md",
+      "exercises_path": "06_sampling/exercises/02_exercises.md",
+      "solutions_path": "solutions/06_sampling/02_solutions.md",
+      "human_scientific_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M06-L03",
+      "module": "M06",
+      "module_title": "نمونه‌گیری",
+      "title": "نمونه‌گیری طبقه‌ای",
+      "prerequisites": [
+        "M01",
+        "M03"
+      ],
+      "levels": {
+        "beginner": "طبقه و زیرگروه",
+        "intermediate": "تخصیص متناسب و نامتناسب",
+        "advanced": "تخصیص نیمن و سازش هزینه و دقت"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M06-L03-B01",
+          "M06-L03-B02",
+          "M06-L03-B03"
+        ],
+        "intermediate": [
+          "M06-L03-I01",
+          "M06-L03-I02",
+          "M06-L03-I03"
+        ],
+        "advanced": [
+          "M06-L03-A01",
+          "M06-L03-A02",
+          "M06-L03-A03"
+        ]
+      },
+      "status": "written_for_review",
+      "existing_content": "rewritten",
+      "source_review": "documented_partial_verification",
+      "path": "06_sampling/lessons/03_stratified.md",
+      "exercises_path": "06_sampling/exercises/03_exercises.md",
+      "solutions_path": "solutions/06_sampling/03_solutions.md",
+      "human_scientific_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M06-L04",
+      "module": "M06",
+      "module_title": "نمونه‌گیری",
+      "title": "نمونه‌گیری خوشه‌ای و چندمرحله‌ای",
+      "prerequisites": [
+        "M01",
+        "M03"
+      ],
+      "levels": {
+        "beginner": "خوشه و مرحله",
+        "intermediate": "احتمال هر مرحله و وزن پایه",
+        "advanced": "احتمال متناسب با اندازه و محدودیت‌های آن"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M06-L04-B01",
+          "M06-L04-B02",
+          "M06-L04-B03"
+        ],
+        "intermediate": [
+          "M06-L04-I01",
+          "M06-L04-I02",
+          "M06-L04-I03"
+        ],
+        "advanced": [
+          "M06-L04-A01",
+          "M06-L04-A02",
+          "M06-L04-A03"
+        ]
+      },
+      "status": "written_for_review",
+      "existing_content": "rewritten",
+      "source_review": "documented_partial_verification",
+      "path": "06_sampling/lessons/04_cluster_multistage.md",
+      "exercises_path": "06_sampling/exercises/04_exercises.md",
+      "solutions_path": "solutions/06_sampling/04_solutions.md",
+      "human_scientific_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M06-L05",
+      "module": "M06",
+      "module_title": "نمونه‌گیری",
+      "title": "وزن، بی‌پاسخی و اثر طرح",
+      "prerequisites": [
+        "M01",
+        "M03"
+      ],
+      "levels": {
+        "beginner": "معنای وزن و وابستگی",
+        "intermediate": "برآورد وزنی و برنامهٔ پیگیری",
+        "advanced": "اثر طرح و محدودیت ترمیم با وزن"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M06-L05-B01",
+          "M06-L05-B02",
+          "M06-L05-B03"
+        ],
+        "intermediate": [
+          "M06-L05-I01",
+          "M06-L05-I02",
+          "M06-L05-I03"
+        ],
+        "advanced": [
+          "M06-L05-A01",
+          "M06-L05-A02",
+          "M06-L05-A03"
+        ]
+      },
+      "status": "written_for_review",
+      "existing_content": "rewritten",
+      "source_review": "documented_partial_verification",
+      "path": "06_sampling/lessons/05_weights_nonresponse.md",
+      "exercises_path": "06_sampling/exercises/05_exercises.md",
+      "solutions_path": "solutions/06_sampling/05_solutions.md",
+      "human_scientific_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M06-L06",
+      "module": "M06",
+      "module_title": "نمونه‌گیری",
+      "title": "نمونه‌گیری کیفی و غیراحتمالی",
+      "prerequisites": [
+        "M01",
+        "M03"
+      ],
+      "levels": {
+        "beginner": "انتخاب هدفمند و در دسترس",
+        "intermediate": "حداکثر تنوع و قدرت اطلاعاتی",
+        "advanced": "منطق توقف، روش آمیخته و نقد تعمیم"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M06-L06-B01",
+          "M06-L06-B02",
+          "M06-L06-B03"
+        ],
+        "intermediate": [
+          "M06-L06-I01",
+          "M06-L06-I02",
+          "M06-L06-I03"
+        ],
+        "advanced": [
+          "M06-L06-A01",
+          "M06-L06-A02",
+          "M06-L06-A03"
+        ]
+      },
+      "status": "written_for_review",
+      "existing_content": "rewritten",
+      "source_review": "documented_partial_verification",
+      "path": "06_sampling/lessons/06_qualitative_nonprobability.md",
+      "exercises_path": "06_sampling/exercises/06_exercises.md",
+      "solutions_path": "solutions/06_sampling/06_solutions.md",
+      "human_scientific_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M06-L07",
+      "module": "M06",
+      "module_title": "نمونه‌گیری",
+      "title": "نمونه‌گیری بالینی و آزمایشگاهی",
+      "prerequisites": [
+        "M01",
+        "M03"
+      ],
+      "levels": {
+        "beginner": "واحد آزمایشی و تکرار",
+        "intermediate": "جذب بالینی و تفکیک تکرارها",
+        "advanced": "شبه‌تکرار و دامنهٔ استنباط زیستی"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M06-L07-B01",
+          "M06-L07-B02",
+          "M06-L07-B03"
+        ],
+        "intermediate": [
+          "M06-L07-I01",
+          "M06-L07-I02",
+          "M06-L07-I03"
+        ],
+        "advanced": [
+          "M06-L07-A01",
+          "M06-L07-A02",
+          "M06-L07-A03"
+        ]
+      },
+      "status": "written_for_review",
+      "existing_content": "rewritten",
+      "source_review": "documented_partial_verification",
+      "path": "06_sampling/lessons/07_clinical_biological.md",
+      "exercises_path": "06_sampling/exercises/07_exercises.md",
+      "solutions_path": "solutions/06_sampling/07_solutions.md",
+      "human_scientific_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M06-L08",
+      "module": "M06",
+      "module_title": "نمونه‌گیری",
+      "title": "از نمونه‌گیری تا روش کار پژوهش",
+      "prerequisites": [
+        "M01",
+        "M03"
+      ],
+      "levels": {
+        "beginner": "انتخاب در برابر تخصیص",
+        "intermediate": "توالی، پنهان‌سازی و گزارش",
+        "advanced": "پروتکل یکپارچه و ممیزی مسیر انتخاب"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M06-L08-B01",
+          "M06-L08-B02",
+          "M06-L08-B03"
+        ],
+        "intermediate": [
+          "M06-L08-I01",
+          "M06-L08-I02",
+          "M06-L08-I03"
+        ],
+        "advanced": [
+          "M06-L08-A01",
+          "M06-L08-A02",
+          "M06-L08-A03"
+        ]
+      },
+      "status": "written_for_review",
+      "existing_content": "rewritten",
+      "source_review": "documented_partial_verification",
+      "path": "06_sampling/lessons/08_protocol_randomization.md",
+      "exercises_path": "06_sampling/exercises/08_exercises.md",
+      "solutions_path": "solutions/06_sampling/08_solutions.md",
+      "human_scientific_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M07-L01",
+      "module": "M07",
+      "module_title": "تعیین حجم نمونه و توجیه کفایت داده",
+      "title": "از پرسش تا ورودی محاسبه",
+      "prerequisites": [
+        "M03",
+        "M05",
+        "M06"
+      ],
+      "levels": {
+        "beginner": "پیامد اصلی و برآورد هدف",
+        "intermediate": "دقت، اندازهٔ اثر و منبع ورودی",
+        "advanced": "نااطمینانی ورودی‌ها و سناریوسازی"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M07-L01-B01",
+          "M07-L01-B02",
+          "M07-L01-B03"
+        ],
+        "intermediate": [
+          "M07-L01-I01",
+          "M07-L01-I02",
+          "M07-L01-I03"
+        ],
+        "advanced": [
+          "M07-L01-A01",
+          "M07-L01-A02",
+          "M07-L01-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M07-L02",
+      "module": "M07",
+      "module_title": "تعیین حجم نمونه و توجیه کفایت داده",
+      "title": "برآورد میانگین و نسبت",
+      "prerequisites": [
+        "M03",
+        "M05",
+        "M06"
+      ],
+      "levels": {
+        "beginner": "حاشیهٔ خطا",
+        "intermediate": "محاسبه و گزارش فرض‌ها",
+        "advanced": "جامعهٔ محدود و زیرگروه‌های هدف"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M07-L02-B01",
+          "M07-L02-B02",
+          "M07-L02-B03"
+        ],
+        "intermediate": [
+          "M07-L02-I01",
+          "M07-L02-I02",
+          "M07-L02-I03"
+        ],
+        "advanced": [
+          "M07-L02-A01",
+          "M07-L02-A02",
+          "M07-L02-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M07-L03",
+      "module": "M07",
+      "module_title": "تعیین حجم نمونه و توجیه کفایت داده",
+      "title": "مقایسهٔ گروه‌ها و دادهٔ زوجی",
+      "prerequisites": [
+        "M03",
+        "M05",
+        "M06"
+      ],
+      "levels": {
+        "beginner": "توان و تفاوت مهم",
+        "intermediate": "ورودی متناسب با طرح",
+        "advanced": "نسبت گروه‌ها و همبستگی اندازه‌گیری‌ها"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M07-L03-B01",
+          "M07-L03-B02",
+          "M07-L03-B03"
+        ],
+        "intermediate": [
+          "M07-L03-I01",
+          "M07-L03-I02",
+          "M07-L03-I03"
+        ],
+        "advanced": [
+          "M07-L03-A01",
+          "M07-L03-A02",
+          "M07-L03-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M07-L04",
+      "module": "M07",
+      "module_title": "تعیین حجم نمونه و توجیه کفایت داده",
+      "title": "پیامد زمان تا رویداد و تشخیص",
+      "prerequisites": [
+        "M03",
+        "M05",
+        "M06"
+      ],
+      "levels": {
+        "beginner": "رویداد و حساسیت",
+        "intermediate": "پیوند شمار رویداد و شمار افراد",
+        "advanced": "شیوع، سانسور و چند پیامد"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M07-L04-B01",
+          "M07-L04-B02",
+          "M07-L04-B03"
+        ],
+        "intermediate": [
+          "M07-L04-I01",
+          "M07-L04-I02",
+          "M07-L04-I03"
+        ],
+        "advanced": [
+          "M07-L04-A01",
+          "M07-L04-A02",
+          "M07-L04-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M07-L05",
+      "module": "M07",
+      "module_title": "تعیین حجم نمونه و توجیه کفایت داده",
+      "title": "خوشه، اندازه‌گیری تکراری و طرح پیچیده",
+      "prerequisites": [
+        "M03",
+        "M05",
+        "M06"
+      ],
+      "levels": {
+        "beginner": "اثر طرح",
+        "intermediate": "شمار خوشه و اندازهٔ خوشه",
+        "advanced": "سناریوسازی و ارجاع به شبیه‌سازی تخصصی"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M07-L05-B01",
+          "M07-L05-B02",
+          "M07-L05-B03"
+        ],
+        "intermediate": [
+          "M07-L05-I01",
+          "M07-L05-I02",
+          "M07-L05-I03"
+        ],
+        "advanced": [
+          "M07-L05-A01",
+          "M07-L05-A02",
+          "M07-L05-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M07-L06",
+      "module": "M07",
+      "module_title": "تعیین حجم نمونه و توجیه کفایت داده",
+      "title": "پیش‌بینی و روان‌سنجی",
+      "prerequisites": [
+        "M03",
+        "M05",
+        "M06"
+      ],
+      "levels": {
+        "beginner": "هدف توسعه یا اعتبارسنجی",
+        "intermediate": "انتخاب رویکرد ویژهٔ هدف",
+        "advanced": "نقد روش‌های سرانگشتی و بیش‌برازش"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M07-L06-B01",
+          "M07-L06-B02",
+          "M07-L06-B03"
+        ],
+        "intermediate": [
+          "M07-L06-I01",
+          "M07-L06-I02",
+          "M07-L06-I03"
+        ],
+        "advanced": [
+          "M07-L06-A01",
+          "M07-L06-A02",
+          "M07-L06-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M07-L07",
+      "module": "M07",
+      "module_title": "تعیین حجم نمونه و توجیه کفایت داده",
+      "title": "پژوهش زیستی و امکان‌سنجی",
+      "prerequisites": [
+        "M03",
+        "M05",
+        "M06"
+      ],
+      "levels": {
+        "beginner": "شمار تکرار زیستی",
+        "intermediate": "حجم نمونه بر پایهٔ واحد آزمایشی",
+        "advanced": "پایلوت، محدودیت منابع و حساسیت مفروضات"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M07-L07-B01",
+          "M07-L07-B02",
+          "M07-L07-B03"
+        ],
+        "intermediate": [
+          "M07-L07-I01",
+          "M07-L07-I02",
+          "M07-L07-I03"
+        ],
+        "advanced": [
+          "M07-L07-A01",
+          "M07-L07-A02",
+          "M07-L07-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M07-L08",
+      "module": "M07",
+      "module_title": "تعیین حجم نمونه و توجیه کفایت داده",
+      "title": "گزارش حجم نمونه و بازبینی محاسبه",
+      "prerequisites": [
+        "M03",
+        "M05",
+        "M06"
+      ],
+      "levels": {
+        "beginner": "ثبت ورودی و منبع",
+        "intermediate": "ریزش، بی‌پاسخی و گردکردن",
+        "advanced": "بازتولید محاسبه و نقد توان پس از پژوهش"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M07-L08-B01",
+          "M07-L08-B02",
+          "M07-L08-B03"
+        ],
+        "intermediate": [
+          "M07-L08-I01",
+          "M07-L08-I02",
+          "M07-L08-I03"
+        ],
+        "advanced": [
+          "M07-L08-A01",
+          "M07-L08-A02",
+          "M07-L08-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M08-L01",
+      "module": "M08",
+      "module_title": "مدیریت داده و برنامهٔ کوتاه تحلیل",
+      "title": "فرهنگ داده و طراحی فرم",
+      "prerequisites": [
+        "M03",
+        "M05",
+        "M06"
+      ],
+      "levels": {
+        "beginner": "نام‌گذاری و کدگذاری",
+        "intermediate": "فرم، شناسه و روش ثبت",
+        "advanced": "ردیابی تغییر و پیوند پایگاه‌ها"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M08-L01-B01",
+          "M08-L01-B02",
+          "M08-L01-B03"
+        ],
+        "intermediate": [
+          "M08-L01-I01",
+          "M08-L01-I02",
+          "M08-L01-I03"
+        ],
+        "advanced": [
+          "M08-L01-A01",
+          "M08-L01-A02",
+          "M08-L01-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M08-L02",
+      "module": "M08",
+      "module_title": "مدیریت داده و برنامهٔ کوتاه تحلیل",
+      "title": "پاک‌سازی، دادهٔ گمشده و کیفیت",
+      "prerequisites": [
+        "M03",
+        "M05",
+        "M06"
+      ],
+      "levels": {
+        "beginner": "کنترل دامنه و سازگاری",
+        "intermediate": "ثبت خطا و رسیدگی به دادهٔ گمشده",
+        "advanced": "پیامد فرض‌های گم‌شدن و تحلیل حساسیت"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M08-L02-B01",
+          "M08-L02-B02",
+          "M08-L02-B03"
+        ],
+        "intermediate": [
+          "M08-L02-I01",
+          "M08-L02-I02",
+          "M08-L02-I03"
+        ],
+        "advanced": [
+          "M08-L02-A01",
+          "M08-L02-A02",
+          "M08-L02-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M08-L03",
+      "module": "M08",
+      "module_title": "مدیریت داده و برنامهٔ کوتاه تحلیل",
+      "title": "برنامهٔ تحلیل پیش از اجرا",
+      "prerequisites": [
+        "M03",
+        "M05",
+        "M06"
+      ],
+      "levels": {
+        "beginner": "پیامد و برآورد هدف",
+        "intermediate": "طرح کوتاه تحلیل و زیرگروه‌ها",
+        "advanced": "تغییر برنامه و جداسازی تحلیل اکتشافی"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M08-L03-B01",
+          "M08-L03-B02",
+          "M08-L03-B03"
+        ],
+        "intermediate": [
+          "M08-L03-I01",
+          "M08-L03-I02",
+          "M08-L03-I03"
+        ],
+        "advanced": [
+          "M08-L03-A01",
+          "M08-L03-A02",
+          "M08-L03-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M08-L04",
+      "module": "M08",
+      "module_title": "مدیریت داده و برنامهٔ کوتاه تحلیل",
+      "title": "خواندن خروجی آماری؛ درس کوتاه",
+      "prerequisites": [
+        "M03",
+        "M05",
+        "M06"
+      ],
+      "levels": {
+        "beginner": "اندازهٔ اثر و فاصلهٔ اطمینان",
+        "intermediate": "تفسیر نتیجه با اهمیت بالینی",
+        "advanced": "محدودیت آزمون و پیوند به داشبورد آمار"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M08-L04-B01",
+          "M08-L04-B02",
+          "M08-L04-B03"
+        ],
+        "intermediate": [
+          "M08-L04-I01",
+          "M08-L04-I02",
+          "M08-L04-I03"
+        ],
+        "advanced": [
+          "M08-L04-A01",
+          "M08-L04-A02",
+          "M08-L04-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M08-L05",
+      "module": "M08",
+      "module_title": "مدیریت داده و برنامهٔ کوتاه تحلیل",
+      "title": "مدیریت دادهٔ کیفی و زیستی",
+      "prerequisites": [
+        "M03",
+        "M05",
+        "M06"
+      ],
+      "levels": {
+        "beginner": "متن، تصویر و دادهٔ پُربعد",
+        "intermediate": "ثبت منشأ و ساختار فایل",
+        "advanced": "اثر دسته، ناشناس‌سازی و بازتولیدپذیری"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M08-L05-B01",
+          "M08-L05-B02",
+          "M08-L05-B03"
+        ],
+        "intermediate": [
+          "M08-L05-I01",
+          "M08-L05-I02",
+          "M08-L05-I03"
+        ],
+        "advanced": [
+          "M08-L05-A01",
+          "M08-L05-A02",
+          "M08-L05-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M09-L01",
+      "module": "M09",
+      "module_title": "اخلاق و درستکاری پژوهش",
+      "title": "اخلاق پژوهش انسانی",
+      "prerequisites": [
+        "M01",
+        "M03"
+      ],
+      "levels": {
+        "beginner": "سود، زیان و رضایت آگاهانه",
+        "intermediate": "گروه‌های آسیب‌پذیر و محرمانگی",
+        "advanced": "کاربرد ثانویه، زیست‌بانک و دادهٔ ژنومی"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M09-L01-B01",
+          "M09-L01-B02",
+          "M09-L01-B03"
+        ],
+        "intermediate": [
+          "M09-L01-I01",
+          "M09-L01-I02",
+          "M09-L01-I03"
+        ],
+        "advanced": [
+          "M09-L01-A01",
+          "M09-L01-A02",
+          "M09-L01-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M09-L02",
+      "module": "M09",
+      "module_title": "اخلاق و درستکاری پژوهش",
+      "title": "اخلاق پژوهش حیوانی و ایمنی زیستی",
+      "prerequisites": [
+        "M01",
+        "M03"
+      ],
+      "levels": {
+        "beginner": "جایگزینی، کاهش و بهسازی",
+        "intermediate": "طرح انسانی و نقطهٔ پایان",
+        "advanced": "سازش ارزش علمی، رفاه و ایمنی"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M09-L02-B01",
+          "M09-L02-B02",
+          "M09-L02-B03"
+        ],
+        "intermediate": [
+          "M09-L02-I01",
+          "M09-L02-I02",
+          "M09-L02-I03"
+        ],
+        "advanced": [
+          "M09-L02-A01",
+          "M09-L02-A02",
+          "M09-L02-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M09-L03",
+      "module": "M09",
+      "module_title": "اخلاق و درستکاری پژوهش",
+      "title": "درستکاری و پاسخ‌گویی",
+      "prerequisites": [
+        "M01",
+        "M03"
+      ],
+      "levels": {
+        "beginner": "ساختن داده و دست‌کاری",
+        "intermediate": "نویسندگی و تعارض منافع",
+        "advanced": "رسیدگی به خطا و بازپس‌گیری"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M09-L03-B01",
+          "M09-L03-B02",
+          "M09-L03-B03"
+        ],
+        "intermediate": [
+          "M09-L03-I01",
+          "M09-L03-I02",
+          "M09-L03-I03"
+        ],
+        "advanced": [
+          "M09-L03-A01",
+          "M09-L03-A02",
+          "M09-L03-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M09-L04",
+      "module": "M09",
+      "module_title": "اخلاق و درستکاری پژوهش",
+      "title": "ثبت و نظارت اخلاقی",
+      "prerequisites": [
+        "M01",
+        "M03"
+      ],
+      "levels": {
+        "beginner": "پروتکل و ثبت پیش از اجرا",
+        "intermediate": "گزارش رویداد و تغییر پروتکل",
+        "advanced": "مرز پژوهش، خدمت و بهبود کیفیت"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M09-L04-B01",
+          "M09-L04-B02",
+          "M09-L04-B03"
+        ],
+        "intermediate": [
+          "M09-L04-I01",
+          "M09-L04-I02",
+          "M09-L04-I03"
+        ],
+        "advanced": [
+          "M09-L04-A01",
+          "M09-L04-A02",
+          "M09-L04-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M10-L01",
+      "module": "M10",
+      "module_title": "نوشتن پروپوزال و پروتکل",
+      "title": "بیان مسئله و ارزش پژوهش",
+      "prerequisites": [
+        "M02",
+        "M03",
+        "M04",
+        "M05",
+        "M06",
+        "M07",
+        "M09"
+      ],
+      "levels": {
+        "beginner": "ساخت استدلال",
+        "intermediate": "پیوند شکاف، پرسش و هدف",
+        "advanced": "نقد ادعای نوآوری"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M10-L01-B01",
+          "M10-L01-B02",
+          "M10-L01-B03"
+        ],
+        "intermediate": [
+          "M10-L01-I01",
+          "M10-L01-I02",
+          "M10-L01-I03"
+        ],
+        "advanced": [
+          "M10-L01-A01",
+          "M10-L01-A02",
+          "M10-L01-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M10-L02",
+      "module": "M10",
+      "module_title": "نوشتن پروپوزال و پروتکل",
+      "title": "نوشتن روش پژوهش",
+      "prerequisites": [
+        "M02",
+        "M03",
+        "M04",
+        "M05",
+        "M06",
+        "M07",
+        "M09"
+      ],
+      "levels": {
+        "beginner": "جمعیت و طرح",
+        "intermediate": "همسویی سنجش، نمونه و تحلیل",
+        "advanced": "سناریوی شکست و روش جایگزین"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M10-L02-B01",
+          "M10-L02-B02",
+          "M10-L02-B03"
+        ],
+        "intermediate": [
+          "M10-L02-I01",
+          "M10-L02-I02",
+          "M10-L02-I03"
+        ],
+        "advanced": [
+          "M10-L02-A01",
+          "M10-L02-A02",
+          "M10-L02-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M10-L03",
+      "module": "M10",
+      "module_title": "نوشتن پروپوزال و پروتکل",
+      "title": "برنامهٔ اجرا و پیوست‌ها",
+      "prerequisites": [
+        "M02",
+        "M03",
+        "M04",
+        "M05",
+        "M06",
+        "M07",
+        "M09"
+      ],
+      "levels": {
+        "beginner": "زمان و منابع",
+        "intermediate": "فرم‌ها، بودجه و مسئولیت‌ها",
+        "advanced": "بازبینی همتا و نسخه‌بندی پروتکل"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M10-L03-B01",
+          "M10-L03-B02",
+          "M10-L03-B03"
+        ],
+        "intermediate": [
+          "M10-L03-I01",
+          "M10-L03-I02",
+          "M10-L03-I03"
+        ],
+        "advanced": [
+          "M10-L03-A01",
+          "M10-L03-A02",
+          "M10-L03-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M11-L01",
+      "module": "M11",
+      "module_title": "گزارش‌دهی و انتشار",
+      "title": "انتخاب رهنمود گزارش‌دهی",
+      "prerequisites": [
+        "M02",
+        "M03",
+        "M08",
+        "M09"
+      ],
+      "levels": {
+        "beginner": "رهنمود متناسب با طرح",
+        "intermediate": "نگاشت رهنمود به بخش‌های گزارش",
+        "advanced": "فاصلهٔ کامل‌بودن گزارش و کیفیت روش"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M11-L01-B01",
+          "M11-L01-B02",
+          "M11-L01-B03"
+        ],
+        "intermediate": [
+          "M11-L01-I01",
+          "M11-L01-I02",
+          "M11-L01-I03"
+        ],
+        "advanced": [
+          "M11-L01-A01",
+          "M11-L01-A02",
+          "M11-L01-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M11-L02",
+      "module": "M11",
+      "module_title": "گزارش‌دهی و انتشار",
+      "title": "نوشتن مقاله و نمایش یافته‌ها",
+      "prerequisites": [
+        "M02",
+        "M03",
+        "M08",
+        "M09"
+      ],
+      "levels": {
+        "beginner": "ساختار مقاله",
+        "intermediate": "جدول، شکل و روایت نتیجه",
+        "advanced": "پرهیز از اغراق و گزارش گزینشی"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M11-L02-B01",
+          "M11-L02-B02",
+          "M11-L02-B03"
+        ],
+        "intermediate": [
+          "M11-L02-I01",
+          "M11-L02-I02",
+          "M11-L02-I03"
+        ],
+        "advanced": [
+          "M11-L02-A01",
+          "M11-L02-A02",
+          "M11-L02-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M11-L03",
+      "module": "M11",
+      "module_title": "گزارش‌دهی و انتشار",
+      "title": "ارسال، داوری و پس از انتشار",
+      "prerequisites": [
+        "M02",
+        "M03",
+        "M08",
+        "M09"
+      ],
+      "levels": {
+        "beginner": "انتخاب نشریه",
+        "intermediate": "پاسخ مستند به داور",
+        "advanced": "بازبینی گزارش، داده و کد پس از انتشار"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M11-L03-B01",
+          "M11-L03-B02",
+          "M11-L03-B03"
+        ],
+        "intermediate": [
+          "M11-L03-I01",
+          "M11-L03-I02",
+          "M11-L03-I03"
+        ],
+        "advanced": [
+          "M11-L03-A01",
+          "M11-L03-A02",
+          "M11-L03-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M11-L04",
+      "module": "M11",
+      "module_title": "گزارش‌دهی و انتشار",
+      "title": "ارتباط با مخاطب غیرتخصصی",
+      "prerequisites": [
+        "M02",
+        "M03",
+        "M08",
+        "M09"
+      ],
+      "levels": {
+        "beginner": "چکیدهٔ روشن",
+        "intermediate": "گزارش برای بیمار و سیاست‌گذار",
+        "advanced": "بیان مرز شواهد و نااطمینانی"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M11-L04-B01",
+          "M11-L04-B02",
+          "M11-L04-B03"
+        ],
+        "intermediate": [
+          "M11-L04-I01",
+          "M11-L04-I02",
+          "M11-L04-I03"
+        ],
+        "advanced": [
+          "M11-L04-A01",
+          "M11-L04-A02",
+          "M11-L04-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M12-L01",
+      "module": "M12",
+      "module_title": "تأمین مالی پژوهش",
+      "title": "یافتن فراخوان و سنجش همخوانی",
+      "prerequisites": [
+        "M10"
+      ],
+      "levels": {
+        "beginner": "خواندن هدف فراخوان",
+        "intermediate": "شرایط و جدول زمان",
+        "advanced": "سنجش تناسب تیم و برنامهٔ مالی"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M12-L01-B01",
+          "M12-L01-B02",
+          "M12-L01-B03"
+        ],
+        "intermediate": [
+          "M12-L01-I01",
+          "M12-L01-I02",
+          "M12-L01-I03"
+        ],
+        "advanced": [
+          "M12-L01-A01",
+          "M12-L01-A02",
+          "M12-L01-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M12-L02",
+      "module": "M12",
+      "module_title": "تأمین مالی پژوهش",
+      "title": "نوشتن درخواست و بودجه",
+      "prerequisites": [
+        "M10"
+      ],
+      "levels": {
+        "beginner": "هدف و دستاورد",
+        "intermediate": "بستهٔ کاری و توجیه هزینه",
+        "advanced": "ریسک مالی و سناریوی کاهش بودجه"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M12-L02-B01",
+          "M12-L02-B02",
+          "M12-L02-B03"
+        ],
+        "intermediate": [
+          "M12-L02-I01",
+          "M12-L02-I02",
+          "M12-L02-I03"
+        ],
+        "advanced": [
+          "M12-L02-A01",
+          "M12-L02-A02",
+          "M12-L02-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M12-L03",
+      "module": "M12",
+      "module_title": "تأمین مالی پژوهش",
+      "title": "داوری و مدیریت گرنت",
+      "prerequisites": [
+        "M10"
+      ],
+      "levels": {
+        "beginner": "معیارهای داوری",
+        "intermediate": "بازنویسی و گزارش پیشرفت",
+        "advanced": "تعهدهای حامی و پایش تغییر شرایط"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M12-L03-B01",
+          "M12-L03-B02",
+          "M12-L03-B03"
+        ],
+        "intermediate": [
+          "M12-L03-I01",
+          "M12-L03-I02",
+          "M12-L03-I03"
+        ],
+        "advanced": [
+          "M12-L03-A01",
+          "M12-L03-A02",
+          "M12-L03-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M13-L01",
+      "module": "M13",
+      "module_title": "مدیریت پروژه و پژوهش",
+      "title": "چرخهٔ پروژه و ساختار کار",
+      "prerequisites": [
+        "M09",
+        "M10"
+      ],
+      "levels": {
+        "beginner": "خروجی و مرحله",
+        "intermediate": "بستهٔ کاری و وابستگی",
+        "advanced": "مسیر بحرانی و اولویت‌بندی"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M13-L01-B01",
+          "M13-L01-B02",
+          "M13-L01-B03"
+        ],
+        "intermediate": [
+          "M13-L01-I01",
+          "M13-L01-I02",
+          "M13-L01-I03"
+        ],
+        "advanced": [
+          "M13-L01-A01",
+          "M13-L01-A02",
+          "M13-L01-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M13-L02",
+      "module": "M13",
+      "module_title": "مدیریت پروژه و پژوهش",
+      "title": "زمان، هزینه و منابع",
+      "prerequisites": [
+        "M09",
+        "M10"
+      ],
+      "levels": {
+        "beginner": "برنامهٔ پایه",
+        "intermediate": "پایش هزینه و زمان",
+        "advanced": "تخصیص منابع و بازبرنامه‌ریزی"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M13-L02-B01",
+          "M13-L02-B02",
+          "M13-L02-B03"
+        ],
+        "intermediate": [
+          "M13-L02-I01",
+          "M13-L02-I02",
+          "M13-L02-I03"
+        ],
+        "advanced": [
+          "M13-L02-A01",
+          "M13-L02-A02",
+          "M13-L02-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M13-L03",
+      "module": "M13",
+      "module_title": "مدیریت پروژه و پژوهش",
+      "title": "تیم و همکاری",
+      "prerequisites": [
+        "M09",
+        "M10"
+      ],
+      "levels": {
+        "beginner": "نقش و مسئولیت",
+        "intermediate": "توافق همکاری و جلسه",
+        "advanced": "حل تعارض و همکاری چندمرکزی"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M13-L03-B01",
+          "M13-L03-B02",
+          "M13-L03-B03"
+        ],
+        "intermediate": [
+          "M13-L03-I01",
+          "M13-L03-I02",
+          "M13-L03-I03"
+        ],
+        "advanced": [
+          "M13-L03-A01",
+          "M13-L03-A02",
+          "M13-L03-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M13-L04",
+      "module": "M13",
+      "module_title": "مدیریت پروژه و پژوهش",
+      "title": "خطر، کیفیت و تغییر",
+      "prerequisites": [
+        "M09",
+        "M10"
+      ],
+      "levels": {
+        "beginner": "فهرست خطرها",
+        "intermediate": "پایش کیفیت و ثبت تغییر",
+        "advanced": "تصمیم توقف یا تغییر مسیر"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M13-L04-B01",
+          "M13-L04-B02",
+          "M13-L04-B03"
+        ],
+        "intermediate": [
+          "M13-L04-I01",
+          "M13-L04-I02",
+          "M13-L04-I03"
+        ],
+        "advanced": [
+          "M13-L04-A01",
+          "M13-L04-A02",
+          "M13-L04-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M13-L05",
+      "module": "M13",
+      "module_title": "مدیریت پروژه و پژوهش",
+      "title": "گردآوری و پیگیری میدانی",
+      "prerequisites": [
+        "M09",
+        "M10"
+      ],
+      "levels": {
+        "beginner": "آموزش تیم",
+        "intermediate": "پایش جذب و کیفیت داده",
+        "advanced": "مدیریت افت جذب و انحراف از روش کار"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M13-L05-B01",
+          "M13-L05-B02",
+          "M13-L05-B03"
+        ],
+        "intermediate": [
+          "M13-L05-I01",
+          "M13-L05-I02",
+          "M13-L05-I03"
+        ],
+        "advanced": [
+          "M13-L05-A01",
+          "M13-L05-A02",
+          "M13-L05-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M13-L06",
+      "module": "M13",
+      "module_title": "مدیریت پروژه و پژوهش",
+      "title": "مدیریت پژوهش در سازمان",
+      "prerequisites": [
+        "M09",
+        "M10"
+      ],
+      "levels": {
+        "beginner": "طرح در برابر سبد پژوهش",
+        "intermediate": "اولویت و شاخص‌های پایش",
+        "advanced": "حکمرانی، زیرساخت و ارزیابی اثر پژوهش"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M13-L06-B01",
+          "M13-L06-B02",
+          "M13-L06-B03"
+        ],
+        "intermediate": [
+          "M13-L06-I01",
+          "M13-L06-I02",
+          "M13-L06-I03"
+        ],
+        "advanced": [
+          "M13-L06-A01",
+          "M13-L06-A02",
+          "M13-L06-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M14-L01",
+      "module": "M14",
+      "module_title": "روان‌شناسی و جامعه‌شناسی پژوهشگر",
+      "title": "تفکر نقادانه و سوگیری شناختی",
+      "prerequisites": [
+        "M09"
+      ],
+      "levels": {
+        "beginner": "سوگیری تأییدی",
+        "intermediate": "نقد تصمیم‌های پژوهشی",
+        "advanced": "فشار انگیزشی و تصمیم گروهی"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M14-L01-B01",
+          "M14-L01-B02",
+          "M14-L01-B03"
+        ],
+        "intermediate": [
+          "M14-L01-I01",
+          "M14-L01-I02",
+          "M14-L01-I03"
+        ],
+        "advanced": [
+          "M14-L01-A01",
+          "M14-L01-A02",
+          "M14-L01-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M14-L02",
+      "module": "M14",
+      "module_title": "روان‌شناسی و جامعه‌شناسی پژوهشگر",
+      "title": "کار پژوهشی پایدار",
+      "prerequisites": [
+        "M09"
+      ],
+      "levels": {
+        "beginner": "برنامه و عادت کاری",
+        "intermediate": "راهنمایی و بازخورد",
+        "advanced": "فرسودگی و مرزهای همکاری"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M14-L02-B01",
+          "M14-L02-B02",
+          "M14-L02-B03"
+        ],
+        "intermediate": [
+          "M14-L02-I01",
+          "M14-L02-I02",
+          "M14-L02-I03"
+        ],
+        "advanced": [
+          "M14-L02-A01",
+          "M14-L02-A02",
+          "M14-L02-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M14-L03",
+      "module": "M14",
+      "module_title": "روان‌شناسی و جامعه‌شناسی پژوهشگر",
+      "title": "ساختار اجتماعی علم",
+      "prerequisites": [
+        "M09"
+      ],
+      "levels": {
+        "beginner": "شبکه و اعتبار",
+        "intermediate": "انگیزه‌های انتشار",
+        "advanced": "نابرابری، قدرت و فرهنگ آزمایشگاه"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M14-L03-B01",
+          "M14-L03-B02",
+          "M14-L03-B03"
+        ],
+        "intermediate": [
+          "M14-L03-I01",
+          "M14-L03-I02",
+          "M14-L03-I03"
+        ],
+        "advanced": [
+          "M14-L03-A01",
+          "M14-L03-A02",
+          "M14-L03-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M15-L01",
+      "module": "M15",
+      "module_title": "علم باز، ابزارها و هوش مصنوعی",
+      "title": "ثبت پیشینی و پژوهش باز",
+      "prerequisites": [
+        "M08",
+        "M09"
+      ],
+      "levels": {
+        "beginner": "تفاوت ثبت و گزارش",
+        "intermediate": "پروتکل و برنامهٔ تحلیل",
+        "advanced": "گزارش ثبت‌شده و تغییرهای پس از ثبت"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M15-L01-B01",
+          "M15-L01-B02",
+          "M15-L01-B03"
+        ],
+        "intermediate": [
+          "M15-L01-I01",
+          "M15-L01-I02",
+          "M15-L01-I03"
+        ],
+        "advanced": [
+          "M15-L01-A01",
+          "M15-L01-A02",
+          "M15-L01-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M15-L02",
+      "module": "M15",
+      "module_title": "علم باز، ابزارها و هوش مصنوعی",
+      "title": "داده و کد بازتولیدپذیر",
+      "prerequisites": [
+        "M08",
+        "M09"
+      ],
+      "levels": {
+        "beginner": "ساختار فایل و نسخه",
+        "intermediate": "Git، مستندسازی و محیط اجرا",
+        "advanced": "بازتولید در محیط جداگانه و نگهداشت"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M15-L02-B01",
+          "M15-L02-B02",
+          "M15-L02-B03"
+        ],
+        "intermediate": [
+          "M15-L02-I01",
+          "M15-L02-I02",
+          "M15-L02-I03"
+        ],
+        "advanced": [
+          "M15-L02-A01",
+          "M15-L02-A02",
+          "M15-L02-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M15-L03",
+      "module": "M15",
+      "module_title": "علم باز، ابزارها و هوش مصنوعی",
+      "title": "اشتراک‌گذاری مسئولانه",
+      "prerequisites": [
+        "M08",
+        "M09"
+      ],
+      "levels": {
+        "beginner": "مجوز و دسترسی",
+        "intermediate": "ناشناس‌سازی و منشأ داده",
+        "advanced": "دسترسی کنترل‌شده به دادهٔ حساس"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M15-L03-B01",
+          "M15-L03-B02",
+          "M15-L03-B03"
+        ],
+        "intermediate": [
+          "M15-L03-I01",
+          "M15-L03-I02",
+          "M15-L03-I03"
+        ],
+        "advanced": [
+          "M15-L03-A01",
+          "M15-L03-A02",
+          "M15-L03-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M15-L04",
+      "module": "M15",
+      "module_title": "علم باز، ابزارها و هوش مصنوعی",
+      "title": "هوش مصنوعی در چرخهٔ پژوهش",
+      "prerequisites": [
+        "M08",
+        "M09"
+      ],
+      "levels": {
+        "beginner": "کاربرد و خطای مدل",
+        "intermediate": "بررسی منبع و ثبت کمک ابزار",
+        "advanced": "نشت داده، ارزیابی و پاسخ‌گویی نویسنده"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M15-L04-B01",
+          "M15-L04-B02",
+          "M15-L04-B03"
+        ],
+        "intermediate": [
+          "M15-L04-I01",
+          "M15-L04-I02",
+          "M15-L04-I03"
+        ],
+        "advanced": [
+          "M15-L04-A01",
+          "M15-L04-A02",
+          "M15-L04-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M16-L01",
+      "module": "M16",
+      "module_title": "پروژهٔ پایانی",
+      "title": "انتخاب مسیر و تدوین طرح",
+      "prerequisites": [
+        "M10",
+        "M11",
+        "M13",
+        "M15"
+      ],
+      "levels": {
+        "beginner": "پرسش شدنی",
+        "intermediate": "پروتکل و برنامهٔ اجرا",
+        "advanced": "دفاع از انتخاب‌ها و سناریوهای جایگزین"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M16-L01-B01",
+          "M16-L01-B02",
+          "M16-L01-B03"
+        ],
+        "intermediate": [
+          "M16-L01-I01",
+          "M16-L01-I02",
+          "M16-L01-I03"
+        ],
+        "advanced": [
+          "M16-L01-A01",
+          "M16-L01-A02",
+          "M16-L01-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M16-L02",
+      "module": "M16",
+      "module_title": "پروژهٔ پایانی",
+      "title": "بازبینی همتا و بازنویسی",
+      "prerequisites": [
+        "M10",
+        "M11",
+        "M13",
+        "M15"
+      ],
+      "levels": {
+        "beginner": "چک‌لیست همسویی",
+        "intermediate": "پاسخ مستند به نقد",
+        "advanced": "ممیزی نمونه‌گیری، حجم نمونه و اخلاق"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M16-L02-B01",
+          "M16-L02-B02",
+          "M16-L02-B03"
+        ],
+        "intermediate": [
+          "M16-L02-I01",
+          "M16-L02-I02",
+          "M16-L02-I03"
+        ],
+        "advanced": [
+          "M16-L02-A01",
+          "M16-L02-A02",
+          "M16-L02-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M16-L03",
+      "module": "M16",
+      "module_title": "پروژهٔ پایانی",
+      "title": "بستهٔ نهایی پژوهش",
+      "prerequisites": [
+        "M10",
+        "M11",
+        "M13",
+        "M15"
+      ],
+      "levels": {
+        "beginner": "پروپوزال و پیوست",
+        "intermediate": "دادهٔ ساختگی و روش کار",
+        "advanced": "ارائه و بستهٔ بازتولیدپذیر"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M16-L03-B01",
+          "M16-L03-B02",
+          "M16-L03-B03"
+        ],
+        "intermediate": [
+          "M16-L03-I01",
+          "M16-L03-I02",
+          "M16-L03-I03"
+        ],
+        "advanced": [
+          "M16-L03-A01",
+          "M16-L03-A02",
+          "M16-L03-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    }
+  ]
+}
