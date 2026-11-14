@@ -59,6 +59,6 @@ Rscript --vanilla 06_sampling/code/sampling.R
 
 ## انتشار آینده
 
-کدها در پایان به GitHub منتقل می‌شوند. عمومی یا خصوصی بودن مخزن و مجوز کد و محتوا هنوز روشن نشده است؛ در این مرحله انتشار بیرونی انجام نشده است.
+درس‌های آماده در [پوشهٔ روش پژوهش در GitHub](https://github.com/raminabiri/course-research-methods-statistics/tree/main/research-methodology) روی شاخهٔ main قرار گرفتند. مخزن خصوصی است و وضعیت دسترسی آن تغییر نکرده است. ساخت نرم‌افزار و تعیین مجوز کد و محتوا هنوز در ادامهٔ پروژه قرار دارند.
 
 </div>
