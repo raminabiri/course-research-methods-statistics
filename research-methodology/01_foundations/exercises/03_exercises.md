@@ -133,4 +133,12 @@
 
 [درس، منابع و فیلم‌ها](../lessons/03_paradigms_approaches.md) · [پاسخ تشریحی](../../solutions/01_foundations/03_solutions.md) · [فهرست ماژول](../README.md)
 
+<!-- COURSE_NAV_START -->
+
+---
+
+[صفحهٔ پیشین: تمرین‌های درس 2: فلسفهٔ علم و منطق پژوهش](02_exercises.md) · [فهرست](../README.md) · [صفحهٔ پسین: تمرین‌های درس 4: از ایده تا پرسش و فرضیه](04_exercises.md)
+
+<!-- COURSE_NAV_END -->
+
 </div>

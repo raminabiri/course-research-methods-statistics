@@ -135,4 +135,12 @@
 
 [درس و منابع و فیلم‌ها](../lessons/01_population_frame.md) · [پاسخ تشریحی](../../solutions/06_sampling/01_solutions.md) · [فهرست ماژول](../README.md)
 
+<!-- COURSE_NAV_START -->
+
+---
+
+[صفحهٔ پیشین: از نمونه‌گیری تا روش کار پژوهش؛ تخصیص و گزارش](../lessons/08_protocol_randomization.md) · [فهرست](../README.md) · [صفحهٔ پسین: تمرین‌های درس 2: نمونه‌گیری تصادفی ساده و منظم](02_exercises.md)
+
+<!-- COURSE_NAV_END -->
+
 </div>

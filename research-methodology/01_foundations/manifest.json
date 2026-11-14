@@ -48,6 +48,17 @@
           "fa",
           "en"
         ]
+      },
+      "teaching_revision": "2026-11-15",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "01_foundations/README.md",
+        "next": "01_foundations/lessons/02_philosophy_reasoning.md"
       }
     },
     {
@@ -101,6 +112,17 @@
           "fa",
           "en"
         ]
+      },
+      "teaching_revision": "2026-11-15",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "01_foundations/lessons/01_science_knowledge.md",
+        "next": "01_foundations/lessons/03_paradigms_approaches.md"
       }
     },
     {
@@ -148,6 +170,17 @@
           "fa",
           "en"
         ]
+      },
+      "teaching_revision": "2026-11-15",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "01_foundations/lessons/02_philosophy_reasoning.md",
+        "next": "01_foundations/lessons/04_question_hypothesis.md"
       }
     },
     {
@@ -196,6 +229,17 @@
           "fa",
           "en"
         ]
+      },
+      "teaching_revision": "2026-11-15",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "01_foundations/lessons/03_paradigms_approaches.md",
+        "next": "01_foundations/lessons/05_variables_frameworks.md"
       }
     },
     {
@@ -244,6 +288,17 @@
           "fa",
           "en"
         ]
+      },
+      "teaching_revision": "2026-11-15",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "01_foundations/lessons/04_question_hypothesis.md",
+        "next": "01_foundations/exercises/01_exercises.md"
       }
     }
   ]

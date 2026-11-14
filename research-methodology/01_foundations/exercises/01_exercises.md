@@ -133,4 +133,12 @@
 
 [درس، منابع و فیلم‌ها](../lessons/01_science_knowledge.md) · [پاسخ تشریحی](../../solutions/01_foundations/01_solutions.md) · [فهرست ماژول](../README.md)
 
+<!-- COURSE_NAV_START -->
+
+---
+
+[صفحهٔ پیشین: متغیر، سازه و چارچوب مفهومی](../lessons/05_variables_frameworks.md) · [فهرست](../README.md) · [صفحهٔ پسین: تمرین‌های درس 2: فلسفهٔ علم و منطق پژوهش](02_exercises.md)
+
+<!-- COURSE_NAV_END -->
+
 </div>

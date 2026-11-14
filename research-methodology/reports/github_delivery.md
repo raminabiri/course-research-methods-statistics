@@ -35,7 +35,6 @@
 - [ماژول ۱](../01_foundations/README.md)
 - [ماژول نمونه‌گیری](../06_sampling/README.md)
 
-</div>
 
 
 ## نتیجهٔ انتشار
@@ -43,3 +42,13 @@
 بسته روی شاخهٔ main قرار گرفت. [نسخهٔ محتوایی ثبت‌شده](https://github.com/raminabiri/course-research-methods-statistics/commit/d178592f15381bd52ed3a652bde182970aa81ddc) شامل به‌روزرسانی ۹۸ فایل است. همهٔ ۱۰۶ فایل بسته با شناسهٔ محتوایی نسخهٔ GitHub تطبیق داده شدند؛ ۱۵۴ فایل موجودِ خارج از به‌روزرسانی با همان شناسهٔ قبلی نگه داشته شدند. دو درس از main بازخوانی شدند و وجود دو پیوند یوتیوب در هرکدام نیز بررسی شد. وضعیت مخزن خصوصی ماند.
 
 [باز کردن درس‌های ماژول ۱ در GitHub](https://github.com/raminabiri/course-research-methods-statistics/tree/main/research-methodology/01_foundations) · [باز کردن درس‌های نمونه‌گیری در GitHub](https://github.com/raminabiri/course-research-methods-statistics/tree/main/research-methodology/06_sampling)
+
+<!-- COURSE_NAV_START -->
+
+---
+
+[صفحهٔ پیشین: آموزش روش پژوهش در علوم پزشکی و زیستی](../README.md) · [فهرست](../README.md) · [صفحهٔ پسین: نقشهٔ جامع آموزش روش پژوهش در علوم پزشکی و زیستی](../curriculum/README.md)
+
+<!-- COURSE_NAV_END -->
+
+</div>

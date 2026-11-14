@@ -135,4 +135,12 @@
 
 [درس و منابع و فیلم‌ها](../lessons/04_cluster_multistage.md) · [پاسخ تشریحی](../../solutions/06_sampling/04_solutions.md) · [فهرست ماژول](../README.md)
 
+<!-- COURSE_NAV_START -->
+
+---
+
+[صفحهٔ پیشین: تمرین‌های درس 3: نمونه‌گیری طبقه‌ای و تخصیص نمونه](03_exercises.md) · [فهرست](../README.md) · [صفحهٔ پسین: تمرین‌های درس 5: وزن نمونه‌گیری، بی‌پاسخی و اثر طرح](05_exercises.md)
+
+<!-- COURSE_NAV_END -->
+
 </div>

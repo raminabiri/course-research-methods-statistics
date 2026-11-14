@@ -39,3 +39,11 @@
 | برخوردگر | Collider | M01-L05 |
 | چارچوب نظری | Theoretical framework | M01-L05 |
 | چارچوب مفهومی | Conceptual framework | M01-L05 |
+
+<!-- COURSE_NAV_START -->
+
+---
+
+[صفحهٔ پیشین: کاربرگ تعریف متغیر و چارچوب مفهومی](variables_workbook.md) · [فهرست](../README.md) · [صفحهٔ پسین: منابع ماژول ۱: مبانی شناخت و پرسش پژوهش](references.md)
+
+<!-- COURSE_NAV_END -->

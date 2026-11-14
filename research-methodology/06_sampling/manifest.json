@@ -48,6 +48,17 @@
           "fa",
           "en"
         ]
+      },
+      "teaching_revision": "2026-11-15",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "06_sampling/README.md",
+        "next": "06_sampling/lessons/02_simple_systematic.md"
       }
     },
     {
@@ -95,6 +106,17 @@
           "fa",
           "en"
         ]
+      },
+      "teaching_revision": "2026-11-15",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "06_sampling/lessons/01_population_frame.md",
+        "next": "06_sampling/lessons/03_stratified.md"
       }
     },
     {
@@ -142,6 +164,17 @@
           "fa",
           "en"
         ]
+      },
+      "teaching_revision": "2026-11-15",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "06_sampling/lessons/02_simple_systematic.md",
+        "next": "06_sampling/lessons/04_cluster_multistage.md"
       }
     },
     {
@@ -189,6 +222,17 @@
           "fa",
           "en"
         ]
+      },
+      "teaching_revision": "2026-11-15",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "06_sampling/lessons/03_stratified.md",
+        "next": "06_sampling/lessons/05_weights_nonresponse.md"
       }
     },
     {
@@ -239,6 +283,17 @@
           "fa",
           "en"
         ]
+      },
+      "teaching_revision": "2026-11-15",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "06_sampling/lessons/04_cluster_multistage.md",
+        "next": "06_sampling/lessons/06_qualitative_nonprobability.md"
       }
     },
     {
@@ -287,6 +342,17 @@
           "fa",
           "en"
         ]
+      },
+      "teaching_revision": "2026-11-15",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "06_sampling/lessons/05_weights_nonresponse.md",
+        "next": "06_sampling/lessons/07_clinical_biological.md"
       }
     },
     {
@@ -333,6 +399,17 @@
           "fa",
           "en"
         ]
+      },
+      "teaching_revision": "2026-11-15",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "06_sampling/lessons/06_qualitative_nonprobability.md",
+        "next": "06_sampling/lessons/08_protocol_randomization.md"
       }
     },
     {
@@ -379,6 +456,17 @@
           "fa",
           "en"
         ]
+      },
+      "teaching_revision": "2026-11-15",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "06_sampling/lessons/07_clinical_biological.md",
+        "next": "06_sampling/exercises/01_exercises.md"
       }
     }
   ]

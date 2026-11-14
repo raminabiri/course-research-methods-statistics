@@ -67,4 +67,12 @@
 
 [درس پرسش](../lessons/04_question_hypothesis.md) · [درس رویکردها](../lessons/03_paradigms_approaches.md) · [فهرست ماژول](../README.md)
 
+<!-- COURSE_NAV_START -->
+
+---
+
+[صفحهٔ پیشین: کارت ارزیابی ادعای پژوهشی](claim_audit.md) · [فهرست](../README.md) · [صفحهٔ پسین: کاربرگ تعریف متغیر و چارچوب مفهومی](variables_workbook.md)
+
+<!-- COURSE_NAV_END -->
+
 </div>

@@ -1,0 +1,386 @@
+{
+  "version": 1,
+  "date": "2026-11-15",
+  "pages": {
+    "README.md": {
+      "previous": "curriculum/README.md",
+      "next": "01_foundations/README.md",
+      "home": "README.md"
+    },
+    "curriculum/README.md": {
+      "previous": "README.md",
+      "next": "01_foundations/README.md",
+      "home": "README.md"
+    },
+    "01_foundations/README.md": {
+      "previous": "curriculum/README.md",
+      "next": "01_foundations/lessons/01_science_knowledge.md",
+      "home": "01_foundations/README.md"
+    },
+    "01_foundations/lessons/01_science_knowledge.md": {
+      "previous": "01_foundations/README.md",
+      "next": "01_foundations/lessons/02_philosophy_reasoning.md",
+      "home": "01_foundations/README.md"
+    },
+    "01_foundations/lessons/02_philosophy_reasoning.md": {
+      "previous": "01_foundations/lessons/01_science_knowledge.md",
+      "next": "01_foundations/lessons/03_paradigms_approaches.md",
+      "home": "01_foundations/README.md"
+    },
+    "01_foundations/lessons/03_paradigms_approaches.md": {
+      "previous": "01_foundations/lessons/02_philosophy_reasoning.md",
+      "next": "01_foundations/lessons/04_question_hypothesis.md",
+      "home": "01_foundations/README.md"
+    },
+    "01_foundations/lessons/04_question_hypothesis.md": {
+      "previous": "01_foundations/lessons/03_paradigms_approaches.md",
+      "next": "01_foundations/lessons/05_variables_frameworks.md",
+      "home": "01_foundations/README.md"
+    },
+    "01_foundations/lessons/05_variables_frameworks.md": {
+      "previous": "01_foundations/lessons/04_question_hypothesis.md",
+      "next": "01_foundations/exercises/01_exercises.md",
+      "home": "01_foundations/README.md"
+    },
+    "01_foundations/exercises/01_exercises.md": {
+      "previous": "01_foundations/lessons/05_variables_frameworks.md",
+      "next": "01_foundations/exercises/02_exercises.md",
+      "home": "01_foundations/README.md"
+    },
+    "01_foundations/exercises/02_exercises.md": {
+      "previous": "01_foundations/exercises/01_exercises.md",
+      "next": "01_foundations/exercises/03_exercises.md",
+      "home": "01_foundations/README.md"
+    },
+    "01_foundations/exercises/03_exercises.md": {
+      "previous": "01_foundations/exercises/02_exercises.md",
+      "next": "01_foundations/exercises/04_exercises.md",
+      "home": "01_foundations/README.md"
+    },
+    "01_foundations/exercises/04_exercises.md": {
+      "previous": "01_foundations/exercises/03_exercises.md",
+      "next": "01_foundations/exercises/05_exercises.md",
+      "home": "01_foundations/README.md"
+    },
+    "01_foundations/exercises/05_exercises.md": {
+      "previous": "01_foundations/exercises/04_exercises.md",
+      "next": "solutions/01_foundations/README.md",
+      "home": "01_foundations/README.md"
+    },
+    "solutions/01_foundations/README.md": {
+      "previous": "01_foundations/exercises/05_exercises.md",
+      "next": "solutions/01_foundations/01_solutions.md",
+      "home": "01_foundations/README.md"
+    },
+    "solutions/01_foundations/01_solutions.md": {
+      "previous": "solutions/01_foundations/README.md",
+      "next": "solutions/01_foundations/02_solutions.md",
+      "home": "01_foundations/README.md"
+    },
+    "solutions/01_foundations/02_solutions.md": {
+      "previous": "solutions/01_foundations/01_solutions.md",
+      "next": "solutions/01_foundations/03_solutions.md",
+      "home": "01_foundations/README.md"
+    },
+    "solutions/01_foundations/03_solutions.md": {
+      "previous": "solutions/01_foundations/02_solutions.md",
+      "next": "solutions/01_foundations/04_solutions.md",
+      "home": "01_foundations/README.md"
+    },
+    "solutions/01_foundations/04_solutions.md": {
+      "previous": "solutions/01_foundations/03_solutions.md",
+      "next": "solutions/01_foundations/05_solutions.md",
+      "home": "01_foundations/README.md"
+    },
+    "solutions/01_foundations/05_solutions.md": {
+      "previous": "solutions/01_foundations/04_solutions.md",
+      "next": "01_foundations/resources/claim_audit.md",
+      "home": "01_foundations/README.md"
+    },
+    "01_foundations/resources/claim_audit.md": {
+      "previous": "solutions/01_foundations/05_solutions.md",
+      "next": "01_foundations/resources/question_workbook.md",
+      "home": "01_foundations/README.md"
+    },
+    "01_foundations/resources/question_workbook.md": {
+      "previous": "01_foundations/resources/claim_audit.md",
+      "next": "01_foundations/resources/variables_workbook.md",
+      "home": "01_foundations/README.md"
+    },
+    "01_foundations/resources/variables_workbook.md": {
+      "previous": "01_foundations/resources/question_workbook.md",
+      "next": "01_foundations/resources/glossary.md",
+      "home": "01_foundations/README.md"
+    },
+    "01_foundations/resources/glossary.md": {
+      "previous": "01_foundations/resources/variables_workbook.md",
+      "next": "01_foundations/resources/references.md",
+      "home": "01_foundations/README.md"
+    },
+    "01_foundations/resources/references.md": {
+      "previous": "01_foundations/resources/glossary.md",
+      "next": "01_foundations/resources/videos.md",
+      "home": "01_foundations/README.md"
+    },
+    "01_foundations/resources/videos.md": {
+      "previous": "01_foundations/resources/references.md",
+      "next": "curriculum/README.md",
+      "home": "01_foundations/README.md"
+    },
+    "01_foundations/05_lesson_research_question.md": {
+      "previous": "01_foundations/README.md",
+      "next": "01_foundations/lessons/04_question_hypothesis.md",
+      "home": "01_foundations/README.md"
+    },
+    "01_foundations/03_lesson_philosophy_of_science_2.md": {
+      "previous": "01_foundations/README.md",
+      "next": "01_foundations/lessons/02_philosophy_reasoning.md",
+      "home": "01_foundations/README.md"
+    },
+    "01_foundations/02_lesson_philosophy_of_science_1.md": {
+      "previous": "01_foundations/README.md",
+      "next": "01_foundations/lessons/02_philosophy_reasoning.md",
+      "home": "01_foundations/README.md"
+    },
+    "01_foundations/08_solutions.md": {
+      "previous": "01_foundations/README.md",
+      "next": "solutions/01_foundations/README.md",
+      "home": "01_foundations/README.md"
+    },
+    "01_foundations/04_lesson_paradigms_and_reasoning.md": {
+      "previous": "01_foundations/README.md",
+      "next": "01_foundations/lessons/03_paradigms_approaches.md",
+      "home": "01_foundations/README.md"
+    },
+    "01_foundations/01_lesson_science_and_knowledge.md": {
+      "previous": "01_foundations/README.md",
+      "next": "01_foundations/lessons/01_science_knowledge.md",
+      "home": "01_foundations/README.md"
+    },
+    "01_foundations/06_lesson_variables_and_frameworks.md": {
+      "previous": "01_foundations/README.md",
+      "next": "01_foundations/lessons/05_variables_frameworks.md",
+      "home": "01_foundations/README.md"
+    },
+    "01_foundations/07_exercises.md": {
+      "previous": "01_foundations/README.md",
+      "next": "01_foundations/README.md",
+      "home": "01_foundations/README.md"
+    },
+    "06_sampling/README.md": {
+      "previous": "curriculum/README.md",
+      "next": "06_sampling/lessons/01_population_frame.md",
+      "home": "06_sampling/README.md"
+    },
+    "06_sampling/lessons/01_population_frame.md": {
+      "previous": "06_sampling/README.md",
+      "next": "06_sampling/lessons/02_simple_systematic.md",
+      "home": "06_sampling/README.md"
+    },
+    "06_sampling/lessons/02_simple_systematic.md": {
+      "previous": "06_sampling/lessons/01_population_frame.md",
+      "next": "06_sampling/lessons/03_stratified.md",
+      "home": "06_sampling/README.md"
+    },
+    "06_sampling/lessons/03_stratified.md": {
+      "previous": "06_sampling/lessons/02_simple_systematic.md",
+      "next": "06_sampling/lessons/04_cluster_multistage.md",
+      "home": "06_sampling/README.md"
+    },
+    "06_sampling/lessons/04_cluster_multistage.md": {
+      "previous": "06_sampling/lessons/03_stratified.md",
+      "next": "06_sampling/lessons/05_weights_nonresponse.md",
+      "home": "06_sampling/README.md"
+    },
+    "06_sampling/lessons/05_weights_nonresponse.md": {
+      "previous": "06_sampling/lessons/04_cluster_multistage.md",
+      "next": "06_sampling/lessons/06_qualitative_nonprobability.md",
+      "home": "06_sampling/README.md"
+    },
+    "06_sampling/lessons/06_qualitative_nonprobability.md": {
+      "previous": "06_sampling/lessons/05_weights_nonresponse.md",
+      "next": "06_sampling/lessons/07_clinical_biological.md",
+      "home": "06_sampling/README.md"
+    },
+    "06_sampling/lessons/07_clinical_biological.md": {
+      "previous": "06_sampling/lessons/06_qualitative_nonprobability.md",
+      "next": "06_sampling/lessons/08_protocol_randomization.md",
+      "home": "06_sampling/README.md"
+    },
+    "06_sampling/lessons/08_protocol_randomization.md": {
+      "previous": "06_sampling/lessons/07_clinical_biological.md",
+      "next": "06_sampling/exercises/01_exercises.md",
+      "home": "06_sampling/README.md"
+    },
+    "06_sampling/exercises/01_exercises.md": {
+      "previous": "06_sampling/lessons/08_protocol_randomization.md",
+      "next": "06_sampling/exercises/02_exercises.md",
+      "home": "06_sampling/README.md"
+    },
+    "06_sampling/exercises/02_exercises.md": {
+      "previous": "06_sampling/exercises/01_exercises.md",
+      "next": "06_sampling/exercises/03_exercises.md",
+      "home": "06_sampling/README.md"
+    },
+    "06_sampling/exercises/03_exercises.md": {
+      "previous": "06_sampling/exercises/02_exercises.md",
+      "next": "06_sampling/exercises/04_exercises.md",
+      "home": "06_sampling/README.md"
+    },
+    "06_sampling/exercises/04_exercises.md": {
+      "previous": "06_sampling/exercises/03_exercises.md",
+      "next": "06_sampling/exercises/05_exercises.md",
+      "home": "06_sampling/README.md"
+    },
+    "06_sampling/exercises/05_exercises.md": {
+      "previous": "06_sampling/exercises/04_exercises.md",
+      "next": "06_sampling/exercises/06_exercises.md",
+      "home": "06_sampling/README.md"
+    },
+    "06_sampling/exercises/06_exercises.md": {
+      "previous": "06_sampling/exercises/05_exercises.md",
+      "next": "06_sampling/exercises/07_exercises.md",
+      "home": "06_sampling/README.md"
+    },
+    "06_sampling/exercises/07_exercises.md": {
+      "previous": "06_sampling/exercises/06_exercises.md",
+      "next": "06_sampling/exercises/08_exercises.md",
+      "home": "06_sampling/README.md"
+    },
+    "06_sampling/exercises/08_exercises.md": {
+      "previous": "06_sampling/exercises/07_exercises.md",
+      "next": "solutions/06_sampling/README.md",
+      "home": "06_sampling/README.md"
+    },
+    "solutions/06_sampling/README.md": {
+      "previous": "06_sampling/exercises/08_exercises.md",
+      "next": "solutions/06_sampling/01_solutions.md",
+      "home": "06_sampling/README.md"
+    },
+    "solutions/06_sampling/01_solutions.md": {
+      "previous": "solutions/06_sampling/README.md",
+      "next": "solutions/06_sampling/02_solutions.md",
+      "home": "06_sampling/README.md"
+    },
+    "solutions/06_sampling/02_solutions.md": {
+      "previous": "solutions/06_sampling/01_solutions.md",
+      "next": "solutions/06_sampling/03_solutions.md",
+      "home": "06_sampling/README.md"
+    },
+    "solutions/06_sampling/03_solutions.md": {
+      "previous": "solutions/06_sampling/02_solutions.md",
+      "next": "solutions/06_sampling/04_solutions.md",
+      "home": "06_sampling/README.md"
+    },
+    "solutions/06_sampling/04_solutions.md": {
+      "previous": "solutions/06_sampling/03_solutions.md",
+      "next": "solutions/06_sampling/05_solutions.md",
+      "home": "06_sampling/README.md"
+    },
+    "solutions/06_sampling/05_solutions.md": {
+      "previous": "solutions/06_sampling/04_solutions.md",
+      "next": "solutions/06_sampling/06_solutions.md",
+      "home": "06_sampling/README.md"
+    },
+    "solutions/06_sampling/06_solutions.md": {
+      "previous": "solutions/06_sampling/05_solutions.md",
+      "next": "solutions/06_sampling/07_solutions.md",
+      "home": "06_sampling/README.md"
+    },
+    "solutions/06_sampling/07_solutions.md": {
+      "previous": "solutions/06_sampling/06_solutions.md",
+      "next": "solutions/06_sampling/08_solutions.md",
+      "home": "06_sampling/README.md"
+    },
+    "solutions/06_sampling/08_solutions.md": {
+      "previous": "solutions/06_sampling/07_solutions.md",
+      "next": "06_sampling/resources/protocol_template.md",
+      "home": "06_sampling/README.md"
+    },
+    "06_sampling/resources/protocol_template.md": {
+      "previous": "solutions/06_sampling/08_solutions.md",
+      "next": "06_sampling/resources/sampling_data_dictionary.md",
+      "home": "06_sampling/README.md"
+    },
+    "06_sampling/resources/sampling_data_dictionary.md": {
+      "previous": "06_sampling/resources/protocol_template.md",
+      "next": "06_sampling/resources/references.md",
+      "home": "06_sampling/README.md"
+    },
+    "06_sampling/resources/references.md": {
+      "previous": "06_sampling/resources/sampling_data_dictionary.md",
+      "next": "06_sampling/resources/videos.md",
+      "home": "06_sampling/README.md"
+    },
+    "06_sampling/resources/videos.md": {
+      "previous": "06_sampling/resources/references.md",
+      "next": "curriculum/README.md",
+      "home": "06_sampling/README.md"
+    },
+    "06_sampling/lesson.md": {
+      "previous": "06_sampling/README.md",
+      "next": "06_sampling/README.md",
+      "home": "06_sampling/README.md"
+    },
+    "06_sampling/exercises.md": {
+      "previous": "06_sampling/README.md",
+      "next": "06_sampling/README.md",
+      "home": "06_sampling/README.md"
+    },
+    "06_sampling/solutions.md": {
+      "previous": "06_sampling/README.md",
+      "next": "solutions/06_sampling/README.md",
+      "home": "06_sampling/README.md"
+    },
+    "06_sampling/code/README.md": {
+      "previous": "06_sampling/README.md",
+      "next": "curriculum/README.md",
+      "home": "06_sampling/README.md"
+    },
+    "references/README.md": {
+      "previous": "README.md",
+      "next": "01_foundations/resources/references.md",
+      "home": "README.md"
+    },
+    "reports/foundations_review.md": {
+      "previous": "README.md",
+      "next": "curriculum/README.md",
+      "home": "README.md"
+    },
+    "reports/github_delivery.md": {
+      "previous": "README.md",
+      "next": "curriculum/README.md",
+      "home": "README.md"
+    },
+    "reports/sampling_review.md": {
+      "previous": "README.md",
+      "next": "curriculum/README.md",
+      "home": "README.md"
+    },
+    "reports/teaching_revision.md": {
+      "previous": "README.md",
+      "next": "curriculum/README.md",
+      "home": "README.md"
+    },
+    "STYLE_GUIDE.md": {
+      "previous": "README.md",
+      "next": "curriculum/README.md",
+      "home": "README.md"
+    },
+    "PROJECT_REQUIREMENTS.md": {
+      "previous": "README.md",
+      "next": "curriculum/README.md",
+      "home": "README.md"
+    },
+    "PROGRESS.md": {
+      "previous": "README.md",
+      "next": "curriculum/README.md",
+      "home": "README.md"
+    },
+    "glossary.md": {
+      "previous": "README.md",
+      "next": "curriculum/README.md",
+      "home": "README.md"
+    }
+  }
+}

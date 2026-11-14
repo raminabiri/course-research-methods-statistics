@@ -78,4 +78,12 @@
 
 [بازگشت به ماژول](../README.md)
 
+<!-- COURSE_NAV_START -->
+
+---
+
+[صفحهٔ پیشین: پاسخ‌های تشریحی درس 8: از نمونه‌گیری تا روش کار پژوهش؛ تخصیص و گزارش](../../solutions/06_sampling/08_solutions.md) · [فهرست](../README.md) · [صفحهٔ پسین: فرهنگ دادهٔ مسیر نمونه‌گیری](sampling_data_dictionary.md)
+
+<!-- COURSE_NAV_END -->
+
 </div>

@@ -44,4 +44,12 @@
 
 [درس مرتبط](../lessons/01_science_knowledge.md) · [فهرست ماژول](../README.md)
 
+<!-- COURSE_NAV_START -->
+
+---
+
+[صفحهٔ پیشین: پاسخ‌های تشریحی درس 5: متغیر، سازه و چارچوب مفهومی](../../solutions/01_foundations/05_solutions.md) · [فهرست](../README.md) · [صفحهٔ پسین: کاربرگ پرسش، فرضیه و امکان‌سنجی](question_workbook.md)
+
+<!-- COURSE_NAV_END -->
+
 </div>

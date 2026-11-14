@@ -133,4 +133,12 @@
 
 [درس، منابع و فیلم‌ها](../lessons/02_philosophy_reasoning.md) · [پاسخ تشریحی](../../solutions/01_foundations/02_solutions.md) · [فهرست ماژول](../README.md)
 
+<!-- COURSE_NAV_START -->
+
+---
+
+[صفحهٔ پیشین: تمرین‌های درس 1: علم، دانش و مرز ادعای علمی](01_exercises.md) · [فهرست](../README.md) · [صفحهٔ پسین: تمرین‌های درس 3: پارادایم‌ها و رویکردهای پژوهش](03_exercises.md)
+
+<!-- COURSE_NAV_END -->
+
 </div>

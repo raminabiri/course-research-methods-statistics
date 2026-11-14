@@ -135,4 +135,12 @@
 
 [درس و منابع و فیلم‌ها](../lessons/06_qualitative_nonprobability.md) · [پاسخ تشریحی](../../solutions/06_sampling/06_solutions.md) · [فهرست ماژول](../README.md)
 
+<!-- COURSE_NAV_START -->
+
+---
+
+[صفحهٔ پیشین: تمرین‌های درس 5: وزن نمونه‌گیری، بی‌پاسخی و اثر طرح](05_exercises.md) · [فهرست](../README.md) · [صفحهٔ پسین: تمرین‌های درس 7: نمونه‌گیری بالینی و آزمایشگاهی؛ تکرار و شبه‌تکرار](07_exercises.md)
+
+<!-- COURSE_NAV_END -->
+
 </div>

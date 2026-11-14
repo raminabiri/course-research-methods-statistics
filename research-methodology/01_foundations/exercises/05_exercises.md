@@ -133,4 +133,12 @@
 
 [درس، منابع و فیلم‌ها](../lessons/05_variables_frameworks.md) · [پاسخ تشریحی](../../solutions/01_foundations/05_solutions.md) · [فهرست ماژول](../README.md)
 
+<!-- COURSE_NAV_START -->
+
+---
+
+[صفحهٔ پیشین: تمرین‌های درس 4: از ایده تا پرسش و فرضیه](04_exercises.md) · [فهرست](../README.md) · [صفحهٔ پسین: پاسخ‌های تشریحی ماژول ۱](../../solutions/01_foundations/README.md)
+
+<!-- COURSE_NAV_END -->
+
 </div>

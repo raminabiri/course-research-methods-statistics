@@ -45,4 +45,12 @@
 
 [درس مرتبط](../lessons/05_variables_frameworks.md) · [فهرست ماژول](../README.md)
 
+<!-- COURSE_NAV_START -->
+
+---
+
+[صفحهٔ پیشین: کاربرگ پرسش، فرضیه و امکان‌سنجی](question_workbook.md) · [فهرست](../README.md) · [صفحهٔ پسین: واژه‌نامهٔ ماژول ۱](glossary.md)
+
+<!-- COURSE_NAV_END -->
+
 </div>

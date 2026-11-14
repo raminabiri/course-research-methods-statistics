@@ -94,6 +94,12 @@ for manifest_path in manifest_paths:
                         '## 💬 پرسش از ChatGPT'):
             if heading not in lesson:
                 fail(f'{row["id"]}: missing {heading}')
+        if row.get('teaching_revision'):
+            for teaching_heading in ('## مسیر پیشنهادی خواندن','### مکث و بررسی برداشت'):
+                if teaching_heading not in lesson:
+                    fail(f'{row["id"]}: missing teaching section {teaching_heading}')
+            if '<summary>بازخورد کوتاه را بخوانید</summary>' not in lesson:
+                fail(f'{row["id"]}: missing formative feedback')
         expected = [f'{row["id"]}-{level}{n:02}'
                     for level in 'BIA' for n in range(1,4)]
         if row['exercise_ids'] != expected:
@@ -147,7 +153,7 @@ for row in curriculum['lessons']:
 
 # Established technical terms such as experimental unit and independent variable
 # are permitted by the author's explicit exception in STYLE_GUIDE.md.
-words = r'کلمه|عدم|عملکرد|استفاده|مشاهده|قواعد|دستورالعمل|رایج|اصلاح|انتها'
+words = r'کلمه|عدم|عملکرد|استفاده|مشاهده|قواعد|دستورالعمل|رایج|اصلاح|انتها|مثال'
 style = re.compile(r'(?<![\w\u200c])(?:'+words+r')(?![\w\u200c])'
                    r'|(?<![\w\u200c])می[\u200c ](?:باشد|گردد)|برای مثال|[\u064b-\u064d]'
                    r'|(?<![\w\u200c])ممکن است(?![\w\u200c])'
@@ -169,6 +175,33 @@ for path in paths:
         if destination and not (path.parent / destination).resolve().exists():
             fail(f'{path.relative_to(ROOT)}: broken link {target}')
         link_count += bool(destination)
+# Footers must be the final visible block and match the stored reading path.
+nav = load('curriculum/navigation.json')['pages']
+for local, item in nav.items():
+    path = ROOT / local
+    if not path.is_file():
+        fail(f'{local}: navigation source is missing')
+        continue
+    text = path.read_text()
+    match = re.search(r'<!-- COURSE_NAV_START -->(.*?)<!-- COURSE_NAV_END -->',text,re.S)
+    if match is None or text.count('<!-- COURSE_NAV_START -->') != 1:
+        fail(f'{local}: exactly one final navigation footer is required')
+        continue
+    tail=text[match.end():].replace('</div>','').strip()
+    if tail:
+        fail(f'{local}: content follows navigation footer')
+    for direction,label in [('previous','صفحهٔ پیشین'),('next','صفحهٔ پسین')]:
+        target=ROOT/item[direction]
+        if not target.is_file() or target.resolve()==path.resolve():
+            fail(f'{local}: invalid {direction} page')
+        link=re.search(r'\['+label+r': [^\]]+\]\(([^)]+)\)',match.group(1))
+        if link is None or (path.parent/link.group(1)).resolve()!=target.resolve():
+            fail(f'{local}: {direction} footer does not match reading path')
+for manifest_path in manifest_paths:
+    module=load(manifest_path)
+    for row in module['lessons']:
+        if row.get('navigation') != {k:nav.get(row['path'],{}).get(k) for k in ['previous','next']}:
+            fail(f'{row["id"]}: lesson navigation metadata mismatch')
 if errors:
     print('\n'.join(errors))
     sys.exit(1)
@@ -177,5 +210,6 @@ print(f'PASS: {len(module_ids)} modules, {len(all_ids)} planned lessons; '
 print('PASS: ' + '; '.join(module_summaries))
 print(f'PASS: prerequisite graph, metadata, levels, grading, prompts, catalogs; '
       f'{link_count} local links; writing scan on {len(paths)} Markdown files.')
+print(f'PASS: previous/next links on {len(nav)} pages, final placement and stored targets.')
 print('Scope: authored curriculum content only. No video playback, desktop UI, '
       'SPSS execution, or human scientific review is implied.')

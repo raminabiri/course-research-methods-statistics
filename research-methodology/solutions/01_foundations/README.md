@@ -9,3 +9,11 @@
 - [پاسخ‌های درس 5: متغیر، سازه و چارچوب مفهومی](05_solutions.md)
 
 [بازگشت به ماژول](../../01_foundations/README.md)
+
+<!-- COURSE_NAV_START -->
+
+---
+
+[صفحهٔ پیشین: تمرین‌های درس 5: متغیر، سازه و چارچوب مفهومی](../../01_foundations/exercises/05_exercises.md) · [فهرست](../../01_foundations/README.md) · [صفحهٔ پسین: پاسخ‌های تشریحی درس 1: علم، دانش و مرز ادعای علمی](01_solutions.md)
+
+<!-- COURSE_NAV_END -->

@@ -135,4 +135,12 @@
 
 [درس و منابع و فیلم‌ها](../lessons/07_clinical_biological.md) · [پاسخ تشریحی](../../solutions/06_sampling/07_solutions.md) · [فهرست ماژول](../README.md)
 
+<!-- COURSE_NAV_START -->
+
+---
+
+[صفحهٔ پیشین: تمرین‌های درس 6: نمونه‌گیری غیراحتمالی، کیفی و آمیخته](06_exercises.md) · [فهرست](../README.md) · [صفحهٔ پسین: تمرین‌های درس 8: از نمونه‌گیری تا روش کار پژوهش؛ تخصیص و گزارش](08_exercises.md)
+
+<!-- COURSE_NAV_END -->
+
 </div>

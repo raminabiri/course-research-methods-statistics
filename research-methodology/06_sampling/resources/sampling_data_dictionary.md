@@ -36,4 +36,12 @@
 
 [بازگشت به ماژول](../README.md)
 
+<!-- COURSE_NAV_START -->
+
+---
+
+[صفحهٔ پیشین: قالب روش کار نمونه‌گیری](protocol_template.md) · [فهرست](../README.md) · [صفحهٔ پسین: منابع ماژول نمونه‌گیری](references.md)
+
+<!-- COURSE_NAV_END -->
+
 </div>

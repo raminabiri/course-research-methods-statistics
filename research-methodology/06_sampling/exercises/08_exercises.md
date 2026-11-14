@@ -135,4 +135,12 @@
 
 [درس و منابع و فیلم‌ها](../lessons/08_protocol_randomization.md) · [پاسخ تشریحی](../../solutions/06_sampling/08_solutions.md) · [فهرست ماژول](../README.md)
 
+<!-- COURSE_NAV_START -->
+
+---
+
+[صفحهٔ پیشین: تمرین‌های درس 7: نمونه‌گیری بالینی و آزمایشگاهی؛ تکرار و شبه‌تکرار](07_exercises.md) · [فهرست](../README.md) · [صفحهٔ پسین: پاسخ‌های تشریحی نمونه‌گیری](../../solutions/06_sampling/README.md)
+
+<!-- COURSE_NAV_END -->
+
 </div>

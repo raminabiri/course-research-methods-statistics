@@ -135,4 +135,12 @@ I=10.3 و j از صفر تا ۹ است.
 
 [درس و منابع و فیلم‌ها](../lessons/02_simple_systematic.md) · [پاسخ تشریحی](../../solutions/06_sampling/02_solutions.md) · [فهرست ماژول](../README.md)
 
+<!-- COURSE_NAV_START -->
+
+---
+
+[صفحهٔ پیشین: تمرین‌های درس 1: جامعه، چارچوب و مرز تعمیم](01_exercises.md) · [فهرست](../README.md) · [صفحهٔ پسین: تمرین‌های درس 3: نمونه‌گیری طبقه‌ای و تخصیص نمونه](03_exercises.md)
+
+<!-- COURSE_NAV_END -->
+
 </div>
