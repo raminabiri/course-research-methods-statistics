@@ -1,7 +1,7 @@
 {
   "module": "M01",
   "version": 1,
-  "date": "2026-11-14",
+  "date": "2026-11-27",
   "lessons": [
     {
       "id": "M01-L01",
@@ -49,7 +49,7 @@
           "en"
         ]
       },
-      "teaching_revision": "2026-11-15",
+      "teaching_revision": "2026-11-27",
       "pedagogy": {
         "plain_language_before_technical_term": true,
         "worked_walkthrough": true,
@@ -113,7 +113,7 @@
           "en"
         ]
       },
-      "teaching_revision": "2026-11-15",
+      "teaching_revision": "2026-11-27",
       "pedagogy": {
         "plain_language_before_technical_term": true,
         "worked_walkthrough": true,
@@ -171,7 +171,7 @@
           "en"
         ]
       },
-      "teaching_revision": "2026-11-15",
+      "teaching_revision": "2026-11-27",
       "pedagogy": {
         "plain_language_before_technical_term": true,
         "worked_walkthrough": true,
@@ -230,7 +230,7 @@
           "en"
         ]
       },
-      "teaching_revision": "2026-11-15",
+      "teaching_revision": "2026-11-27",
       "pedagogy": {
         "plain_language_before_technical_term": true,
         "worked_walkthrough": true,
@@ -289,7 +289,7 @@
           "en"
         ]
       },
-      "teaching_revision": "2026-11-15",
+      "teaching_revision": "2026-11-27",
       "pedagogy": {
         "plain_language_before_technical_term": true,
         "worked_walkthrough": true,

@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # علم، دانش و مرز ادعای علمی
 
 متن بازنویسی‌شده در [درس تازه](lessons/01_science_knowledge.md) قرار دارد. [فهرست ماژول](README.md)
@@ -11,3 +13,5 @@
 [صفحهٔ پیشین: ماژول ۱: مبانی شناخت و پرسش پژوهش](README.md) · [فهرست](README.md) · [صفحهٔ پسین: علم، دانش و مرز ادعای علمی](lessons/01_science_knowledge.md)
 
 <!-- COURSE_NAV_END -->
+
+</div>

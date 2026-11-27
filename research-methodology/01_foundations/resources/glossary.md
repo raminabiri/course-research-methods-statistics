@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # واژه‌نامهٔ ماژول ۱
 
 برابر انگلیسی برای جست‌وجو و خواندن منابع آورده شده است. اصطلاح تخصصی در جایی که تغییر واژه معنا را جابه‌جا کند نگه داشته می‌شود.
@@ -25,6 +27,19 @@
 | پژوهش آمیخته | Mixed methods research | M01-L03 |
 | تلفیق | Integration | M01-L03 |
 | استنباط تلفیقی | Meta-inference | M01-L03 |
+| داده | Data | M01-L01 |
+| نتیجه | Result | M01-L01 |
+| استنباط | Inference | M01-L01 |
+| ادعای توصیفی | Descriptive claim | M01-L01 |
+| ادعای پیش‌بینانه | Predictive claim | M01-L01 |
+| ادعای علّی | Causal claim | M01-L01 |
+| ادعای هنجاری | Normative claim | M01-L01 |
+| استدلال معتبر | Valid argument | M01-L02 |
+| استدلال سالم | Sound argument | M01-L02 |
+| روایی | Validity | M01-L05 |
+| پایایی | Reliability | M01-L05 |
+| خطای اندازه‌گیری | Measurement error | M01-L05 |
+| هم‌ارزی سنجش | Measurement invariance | M01-L05 |
 | شکاف دانشی | Knowledge gap | M01-L04 |
 | هدف اصلی | Primary objective | M01-L04 |
 | فرضیهٔ پژوهشی | Research hypothesis | M01-L04 |
@@ -47,3 +62,5 @@
 [صفحهٔ پیشین: کاربرگ تعریف متغیر و چارچوب مفهومی](variables_workbook.md) · [فهرست](../README.md) · [صفحهٔ پسین: منابع ماژول ۱: مبانی شناخت و پرسش پژوهش](references.md)
 
 <!-- COURSE_NAV_END -->
+
+</div>

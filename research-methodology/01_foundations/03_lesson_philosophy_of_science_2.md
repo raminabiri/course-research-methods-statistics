@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # فلسفهٔ علم و منطق پژوهش
 
 متن بازنویسی‌شده در [درس تازه](lessons/02_philosophy_reasoning.md) قرار دارد. [فهرست ماژول](README.md)
@@ -11,3 +13,5 @@
 [صفحهٔ پیشین: ماژول ۱: مبانی شناخت و پرسش پژوهش](README.md) · [فهرست](README.md) · [صفحهٔ پسین: فلسفهٔ علم و منطق پژوهش](lessons/02_philosophy_reasoning.md)
 
 <!-- COURSE_NAV_END -->
+
+</div>

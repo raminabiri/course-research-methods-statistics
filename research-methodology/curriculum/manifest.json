@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "date": "2026-11-14",
+  "date": "2026-11-27",
   "statistics_scope": "brief_methodology_support_only",
   "lessons": [
     {
@@ -2505,7 +2505,7 @@
         "M09"
       ],
       "levels": {
-        "beginner": "انتخاب نشریه",
+        "beginner": "آماده‌سازی و ارسال مقاله",
         "intermediate": "پاسخ مستند به داور",
         "advanced": "بازبینی گزارش، داده و کد پس از انتشار"
       },
@@ -2569,6 +2569,141 @@
           "M11-L04-A01",
           "M11-L04-A02",
           "M11-L04-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M11-L05",
+      "module": "M11",
+      "module_title": "گزارش‌دهی و انتشار",
+      "title": "گونه‌های مقالهٔ علمی و پیوند آن‌ها با طرح پژوهش",
+      "prerequisites": [
+        "M02",
+        "M03",
+        "M08",
+        "M09"
+      ],
+      "levels": {
+        "beginner": "تمایز مقالهٔ پژوهشی، مرور، گزارش مورد و پروتکل",
+        "intermediate": "انتخاب قالب مقاله متناسب با پرسش و طرح",
+        "advanced": "نقد مرزهای قالب‌های مقاله و رهنمود گزارش‌دهی"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M11-L05-B01",
+          "M11-L05-B02",
+          "M11-L05-B03"
+        ],
+        "intermediate": [
+          "M11-L05-I01",
+          "M11-L05-I02",
+          "M11-L05-I03"
+        ],
+        "advanced": [
+          "M11-L05-A01",
+          "M11-L05-A02",
+          "M11-L05-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M11-L06",
+      "module": "M11",
+      "module_title": "گزارش‌دهی و انتشار",
+      "title": "انتخاب ژورنال و ارزیابی اعتبار نشر",
+      "prerequisites": [
+        "M02",
+        "M03",
+        "M08",
+        "M09"
+      ],
+      "levels": {
+        "beginner": "دامنه، مخاطب، داوری و هزینهٔ نشر",
+        "intermediate": "راستی‌آزمایی نمایه، ناشر و سیاست‌های مجله",
+        "advanced": "ارزیابی ژورنال‌های فریبنده، ربوده‌شده و تعارض منافع"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M11-L06-B01",
+          "M11-L06-B02",
+          "M11-L06-B03"
+        ],
+        "intermediate": [
+          "M11-L06-I01",
+          "M11-L06-I02",
+          "M11-L06-I03"
+        ],
+        "advanced": [
+          "M11-L06-A01",
+          "M11-L06-A02",
+          "M11-L06-A03"
+        ]
+      },
+      "status": "planned",
+      "existing_content": "needs_mapping",
+      "source_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      }
+    },
+    {
+      "id": "M11-L07",
+      "module": "M11",
+      "module_title": "گزارش‌دهی و انتشار",
+      "title": "شاخص‌های علم‌سنجی و محدودیت‌های ارزیابی پژوهش",
+      "prerequisites": [
+        "M02",
+        "M03",
+        "M08",
+        "M09"
+      ],
+      "levels": {
+        "beginner": "تمایز شاخص مجله، مقاله و پژوهشگر",
+        "intermediate": "خواندن عامل اثر، چارک، استناد و شاخص اچ",
+        "advanced": "نقد نرمال‌سازی، دست‌کاری شاخص و ارزیابی مسئولانه"
+      },
+      "exercise_ids": {
+        "beginner": [
+          "M11-L07-B01",
+          "M11-L07-B02",
+          "M11-L07-B03"
+        ],
+        "intermediate": [
+          "M11-L07-I01",
+          "M11-L07-I02",
+          "M11-L07-I03"
+        ],
+        "advanced": [
+          "M11-L07-A01",
+          "M11-L07-A02",
+          "M11-L07-A03"
         ]
       },
       "status": "planned",

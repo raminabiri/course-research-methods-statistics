@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # متغیر، سازه و چارچوب مفهومی
 
 متن بازنویسی‌شده در [درس تازه](lessons/05_variables_frameworks.md) قرار دارد. [فهرست ماژول](README.md)
@@ -11,3 +13,5 @@
 [صفحهٔ پیشین: ماژول ۱: مبانی شناخت و پرسش پژوهش](README.md) · [فهرست](README.md) · [صفحهٔ پسین: متغیر، سازه و چارچوب مفهومی](lessons/05_variables_frameworks.md)
 
 <!-- COURSE_NAV_END -->
+
+</div>
