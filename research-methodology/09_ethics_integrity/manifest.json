@@ -1,0 +1,139 @@
+{
+  "module": "M09",
+  "version": 1,
+  "date": "2026-11-27",
+  "lessons": [
+    {
+      "id": "M09-L01",
+      "title": "اخلاق پژوهش انسانی",
+      "path": "09_ethics_integrity/lessons/01_human_research_ethics.md",
+      "exercises_path": "09_ethics_integrity/exercises/01_exercises.md",
+      "solutions_path": "solutions/09_ethics_integrity/01_solutions.md",
+      "exercise_ids": [
+        "M09-L01-B01",
+        "M09-L01-I01",
+        "M09-L01-A01"
+      ],
+      "levels": ["beginner", "intermediate", "advanced"],
+      "references": ["WMA_HELSINKI_2024", "CIOMS_2016", "BELMONT_HHS"],
+      "videos": ["HHS_BELMONT", "YALE_RESEARCH_ETHICS"],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": ["fa", "en"]
+      },
+      "teaching_revision": "2026-11-27",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "09_ethics_integrity/README.md",
+        "next": "09_ethics_integrity/lessons/02_animal_ethics_biosafety.md"
+      }
+    },
+    {
+      "id": "M09-L02",
+      "title": "اخلاق پژوهش حیوانی و ایمنی زیستی",
+      "path": "09_ethics_integrity/lessons/02_animal_ethics_biosafety.md",
+      "exercises_path": "09_ethics_integrity/exercises/02_exercises.md",
+      "solutions_path": "solutions/09_ethics_integrity/02_solutions.md",
+      "exercise_ids": [
+        "M09-L02-B01",
+        "M09-L02-I01",
+        "M09-L02-A01"
+      ],
+      "levels": ["beginner", "intermediate", "advanced"],
+      "references": ["NC3RS_3RS", "ARRIVE_2020", "WHO_LBM4"],
+      "videos": ["NC3RS_3RS_VIDEO", "WHO_BIOSAFETY_VIDEO"],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": ["fa", "en"]
+      },
+      "teaching_revision": "2026-11-27",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "09_ethics_integrity/lessons/01_human_research_ethics.md",
+        "next": "09_ethics_integrity/lessons/03_research_integrity.md"
+      }
+    },
+    {
+      "id": "M09-L03",
+      "title": "درستکاری و پاسخ‌گویی",
+      "path": "09_ethics_integrity/lessons/03_research_integrity.md",
+      "exercises_path": "09_ethics_integrity/exercises/03_exercises.md",
+      "solutions_path": "solutions/09_ethics_integrity/03_solutions.md",
+      "exercise_ids": [
+        "M09-L03-B01",
+        "M09-L03-I01",
+        "M09-L03-A01"
+      ],
+      "levels": ["beginner", "intermediate", "advanced"],
+      "references": ["NASEM_INTEGRITY_2017", "ORI_MISCONDUCT", "ICMJE_RECOMMENDATIONS", "CREDIT_TAXONOMY", "COPE_RETRACTION"],
+      "videos": ["NIH_MISCONDUCT_CASES", "LONESTAR_MISCONDUCT"],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": ["fa", "en"]
+      },
+      "teaching_revision": "2026-11-27",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "09_ethics_integrity/lessons/02_animal_ethics_biosafety.md",
+        "next": "09_ethics_integrity/lessons/04_registration_oversight.md"
+      }
+    },
+    {
+      "id": "M09-L04",
+      "title": "ثبت و نظارت اخلاقی پژوهش",
+      "path": "09_ethics_integrity/lessons/04_registration_oversight.md",
+      "exercises_path": "09_ethics_integrity/exercises/04_exercises.md",
+      "solutions_path": "solutions/09_ethics_integrity/04_solutions.md",
+      "exercise_ids": [
+        "M09-L04-B01",
+        "M09-L04-I01",
+        "M09-L04-A01"
+      ],
+      "levels": ["beginner", "intermediate", "advanced"],
+      "references": ["WMA_HELSINKI_2024", "WHO_ICTRP_PRIMARY", "CLINICALTRIALS_POLICY", "OHRP_QI", "SPIRIT_2013"],
+      "videos": ["OHRP_HUMAN_RESEARCH", "NIH_REGISTER_RESULTS"],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": ["fa", "en"]
+      },
+      "teaching_revision": "2026-11-27",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "09_ethics_integrity/lessons/03_research_integrity.md",
+        "next": "09_ethics_integrity/exercises/01_exercises.md"
+      }
+    }
+  ]
+}

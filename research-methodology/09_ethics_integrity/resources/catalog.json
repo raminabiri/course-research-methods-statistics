@@ -1,0 +1,193 @@
+{
+  "checked_on": "2026-11-27",
+  "references": {
+    "WMA_HELSINKI_2024": {
+      "title": "World Medical Association. Declaration of Helsinki, revised 2024.",
+      "url": "https://www.wma.net/policies-post/wma-declaration-of-helsinki/",
+      "description": "اصول اخلاقی پژوهش پزشکی با انسان و داده یا نمونهٔ شناسایی‌پذیر",
+      "verification": "نسخهٔ جاری و تاریخ بازنگری ۲۰۲۴ در وبگاه رسمی WMA بررسی شد"
+    },
+    "CIOMS_2016": {
+      "title": "CIOMS. International Ethical Guidelines for Health-related Research Involving Humans, 4th ed., 2016.",
+      "url": "https://cioms.ch/publications/product/international-ethical-guidelines-for-health-related-research-involving-humans/",
+      "description": "راهنمای بین‌المللی اخلاق پژوهش سلامت",
+      "verification": "پیوند رسمی ناشر شناسایی شد؛ دسترسی مستقیم صفحه در این محیط محدود بود"
+    },
+    "BELMONT_HHS": {
+      "title": "U.S. Department of Health and Human Services, OHRP. The Belmont Report.",
+      "url": "https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/read-the-belmont-report/index.html",
+      "description": "احترام به افراد، سودرسانی و عدالت؛ سند پایهٔ آمریکا",
+      "verification": "نشانی رسمی OHRP؛ دسترسی مستقیم در این محیط محدود بود. سند، قانون جهان‌شمول نیست"
+    },
+    "NC3RS_3RS": {
+      "title": "National Centre for the Replacement, Refinement and Reduction of Animals in Research. The 3Rs.",
+      "url": "https://nc3rs.org.uk/who-we-are/3rs",
+      "description": "تعریف جایگزینی، کاهش و بهسازی",
+      "verification": "پیوند رسمی NC3Rs و پاسخ صفحه بررسی شد"
+    },
+    "ARRIVE_2020": {
+      "title": "Percie du Sert N, et al. The ARRIVE guidelines 2.0: Updated guidelines for reporting animal research. PLoS Biology. 2020;18(7):e3000410.",
+      "url": "https://doi.org/10.1371/journal.pbio.3000410",
+      "description": "راهنمای گزارش شفاف پژوهش حیوانی",
+      "verification": "عنوان، سال و DOI با Crossref بررسی شد؛ صفحهٔ راهنمای ARRIVE نیز بازبینی شد"
+    },
+    "WHO_LBM4": {
+      "title": "World Health Organization. Laboratory biosafety manual, 4th edition. 2020.",
+      "url": "https://www.who.int/publications/i/item/9789240011311",
+      "description": "چارچوب مبتنی بر ارزیابی خطر برای ایمنی زیستی آزمایشگاه",
+      "verification": "عنوان، ویرایش، سال و شرح رویکرد خطرمحور در وبگاه رسمی WHO بررسی شد"
+    },
+    "NASEM_INTEGRITY_2017": {
+      "title": "National Academies of Sciences, Engineering, and Medicine. Fostering Integrity in Research. 2017.",
+      "url": "https://doi.org/10.17226/21896",
+      "description": "فرهنگ و مسئولیت‌پذیری پژوهش",
+      "verification": "عنوان، سال و DOI با Crossref بررسی شد"
+    },
+    "ORI_MISCONDUCT": {
+      "title": "U.S. Office of Research Integrity. Definition of Research Misconduct.",
+      "url": "https://ori.hhs.gov/definition-misconduct",
+      "description": "تعریف جعل، تحریف و سرقت ادبی در چارچوب مقررات آمریکا",
+      "verification": "صفحهٔ ORI بازبینی شد؛ نشانی به صفحهٔ تعریف پژوهش درستکارانه هدایت می‌شود"
+    },
+    "ICMJE_RECOMMENDATIONS": {
+      "title": "International Committee of Medical Journal Editors. Recommendations.",
+      "url": "https://www.icmje.org/recommendations/",
+      "description": "معیار نویسندگی، تعارض منافع و گزارش مقالهٔ پزشکی",
+      "verification": "نشانی رسمی ICMJE شناسایی شد؛ دسترسی مستقیم صفحه در این محیط محدود بود"
+    },
+    "CREDIT_TAXONOMY": {
+      "title": "National Information Standards Organization. CRediT Contributor Roles Taxonomy.",
+      "url": "https://credit.niso.org/",
+      "description": "واژگان استاندارد برای ثبت نقش‌های مشارکت",
+      "verification": "نشانی رسمی NISO شناسایی شد؛ پاسخ خودکار صفحه در این محیط کامل نشد"
+    },
+    "COPE_RETRACTION": {
+      "title": "Committee on Publication Ethics. Retraction guidelines.",
+      "url": "https://publicationethics.org/retraction-guidelines",
+      "description": "راهنمای رسیدگی ناشران به بازپس‌گیری مقاله",
+      "verification": "نشانی رسمی COPE شناسایی شد؛ دسترسی مستقیم صفحه در این محیط محدود بود"
+    },
+    "WHO_ICTRP_PRIMARY": {
+      "title": "World Health Organization, International Clinical Trials Registry Platform. Primary registries.",
+      "url": "https://www.who.int/tools/clinical-trials-registry-platform/network/primary-registries",
+      "description": "ثبت‌گاه‌های اصلی شبکهٔ WHO ICTRP",
+      "verification": "صفحهٔ رسمی WHO و نشانی شبکهٔ ثبت‌گاه‌ها بررسی شد"
+    },
+    "CLINICALTRIALS_POLICY": {
+      "title": "ClinicalTrials.gov. Policies.",
+      "url": "https://clinicaltrials.gov/policy",
+      "description": "سیاست ثبت و گزارش در سامانهٔ آمریکا",
+      "verification": "پیوند رسمی و پاسخ صفحه بررسی شد؛ دامنهٔ الزام ویژهٔ مقررات آمریکا است"
+    },
+    "OHRP_QI": {
+      "title": "U.S. Office for Human Research Protections. Quality Improvement Activities FAQs.",
+      "url": "https://www.hhs.gov/ohrp/regulations-and-policy/guidance/quality-improvement-activities/index.html",
+      "description": "راهنمای آمریکا برای تمایز برخی فعالیت‌های بهبود کیفیت از پژوهش انسانی",
+      "verification": "نشانی رسمی راهنمای OHRP شناسایی شد؛ دسترسی مستقیم در این محیط ممکن نشد"
+    },
+    "SPIRIT_2013": {
+      "title": "Chan A-W, et al. SPIRIT 2013 explanation and elaboration: guidance for protocols of clinical trials. BMJ. 2013;346:e7586.",
+      "url": "https://doi.org/10.1136/bmj.e7586",
+      "description": "موارد گزارش پروتکل کارآزمایی",
+      "verification": "عنوان و شناسهٔ مقاله با صفحهٔ مجله و DOI بررسی شد"
+    }
+  },
+  "videos": {
+    "HHS_BELMONT": {
+      "title": "The Principles of the Belmont Report and the Ethics of Human Research",
+      "provider": "U.S. Department of Health and Human Services",
+      "url": "https://www.youtube.com/watch?v=qv0CC6oT-7E",
+      "topic": "اصول بلمونت و اخلاق پژوهش انسانی",
+      "level": "مقدماتی",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و ناشر از فرادادهٔ YouTube بررسی شد؛ پخش آزموده نشد"
+    },
+    "YALE_RESEARCH_ETHICS": {
+      "title": "Research Ethics",
+      "provider": "Yale University",
+      "url": "https://www.youtube.com/watch?v=jD-YCDE_5yw",
+      "topic": "آشنایی با اخلاق پژوهش",
+      "level": "مقدماتی",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و ناشر از فرادادهٔ YouTube بررسی شد؛ پخش آزموده نشد"
+    },
+    "NC3RS_3RS_VIDEO": {
+      "title": "The 3Rs. Their definition, application and importance to your work",
+      "provider": "National Centre for the Replacement, Refinement and Reduction of Animals in Research",
+      "url": "https://www.youtube.com/watch?v=LdKiD5pW2XY",
+      "topic": "جایگزینی، کاهش و بهسازی",
+      "level": "مقدماتی",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و ناشر از فرادادهٔ YouTube بررسی شد؛ پخش آزموده نشد"
+    },
+    "WHO_BIOSAFETY_VIDEO": {
+      "title": "WHO Laboratory Biosafety Manual 4th edition",
+      "provider": "Fondation Mérieux",
+      "url": "https://www.youtube.com/watch?v=Zfow99vtV0Y",
+      "topic": "معرفی راهنمای ایمنی زیستی آزمایشگاه WHO",
+      "level": "مقدماتی",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و ناشر از فرادادهٔ YouTube بررسی شد؛ پخش آزموده نشد"
+    },
+    "NIH_MISCONDUCT_CASES": {
+      "title": "RESEARCH MISCONDUCT & DETRIMENTAL RESEARCH PRACTICES - Overview and Case Studies",
+      "provider": "NIH Funding",
+      "url": "https://www.youtube.com/watch?v=vkKDUkXNk5I",
+      "topic": "سوءرفتار پژوهشی و رفتارهای پژوهشی نامطلوب",
+      "level": "متوسط",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و ناشر از فرادادهٔ YouTube بررسی شد؛ پخش آزموده نشد"
+    },
+    "LONESTAR_MISCONDUCT": {
+      "title": "Research Misconduct: Fabrication & Falsification",
+      "provider": "Lone Star College North Harris Library",
+      "url": "https://www.youtube.com/watch?v=oLE9HzjgJf4",
+      "topic": "جعل و تحریف دادهٔ پژوهشی",
+      "level": "مقدماتی",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و ناشر از فرادادهٔ YouTube بررسی شد؛ پخش آزموده نشد"
+    },
+    "OHRP_HUMAN_RESEARCH": {
+      "title": "OHRP: What is Human Subjects Research?",
+      "provider": "NIH Funding",
+      "url": "https://www.youtube.com/watch?v=Mtf0K2Kpt-w",
+      "topic": "تشخیص برخی فعالیت‌های مشمول پژوهش انسانی در آمریکا",
+      "level": "مقدماتی",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و ناشر از فرادادهٔ YouTube بررسی شد؛ پخش آزموده نشد"
+    },
+    "NIH_REGISTER_RESULTS": {
+      "title": "Registering and Reporting Results to ClinicalTrials.gov",
+      "provider": "NIH Funding",
+      "url": "https://www.youtube.com/watch?v=rRawou7dZdI",
+      "topic": "ثبت و گزارش نتایج در ClinicalTrials.gov",
+      "level": "مقدماتی",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و ناشر از فرادادهٔ YouTube بررسی شد؛ پخش آزموده نشد"
+    }
+  }
+}

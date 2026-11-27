@@ -1124,8 +1124,98 @@
     },
     "08_data_management_analysis/data/README.md": {
       "previous": "08_data_management_analysis/code/README.md",
-      "next": "curriculum/README.md",
+      "next": "09_ethics_integrity/README.md",
       "home": "08_data_management_analysis/README.md"
+    },
+    "09_ethics_integrity/README.md": {
+      "previous": "08_data_management_analysis/data/README.md",
+      "next": "09_ethics_integrity/lessons/01_human_research_ethics.md",
+      "home": "09_ethics_integrity/README.md"
+    },
+    "09_ethics_integrity/lessons/01_human_research_ethics.md": {
+      "previous": "09_ethics_integrity/README.md",
+      "next": "09_ethics_integrity/lessons/02_animal_ethics_biosafety.md",
+      "home": "09_ethics_integrity/README.md"
+    },
+    "09_ethics_integrity/lessons/02_animal_ethics_biosafety.md": {
+      "previous": "09_ethics_integrity/lessons/01_human_research_ethics.md",
+      "next": "09_ethics_integrity/lessons/03_research_integrity.md",
+      "home": "09_ethics_integrity/README.md"
+    },
+    "09_ethics_integrity/lessons/03_research_integrity.md": {
+      "previous": "09_ethics_integrity/lessons/02_animal_ethics_biosafety.md",
+      "next": "09_ethics_integrity/lessons/04_registration_oversight.md",
+      "home": "09_ethics_integrity/README.md"
+    },
+    "09_ethics_integrity/lessons/04_registration_oversight.md": {
+      "previous": "09_ethics_integrity/lessons/03_research_integrity.md",
+      "next": "09_ethics_integrity/exercises/01_exercises.md",
+      "home": "09_ethics_integrity/README.md"
+    },
+    "09_ethics_integrity/exercises/01_exercises.md": {
+      "previous": "09_ethics_integrity/lessons/04_registration_oversight.md",
+      "next": "09_ethics_integrity/exercises/02_exercises.md",
+      "home": "09_ethics_integrity/README.md"
+    },
+    "09_ethics_integrity/exercises/02_exercises.md": {
+      "previous": "09_ethics_integrity/exercises/01_exercises.md",
+      "next": "09_ethics_integrity/exercises/03_exercises.md",
+      "home": "09_ethics_integrity/README.md"
+    },
+    "09_ethics_integrity/exercises/03_exercises.md": {
+      "previous": "09_ethics_integrity/exercises/02_exercises.md",
+      "next": "09_ethics_integrity/exercises/04_exercises.md",
+      "home": "09_ethics_integrity/README.md"
+    },
+    "09_ethics_integrity/exercises/04_exercises.md": {
+      "previous": "09_ethics_integrity/exercises/03_exercises.md",
+      "next": "solutions/09_ethics_integrity/README.md",
+      "home": "09_ethics_integrity/README.md"
+    },
+    "solutions/09_ethics_integrity/README.md": {
+      "previous": "09_ethics_integrity/exercises/04_exercises.md",
+      "next": "solutions/09_ethics_integrity/01_solutions.md",
+      "home": "09_ethics_integrity/README.md"
+    },
+    "solutions/09_ethics_integrity/01_solutions.md": {
+      "previous": "solutions/09_ethics_integrity/README.md",
+      "next": "solutions/09_ethics_integrity/02_solutions.md",
+      "home": "09_ethics_integrity/README.md"
+    },
+    "solutions/09_ethics_integrity/02_solutions.md": {
+      "previous": "solutions/09_ethics_integrity/01_solutions.md",
+      "next": "solutions/09_ethics_integrity/03_solutions.md",
+      "home": "09_ethics_integrity/README.md"
+    },
+    "solutions/09_ethics_integrity/03_solutions.md": {
+      "previous": "solutions/09_ethics_integrity/02_solutions.md",
+      "next": "solutions/09_ethics_integrity/04_solutions.md",
+      "home": "09_ethics_integrity/README.md"
+    },
+    "solutions/09_ethics_integrity/04_solutions.md": {
+      "previous": "solutions/09_ethics_integrity/03_solutions.md",
+      "next": "09_ethics_integrity/resources/README.md",
+      "home": "09_ethics_integrity/README.md"
+    },
+    "09_ethics_integrity/resources/README.md": {
+      "previous": "solutions/09_ethics_integrity/04_solutions.md",
+      "next": "09_ethics_integrity/resources/glossary.md",
+      "home": "09_ethics_integrity/README.md"
+    },
+    "09_ethics_integrity/resources/glossary.md": {
+      "previous": "09_ethics_integrity/resources/README.md",
+      "next": "09_ethics_integrity/resources/references.md",
+      "home": "09_ethics_integrity/README.md"
+    },
+    "09_ethics_integrity/resources/references.md": {
+      "previous": "09_ethics_integrity/resources/glossary.md",
+      "next": "09_ethics_integrity/resources/videos.md",
+      "home": "09_ethics_integrity/README.md"
+    },
+    "09_ethics_integrity/resources/videos.md": {
+      "previous": "09_ethics_integrity/resources/references.md",
+      "next": "curriculum/README.md",
+      "home": "09_ethics_integrity/README.md"
     }
   }
 }

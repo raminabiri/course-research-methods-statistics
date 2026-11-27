@@ -2064,24 +2064,24 @@
       },
       "exercise_ids": {
         "beginner": [
-          "M09-L01-B01",
-          "M09-L01-B02",
-          "M09-L01-B03"
+          "M09-L01-B01"
         ],
         "intermediate": [
-          "M09-L01-I01",
-          "M09-L01-I02",
-          "M09-L01-I03"
+          "M09-L01-I01"
         ],
         "advanced": [
-          "M09-L01-A01",
-          "M09-L01-A02",
-          "M09-L01-A03"
+          "M09-L01-A01"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "rewritten",
+      "source_review": "documented_partial_verification",
+      "path": "09_ethics_integrity/lessons/01_human_research_ethics.md",
+      "exercises_path": "09_ethics_integrity/exercises/01_exercises.md",
+      "solutions_path": "solutions/09_ethics_integrity/01_solutions.md",
+      "human_scientific_review": "pending",
+      "teaching_revision": "2026-11-27",
+      "navigation_required": true,
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
@@ -2107,24 +2107,24 @@
       },
       "exercise_ids": {
         "beginner": [
-          "M09-L02-B01",
-          "M09-L02-B02",
-          "M09-L02-B03"
+          "M09-L02-B01"
         ],
         "intermediate": [
-          "M09-L02-I01",
-          "M09-L02-I02",
-          "M09-L02-I03"
+          "M09-L02-I01"
         ],
         "advanced": [
-          "M09-L02-A01",
-          "M09-L02-A02",
-          "M09-L02-A03"
+          "M09-L02-A01"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "rewritten",
+      "source_review": "documented_partial_verification",
+      "path": "09_ethics_integrity/lessons/02_animal_ethics_biosafety.md",
+      "exercises_path": "09_ethics_integrity/exercises/02_exercises.md",
+      "solutions_path": "solutions/09_ethics_integrity/02_solutions.md",
+      "human_scientific_review": "pending",
+      "teaching_revision": "2026-11-27",
+      "navigation_required": true,
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
@@ -2150,24 +2150,24 @@
       },
       "exercise_ids": {
         "beginner": [
-          "M09-L03-B01",
-          "M09-L03-B02",
-          "M09-L03-B03"
+          "M09-L03-B01"
         ],
         "intermediate": [
-          "M09-L03-I01",
-          "M09-L03-I02",
-          "M09-L03-I03"
+          "M09-L03-I01"
         ],
         "advanced": [
-          "M09-L03-A01",
-          "M09-L03-A02",
-          "M09-L03-A03"
+          "M09-L03-A01"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "rewritten",
+      "source_review": "documented_partial_verification",
+      "path": "09_ethics_integrity/lessons/03_research_integrity.md",
+      "exercises_path": "09_ethics_integrity/exercises/03_exercises.md",
+      "solutions_path": "solutions/09_ethics_integrity/03_solutions.md",
+      "human_scientific_review": "pending",
+      "teaching_revision": "2026-11-27",
+      "navigation_required": true,
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
@@ -2193,24 +2193,24 @@
       },
       "exercise_ids": {
         "beginner": [
-          "M09-L04-B01",
-          "M09-L04-B02",
-          "M09-L04-B03"
+          "M09-L04-B01"
         ],
         "intermediate": [
-          "M09-L04-I01",
-          "M09-L04-I02",
-          "M09-L04-I03"
+          "M09-L04-I01"
         ],
         "advanced": [
-          "M09-L04-A01",
-          "M09-L04-A02",
-          "M09-L04-A03"
+          "M09-L04-A01"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "rewritten",
+      "source_review": "documented_partial_verification",
+      "path": "09_ethics_integrity/lessons/04_registration_oversight.md",
+      "exercises_path": "09_ethics_integrity/exercises/04_exercises.md",
+      "solutions_path": "solutions/09_ethics_integrity/04_solutions.md",
+      "human_scientific_review": "pending",
+      "teaching_revision": "2026-11-27",
+      "navigation_required": true,
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,

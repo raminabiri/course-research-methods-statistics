@@ -25,7 +25,7 @@
 
 ---
 
-[صفحهٔ پیشین: کدهای R و SPSS](../code/README.md) · [فهرست](../../curriculum/README.md) · [صفحهٔ پسین: نقشهٔ جامع دوره](../../curriculum/README.md)
+[صفحهٔ پیشین: کدهای R و SPSS](../code/README.md) · [فهرست](../../curriculum/README.md) · [صفحهٔ پسین: اخلاق و درستکاری پژوهش](../../09_ethics_integrity/README.md)
 
 <!-- COURSE_NAV_END -->
 
