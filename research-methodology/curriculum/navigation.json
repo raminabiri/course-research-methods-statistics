@@ -1214,8 +1214,88 @@
     },
     "09_ethics_integrity/resources/videos.md": {
       "previous": "09_ethics_integrity/resources/references.md",
-      "next": "curriculum/README.md",
+      "next": "10_proposal_writing/README.md",
       "home": "09_ethics_integrity/README.md"
+    },
+    "10_proposal_writing/README.md": {
+      "previous": "09_ethics_integrity/resources/videos.md",
+      "next": "10_proposal_writing/lessons/01_problem_rationale.md",
+      "home": "10_proposal_writing/README.md"
+    },
+    "10_proposal_writing/lessons/01_problem_rationale.md": {
+      "previous": "10_proposal_writing/README.md",
+      "next": "10_proposal_writing/lessons/02_methods_design.md",
+      "home": "10_proposal_writing/README.md"
+    },
+    "10_proposal_writing/lessons/02_methods_design.md": {
+      "previous": "10_proposal_writing/lessons/01_problem_rationale.md",
+      "next": "10_proposal_writing/lessons/03_workplan_appendices.md",
+      "home": "10_proposal_writing/README.md"
+    },
+    "10_proposal_writing/lessons/03_workplan_appendices.md": {
+      "previous": "10_proposal_writing/lessons/02_methods_design.md",
+      "next": "10_proposal_writing/exercises/01_exercises.md",
+      "home": "10_proposal_writing/README.md"
+    },
+    "10_proposal_writing/exercises/01_exercises.md": {
+      "previous": "10_proposal_writing/lessons/03_workplan_appendices.md",
+      "next": "10_proposal_writing/exercises/02_exercises.md",
+      "home": "10_proposal_writing/README.md"
+    },
+    "10_proposal_writing/exercises/02_exercises.md": {
+      "previous": "10_proposal_writing/exercises/01_exercises.md",
+      "next": "10_proposal_writing/exercises/03_exercises.md",
+      "home": "10_proposal_writing/README.md"
+    },
+    "10_proposal_writing/exercises/03_exercises.md": {
+      "previous": "10_proposal_writing/exercises/02_exercises.md",
+      "next": "solutions/10_proposal_writing/README.md",
+      "home": "10_proposal_writing/README.md"
+    },
+    "solutions/10_proposal_writing/README.md": {
+      "previous": "10_proposal_writing/exercises/03_exercises.md",
+      "next": "solutions/10_proposal_writing/01_solutions.md",
+      "home": "10_proposal_writing/README.md"
+    },
+    "solutions/10_proposal_writing/01_solutions.md": {
+      "previous": "solutions/10_proposal_writing/README.md",
+      "next": "solutions/10_proposal_writing/02_solutions.md",
+      "home": "10_proposal_writing/README.md"
+    },
+    "solutions/10_proposal_writing/02_solutions.md": {
+      "previous": "solutions/10_proposal_writing/01_solutions.md",
+      "next": "solutions/10_proposal_writing/03_solutions.md",
+      "home": "10_proposal_writing/README.md"
+    },
+    "solutions/10_proposal_writing/03_solutions.md": {
+      "previous": "solutions/10_proposal_writing/02_solutions.md",
+      "next": "10_proposal_writing/resources/README.md",
+      "home": "10_proposal_writing/README.md"
+    },
+    "10_proposal_writing/resources/README.md": {
+      "previous": "solutions/10_proposal_writing/03_solutions.md",
+      "next": "10_proposal_writing/resources/glossary.md",
+      "home": "10_proposal_writing/README.md"
+    },
+    "10_proposal_writing/resources/glossary.md": {
+      "previous": "10_proposal_writing/resources/README.md",
+      "next": "10_proposal_writing/resources/references.md",
+      "home": "10_proposal_writing/README.md"
+    },
+    "10_proposal_writing/resources/references.md": {
+      "previous": "10_proposal_writing/resources/glossary.md",
+      "next": "10_proposal_writing/resources/videos.md",
+      "home": "10_proposal_writing/README.md"
+    },
+    "10_proposal_writing/resources/videos.md": {
+      "previous": "10_proposal_writing/resources/references.md",
+      "next": "10_proposal_writing/resources/proposal_template.md",
+      "home": "10_proposal_writing/README.md"
+    },
+    "10_proposal_writing/resources/proposal_template.md": {
+      "previous": "10_proposal_writing/resources/videos.md",
+      "next": "curriculum/README.md",
+      "home": "10_proposal_writing/README.md"
     }
   }
 }

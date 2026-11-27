@@ -1,0 +1,121 @@
+{
+  "checked_on": "2026-11-27",
+  "references": {
+    "RATAN_2019": {
+      "title": "Ratan SK, Anand T, Ratan J. Formulation of research question – Stepwise approach. Journal of Indian Association of Pediatric Surgeons. 2019;24:15–20.",
+      "url": "https://doi.org/10.4103/jiaps.JIAPS_76_18",
+      "description": "ساخت مرحله‌ای پرسش پژوهش",
+      "verification": "عنوان، سال و DOI با Crossref بررسی شد"
+    },
+    "FANDINO_2019": {
+      "title": "Fandino W. Formulating a good research question: Pearls and pitfalls. Indian Journal of Anaesthesia. 2019;63.",
+      "url": "https://doi.org/10.4103/ija.IJA_198_19",
+      "description": "ویژگی‌ها و خطاهای صورت‌بندی پرسش پژوهش",
+      "verification": "عنوان، سال، مجله و DOI با Crossref بررسی شد"
+    },
+    "OSMAN_2016": {
+      "title": "Osman Z. Research Proposal Writing. Current Therapeutic Research. 2016;78:S4.",
+      "url": "https://doi.org/10.1016/j.curtheres.2016.05.010",
+      "description": "نگارش پروپوزال پژوهشی",
+      "verification": "عنوان، نویسنده، سال، مجله و DOI با Crossref بررسی شد"
+    },
+    "SPIRIT_2025": {
+      "title": "Chan A-W, et al. SPIRIT 2025 statement: updated guideline for protocols of randomised trials. BMJ. 2025.",
+      "url": "https://doi.org/10.1136/bmj-2024-081477",
+      "description": "رهنمود گزارش پروتکل کارآزمایی تصادفی",
+      "verification": "عنوان، سال و DOI با Crossref و صفحهٔ رسمی EQUATOR بررسی شد"
+    },
+    "TIDIER_2014": {
+      "title": "Hoffmann TC, et al. Better reporting of interventions: template for intervention description and replication (TIDieR) checklist and guide. BMJ. 2014;348:g1687.",
+      "url": "https://doi.org/10.1136/bmj.g1687",
+      "description": "شرح مداخله برای گزارش و ارزیابی روشن",
+      "verification": "عنوان، سال و DOI با Crossref و صفحهٔ رسمی EQUATOR بررسی شد"
+    },
+    "ICH_E6R3_2025": {
+      "title": "International Council for Harmonisation. ICH E6(R3) Good Clinical Practice. 2025.",
+      "url": "https://database.ich.org/sites/default/files/ICH_E6%28R3%29_Step4_FinalGuideline_2025_0106.pdf",
+      "description": "راهنمای کارآزمایی بالینی و مسئولیت‌های اجرایی",
+      "verification": "نشانی رسمی PDF و نسخهٔ E6(R3) در وبگاه ICH بررسی شد"
+    },
+    "NIH_APPLICATION_GUIDE": {
+      "title": "National Institutes of Health. Application Guide.",
+      "url": "https://grants.nih.gov/grants/how-to-apply-application-guide.html",
+      "description": "فرم‌ها و پیوست‌های درخواست گرنت NIH",
+      "verification": "نشانی رسمی NIH شناسایی شد؛ دسترسی مستقیم صفحه در این محیط محدود بود"
+    }
+  },
+  "videos": {
+    "DR_AMINA_PROPOSAL": {
+      "title": "How To Write A Strong Research Proposal | Thesis or Dissertation",
+      "provider": "Dr Amina Yonis",
+      "url": "https://www.youtube.com/watch?v=Hp8eCzYYxbg",
+      "topic": "ساخت پروپوزال پژوهشی",
+      "level": "مقدماتی",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و ناشر از فرادادهٔ YouTube بررسی شد؛ پخش آزموده نشد"
+    },
+    "NIH_SPECIFIC_AIMS": {
+      "title": "NIH Specific Aims Page: A Step by Step Approach",
+      "provider": "Stacy Chin, PhD",
+      "url": "https://www.youtube.com/watch?v=IaHKO4Nb5Ro",
+      "topic": "هدف‌های اختصاصی درخواست پژوهشی",
+      "level": "متوسط",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و ناشر از فرادادهٔ YouTube بررسی شد؛ پخش آزموده نشد"
+    },
+    "NIH_PROTOCOL_TEMPLATE": {
+      "title": "Introduction to Writing a Protocol: Using the protocol template",
+      "provider": "NIH VideoCast",
+      "url": "https://www.youtube.com/watch?v=FJpObe-lE20",
+      "topic": "آشنایی با نگارش پروتکل پژوهش",
+      "level": "مقدماتی",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و ناشر از فرادادهٔ YouTube بررسی شد؛ پخش آزموده نشد"
+    },
+    "SPIRIT_PROTOCOL_FAROOQ": {
+      "title": "Research Protocol (Part 6) -SPIRIT Guidelines, Trial Registration and Publishing a Protocol",
+      "provider": "Farooq Rathore's Channel",
+      "url": "https://www.youtube.com/watch?v=6kZactUo6mY",
+      "topic": "SPIRIT، ثبت کارآزمایی و انتشار پروتکل",
+      "level": "متوسط",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و ناشر از فرادادهٔ YouTube بررسی شد؛ پخش آزموده نشد"
+    },
+    "LSE_GANTT": {
+      "title": "How to use a Gantt Chart to plan your dissertation research ST 2020",
+      "provider": "LSE LIFE",
+      "url": "https://www.youtube.com/watch?v=IMWmomc_YZA",
+      "topic": "برنامه‌ریزی پژوهش با نمودار گانت",
+      "level": "مقدماتی",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و ناشر از فرادادهٔ YouTube بررسی شد؛ پخش آزموده نشد"
+    },
+    "UMICH_BUDGET": {
+      "title": "Budgets – NIH Grant Applications",
+      "provider": "University of Michigan Medical School Office of Research",
+      "url": "https://www.youtube.com/watch?v=zyRfNYjN8Ic",
+      "topic": "بودجه و توجیه هزینه در درخواست گرنت",
+      "level": "متوسط",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و ناشر از فرادادهٔ YouTube بررسی شد؛ پخش آزموده نشد"
+    }
+  }
+}

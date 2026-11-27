@@ -30,7 +30,7 @@
 
 ---
 
-[صفحهٔ پیشین: منابع علمی ماژول ۹](references.md) · [فهرست](../../curriculum/README.md) · [صفحهٔ پسین: نقشهٔ جامع دوره](../../curriculum/README.md)
+[صفحهٔ پیشین: منابع علمی ماژول ۹](references.md) · [فهرست](../../curriculum/README.md) · [صفحهٔ پسین: نوشتن پروپوزال و پروتکل](../../10_proposal_writing/README.md)
 
 <!-- COURSE_NAV_END -->
 
