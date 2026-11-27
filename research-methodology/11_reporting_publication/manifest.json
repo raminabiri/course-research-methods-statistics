@@ -1,0 +1,245 @@
+{
+  "module": "M11",
+  "version": 1,
+  "date": "2026-11-27",
+  "lessons": [
+    {
+      "id": "M11-L01",
+      "title": "انتخاب رهنمود گزارش‌دهی",
+      "path": "11_reporting_publication/lessons/01_reporting_guidelines.md",
+      "exercises_path": "11_reporting_publication/exercises/01_exercises.md",
+      "solutions_path": "solutions/11_reporting_publication/01_solutions.md",
+      "exercise_ids": [
+        "M11-L01-B01",
+        "M11-L01-I01",
+        "M11-L01-A01"
+      ],
+      "levels": ["beginner", "intermediate", "advanced"],
+      "references": ["EQUATOR_REPORTING", "CONSORT_2025", "PRISMA_2020", "STROBE"],
+      "videos": ["EQUATOR_PAHO_TRANSPARENT", "STROBE_PAHO_WEBINAR"],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "source_review": "documented_partial_verification",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": ["fa", "en"]
+      },
+      "teaching_revision": "2026-11-27",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "11_reporting_publication/README.md",
+        "next": "11_reporting_publication/lessons/02_manuscript_results.md"
+      }
+    },
+    {
+      "id": "M11-L02",
+      "title": "نوشتن مقاله و نمایش یافته‌ها",
+      "path": "11_reporting_publication/lessons/02_manuscript_results.md",
+      "exercises_path": "11_reporting_publication/exercises/02_exercises.md",
+      "solutions_path": "solutions/11_reporting_publication/02_solutions.md",
+      "exercise_ids": [
+        "M11-L02-B01",
+        "M11-L02-I01",
+        "M11-L02-A01"
+      ],
+      "levels": ["beginner", "intermediate", "advanced"],
+      "references": ["SAMPL", "ICMJE", "CONSORT_2025", "EQUATOR_WRITING"],
+      "videos": ["ROCHESTER_MANUSCRIPT", "AAPS_MANUSCRIPT_TIPS"],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "source_review": "documented_partial_verification",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": ["fa", "en"]
+      },
+      "teaching_revision": "2026-11-27",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "11_reporting_publication/lessons/01_reporting_guidelines.md",
+        "next": "11_reporting_publication/lessons/03_submission_review.md"
+      }
+    },
+    {
+      "id": "M11-L03",
+      "title": "ارسال، داوری و پس از انتشار",
+      "path": "11_reporting_publication/lessons/03_submission_review.md",
+      "exercises_path": "11_reporting_publication/exercises/03_exercises.md",
+      "solutions_path": "solutions/11_reporting_publication/03_solutions.md",
+      "exercise_ids": [
+        "M11-L03-B01",
+        "M11-L03-I01",
+        "M11-L03-A01"
+      ],
+      "levels": ["beginner", "intermediate", "advanced"],
+      "references": ["ICMJE", "COPE", "CREDIT_NISO", "ORCID"],
+      "videos": ["UMICH_REVIEWERS", "OSU_REVIEWER_COMMENTS"],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "source_review": "documented_partial_verification",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": ["fa", "en"]
+      },
+      "teaching_revision": "2026-11-27",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "11_reporting_publication/lessons/02_manuscript_results.md",
+        "next": "11_reporting_publication/lessons/04_public_communication.md"
+      }
+    },
+    {
+      "id": "M11-L04",
+      "title": "ارتباط با مخاطب غیرتخصصی",
+      "path": "11_reporting_publication/lessons/04_public_communication.md",
+      "exercises_path": "11_reporting_publication/exercises/04_exercises.md",
+      "solutions_path": "solutions/11_reporting_publication/04_solutions.md",
+      "exercise_ids": [
+        "M11-L04-B01",
+        "M11-L04-I01",
+        "M11-L04-A01"
+      ],
+      "levels": ["beginner", "intermediate", "advanced"],
+      "references": ["COCHRANE_PLS", "WHO_RISK", "CDC_HEALTH_LITERACY", "GIGERENZER_RISK"],
+      "videos": ["COCHRANE_PLS_VIDEO", "UHN_PLS"],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "source_review": "documented_partial_verification",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": ["fa", "en"]
+      },
+      "teaching_revision": "2026-11-27",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "11_reporting_publication/lessons/03_submission_review.md",
+        "next": "11_reporting_publication/lessons/05_article_types.md"
+      }
+    },
+    {
+      "id": "M11-L05",
+      "title": "گونه‌های مقالهٔ علمی و پیوند آن‌ها با طرح پژوهش",
+      "path": "11_reporting_publication/lessons/05_article_types.md",
+      "exercises_path": "11_reporting_publication/exercises/05_exercises.md",
+      "solutions_path": "solutions/11_reporting_publication/05_solutions.md",
+      "exercise_ids": [
+        "M11-L05-B01",
+        "M11-L05-I01",
+        "M11-L05-A01"
+      ],
+      "levels": ["beginner", "intermediate", "advanced"],
+      "references": ["PUBMED_TYPES", "EQUATOR_REPORTING", "PRISMA_2020", "CARE", "SPIRIT_2025"],
+      "videos": ["KAPIOLANI_ARTICLE_TYPES", "LSU_ARTICLE_TYPES"],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "source_review": "documented_partial_verification",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": ["fa", "en"]
+      },
+      "teaching_revision": "2026-11-27",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "11_reporting_publication/lessons/04_public_communication.md",
+        "next": "11_reporting_publication/lessons/06_journal_selection.md"
+      }
+    },
+    {
+      "id": "M11-L06",
+      "title": "انتخاب ژورنال و ارزیابی اعتبار نشر",
+      "path": "11_reporting_publication/lessons/06_journal_selection.md",
+      "exercises_path": "11_reporting_publication/exercises/06_exercises.md",
+      "solutions_path": "solutions/11_reporting_publication/06_solutions.md",
+      "exercise_ids": [
+        "M11-L06-B01",
+        "M11-L06-I01",
+        "M11-L06-A01"
+      ],
+      "levels": ["beginner", "intermediate", "advanced"],
+      "references": ["THINK_CHECK_SUBMIT", "DOAJ_GUIDE", "CLARIVATE_MJL", "NLM_MEDLINE", "COPE"],
+      "videos": ["ROYAL_SOCIETY_PREDATORY", "RESEARCH4LIFE_PREDATORY"],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "source_review": "documented_partial_verification",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": ["fa", "en"]
+      },
+      "teaching_revision": "2026-11-27",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "11_reporting_publication/lessons/05_article_types.md",
+        "next": "11_reporting_publication/lessons/07_research_metrics.md"
+      }
+    },
+    {
+      "id": "M11-L07",
+      "title": "شاخص‌های علم‌سنجی و محدودیت‌های ارزیابی پژوهش",
+      "path": "11_reporting_publication/lessons/07_research_metrics.md",
+      "exercises_path": "11_reporting_publication/exercises/07_exercises.md",
+      "solutions_path": "solutions/11_reporting_publication/07_solutions.md",
+      "exercise_ids": [
+        "M11-L07-B01",
+        "M11-L07-I01",
+        "M11-L07-A01"
+      ],
+      "levels": ["beginner", "intermediate", "advanced"],
+      "references": ["HIRSCH_H_INDEX", "LEIDEN_MANIFESTO", "DORA", "CLARIVATE_JCR", "SCOPUS_CITESCORE"],
+      "videos": ["UOFL_METRICS", "LSU_HINDEX"],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "source_review": "documented_partial_verification",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": ["fa", "en"]
+      },
+      "teaching_revision": "2026-11-27",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "11_reporting_publication/lessons/06_journal_selection.md",
+        "next": "11_reporting_publication/exercises/01_exercises.md"
+      }
+    }
+  ]
+}

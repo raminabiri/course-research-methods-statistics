@@ -1,0 +1,355 @@
+{
+  "checked_on": "2026-11-27",
+  "references": {
+    "EQUATOR_REPORTING": {
+      "title": "EQUATOR Network. Reporting guidelines.",
+      "url": "https://www.equator-network.org/reporting-guidelines/",
+      "description": "یافتن رهنمود بر پایهٔ طرح پژوهش",
+      "verification": "صفحهٔ رسمی بررسی شد؛ بر تفاوت رهنمود گزارش‌دهی با ابزار طراحی و ارزیابی کیفیت تاکید دارد"
+    },
+    "EQUATOR_WRITING": {
+      "title": "EQUATOR Network. What is a reporting guideline?",
+      "url": "https://www.equator-network.org/about-us/what-is-a-reporting-guideline/",
+      "description": "کاربرد رهنمود هنگام نگارش دست‌نوشته و تکمیل چک‌لیست",
+      "verification": "صفحهٔ رسمی پیوندشده در درس بررسی شد"
+    },
+    "CONSORT_2025": {
+      "title": "CONSORT 2025 statement: updated guideline for reporting randomised trials.",
+      "url": "https://doi.org/10.1136/bmj-2024-081123",
+      "description": "گزارش کارآزمایی تصادفی",
+      "verification": "عنوان و DOI با Crossref و صفحهٔ رسمی EQUATOR بررسی شد"
+    },
+    "PRISMA_2020": {
+      "title": "The PRISMA 2020 statement: an updated guideline for reporting systematic reviews.",
+      "url": "https://doi.org/10.1136/bmj.n71",
+      "description": "گزارش مرور نظام‌مند",
+      "verification": "عنوان و DOI با Crossref و صفحهٔ رسمی EQUATOR بررسی شد"
+    },
+    "STROBE": {
+      "title": "The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) Statement.",
+      "url": "https://www.equator-network.org/reporting-guidelines/strobe/",
+      "description": "گزارش مطالعه‌های هم‌گروهی، موردـشاهدی و مقطعی",
+      "verification": "صفحهٔ رسمی EQUATOR بررسی شد"
+    },
+    "STARD_2015": {
+      "title": "STARD 2015: an updated list of essential items for reporting diagnostic accuracy studies.",
+      "url": "https://doi.org/10.1136/bmj.h5527",
+      "description": "گزارش مطالعهٔ دقت تشخیصی",
+      "verification": "عنوان و DOI با Crossref بررسی شد؛ صفحهٔ رسمی EQUATOR نیز معرفی‌کنندهٔ چک‌لیست است"
+    },
+    "TRIPOD_AI": {
+      "title": "TRIPOD+AI statement: updated guidance for reporting clinical prediction models that use regression or machine learning methods.",
+      "url": "https://doi.org/10.1136/bmj-2023-078378",
+      "description": "گزارش مدل‌های پیش‌بینی بالینی",
+      "verification": "عنوان و DOI با Crossref بررسی شد؛ منبع رسمی در EQUATOR پیوند دارد"
+    },
+    "CARE": {
+      "title": "CARE checklist.",
+      "url": "https://www.care-statement.org/checklist",
+      "description": "چک‌لیست گزارش مورد بالینی",
+      "verification": "چک‌لیست رسمی باز شد"
+    },
+    "COREQ": {
+      "title": "Consolidated criteria for reporting qualitative research (COREQ): a 32-item checklist for interviews and focus groups.",
+      "url": "https://doi.org/10.1093/intqhc/mzm042",
+      "description": "گزارش مصاحبه و گروه کانونی",
+      "verification": "عنوان، سال و DOI با Crossref بررسی شد"
+    },
+    "TIDIER": {
+      "title": "Better reporting of interventions: template for intervention description and replication (TIDieR) checklist and guide.",
+      "url": "https://doi.org/10.1136/bmj.g1687",
+      "description": "شرح مداخله برای تکرار و ارزیابی",
+      "verification": "عنوان، سال و DOI با Crossref بررسی شد"
+    },
+    "SPIRIT_2025": {
+      "title": "SPIRIT 2025 statement: updated guideline for protocols of randomised trials.",
+      "url": "https://doi.org/10.1136/bmj-2024-081477",
+      "description": "گزارش پروتکل کارآزمایی",
+      "verification": "عنوان و DOI در منابع ماژول ۱۰ با Crossref و EQUATOR بررسی شد"
+    },
+    "SAMPL": {
+      "title": "Lang TA, Altman DG. Basic statistical reporting for articles published in biomedical journals: The SAMPL Guidelines.",
+      "url": "https://doi.org/10.1186/1471-2288-10-37",
+      "description": "گزارش روشن آمار پزشکی",
+      "verification": "عنوان و DOI در Crossref شناسایی شدند"
+    },
+    "ICMJE": {
+      "title": "International Committee of Medical Journal Editors. Recommendations.",
+      "url": "https://www.icmje.org/recommendations/",
+      "description": "نگارش، نویسندگی، تعارض منافع و انتشار",
+      "verification": "صفحهٔ رسمی شناسایی شد؛ دریافت خودکار آن در این محیط محدود بود"
+    },
+    "COPE": {
+      "title": "Committee on Publication Ethics. Core practices.",
+      "url": "https://publicationethics.org/core-practices",
+      "description": "اصول اخلاق نشر و رسیدگی به نگرانی‌ها",
+      "verification": "صفحهٔ رسمی شناسایی شد؛ دریافت خودکار آن در این محیط محدود بود"
+    },
+    "CREDIT_NISO": {
+      "title": "NISO. Contributor Role Taxonomy (CRediT).",
+      "url": "https://credit.niso.org/",
+      "description": "۱۴ نقش مشارکت علمی؛ جدا از معیار نویسندگی",
+      "verification": "صفحهٔ رسمی و وضعیت استاندارد ANSI/NISO بررسی شد"
+    },
+    "ORCID": {
+      "title": "ORCID. Researcher identifier.",
+      "url": "https://orcid.org/",
+      "description": "شناسهٔ پایدار پژوهشگر",
+      "verification": "وبگاه رسمی شناسایی شد"
+    },
+    "COCHRANE_PLS": {
+      "title": "Cochrane. Plain-language summaries.",
+      "url": "https://www.cochrane.org/evidence",
+      "description": "خلاصهٔ یافته برای بیماران و مردم",
+      "verification": "صفحه و پیوند ویدیویی رسمی بررسی شد"
+    },
+    "WHO_RISK": {
+      "title": "World Health Organization. Communicating risk in public health emergencies.",
+      "url": "https://www.who.int/publications/i/item/9789241550208",
+      "description": "راهنمای WHO دربارهٔ بافت و ارتباط خطر سلامت",
+      "verification": "صفحهٔ رسمی WHO و فرادادهٔ سند بررسی شد؛ دامنهٔ سند وضعیت اضطراری سلامت عمومی است"
+    },
+    "CDC_HEALTH_LITERACY": {
+      "title": "Centers for Disease Control and Prevention. What Is Health Literacy?",
+      "url": "https://www.cdc.gov/health-literacy/php/about/index.html",
+      "description": "سواد سلامت فردی و مسئولیت سازمان",
+      "verification": "صفحهٔ رسمی CDC، بازبینی ۲۰۲۴، بررسی شد"
+    },
+    "GIGERENZER_RISK": {
+      "title": "Gigerenzer G, et al. Helping doctors and patients make sense of health statistics.",
+      "url": "https://doi.org/10.1111/j.1539-6053.2008.00033.x",
+      "description": "برداشت‌های نادرست از آمار سلامت و اهمیت صورت‌بندی روشن خطر",
+      "verification": "عنوان، چکیده و DOI با Crossref بررسی شد"
+    },
+    "PUBMED_TYPES": {
+      "title": "U.S. National Library of Medicine. PubMed User Guide: Publication types.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/help/#publicationtypes",
+      "description": "واژگان نمایه‌سازی انواع انتشار",
+      "verification": "راهنمای رسمی PubMed؛ آخرین به‌روزرسانی صفحه ۲۰۲۶-۰۹-۳۰"
+    },
+    "THINK_CHECK_SUBMIT": {
+      "title": "Think. Check. Submit. Journals.",
+      "url": "https://thinkchecksubmit.org/journals/",
+      "description": "وارسی هویت، داوری، هزینه، نمایه و آرشیو مجله",
+      "verification": "چک‌لیست رسمی باز شد"
+    },
+    "DOAJ_GUIDE": {
+      "title": "Directory of Open Access Journals. Guide to applying.",
+      "url": "https://doaj.org/apply/guide/",
+      "description": "معیارهای پذیرش مجلهٔ دسترسی آزاد",
+      "verification": "راهنمای رسمی و معیارهای نسخهٔ جاری بررسی شد"
+    },
+    "CLARIVATE_MJL": {
+      "title": "Clarivate. Master Journal List.",
+      "url": "https://mjl.clarivate.com/home",
+      "description": "وارسی مجلات Web of Science",
+      "verification": "صفحهٔ رسمی و دادهٔ معرفی محصول بررسی شد"
+    },
+    "NLM_MEDLINE": {
+      "title": "U.S. National Library of Medicine. About MEDLINE.",
+      "url": "https://www.nlm.nih.gov/medline/medline_overview.html",
+      "description": "تفاوت MEDLINE با PubMed",
+      "verification": "صفحهٔ رسمی NLM؛ آخرین بازبینی ۲۰۲۵-۰۹-۰۸"
+    },
+    "CLARIVATE_JCR": {
+      "title": "Clarivate. Journal Citation Reports.",
+      "url": "https://clarivate.com/academia-government/scientific-and-academic-research/research-funding-analytics/journal-citation-reports/",
+      "description": "منبع رسمی Journal Impact Factor و دسته‌بندی مجله",
+      "verification": "صفحهٔ رسمی و انتشار JCR 2026 بررسی شد"
+    },
+    "SCOPUS_CITESCORE": {
+      "title": "Elsevier. CiteScore metrics.",
+      "url": "https://www.elsevier.com/products/scopus/metrics/citescore",
+      "description": "تعریف رسمی CiteScore و محدودیت خواندن سنجه",
+      "verification": "صفحهٔ رسمی توضیح‌دهندهٔ CiteScore بررسی شد"
+    },
+    "HIRSCH_H_INDEX": {
+      "title": "Hirsch JE. An index to quantify an individual's scientific research output.",
+      "url": "https://doi.org/10.1073/pnas.0507655102",
+      "description": "مقالهٔ معرفی شاخص اچ",
+      "verification": "عنوان، چکیده و DOI با Crossref بررسی شد"
+    },
+    "LEIDEN_MANIFESTO": {
+      "title": "Hicks D, Wouters P, Waltman L, de Rijcke S, Rafols I. The Leiden Manifesto for research metrics.",
+      "url": "https://doi.org/10.1038/520429a",
+      "description": "ده اصل ارزیابی مسئولانه",
+      "verification": "فراداده با Crossref و صفحهٔ رسمی مانیفست بررسی شد"
+    },
+    "DORA": {
+      "title": "San Francisco Declaration on Research Assessment.",
+      "url": "https://sfdora.org/read/",
+      "description": "توصیه‌های ارزیابی مسئولانهٔ پژوهش",
+      "verification": "دامنهٔ رسمی شناسایی شد؛ دریافت خودکار صفحه در این محیط محدود بود"
+    }
+  },
+  "videos": {
+    "EQUATOR_PAHO_TRANSPARENT": {
+      "title": "EQUATOR Network - PAHO: Transparent reporting of health research is essential",
+      "provider": "PAHO TV",
+      "url": "https://www.youtube.com/watch?v=hndKp3ITmKg",
+      "topic": "گزارش شفاف پژوهش سلامت",
+      "level": "مقدماتی",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان، کانال و توضیح از صفحهٔ جست‌وجوی YouTube بررسی شد؛ پخش آزموده نشد"
+    },
+    "STROBE_PAHO_WEBINAR": {
+      "title": "EQUATOR Network Strobe webinar recording 20140319",
+      "provider": "PAHO TV",
+      "url": "https://www.youtube.com/watch?v=j6kNhhgQTrc",
+      "topic": "رهنمود STROBE",
+      "level": "متوسط",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان، کانال و شرح نشست از صفحهٔ جست‌وجوی YouTube بررسی شد؛ پخش آزموده نشد"
+    },
+    "ROCHESTER_MANUSCRIPT": {
+      "title": "How to Write a Scientific Manuscript",
+      "provider": "University of Rochester Medicine",
+      "url": "https://www.youtube.com/watch?v=u-Nd_iZT4to",
+      "topic": "نگارش مقالهٔ علمی",
+      "level": "مقدماتی",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و کانال از صفحهٔ جست‌وجوی YouTube بررسی شد؛ پخش آزموده نشد"
+    },
+    "AAPS_MANUSCRIPT_TIPS": {
+      "title": "Ten Useful Tips for Writing a Successful Manuscript: For Beginners",
+      "provider": "American Association of Pharmaceutical Scientists",
+      "url": "https://www.youtube.com/watch?v=jzw5g0RgM3M",
+      "topic": "نکته‌های نگارش دست‌نوشتهٔ پژوهشی",
+      "level": "مقدماتی",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و کانال از صفحهٔ جست‌وجوی YouTube بررسی شد؛ پخش آزموده نشد"
+    },
+    "UMICH_REVIEWERS": {
+      "title": "Responding to Journal Peer Reviewers Webinar",
+      "provider": "TCORS CAsToR: U of Michigan, Georgetown & Rutgers",
+      "url": "https://www.youtube.com/watch?v=q0c_XYP9Rhc",
+      "topic": "پاسخ به داوری مجله",
+      "level": "متوسط",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و کانال از صفحهٔ جست‌وجوی YouTube بررسی شد؛ پخش آزموده نشد"
+    },
+    "OSU_REVIEWER_COMMENTS": {
+      "title": "Responding to Reviewer Comments",
+      "provider": "OSU Center for Clinical and Translational Science",
+      "url": "https://www.youtube.com/watch?v=51GpdIlKzRY",
+      "topic": "پاسخ مستند به نظر داور",
+      "level": "متوسط",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و کانال از صفحهٔ جست‌وجوی YouTube بررسی شد؛ پخش آزموده نشد"
+    },
+    "COCHRANE_PLS_VIDEO": {
+      "title": "What are plain language summaries?",
+      "provider": "Cochrane",
+      "url": "https://www.youtube.com/watch?v=_e0KQPGrCv4",
+      "topic": "چکیدهٔ ساده‌زبان",
+      "level": "مقدماتی",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "پیوند مستقیم از صفحهٔ رسمی Cochrane بررسی شد؛ پخش آزموده نشد"
+    },
+    "UHN_PLS": {
+      "title": "How to Write a Plain Language PLS Summary",
+      "provider": "UHN Pride in Patient Engagement in Research",
+      "url": "https://www.youtube.com/watch?v=RHhn0tqgKHQ",
+      "topic": "نوشتن چکیدهٔ ساده‌زبان",
+      "level": "مقدماتی",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و کانال از صفحهٔ جست‌وجوی YouTube بررسی شد؛ پخش آزموده نشد"
+    },
+    "KAPIOLANI_ARTICLE_TYPES": {
+      "title": "Types of Journal Articles: Original Research vs. Research Review",
+      "provider": "Kapiʻolani Community College Library",
+      "url": "https://www.youtube.com/watch?v=lEvvMwhjaDI",
+      "topic": "تمایز مقالهٔ پژوهشی و مرور",
+      "level": "مقدماتی",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و کانال از صفحهٔ جست‌وجوی YouTube بررسی شد؛ پخش آزموده نشد"
+    },
+    "LSU_ARTICLE_TYPES": {
+      "title": "How to tell an original research article from a review article",
+      "provider": "LSU Libraries",
+      "url": "https://www.youtube.com/watch?v=YE32HLlSOM0",
+      "topic": "شناخت گونهٔ مقاله از متن",
+      "level": "مقدماتی",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و کانال از صفحهٔ جست‌وجوی YouTube بررسی شد؛ پخش آزموده نشد"
+    },
+    "ROYAL_SOCIETY_PREDATORY": {
+      "title": "Publishing your research? How to avoid predatory journals",
+      "provider": "The Royal Society",
+      "url": "https://www.youtube.com/watch?v=sIbpmkh5ORs",
+      "topic": "وارسی نشریه‌های فریبنده",
+      "level": "مقدماتی",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و کانال از صفحهٔ جست‌وجوی YouTube بررسی شد؛ پخش آزموده نشد"
+    },
+    "RESEARCH4LIFE_PREDATORY": {
+      "title": "Understanding Predatory Publishing and How Think. Check. Submit.",
+      "provider": "Research4Life",
+      "url": "https://www.youtube.com/watch?v=AdYjDZzTTGw",
+      "topic": "نشر فریبنده و چک‌لیست انتخاب ژورنال",
+      "level": "متوسط",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و کانال از صفحهٔ جست‌وجوی YouTube بررسی شد؛ پخش آزموده نشد"
+    },
+    "UOFL_METRICS": {
+      "title": "Finding Traditional Metrics: Journal Impact Factor & Author h-index",
+      "provider": "UofL Research Assistance & Instruction (University of Louisville)",
+      "url": "https://www.youtube.com/watch?v=AKyX1knAVA8",
+      "topic": "عامل اثر مجله و شاخص اچ نویسنده",
+      "level": "مقدماتی",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و کانال از صفحهٔ جست‌وجوی YouTube بررسی شد؛ پخش آزموده نشد"
+    },
+    "LSU_HINDEX": {
+      "title": "Research Impact 101: Understanding and Calculating Your h Index",
+      "provider": "LSU Health Libraries",
+      "url": "https://www.youtube.com/watch?v=T4GnfGLpC60",
+      "topic": "محاسبه و محدودیت شاخص اچ",
+      "level": "مقدماتی",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و کانال از صفحهٔ جست‌وجوی YouTube بررسی شد؛ پخش آزموده نشد"
+    }
+  }
+}

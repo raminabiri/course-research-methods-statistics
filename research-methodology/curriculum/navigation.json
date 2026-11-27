@@ -7,11 +7,6 @@
       "next": "01_foundations/README.md",
       "home": "README.md"
     },
-    "curriculum/README.md": {
-      "previous": "README.md",
-      "next": "01_foundations/README.md",
-      "home": "README.md"
-    },
     "01_foundations/README.md": {
       "previous": "curriculum/README.md",
       "next": "01_foundations/lessons/01_science_knowledge.md",
@@ -1294,8 +1289,148 @@
     },
     "10_proposal_writing/resources/proposal_template.md": {
       "previous": "10_proposal_writing/resources/videos.md",
-      "next": "curriculum/README.md",
+      "next": "11_reporting_publication/README.md",
       "home": "10_proposal_writing/README.md"
+    },
+    "11_reporting_publication/README.md": {
+      "previous": "10_proposal_writing/resources/proposal_template.md",
+      "next": "11_reporting_publication/lessons/01_reporting_guidelines.md",
+      "home": "11_reporting_publication/README.md"
+    },
+    "11_reporting_publication/lessons/01_reporting_guidelines.md": {
+      "previous": "11_reporting_publication/README.md",
+      "next": "11_reporting_publication/lessons/02_manuscript_results.md",
+      "home": "11_reporting_publication/README.md"
+    },
+    "11_reporting_publication/lessons/02_manuscript_results.md": {
+      "previous": "11_reporting_publication/lessons/01_reporting_guidelines.md",
+      "next": "11_reporting_publication/lessons/03_submission_review.md",
+      "home": "11_reporting_publication/README.md"
+    },
+    "11_reporting_publication/lessons/03_submission_review.md": {
+      "previous": "11_reporting_publication/lessons/02_manuscript_results.md",
+      "next": "11_reporting_publication/lessons/04_public_communication.md",
+      "home": "11_reporting_publication/README.md"
+    },
+    "11_reporting_publication/lessons/04_public_communication.md": {
+      "previous": "11_reporting_publication/lessons/03_submission_review.md",
+      "next": "11_reporting_publication/lessons/05_article_types.md",
+      "home": "11_reporting_publication/README.md"
+    },
+    "11_reporting_publication/lessons/05_article_types.md": {
+      "previous": "11_reporting_publication/lessons/04_public_communication.md",
+      "next": "11_reporting_publication/lessons/06_journal_selection.md",
+      "home": "11_reporting_publication/README.md"
+    },
+    "11_reporting_publication/lessons/06_journal_selection.md": {
+      "previous": "11_reporting_publication/lessons/05_article_types.md",
+      "next": "11_reporting_publication/lessons/07_research_metrics.md",
+      "home": "11_reporting_publication/README.md"
+    },
+    "11_reporting_publication/lessons/07_research_metrics.md": {
+      "previous": "11_reporting_publication/lessons/06_journal_selection.md",
+      "next": "11_reporting_publication/exercises/01_exercises.md",
+      "home": "11_reporting_publication/README.md"
+    },
+    "11_reporting_publication/exercises/01_exercises.md": {
+      "previous": "11_reporting_publication/lessons/07_research_metrics.md",
+      "next": "11_reporting_publication/exercises/02_exercises.md",
+      "home": "11_reporting_publication/README.md"
+    },
+    "11_reporting_publication/exercises/02_exercises.md": {
+      "previous": "11_reporting_publication/exercises/01_exercises.md",
+      "next": "11_reporting_publication/exercises/03_exercises.md",
+      "home": "11_reporting_publication/README.md"
+    },
+    "11_reporting_publication/exercises/03_exercises.md": {
+      "previous": "11_reporting_publication/exercises/02_exercises.md",
+      "next": "11_reporting_publication/exercises/04_exercises.md",
+      "home": "11_reporting_publication/README.md"
+    },
+    "11_reporting_publication/exercises/04_exercises.md": {
+      "previous": "11_reporting_publication/exercises/03_exercises.md",
+      "next": "11_reporting_publication/exercises/05_exercises.md",
+      "home": "11_reporting_publication/README.md"
+    },
+    "11_reporting_publication/exercises/05_exercises.md": {
+      "previous": "11_reporting_publication/exercises/04_exercises.md",
+      "next": "11_reporting_publication/exercises/06_exercises.md",
+      "home": "11_reporting_publication/README.md"
+    },
+    "11_reporting_publication/exercises/06_exercises.md": {
+      "previous": "11_reporting_publication/exercises/05_exercises.md",
+      "next": "11_reporting_publication/exercises/07_exercises.md",
+      "home": "11_reporting_publication/README.md"
+    },
+    "11_reporting_publication/exercises/07_exercises.md": {
+      "previous": "11_reporting_publication/exercises/06_exercises.md",
+      "next": "solutions/11_reporting_publication/README.md",
+      "home": "11_reporting_publication/README.md"
+    },
+    "solutions/11_reporting_publication/README.md": {
+      "previous": "11_reporting_publication/exercises/07_exercises.md",
+      "next": "solutions/11_reporting_publication/01_solutions.md",
+      "home": "11_reporting_publication/README.md"
+    },
+    "solutions/11_reporting_publication/01_solutions.md": {
+      "previous": "solutions/11_reporting_publication/README.md",
+      "next": "solutions/11_reporting_publication/02_solutions.md",
+      "home": "11_reporting_publication/README.md"
+    },
+    "solutions/11_reporting_publication/02_solutions.md": {
+      "previous": "solutions/11_reporting_publication/01_solutions.md",
+      "next": "solutions/11_reporting_publication/03_solutions.md",
+      "home": "11_reporting_publication/README.md"
+    },
+    "solutions/11_reporting_publication/03_solutions.md": {
+      "previous": "solutions/11_reporting_publication/02_solutions.md",
+      "next": "solutions/11_reporting_publication/04_solutions.md",
+      "home": "11_reporting_publication/README.md"
+    },
+    "solutions/11_reporting_publication/04_solutions.md": {
+      "previous": "solutions/11_reporting_publication/03_solutions.md",
+      "next": "solutions/11_reporting_publication/05_solutions.md",
+      "home": "11_reporting_publication/README.md"
+    },
+    "solutions/11_reporting_publication/05_solutions.md": {
+      "previous": "solutions/11_reporting_publication/04_solutions.md",
+      "next": "solutions/11_reporting_publication/06_solutions.md",
+      "home": "11_reporting_publication/README.md"
+    },
+    "solutions/11_reporting_publication/06_solutions.md": {
+      "previous": "solutions/11_reporting_publication/05_solutions.md",
+      "next": "solutions/11_reporting_publication/07_solutions.md",
+      "home": "11_reporting_publication/README.md"
+    },
+    "solutions/11_reporting_publication/07_solutions.md": {
+      "previous": "solutions/11_reporting_publication/06_solutions.md",
+      "next": "11_reporting_publication/resources/README.md",
+      "home": "11_reporting_publication/README.md"
+    },
+    "11_reporting_publication/resources/README.md": {
+      "previous": "solutions/11_reporting_publication/07_solutions.md",
+      "next": "11_reporting_publication/resources/glossary.md",
+      "home": "11_reporting_publication/README.md"
+    },
+    "11_reporting_publication/resources/glossary.md": {
+      "previous": "11_reporting_publication/resources/README.md",
+      "next": "11_reporting_publication/resources/references.md",
+      "home": "11_reporting_publication/README.md"
+    },
+    "11_reporting_publication/resources/references.md": {
+      "previous": "11_reporting_publication/resources/glossary.md",
+      "next": "11_reporting_publication/resources/videos.md",
+      "home": "11_reporting_publication/README.md"
+    },
+    "11_reporting_publication/resources/videos.md": {
+      "previous": "11_reporting_publication/resources/references.md",
+      "next": "11_reporting_publication/code/README.md",
+      "home": "11_reporting_publication/README.md"
+    },
+    "11_reporting_publication/code/README.md": {
+      "previous": "11_reporting_publication/resources/videos.md",
+      "next": "curriculum/README.md",
+      "home": "11_reporting_publication/README.md"
     }
   }
 }

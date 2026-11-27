@@ -174,7 +174,7 @@
 
 ---
 
-[صفحهٔ پیشین: فیلم‌های آموزشی ماژول ۱۰](videos.md) · [فهرست](../../curriculum/README.md) · [صفحهٔ پسین: نقشهٔ جامع دوره](../../curriculum/README.md)
+[صفحهٔ پیشین: فیلم‌های آموزشی ماژول ۱۰](videos.md) · [فهرست](../../curriculum/README.md) · [صفحهٔ پسین: ماژول ۱۱، گزارش‌دهی و انتشار](../../11_reporting_publication/README.md)
 
 <!-- COURSE_NAV_END -->
 

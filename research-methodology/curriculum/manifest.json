@@ -2382,24 +2382,18 @@
       },
       "exercise_ids": {
         "beginner": [
-          "M11-L01-B01",
-          "M11-L01-B02",
-          "M11-L01-B03"
+          "M11-L01-B01"
         ],
         "intermediate": [
-          "M11-L01-I01",
-          "M11-L01-I02",
-          "M11-L01-I03"
+          "M11-L01-I01"
         ],
         "advanced": [
-          "M11-L01-A01",
-          "M11-L01-A02",
-          "M11-L01-A03"
+          "M11-L01-A01"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "rewritten",
+      "source_review": "documented_partial_verification",
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
@@ -2407,7 +2401,10 @@
           "fa",
           "en"
         ]
-      }
+      },
+      "path": "11_reporting_publication/lessons/01_reporting_guidelines.md",
+      "exercises_path": "11_reporting_publication/exercises/01_exercises.md",
+      "solutions_path": "solutions/11_reporting_publication/01_solutions.md"
     },
     {
       "id": "M11-L02",
@@ -2427,24 +2424,18 @@
       },
       "exercise_ids": {
         "beginner": [
-          "M11-L02-B01",
-          "M11-L02-B02",
-          "M11-L02-B03"
+          "M11-L02-B01"
         ],
         "intermediate": [
-          "M11-L02-I01",
-          "M11-L02-I02",
-          "M11-L02-I03"
+          "M11-L02-I01"
         ],
         "advanced": [
-          "M11-L02-A01",
-          "M11-L02-A02",
-          "M11-L02-A03"
+          "M11-L02-A01"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "rewritten",
+      "source_review": "documented_partial_verification",
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
@@ -2452,7 +2443,10 @@
           "fa",
           "en"
         ]
-      }
+      },
+      "path": "11_reporting_publication/lessons/02_manuscript_results.md",
+      "exercises_path": "11_reporting_publication/exercises/02_exercises.md",
+      "solutions_path": "solutions/11_reporting_publication/02_solutions.md"
     },
     {
       "id": "M11-L03",
@@ -2472,24 +2466,18 @@
       },
       "exercise_ids": {
         "beginner": [
-          "M11-L03-B01",
-          "M11-L03-B02",
-          "M11-L03-B03"
+          "M11-L03-B01"
         ],
         "intermediate": [
-          "M11-L03-I01",
-          "M11-L03-I02",
-          "M11-L03-I03"
+          "M11-L03-I01"
         ],
         "advanced": [
-          "M11-L03-A01",
-          "M11-L03-A02",
-          "M11-L03-A03"
+          "M11-L03-A01"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "rewritten",
+      "source_review": "documented_partial_verification",
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
@@ -2497,7 +2485,10 @@
           "fa",
           "en"
         ]
-      }
+      },
+      "path": "11_reporting_publication/lessons/03_submission_review.md",
+      "exercises_path": "11_reporting_publication/exercises/03_exercises.md",
+      "solutions_path": "solutions/11_reporting_publication/03_solutions.md"
     },
     {
       "id": "M11-L04",
@@ -2517,24 +2508,18 @@
       },
       "exercise_ids": {
         "beginner": [
-          "M11-L04-B01",
-          "M11-L04-B02",
-          "M11-L04-B03"
+          "M11-L04-B01"
         ],
         "intermediate": [
-          "M11-L04-I01",
-          "M11-L04-I02",
-          "M11-L04-I03"
+          "M11-L04-I01"
         ],
         "advanced": [
-          "M11-L04-A01",
-          "M11-L04-A02",
-          "M11-L04-A03"
+          "M11-L04-A01"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "rewritten",
+      "source_review": "documented_partial_verification",
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
@@ -2542,7 +2527,10 @@
           "fa",
           "en"
         ]
-      }
+      },
+      "path": "11_reporting_publication/lessons/04_public_communication.md",
+      "exercises_path": "11_reporting_publication/exercises/04_exercises.md",
+      "solutions_path": "solutions/11_reporting_publication/04_solutions.md"
     },
     {
       "id": "M11-L05",
@@ -2562,24 +2550,18 @@
       },
       "exercise_ids": {
         "beginner": [
-          "M11-L05-B01",
-          "M11-L05-B02",
-          "M11-L05-B03"
+          "M11-L05-B01"
         ],
         "intermediate": [
-          "M11-L05-I01",
-          "M11-L05-I02",
-          "M11-L05-I03"
+          "M11-L05-I01"
         ],
         "advanced": [
-          "M11-L05-A01",
-          "M11-L05-A02",
-          "M11-L05-A03"
+          "M11-L05-A01"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "rewritten",
+      "source_review": "documented_partial_verification",
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
@@ -2587,7 +2569,10 @@
           "fa",
           "en"
         ]
-      }
+      },
+      "path": "11_reporting_publication/lessons/05_article_types.md",
+      "exercises_path": "11_reporting_publication/exercises/05_exercises.md",
+      "solutions_path": "solutions/11_reporting_publication/05_solutions.md"
     },
     {
       "id": "M11-L06",
@@ -2607,24 +2592,18 @@
       },
       "exercise_ids": {
         "beginner": [
-          "M11-L06-B01",
-          "M11-L06-B02",
-          "M11-L06-B03"
+          "M11-L06-B01"
         ],
         "intermediate": [
-          "M11-L06-I01",
-          "M11-L06-I02",
-          "M11-L06-I03"
+          "M11-L06-I01"
         ],
         "advanced": [
-          "M11-L06-A01",
-          "M11-L06-A02",
-          "M11-L06-A03"
+          "M11-L06-A01"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "rewritten",
+      "source_review": "documented_partial_verification",
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
@@ -2632,7 +2611,10 @@
           "fa",
           "en"
         ]
-      }
+      },
+      "path": "11_reporting_publication/lessons/06_journal_selection.md",
+      "exercises_path": "11_reporting_publication/exercises/06_exercises.md",
+      "solutions_path": "solutions/11_reporting_publication/06_solutions.md"
     },
     {
       "id": "M11-L07",
@@ -2652,24 +2634,18 @@
       },
       "exercise_ids": {
         "beginner": [
-          "M11-L07-B01",
-          "M11-L07-B02",
-          "M11-L07-B03"
+          "M11-L07-B01"
         ],
         "intermediate": [
-          "M11-L07-I01",
-          "M11-L07-I02",
-          "M11-L07-I03"
+          "M11-L07-I01"
         ],
         "advanced": [
-          "M11-L07-A01",
-          "M11-L07-A02",
-          "M11-L07-A03"
+          "M11-L07-A01"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "rewritten",
+      "source_review": "documented_partial_verification",
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
@@ -2677,7 +2653,10 @@
           "fa",
           "en"
         ]
-      }
+      },
+      "path": "11_reporting_publication/lessons/07_research_metrics.md",
+      "exercises_path": "11_reporting_publication/exercises/07_exercises.md",
+      "solutions_path": "solutions/11_reporting_publication/07_solutions.md"
     },
     {
       "id": "M12-L01",
