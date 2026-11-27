@@ -1,0 +1,175 @@
+{
+  "checked_on": "2026-11-27",
+  "references": {
+    "COCHRANE-4": {
+      "title": "Cochrane Handbook. Chapter 4: Searching for and selecting studies.",
+      "url": "https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-04",
+      "description": "جست‌وجو، انتخاب مطالعه، واژگان و ثبت راهبرد",
+      "verification": "صفحهٔ جاری، فهرست بخش‌ها و نکته‌های کلیدی بررسی شد"
+    },
+    "PUBMED": {
+      "title": "U.S. National Library of Medicine. PubMed User Guide.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/help/",
+      "description": "راهنمای جست‌وجوی PubMed",
+      "verification": "نشانی راهنمای رسمی ثبت شد؛ بازبینی کامل در این نوبت انجام نشد"
+    },
+    "MESH": {
+      "title": "U.S. National Library of Medicine. Medical Subject Headings.",
+      "url": "https://www.nlm.nih.gov/mesh/meshhome.html",
+      "description": "واژگان کنترل‌شدهٔ MEDLINE",
+      "verification": "صفحهٔ رسمی ثبت شد؛ سرعنوان‌های نمونه هنگام اجرا باید بازبینی شوند"
+    },
+    "PRISMA-S": {
+      "title": "PRISMA-S: reporting literature searches in systematic reviews.",
+      "url": "https://www.prisma-statement.org/prisma-search",
+      "description": "گزارش جست‌وجو در مرورهای نظام‌مند",
+      "verification": "پیوند از فهرست رسمی PRISMA extensions بررسی شد"
+    },
+    "PRESS": {
+      "title": "McGowan J, et al. PRESS Peer Review of Electronic Search Strategies: 2015 Guideline Statement.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27409668/",
+      "description": "بازبینی راهبرد جست‌وجو",
+      "verification": "عنوان و شناسه از نمایهٔ کتاب‌شناختی ثبت شد؛ متن کامل خوانده نشد"
+    },
+    "ASREVIEW": {
+      "title": "ASReview LAB. Data format.",
+      "url": "https://asreview.readthedocs.io/en/latest/lab/data_format.html",
+      "description": "قالب داده برای غربالگری",
+      "verification": "راهنمای جاری و جدول فیلدها بررسی شد"
+    },
+    "PRISMA2020": {
+      "title": "PRISMA 2020.",
+      "url": "https://www.prisma-statement.org/prisma-2020",
+      "description": "گزارش مرور نظام‌مند و نمودار جریان",
+      "verification": "صفحهٔ رسمی، چک‌لیست و پیوند نمودار جریان بررسی شد"
+    },
+    "GRANT-BOOTH": {
+      "title": "Grant MJ, Booth A. A typology of reviews: an analysis of 14 review types and associated methodologies. 2009.",
+      "url": "https://doi.org/10.1111/j.1471-1842.2009.00848.x",
+      "description": "گونه‌شناسی مرورها",
+      "verification": "عنوان و شناسهٔ پایدار ثبت شد؛ متن کامل در این نوبت بررسی نشد"
+    },
+    "PRISMA-SCR": {
+      "title": "PRISMA extension for Scoping Reviews.",
+      "url": "https://www.prisma-statement.org/scoping",
+      "description": "گزارش مرور دامنه‌ای",
+      "verification": "صفحهٔ رسمی، چک‌لیست، مقالهٔ توضیحی و ویدیوی آغازین بررسی شد"
+    },
+    "SWIM": {
+      "title": "Synthesis Without Meta-analysis reporting guideline.",
+      "url": "https://swim.sphsu.gla.ac.uk/",
+      "description": "گزارش سنتز بدون فراتحلیل",
+      "verification": "صفحه و دامنهٔ راهنما ثبت شد؛ همهٔ بندها بازبینی نشد"
+    },
+    "VANDE-SCHOOT": {
+      "title": "van de Schoot R, et al. An open source machine learning framework for efficient and transparent systematic reviews. 2021.",
+      "url": "https://doi.org/10.1038/s42256-020-00287-7",
+      "description": "چارچوب یادگیری ماشین برای غربالگری",
+      "verification": "اطلاعات کتاب‌شناختی و چکیده بررسی شد"
+    },
+    "ROB2": {
+      "title": "Cochrane Handbook. Chapter 8: Assessing risk of bias in a randomized trial.",
+      "url": "https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-08",
+      "description": "ابزار RoB 2 و قضاوت نتیجه‌محور",
+      "verification": "فهرست بخش‌ها و نکته‌های کلیدی صفحهٔ جاری بررسی شد"
+    },
+    "ROBINSI": {
+      "title": "Sterne JAC, et al. ROBINS-I: a tool for assessing risk of bias in non-randomised studies of interventions. BMJ. 2016;355:i4919.",
+      "url": "https://www.bmj.com/content/355/bmj.i4919",
+      "description": "ارزیابی خطر سوگیری در مطالعه‌های مداخله‌ای غیرتصادفی",
+      "verification": "عنوان و شناسهٔ مقاله ثبت شد؛ متن کامل در این نوبت بازبینی نشد"
+    },
+    "QUADAS2": {
+      "title": "Whiting PF, et al. QUADAS-2: a revised tool for the quality assessment of diagnostic accuracy studies. 2011.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22007046/",
+      "description": "ارزیابی طرح دقت تشخیصی",
+      "verification": "اطلاعات کتاب‌شناختی ثبت شد؛ متن کامل در این نوبت خوانده نشد"
+    },
+    "ROBIS": {
+      "title": "Whiting P, et al. ROBIS: a new tool to assess risk of bias in systematic reviews. 2016.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26092286/",
+      "description": "خطر سوگیری در خود مرور نظام‌مند",
+      "verification": "عنوان و شناسه ثبت شد؛ متن کامل در این نوبت خوانده نشد"
+    },
+    "COCHRANE-14": {
+      "title": "Cochrane Handbook. Chapter 14: Completing Summary of Findings tables and grading the certainty of the evidence.",
+      "url": "https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-14",
+      "description": "قطعیت شواهد با GRADE",
+      "verification": "فهرست فصل و نکته‌های کلیدی صفحهٔ جاری بررسی شد"
+    },
+    "COCHRANE-9": {
+      "title": "Cochrane Handbook. Chapter 9: Summarizing study characteristics and preparing for synthesis.",
+      "url": "https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-09",
+      "description": "آماده‌سازی مطالعه‌ها برای سنتز",
+      "verification": "فهرست فصل و نکته‌های کلیدی صفحهٔ جاری بررسی شد"
+    },
+    "COCHRANE-10": {
+      "title": "Cochrane Handbook. Chapter 10: Analysing data and undertaking meta-analyses.",
+      "url": "https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-10",
+      "description": "اندازهٔ اثر، مدل‌ها و ناهمگونی",
+      "verification": "فهرست جاری فصل بررسی شد؛ همهٔ فصل خوانده نشد"
+    },
+    "COCHRANE-13": {
+      "title": "Cochrane Handbook. Chapter 13: Assessing risk of bias due to missing evidence.",
+      "url": "https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-13",
+      "description": "گزارش‌نشدن گزینشی و شواهد گمشده",
+      "verification": "فهرست فصل و نکته‌های کلیدی صفحهٔ جاری بررسی شد"
+    }
+  },
+  "videos": {
+    "YT_PUBMED": {
+      "title": "PubMed tutorials",
+      "url": "https://www.youtube.com/watch?v=xPy4tCr4j8Q",
+      "description": "پیوند آموزشی برای آشنایی با جست‌وجو در PubMed",
+      "verification": "عنوان در فهرست آموزشی ثبت شده؛ صفحهٔ مستقیم و پخش در این محیط تأیید نشد"
+    },
+    "YT_COCHRANE_REVIEW": {
+      "title": "How to Conduct a Systematic Review",
+      "url": "https://www.youtube.com/watch?v=wfq_GvI2j3s",
+      "description": "آشنایی با فرایند مرور نظام‌مند",
+      "verification": "عنوان و انتساب در فهرست آموزشی ثبت شده؛ صفحهٔ مستقیم و پخش تأیید نشد"
+    },
+    "YT_ASREVIEW": {
+      "title": "ASReview instruction video",
+      "url": "https://www.youtube.com/watch?v=-Rw291AE2OI",
+      "description": "راهنمای ویدیویی ورود داده به ASReview",
+      "verification": "پیوند به فیلم در مستند رسمی ASReview یافت شد؛ صفحهٔ مستقیم و پخش آزموده نشد"
+    },
+    "YT_PRISMA_FLOW": {
+      "title": "PRISMA flow diagram tutorial",
+      "url": "https://www.youtube.com/watch?v=N6y7tvkYoZs",
+      "description": "آشنایی با نمودار جریان مرور",
+      "verification": "پیوند در فهرست آموزشی ثبت شد؛ عنوان صفحهٔ اصلی و پخش تأیید نشد"
+    },
+    "YT_PRISMA_SCR": {
+      "title": "Introductory video for PRISMA-ScR",
+      "url": "https://www.youtube.com/watch?v=HOU6VbOmLjw",
+      "description": "آشنایی آغازین با مرور دامنه‌ای",
+      "verification": "پیوند در صفحهٔ رسمی PRISMA-ScR معرفی شده؛ پخش آزموده نشد"
+    },
+    "YT_ROB2_PART1": {
+      "title": "RoB 2.0 tool Part 1",
+      "url": "https://www.youtube.com/watch?v=k57cuf0z9sw",
+      "description": "راهنمای ابزار خطر سوگیری در کارآزمایی",
+      "verification": "عنوان و شناسه در منبع راهنمای RoB 2 ثبت شده؛ پخش آزموده نشد"
+    },
+    "YT_ROB2_PART2": {
+      "title": "RoB 2.0 tool Part 2",
+      "url": "https://www.youtube.com/watch?v=PnNNP8EuCv4",
+      "description": "بخش دوم راهنمای RoB 2",
+      "verification": "عنوان و شناسه در منبع راهنمای RoB 2 ثبت شده؛ پخش آزموده نشد"
+    },
+    "YT_RANDOM_EFFECTS": {
+      "title": "Random-effects meta-analysis methods in RevMan",
+      "url": "https://www.youtube.com/watch?v=4gsaUl5uh70",
+      "description": "مدل اثرات تصادفی در فراتحلیل",
+      "verification": "عنوان در منبع آموزشی ثانویه ثبت شده؛ صفحهٔ مستقیم و پخش تأیید نشد"
+    },
+    "YT_SMD": {
+      "title": "Standardized mean difference",
+      "url": "https://www.youtube.com/watch?v=X-UlZ1XE1JI",
+      "description": "تفسیر تفاوت میانگین استانداردشده",
+      "verification": "شناسه در منبع درس دانشگاهی ثبت شده؛ صفحهٔ مستقیم و پخش تأیید نشد"
+    }
+  }
+}

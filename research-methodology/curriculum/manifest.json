@@ -248,24 +248,18 @@
       },
       "exercise_ids": {
         "beginner": [
-          "M02-L01-B01",
-          "M02-L01-B02",
-          "M02-L01-B03"
+          "M02-L01-B01"
         ],
         "intermediate": [
-          "M02-L01-I01",
-          "M02-L01-I02",
-          "M02-L01-I03"
+          "M02-L01-I01"
         ],
         "advanced": [
-          "M02-L01-A01",
-          "M02-L01-A02",
-          "M02-L01-A03"
+          "M02-L01-A01"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "previous draft superseded by current self-study lesson",
+      "source_review": "pending_human_scientific_review",
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
@@ -273,7 +267,10 @@
           "fa",
           "en"
         ]
-      }
+      },
+      "path": "02_literature_review/lessons/01_search_strategy.md",
+      "exercises_path": "02_literature_review/exercises/01_exercises.md",
+      "solutions_path": "solutions/02_literature_review/01_solutions.md"
     },
     {
       "id": "M02-L02",
@@ -290,24 +287,18 @@
       },
       "exercise_ids": {
         "beginner": [
-          "M02-L02-B01",
-          "M02-L02-B02",
-          "M02-L02-B03"
+          "M02-L02-B01"
         ],
         "intermediate": [
-          "M02-L02-I01",
-          "M02-L02-I02",
-          "M02-L02-I03"
+          "M02-L02-I01"
         ],
         "advanced": [
-          "M02-L02-A01",
-          "M02-L02-A02",
-          "M02-L02-A03"
+          "M02-L02-A01"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "previous draft superseded by current self-study lesson",
+      "source_review": "pending_human_scientific_review",
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
@@ -315,7 +306,10 @@
           "fa",
           "en"
         ]
-      }
+      },
+      "path": "02_literature_review/lessons/02_screening.md",
+      "exercises_path": "02_literature_review/exercises/02_exercises.md",
+      "solutions_path": "solutions/02_literature_review/02_solutions.md"
     },
     {
       "id": "M02-L03",
@@ -332,24 +326,18 @@
       },
       "exercise_ids": {
         "beginner": [
-          "M02-L03-B01",
-          "M02-L03-B02",
-          "M02-L03-B03"
+          "M02-L03-B01"
         ],
         "intermediate": [
-          "M02-L03-I01",
-          "M02-L03-I02",
-          "M02-L03-I03"
+          "M02-L03-I01"
         ],
         "advanced": [
-          "M02-L03-A01",
-          "M02-L03-A02",
-          "M02-L03-A03"
+          "M02-L03-A01"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "previous draft superseded by current self-study lesson",
+      "source_review": "pending_human_scientific_review",
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
@@ -357,7 +345,10 @@
           "fa",
           "en"
         ]
-      }
+      },
+      "path": "02_literature_review/lessons/03_review_types.md",
+      "exercises_path": "02_literature_review/exercises/03_exercises.md",
+      "solutions_path": "solutions/02_literature_review/03_solutions.md"
     },
     {
       "id": "M02-L04",
@@ -374,24 +365,18 @@
       },
       "exercise_ids": {
         "beginner": [
-          "M02-L04-B01",
-          "M02-L04-B02",
-          "M02-L04-B03"
+          "M02-L04-B01"
         ],
         "intermediate": [
-          "M02-L04-I01",
-          "M02-L04-I02",
-          "M02-L04-I03"
+          "M02-L04-I01"
         ],
         "advanced": [
-          "M02-L04-A01",
-          "M02-L04-A02",
-          "M02-L04-A03"
+          "M02-L04-A01"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "previous draft superseded by current self-study lesson",
+      "source_review": "pending_human_scientific_review",
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
@@ -399,7 +384,10 @@
           "fa",
           "en"
         ]
-      }
+      },
+      "path": "02_literature_review/lessons/04_critical_appraisal.md",
+      "exercises_path": "02_literature_review/exercises/04_exercises.md",
+      "solutions_path": "solutions/02_literature_review/04_solutions.md"
     },
     {
       "id": "M02-L05",
@@ -416,24 +404,18 @@
       },
       "exercise_ids": {
         "beginner": [
-          "M02-L05-B01",
-          "M02-L05-B02",
-          "M02-L05-B03"
+          "M02-L05-B01"
         ],
         "intermediate": [
-          "M02-L05-I01",
-          "M02-L05-I02",
-          "M02-L05-I03"
+          "M02-L05-I01"
         ],
         "advanced": [
-          "M02-L05-A01",
-          "M02-L05-A02",
-          "M02-L05-A03"
+          "M02-L05-A01"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "previous draft superseded by current self-study lesson",
+      "source_review": "pending_human_scientific_review",
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
@@ -441,7 +423,10 @@
           "fa",
           "en"
         ]
-      }
+      },
+      "path": "02_literature_review/lessons/05_synthesis_meta_analysis.md",
+      "exercises_path": "02_literature_review/exercises/05_exercises.md",
+      "solutions_path": "solutions/02_literature_review/05_solutions.md"
     },
     {
       "id": "M03-L01",

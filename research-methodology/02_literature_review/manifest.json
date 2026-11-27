@@ -1,0 +1,256 @@
+{
+  "module": "M02",
+  "version": 1,
+  "date": "2026-11-27",
+  "lessons": [
+    {
+      "id": "M02-L01",
+      "title": "جست‌وجوی ساختاریافته",
+      "path": "02_literature_review/lessons/01_search_strategy.md",
+      "exercises_path": "02_literature_review/exercises/01_exercises.md",
+      "solutions_path": "solutions/02_literature_review/01_solutions.md",
+      "exercise_ids": [
+        "M02-L01-B01",
+        "M02-L01-I01",
+        "M02-L01-A01"
+      ],
+      "levels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "references": [
+        "COCHRANE-4",
+        "PUBMED",
+        "MESH",
+        "PRISMA-S",
+        "PRESS"
+      ],
+      "videos": [
+        "YT_PUBMED",
+        "YT_COCHRANE_REVIEW"
+      ],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "supplementary_video_ids": [],
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      },
+      "teaching_revision": "2026-11-27",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "02_literature_review/README.md",
+        "next": "02_literature_review/lessons/02_screening.md"
+      }
+    },
+    {
+      "id": "M02-L02",
+      "title": "مدیریت منابع و غربالگری",
+      "path": "02_literature_review/lessons/02_screening.md",
+      "exercises_path": "02_literature_review/exercises/02_exercises.md",
+      "solutions_path": "solutions/02_literature_review/02_solutions.md",
+      "exercise_ids": [
+        "M02-L02-B01",
+        "M02-L02-I01",
+        "M02-L02-A01"
+      ],
+      "levels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "references": [
+        "COCHRANE-4",
+        "PRISMA2020",
+        "ASREVIEW",
+        "VANDE-SCHOOT"
+      ],
+      "videos": [
+        "YT_ASREVIEW",
+        "YT_PRISMA_FLOW"
+      ],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "supplementary_video_ids": [],
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      },
+      "teaching_revision": "2026-11-27",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "02_literature_review/lessons/01_search_strategy.md",
+        "next": "02_literature_review/lessons/03_review_types.md"
+      }
+    },
+    {
+      "id": "M02-L03",
+      "title": "مرور روایتی، دامنه‌ای و نظام‌مند",
+      "path": "02_literature_review/lessons/03_review_types.md",
+      "exercises_path": "02_literature_review/exercises/03_exercises.md",
+      "solutions_path": "solutions/02_literature_review/03_solutions.md",
+      "exercise_ids": [
+        "M02-L03-B01",
+        "M02-L03-I01",
+        "M02-L03-A01"
+      ],
+      "levels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "references": [
+        "GRANT-BOOTH",
+        "PRISMA2020",
+        "PRISMA-SCR",
+        "COCHRANE-9",
+        "SWIM"
+      ],
+      "videos": [
+        "YT_COCHRANE_REVIEW",
+        "YT_PRISMA_SCR"
+      ],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "supplementary_video_ids": [],
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      },
+      "teaching_revision": "2026-11-27",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "02_literature_review/lessons/02_screening.md",
+        "next": "02_literature_review/lessons/04_critical_appraisal.md"
+      }
+    },
+    {
+      "id": "M02-L04",
+      "title": "ارزیابی نقادانه و خطر سوگیری",
+      "path": "02_literature_review/lessons/04_critical_appraisal.md",
+      "exercises_path": "02_literature_review/exercises/04_exercises.md",
+      "solutions_path": "solutions/02_literature_review/04_solutions.md",
+      "exercise_ids": [
+        "M02-L04-B01",
+        "M02-L04-I01",
+        "M02-L04-A01"
+      ],
+      "levels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "references": [
+        "ROB2",
+        "ROBINSI",
+        "QUADAS2",
+        "ROBIS",
+        "COCHRANE-14"
+      ],
+      "videos": [
+        "YT_ROB2_PART1",
+        "YT_ROB2_PART2"
+      ],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "supplementary_video_ids": [],
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      },
+      "teaching_revision": "2026-11-27",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "02_literature_review/lessons/03_review_types.md",
+        "next": "02_literature_review/lessons/05_synthesis_meta_analysis.md"
+      }
+    },
+    {
+      "id": "M02-L05",
+      "title": "تلفیق شواهد و مبانی فراتحلیل",
+      "path": "02_literature_review/lessons/05_synthesis_meta_analysis.md",
+      "exercises_path": "02_literature_review/exercises/05_exercises.md",
+      "solutions_path": "solutions/02_literature_review/05_solutions.md",
+      "exercise_ids": [
+        "M02-L05-B01",
+        "M02-L05-I01",
+        "M02-L05-A01"
+      ],
+      "levels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "references": [
+        "COCHRANE-9",
+        "COCHRANE-10",
+        "SWIM",
+        "COCHRANE-14",
+        "COCHRANE-13"
+      ],
+      "videos": [
+        "YT_RANDOM_EFFECTS",
+        "YT_SMD"
+      ],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "supplementary_video_ids": [],
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      },
+      "teaching_revision": "2026-11-27",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "02_literature_review/lessons/04_critical_appraisal.md",
+        "next": "02_literature_review/exercises/01_exercises.md"
+      }
+    }
+  ]
+}

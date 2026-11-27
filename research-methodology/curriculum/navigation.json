@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "date": "2026-11-15",
+  "date": "2026-11-27",
   "pages": {
     "README.md": {
       "previous": "curriculum/README.md",
@@ -381,6 +381,121 @@
       "previous": "README.md",
       "next": "curriculum/README.md",
       "home": "README.md"
+    },
+    "02_literature_review/README.md": {
+      "previous": "curriculum/README.md",
+      "next": "02_literature_review/lessons/01_search_strategy.md",
+      "home": "02_literature_review/README.md"
+    },
+    "02_literature_review/lessons/01_search_strategy.md": {
+      "previous": "02_literature_review/README.md",
+      "next": "02_literature_review/lessons/02_screening.md",
+      "home": "02_literature_review/README.md"
+    },
+    "02_literature_review/lessons/02_screening.md": {
+      "previous": "02_literature_review/lessons/01_search_strategy.md",
+      "next": "02_literature_review/lessons/03_review_types.md",
+      "home": "02_literature_review/README.md"
+    },
+    "02_literature_review/lessons/03_review_types.md": {
+      "previous": "02_literature_review/lessons/02_screening.md",
+      "next": "02_literature_review/lessons/04_critical_appraisal.md",
+      "home": "02_literature_review/README.md"
+    },
+    "02_literature_review/lessons/04_critical_appraisal.md": {
+      "previous": "02_literature_review/lessons/03_review_types.md",
+      "next": "02_literature_review/lessons/05_synthesis_meta_analysis.md",
+      "home": "02_literature_review/README.md"
+    },
+    "02_literature_review/lessons/05_synthesis_meta_analysis.md": {
+      "previous": "02_literature_review/lessons/04_critical_appraisal.md",
+      "next": "02_literature_review/exercises/01_exercises.md",
+      "home": "02_literature_review/README.md"
+    },
+    "02_literature_review/exercises/01_exercises.md": {
+      "previous": "02_literature_review/lessons/05_synthesis_meta_analysis.md",
+      "next": "02_literature_review/exercises/02_exercises.md",
+      "home": "02_literature_review/README.md"
+    },
+    "02_literature_review/exercises/02_exercises.md": {
+      "previous": "02_literature_review/exercises/01_exercises.md",
+      "next": "02_literature_review/exercises/03_exercises.md",
+      "home": "02_literature_review/README.md"
+    },
+    "02_literature_review/exercises/03_exercises.md": {
+      "previous": "02_literature_review/exercises/02_exercises.md",
+      "next": "02_literature_review/exercises/04_exercises.md",
+      "home": "02_literature_review/README.md"
+    },
+    "02_literature_review/exercises/04_exercises.md": {
+      "previous": "02_literature_review/exercises/03_exercises.md",
+      "next": "02_literature_review/exercises/05_exercises.md",
+      "home": "02_literature_review/README.md"
+    },
+    "02_literature_review/exercises/05_exercises.md": {
+      "previous": "02_literature_review/exercises/04_exercises.md",
+      "next": "solutions/02_literature_review/README.md",
+      "home": "02_literature_review/README.md"
+    },
+    "solutions/02_literature_review/README.md": {
+      "previous": "02_literature_review/exercises/05_exercises.md",
+      "next": "solutions/02_literature_review/01_solutions.md",
+      "home": "02_literature_review/README.md"
+    },
+    "solutions/02_literature_review/01_solutions.md": {
+      "previous": "solutions/02_literature_review/README.md",
+      "next": "solutions/02_literature_review/02_solutions.md",
+      "home": "02_literature_review/README.md"
+    },
+    "solutions/02_literature_review/02_solutions.md": {
+      "previous": "solutions/02_literature_review/01_solutions.md",
+      "next": "solutions/02_literature_review/03_solutions.md",
+      "home": "02_literature_review/README.md"
+    },
+    "solutions/02_literature_review/03_solutions.md": {
+      "previous": "solutions/02_literature_review/02_solutions.md",
+      "next": "solutions/02_literature_review/04_solutions.md",
+      "home": "02_literature_review/README.md"
+    },
+    "solutions/02_literature_review/04_solutions.md": {
+      "previous": "solutions/02_literature_review/03_solutions.md",
+      "next": "solutions/02_literature_review/05_solutions.md",
+      "home": "02_literature_review/README.md"
+    },
+    "solutions/02_literature_review/05_solutions.md": {
+      "previous": "solutions/02_literature_review/04_solutions.md",
+      "next": "02_literature_review/resources/glossary.md",
+      "home": "02_literature_review/README.md"
+    },
+    "02_literature_review/resources/glossary.md": {
+      "previous": "solutions/02_literature_review/05_solutions.md",
+      "next": "02_literature_review/resources/references.md",
+      "home": "02_literature_review/README.md"
+    },
+    "02_literature_review/resources/references.md": {
+      "previous": "02_literature_review/resources/glossary.md",
+      "next": "02_literature_review/resources/videos.md",
+      "home": "02_literature_review/README.md"
+    },
+    "02_literature_review/resources/videos.md": {
+      "previous": "02_literature_review/resources/references.md",
+      "next": "curriculum/README.md",
+      "home": "02_literature_review/README.md"
+    },
+    "02_literature_review/lesson.md": {
+      "previous": "02_literature_review/README.md",
+      "next": "02_literature_review/README.md",
+      "home": "02_literature_review/README.md"
+    },
+    "02_literature_review/exercises.md": {
+      "previous": "02_literature_review/README.md",
+      "next": "02_literature_review/exercises/01_exercises.md",
+      "home": "02_literature_review/README.md"
+    },
+    "02_literature_review/solutions.md": {
+      "previous": "02_literature_review/README.md",
+      "next": "solutions/02_literature_review/README.md",
+      "home": "02_literature_review/README.md"
     }
   }
 }

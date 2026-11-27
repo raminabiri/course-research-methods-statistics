@@ -2,6 +2,9 @@
 
 ## ماژول‌های نوشته‌شده
 
+- [منابع جست‌وجو، مرور و ارزیابی شواهد](../02_literature_review/resources/references.md)
+- [فیلم‌های جست‌وجو، مرور و ارزیابی شواهد و وضعیت پیوندها](../02_literature_review/resources/videos.md)
+- [فهرست ماشینی منابع و فیلم‌های ماژول ۲](../02_literature_review/resources/catalog.json)
 - [منابع ماژول ۱ و دامنهٔ بررسی هر منبع](../01_foundations/resources/references.md)
 - [فیلم‌های ماژول ۱ و وضعیت پیوندها](../01_foundations/resources/videos.md)
 - [فهرست ماشینی منابع و فیلم‌های ماژول ۱](../01_foundations/resources/catalog.json)
