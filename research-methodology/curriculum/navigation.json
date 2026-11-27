@@ -756,6 +756,106 @@
       "previous": "04_bias_confounding_causality/resources/references.md",
       "next": "curriculum/README.md",
       "home": "04_bias_confounding_causality/README.md"
+    },
+    "05_measurement_questionnaire/README.md": {
+      "previous": "curriculum/README.md",
+      "next": "05_measurement_questionnaire/lessons/01_construct_measure.md",
+      "home": "05_measurement_questionnaire/README.md"
+    },
+    "05_measurement_questionnaire/lesson.md": {
+      "previous": "04_bias_confounding_causality/README.md",
+      "next": "05_measurement_questionnaire/lessons/01_construct_measure.md",
+      "home": "05_measurement_questionnaire/README.md"
+    },
+    "05_measurement_questionnaire/exercises.md": {
+      "previous": "05_measurement_questionnaire/lessons/04_clinical_lab_measurement.md",
+      "next": "05_measurement_questionnaire/exercises/01_exercises.md",
+      "home": "05_measurement_questionnaire/README.md"
+    },
+    "05_measurement_questionnaire/solutions.md": {
+      "previous": "05_measurement_questionnaire/exercises/04_exercises.md",
+      "next": "solutions/05_measurement_questionnaire/README.md",
+      "home": "05_measurement_questionnaire/README.md"
+    },
+    "05_measurement_questionnaire/lessons/01_construct_measure.md": {
+      "previous": "05_measurement_questionnaire/README.md",
+      "next": "05_measurement_questionnaire/lessons/02_questionnaire_adaptation.md",
+      "home": "05_measurement_questionnaire/README.md"
+    },
+    "05_measurement_questionnaire/lessons/02_questionnaire_adaptation.md": {
+      "previous": "05_measurement_questionnaire/lessons/01_construct_measure.md",
+      "next": "05_measurement_questionnaire/lessons/03_validity_reliability.md",
+      "home": "05_measurement_questionnaire/README.md"
+    },
+    "05_measurement_questionnaire/lessons/03_validity_reliability.md": {
+      "previous": "05_measurement_questionnaire/lessons/02_questionnaire_adaptation.md",
+      "next": "05_measurement_questionnaire/lessons/04_clinical_lab_measurement.md",
+      "home": "05_measurement_questionnaire/README.md"
+    },
+    "05_measurement_questionnaire/lessons/04_clinical_lab_measurement.md": {
+      "previous": "05_measurement_questionnaire/lessons/03_validity_reliability.md",
+      "next": "05_measurement_questionnaire/exercises/01_exercises.md",
+      "home": "05_measurement_questionnaire/README.md"
+    },
+    "05_measurement_questionnaire/exercises/01_exercises.md": {
+      "previous": "05_measurement_questionnaire/lessons/04_clinical_lab_measurement.md",
+      "next": "05_measurement_questionnaire/exercises/02_exercises.md",
+      "home": "05_measurement_questionnaire/README.md"
+    },
+    "05_measurement_questionnaire/exercises/02_exercises.md": {
+      "previous": "05_measurement_questionnaire/exercises/01_exercises.md",
+      "next": "05_measurement_questionnaire/exercises/03_exercises.md",
+      "home": "05_measurement_questionnaire/README.md"
+    },
+    "05_measurement_questionnaire/exercises/03_exercises.md": {
+      "previous": "05_measurement_questionnaire/exercises/02_exercises.md",
+      "next": "05_measurement_questionnaire/exercises/04_exercises.md",
+      "home": "05_measurement_questionnaire/README.md"
+    },
+    "05_measurement_questionnaire/exercises/04_exercises.md": {
+      "previous": "05_measurement_questionnaire/exercises/03_exercises.md",
+      "next": "solutions/05_measurement_questionnaire/README.md",
+      "home": "05_measurement_questionnaire/README.md"
+    },
+    "solutions/05_measurement_questionnaire/README.md": {
+      "previous": "05_measurement_questionnaire/exercises/04_exercises.md",
+      "next": "solutions/05_measurement_questionnaire/01_solutions.md",
+      "home": "05_measurement_questionnaire/README.md"
+    },
+    "solutions/05_measurement_questionnaire/01_solutions.md": {
+      "previous": "solutions/05_measurement_questionnaire/README.md",
+      "next": "solutions/05_measurement_questionnaire/02_solutions.md",
+      "home": "05_measurement_questionnaire/README.md"
+    },
+    "solutions/05_measurement_questionnaire/02_solutions.md": {
+      "previous": "solutions/05_measurement_questionnaire/01_solutions.md",
+      "next": "solutions/05_measurement_questionnaire/03_solutions.md",
+      "home": "05_measurement_questionnaire/README.md"
+    },
+    "solutions/05_measurement_questionnaire/03_solutions.md": {
+      "previous": "solutions/05_measurement_questionnaire/02_solutions.md",
+      "next": "solutions/05_measurement_questionnaire/04_solutions.md",
+      "home": "05_measurement_questionnaire/README.md"
+    },
+    "solutions/05_measurement_questionnaire/04_solutions.md": {
+      "previous": "solutions/05_measurement_questionnaire/03_solutions.md",
+      "next": "05_measurement_questionnaire/resources/glossary.md",
+      "home": "05_measurement_questionnaire/README.md"
+    },
+    "05_measurement_questionnaire/resources/glossary.md": {
+      "previous": "solutions/05_measurement_questionnaire/04_solutions.md",
+      "next": "05_measurement_questionnaire/resources/references.md",
+      "home": "05_measurement_questionnaire/README.md"
+    },
+    "05_measurement_questionnaire/resources/references.md": {
+      "previous": "05_measurement_questionnaire/resources/glossary.md",
+      "next": "05_measurement_questionnaire/resources/videos.md",
+      "home": "05_measurement_questionnaire/README.md"
+    },
+    "05_measurement_questionnaire/resources/videos.md": {
+      "previous": "05_measurement_questionnaire/resources/references.md",
+      "next": "curriculum/README.md",
+      "home": "05_measurement_questionnaire/README.md"
     }
   }
 }

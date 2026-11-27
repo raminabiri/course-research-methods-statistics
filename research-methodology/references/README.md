@@ -2,6 +2,9 @@
 
 ## ماژول‌های نوشته‌شده
 
+- [منابع اندازه‌گیری و ابزار گردآوری داده](../05_measurement_questionnaire/resources/references.md)
+- [فیلم‌های سنجش و وضعیت پیوندها](../05_measurement_questionnaire/resources/videos.md)
+- [فهرست ماشینی منابع و فیلم‌های ماژول ۵](../05_measurement_questionnaire/resources/catalog.json)
 - [منابع سوگیری و علیت در پزشکی و زیست‌شناسی](../04_bias_confounding_causality/resources/references.md)
 - [فیلم‌های سوگیری و علیت و وضعیت پیوندها](../04_bias_confounding_causality/resources/videos.md)
 - [فهرست ماشینی منابع و فیلم‌های ماژول ۴](../04_bias_confounding_causality/resources/catalog.json)

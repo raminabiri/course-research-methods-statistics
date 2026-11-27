@@ -1,0 +1,202 @@
+{
+  "module": "M05",
+  "version": 1,
+  "date": "2026-11-27",
+  "lessons": [
+    {
+      "id": "M05-L01",
+      "title": "سازه و سنجه",
+      "path": "05_measurement_questionnaire/lessons/01_construct_measure.md",
+      "exercises_path": "05_measurement_questionnaire/exercises/01_exercises.md",
+      "solutions_path": "solutions/05_measurement_questionnaire/01_solutions.md",
+      "exercise_ids": [
+        "M05-L01-B01",
+        "M05-L01-I01",
+        "M05-L01-A01"
+      ],
+      "levels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "references": [
+        "DEVELLIS",
+        "TESTING_STANDARDS",
+        "COSMIN_TAXONOMY"
+      ],
+      "videos": [
+        "YT_FRAMEWORK",
+        "YT_UNIT"
+      ],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "supplementary_video_ids": [],
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      },
+      "teaching_revision": "2026-11-27",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "05_measurement_questionnaire/README.md",
+        "next": "05_measurement_questionnaire/lessons/02_questionnaire_adaptation.md"
+      }
+    },
+    {
+      "id": "M05-L02",
+      "title": "ساخت و سازگارکردن پرسش‌نامه",
+      "path": "05_measurement_questionnaire/lessons/02_questionnaire_adaptation.md",
+      "exercises_path": "05_measurement_questionnaire/exercises/02_exercises.md",
+      "solutions_path": "solutions/05_measurement_questionnaire/02_solutions.md",
+      "exercise_ids": [
+        "M05-L02-B01",
+        "M05-L02-I01",
+        "M05-L02-A01"
+      ],
+      "levels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "references": [
+        "BEATON",
+        "WILLIS",
+        "WILD",
+        "DEVELLIS"
+      ],
+      "videos": [
+        "YT_QUAL",
+        "YT_FRAMEWORK"
+      ],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "supplementary_video_ids": [],
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      },
+      "teaching_revision": "2026-11-27",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "05_measurement_questionnaire/lessons/01_construct_measure.md",
+        "next": "05_measurement_questionnaire/lessons/03_validity_reliability.md"
+      }
+    },
+    {
+      "id": "M05-L03",
+      "title": "روایی و پایایی",
+      "path": "05_measurement_questionnaire/lessons/03_validity_reliability.md",
+      "exercises_path": "05_measurement_questionnaire/exercises/03_exercises.md",
+      "solutions_path": "solutions/05_measurement_questionnaire/03_solutions.md",
+      "exercise_ids": [
+        "M05-L03-B01",
+        "M05-L03-I01",
+        "M05-L03-A01"
+      ],
+      "levels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "references": [
+        "COSMIN_TAXONOMY",
+        "KOO_LI",
+        "TERWEE",
+        "BLAND_ALTMAN"
+      ],
+      "videos": [
+        "YT_REPRO",
+        "YT_UNIT"
+      ],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "supplementary_video_ids": [],
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      },
+      "teaching_revision": "2026-11-27",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "05_measurement_questionnaire/lessons/02_questionnaire_adaptation.md",
+        "next": "05_measurement_questionnaire/lessons/04_clinical_lab_measurement.md"
+      }
+    },
+    {
+      "id": "M05-L04",
+      "title": "سنجش بالینی و آزمایشگاهی",
+      "path": "05_measurement_questionnaire/lessons/04_clinical_lab_measurement.md",
+      "exercises_path": "05_measurement_questionnaire/exercises/04_exercises.md",
+      "solutions_path": "solutions/05_measurement_questionnaire/04_solutions.md",
+      "exercise_ids": [
+        "M05-L04-B01",
+        "M05-L04-I01",
+        "M05-L04-A01"
+      ],
+      "levels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "references": [
+        "CLSI_QMS",
+        "BLAND_ALTMAN",
+        "LAZIC",
+        "SUPERPLOTS"
+      ],
+      "videos": [
+        "YT_UNIT",
+        "YT_REPRO"
+      ],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "supplementary_video_ids": [],
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      },
+      "teaching_revision": "2026-11-27",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "05_measurement_questionnaire/lessons/03_validity_reliability.md",
+        "next": "05_measurement_questionnaire/exercises/01_exercises.md"
+      }
+    }
+  ]
+}

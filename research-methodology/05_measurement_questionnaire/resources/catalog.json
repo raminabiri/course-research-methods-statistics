@@ -1,0 +1,117 @@
+{
+  "checked_on": "2026-11-27",
+  "references": {
+    "DEVELLIS": {
+      "title": "DeVellis RF, Thorpe CT. Scale Development: Theory and Applications.",
+      "url": "https://us.sagepub.com/en-us/nam/scale-development/book269156",
+      "description": "ساخت مقیاس و مبانی نظری سنجش",
+      "verification": "صفحهٔ ناشر برای مشخصات کتاب ثبت شد؛ متن کامل در این نوبت بازبینی نشد"
+    },
+    "TESTING_STANDARDS": {
+      "title": "AERA, APA, NCME. Standards for Educational and Psychological Testing.",
+      "url": "https://www.testingstandards.net/",
+      "description": "استانداردهای سنجش آموزشی و روان‌شناختی",
+      "verification": "وبگاه رسمی استانداردها ثبت شد؛ بخش‌های مرتبط در این نوبت بازبینی نشد"
+    },
+    "COSMIN_TAXONOMY": {
+      "title": "Mokkink LB, et al. The COSMIN study reached international consensus on taxonomy, terminology, and definitions of measurement properties for health-related patient-reported outcomes.",
+      "url": "https://doi.org/10.1016/j.jclinepi.2010.02.006",
+      "description": "طبقه‌بندی ویژگی‌های سنجش و تعریف اصطلاح‌ها",
+      "verification": "عنوان و DOI ثبت شد؛ متن کامل در این نوبت بازبینی نشد"
+    },
+    "BEATON": {
+      "title": "Beaton DE, et al. Guidelines for the process of cross-cultural adaptation of self-report measures.",
+      "url": "https://doi.org/10.1097/00007632-200012150-00014",
+      "description": "راهنمای سازگارسازی بین‌فرهنگی ابزارهای خودگزارشی",
+      "verification": "عنوان و DOI ثبت شد؛ متن کامل در این نوبت بازبینی نشد"
+    },
+    "WILLIS": {
+      "title": "Willis GB. Cognitive Interviewing: A Tool for Improving Questionnaire Design.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK144065/",
+      "description": "مصاحبهٔ شناختی برای بهبود طراحی پرسش‌نامه",
+      "verification": "رکورد NCBI Bookshelf ثبت شد؛ فصل‌ها در این نوبت بازبینی نشد"
+    },
+    "WILD": {
+      "title": "Wild D, et al. Principles of good practice for the translation and cultural adaptation process for patient-reported outcomes measures.",
+      "url": "https://doi.org/10.1111/j.1524-4733.2005.04054.x",
+      "description": "روش ترجمه و سازگاری فرهنگی ابزارهای پیامد گزارش‌شده از سوی بیمار",
+      "verification": "عنوان و DOI ثبت شد؛ متن کامل در این نوبت بازبینی نشد"
+    },
+    "KOO_LI": {
+      "title": "Koo TK, Li MY. A guideline of selecting and reporting intraclass correlation coefficients for reliability research.",
+      "url": "https://doi.org/10.1016/j.jcm.2016.02.012",
+      "description": "گزینش و گزارش ضریب همبستگی درون‌رده‌ای",
+      "verification": "عنوان و DOI ثبت شد؛ متن کامل در این نوبت بازبینی نشد"
+    },
+    "TERWEE": {
+      "title": "Terwee CB, et al. COSMIN methodology for evaluating the content validity of patient-reported outcome measures.",
+      "url": "https://doi.org/10.1007/s11136-018-1829-0",
+      "description": "روش ارزیابی روایی محتوا در ابزارهای پیامد گزارش‌شده از سوی بیمار",
+      "verification": "عنوان و DOI ثبت شد؛ متن کامل در این نوبت بازبینی نشد"
+    },
+    "BLAND_ALTMAN": {
+      "title": "Bland JM, Altman DG. Statistical methods for assessing agreement between two methods of clinical measurement.",
+      "url": "https://doi.org/10.1016/S0140-6736(86)90837-8",
+      "description": "روش بررسی توافق دو سنجهٔ بالینی",
+      "verification": "عنوان و DOI ثبت شد؛ متن کامل در این نوبت بازبینی نشد"
+    },
+    "CLSI_QMS": {
+      "title": "Clinical and Laboratory Standards Institute. Quality Management System: A Model for Laboratory Services.",
+      "url": "https://clsi.org/standards/products/quality-management-systems/",
+      "description": "استانداردهای مدیریت کیفیت آزمایشگاه",
+      "verification": "فهرست رسمی CLSI ثبت شد؛ دسترسی و نسخهٔ استانداردها هنگام اجرا بررسی شود"
+    },
+    "LAZIC": {
+      "title": "Lazic SE, et al. What exactly is N in cell culture and animal experiments?",
+      "url": "https://doi.org/10.1371/journal.pbio.2005282",
+      "description": "واحد آزمایشی و تکرار در آزمایشگاه",
+      "verification": "عنوان و DOI ثبت شد؛ متن کامل در این نوبت بازبینی نشد"
+    },
+    "SUPERPLOTS": {
+      "title": "Lord SJ, et al. SuperPlots: Communicating reproducibility and variability in cell biology.",
+      "url": "https://doi.org/10.1083/jcb.202001064",
+      "description": "نمایش تکرارهای تودرتو و تغییرپذیری زیستی",
+      "verification": "عنوان و DOI ثبت شد؛ متن کامل در این نوبت بازبینی نشد"
+    },
+    "COSMIN_SITE": {
+      "title": "COSMIN: COnsensus-based Standards for the selection of health Measurement INstruments.",
+      "url": "https://www.cosmin.nl/",
+      "description": "منابع و ابزار رسمی ارزیابی ویژگی‌های سنجش",
+      "verification": "وبگاه رسمی ثبت شد؛ ابزار روی سنجهٔ خاصی اجرا نشده است"
+    }
+  },
+  "videos": {
+    "YT_FRAMEWORK": {
+      "title": "How to Develop a Conceptual Framework — with a REAL Example",
+      "provider": "Scribbr",
+      "url": "https://www.youtube.com/watch?v=MnfRdTCUIsc",
+      "topic": "سازه و چارچوب مفهومی",
+      "level": "مقدماتی",
+      "status": "از فهرست آموزشی پیشین بازیابی شد؛ پخش در این فاز آزموده نشده؛ مکمل بخشی از درس است"
+    },
+    "YT_UNIT": {
+      "title": "Experimental Unit",
+      "provider": "British Pharmacological Society",
+      "url": "https://www.youtube.com/watch?v=WQSWJLDcy5M",
+      "topic": "واحد آزمایشی و تکرار",
+      "level": "مقدماتی و متوسط",
+      "status": "از فهرست آموزشی پیشین بازیابی شد؛ پخش در این فاز آزموده نشده؛ مکمل بخشی از درس است"
+    },
+    "YT_QUAL": {
+      "title": "Qualitative Sampling",
+      "provider": "Chris Flipp",
+      "url": "https://www.youtube.com/watch?v=-Dn4u9DPmDs",
+      "topic": "نمونه‌گیری کیفی",
+      "level": "مقدماتی",
+      "status": "از فهرست آموزشی پیشین بازیابی شد؛ پخش در این فاز آزموده نشده؛ مکمل بخشی از درس است"
+    },
+    "YT_REPRO": {
+      "title": "Reproducibility and Replicability in Science",
+      "provider": "National Academies of Sciences, Engineering, and Medicine",
+      "url": "https://www.youtube.com/watch?v=Y6hhJvIZhls",
+      "topic": "بازتولیدپذیری و تکرارپذیری",
+      "level": "مقدماتی و متوسط",
+      "status": "از فهرست آموزشی پیشین بازیابی شد؛ پخش در این فاز آزموده نشده؛ مکمل بخشی از درس است"
+    }
+  }
+}
