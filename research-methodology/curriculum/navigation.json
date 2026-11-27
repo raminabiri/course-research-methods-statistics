@@ -856,6 +856,161 @@
       "previous": "05_measurement_questionnaire/resources/references.md",
       "next": "curriculum/README.md",
       "home": "05_measurement_questionnaire/README.md"
+    },
+    "07_sample_size_power/README.md": {
+      "previous": "06_sampling/README.md",
+      "next": "07_sample_size_power/lessons/01_question_to_inputs.md",
+      "home": "07_sample_size_power/README.md"
+    },
+    "07_sample_size_power/lessons/01_question_to_inputs.md": {
+      "previous": "07_sample_size_power/README.md",
+      "next": "07_sample_size_power/lessons/02_estimating_mean_proportion.md",
+      "home": "07_sample_size_power/README.md"
+    },
+    "07_sample_size_power/lessons/02_estimating_mean_proportion.md": {
+      "previous": "07_sample_size_power/lessons/01_question_to_inputs.md",
+      "next": "07_sample_size_power/lessons/03_group_comparisons.md",
+      "home": "07_sample_size_power/README.md"
+    },
+    "07_sample_size_power/lessons/03_group_comparisons.md": {
+      "previous": "07_sample_size_power/lessons/02_estimating_mean_proportion.md",
+      "next": "07_sample_size_power/lessons/04_survival_diagnostic.md",
+      "home": "07_sample_size_power/README.md"
+    },
+    "07_sample_size_power/lessons/04_survival_diagnostic.md": {
+      "previous": "07_sample_size_power/lessons/03_group_comparisons.md",
+      "next": "07_sample_size_power/lessons/05_cluster_repeated.md",
+      "home": "07_sample_size_power/README.md"
+    },
+    "07_sample_size_power/lessons/05_cluster_repeated.md": {
+      "previous": "07_sample_size_power/lessons/04_survival_diagnostic.md",
+      "next": "07_sample_size_power/lessons/06_prediction_psychometrics.md",
+      "home": "07_sample_size_power/README.md"
+    },
+    "07_sample_size_power/lessons/06_prediction_psychometrics.md": {
+      "previous": "07_sample_size_power/lessons/05_cluster_repeated.md",
+      "next": "07_sample_size_power/lessons/07_biological_pilot.md",
+      "home": "07_sample_size_power/README.md"
+    },
+    "07_sample_size_power/lessons/07_biological_pilot.md": {
+      "previous": "07_sample_size_power/lessons/06_prediction_psychometrics.md",
+      "next": "07_sample_size_power/lessons/08_reporting_audit.md",
+      "home": "07_sample_size_power/README.md"
+    },
+    "07_sample_size_power/lessons/08_reporting_audit.md": {
+      "previous": "07_sample_size_power/lessons/07_biological_pilot.md",
+      "next": "07_sample_size_power/exercises/01_exercises.md",
+      "home": "07_sample_size_power/README.md"
+    },
+    "07_sample_size_power/exercises/01_exercises.md": {
+      "previous": "07_sample_size_power/lessons/08_reporting_audit.md",
+      "next": "07_sample_size_power/exercises/02_exercises.md",
+      "home": "07_sample_size_power/README.md"
+    },
+    "07_sample_size_power/exercises/02_exercises.md": {
+      "previous": "07_sample_size_power/exercises/01_exercises.md",
+      "next": "07_sample_size_power/exercises/03_exercises.md",
+      "home": "07_sample_size_power/README.md"
+    },
+    "07_sample_size_power/exercises/03_exercises.md": {
+      "previous": "07_sample_size_power/exercises/02_exercises.md",
+      "next": "07_sample_size_power/exercises/04_exercises.md",
+      "home": "07_sample_size_power/README.md"
+    },
+    "07_sample_size_power/exercises/04_exercises.md": {
+      "previous": "07_sample_size_power/exercises/03_exercises.md",
+      "next": "07_sample_size_power/exercises/05_exercises.md",
+      "home": "07_sample_size_power/README.md"
+    },
+    "07_sample_size_power/exercises/05_exercises.md": {
+      "previous": "07_sample_size_power/exercises/04_exercises.md",
+      "next": "07_sample_size_power/exercises/06_exercises.md",
+      "home": "07_sample_size_power/README.md"
+    },
+    "07_sample_size_power/exercises/06_exercises.md": {
+      "previous": "07_sample_size_power/exercises/05_exercises.md",
+      "next": "07_sample_size_power/exercises/07_exercises.md",
+      "home": "07_sample_size_power/README.md"
+    },
+    "07_sample_size_power/exercises/07_exercises.md": {
+      "previous": "07_sample_size_power/exercises/06_exercises.md",
+      "next": "07_sample_size_power/exercises/08_exercises.md",
+      "home": "07_sample_size_power/README.md"
+    },
+    "07_sample_size_power/exercises/08_exercises.md": {
+      "previous": "07_sample_size_power/exercises/07_exercises.md",
+      "next": "solutions/07_sample_size_power/README.md",
+      "home": "07_sample_size_power/README.md"
+    },
+    "solutions/07_sample_size_power/README.md": {
+      "previous": "07_sample_size_power/exercises/08_exercises.md",
+      "next": "solutions/07_sample_size_power/01_solutions.md",
+      "home": "07_sample_size_power/README.md"
+    },
+    "solutions/07_sample_size_power/01_solutions.md": {
+      "previous": "solutions/07_sample_size_power/README.md",
+      "next": "solutions/07_sample_size_power/02_solutions.md",
+      "home": "07_sample_size_power/README.md"
+    },
+    "solutions/07_sample_size_power/02_solutions.md": {
+      "previous": "solutions/07_sample_size_power/01_solutions.md",
+      "next": "solutions/07_sample_size_power/03_solutions.md",
+      "home": "07_sample_size_power/README.md"
+    },
+    "solutions/07_sample_size_power/03_solutions.md": {
+      "previous": "solutions/07_sample_size_power/02_solutions.md",
+      "next": "solutions/07_sample_size_power/04_solutions.md",
+      "home": "07_sample_size_power/README.md"
+    },
+    "solutions/07_sample_size_power/04_solutions.md": {
+      "previous": "solutions/07_sample_size_power/03_solutions.md",
+      "next": "solutions/07_sample_size_power/05_solutions.md",
+      "home": "07_sample_size_power/README.md"
+    },
+    "solutions/07_sample_size_power/05_solutions.md": {
+      "previous": "solutions/07_sample_size_power/04_solutions.md",
+      "next": "solutions/07_sample_size_power/06_solutions.md",
+      "home": "07_sample_size_power/README.md"
+    },
+    "solutions/07_sample_size_power/06_solutions.md": {
+      "previous": "solutions/07_sample_size_power/05_solutions.md",
+      "next": "solutions/07_sample_size_power/07_solutions.md",
+      "home": "07_sample_size_power/README.md"
+    },
+    "solutions/07_sample_size_power/07_solutions.md": {
+      "previous": "solutions/07_sample_size_power/06_solutions.md",
+      "next": "solutions/07_sample_size_power/08_solutions.md",
+      "home": "07_sample_size_power/README.md"
+    },
+    "solutions/07_sample_size_power/08_solutions.md": {
+      "previous": "solutions/07_sample_size_power/07_solutions.md",
+      "next": "07_sample_size_power/resources/README.md",
+      "home": "07_sample_size_power/README.md"
+    },
+    "07_sample_size_power/resources/README.md": {
+      "previous": "solutions/07_sample_size_power/08_solutions.md",
+      "next": "07_sample_size_power/resources/glossary.md",
+      "home": "07_sample_size_power/README.md"
+    },
+    "07_sample_size_power/resources/glossary.md": {
+      "previous": "07_sample_size_power/resources/README.md",
+      "next": "07_sample_size_power/resources/references.md",
+      "home": "07_sample_size_power/README.md"
+    },
+    "07_sample_size_power/resources/references.md": {
+      "previous": "07_sample_size_power/resources/glossary.md",
+      "next": "07_sample_size_power/resources/videos.md",
+      "home": "07_sample_size_power/README.md"
+    },
+    "07_sample_size_power/resources/videos.md": {
+      "previous": "07_sample_size_power/resources/references.md",
+      "next": "07_sample_size_power/code/README.md",
+      "home": "07_sample_size_power/README.md"
+    },
+    "07_sample_size_power/code/README.md": {
+      "previous": "07_sample_size_power/resources/videos.md",
+      "next": "curriculum/README.md",
+      "home": "07_sample_size_power/README.md"
     }
   }
 }

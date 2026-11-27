@@ -1,0 +1,239 @@
+{
+  "module": "M07",
+  "version": 1,
+  "date": "2026-11-27",
+  "lessons": [
+    {
+      "id": "M07-L01",
+      "title": "از پرسش تا ورودی محاسبه",
+      "path": "07_sample_size_power/lessons/01_question_to_inputs.md",
+      "exercises_path": "07_sample_size_power/exercises/01_exercises.md",
+      "solutions_path": "solutions/07_sample_size_power/01_solutions.md",
+      "exercise_ids": ["M07-L01-B01", "M07-L01-I01", "M07-L01-A01"],
+      "levels": ["beginner", "intermediate", "advanced"],
+      "references": ["LAKENS", "CHOW", "GPOWER"],
+      "videos": ["POWER_CLEAR", "POWER_ANALYSIS"],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": ["fa", "en"]
+      },
+      "teaching_revision": "2026-11-27",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "07_sample_size_power/README.md",
+        "next": "07_sample_size_power/lessons/02_estimating_mean_proportion.md"
+      }
+    },
+    {
+      "id": "M07-L02",
+      "title": "برآورد میانگین و نسبت",
+      "path": "07_sample_size_power/lessons/02_estimating_mean_proportion.md",
+      "exercises_path": "07_sample_size_power/exercises/02_exercises.md",
+      "solutions_path": "solutions/07_sample_size_power/02_solutions.md",
+      "exercise_ids": ["M07-L02-B01", "M07-L02-I01", "M07-L02-A01"],
+      "levels": ["beginner", "intermediate", "advanced"],
+      "references": ["WHO_SIZE", "COCHRAN", "LAKENS"],
+      "videos": ["NREF_CALC", "JHM_POWER"],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": ["fa", "en"]
+      },
+      "teaching_revision": "2026-11-27",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "07_sample_size_power/lessons/01_question_to_inputs.md",
+        "next": "07_sample_size_power/lessons/03_group_comparisons.md"
+      }
+    },
+    {
+      "id": "M07-L03",
+      "title": "مقایسهٔ گروه‌ها و دادهٔ زوجی",
+      "path": "07_sample_size_power/lessons/03_group_comparisons.md",
+      "exercises_path": "07_sample_size_power/exercises/03_exercises.md",
+      "solutions_path": "solutions/07_sample_size_power/03_solutions.md",
+      "exercise_ids": ["M07-L03-B01", "M07-L03-I01", "M07-L03-A01"],
+      "levels": ["beginner", "intermediate", "advanced"],
+      "references": ["CHOW", "GPOWER", "LAKENS"],
+      "videos": ["POWER_CLEAR", "GRAPH_PAD"],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": ["fa", "en"]
+      },
+      "teaching_revision": "2026-11-27",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "07_sample_size_power/lessons/02_estimating_mean_proportion.md",
+        "next": "07_sample_size_power/lessons/04_survival_diagnostic.md"
+      }
+    },
+    {
+      "id": "M07-L04",
+      "title": "پیامد زمان تا رویداد و تشخیص",
+      "path": "07_sample_size_power/lessons/04_survival_diagnostic.md",
+      "exercises_path": "07_sample_size_power/exercises/04_exercises.md",
+      "solutions_path": "solutions/07_sample_size_power/04_solutions.md",
+      "exercise_ids": ["M07-L04-B01", "M07-L04-I01", "M07-L04-A01"],
+      "levels": ["beginner", "intermediate", "advanced"],
+      "references": ["SCHOENFELD", "BUDERER", "STARD"],
+      "videos": ["JHM_POWER", "NREF_CALC"],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": ["fa", "en"]
+      },
+      "teaching_revision": "2026-11-27",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "07_sample_size_power/lessons/03_group_comparisons.md",
+        "next": "07_sample_size_power/lessons/05_cluster_repeated.md"
+      }
+    },
+    {
+      "id": "M07-L05",
+      "title": "خوشه، اندازه‌گیری تکراری و طرح پیچیده",
+      "path": "07_sample_size_power/lessons/05_cluster_repeated.md",
+      "exercises_path": "07_sample_size_power/exercises/05_exercises.md",
+      "solutions_path": "solutions/07_sample_size_power/05_solutions.md",
+      "exercise_ids": ["M07-L05-B01", "M07-L05-I01", "M07-L05-A01"],
+      "levels": ["beginner", "intermediate", "advanced"],
+      "references": ["ELDRIDGE", "HAYES", "CAMPBELL"],
+      "videos": ["CLUSTER_RCT", "GPOWER_DEMO"],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": ["fa", "en"]
+      },
+      "teaching_revision": "2026-11-27",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "07_sample_size_power/lessons/04_survival_diagnostic.md",
+        "next": "07_sample_size_power/lessons/06_prediction_psychometrics.md"
+      }
+    },
+    {
+      "id": "M07-L06",
+      "title": "پیش‌بینی و روان‌سنجی",
+      "path": "07_sample_size_power/lessons/06_prediction_psychometrics.md",
+      "exercises_path": "07_sample_size_power/exercises/06_exercises.md",
+      "solutions_path": "solutions/07_sample_size_power/06_solutions.md",
+      "exercise_ids": ["M07-L06-B01", "M07-L06-I01", "M07-L06-A01"],
+      "levels": ["beginner", "intermediate", "advanced"],
+      "references": ["RILEY_BMJ", "RILEY_II", "COSMIN"],
+      "videos": ["PRED_AI", "PRED_EXTERNAL"],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": ["fa", "en"]
+      },
+      "teaching_revision": "2026-11-27",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "07_sample_size_power/lessons/05_cluster_repeated.md",
+        "next": "07_sample_size_power/lessons/07_biological_pilot.md"
+      }
+    },
+    {
+      "id": "M07-L07",
+      "title": "پژوهش زیستی و امکان‌سنجی",
+      "path": "07_sample_size_power/lessons/07_biological_pilot.md",
+      "exercises_path": "07_sample_size_power/exercises/07_exercises.md",
+      "solutions_path": "solutions/07_sample_size_power/07_solutions.md",
+      "exercise_ids": ["M07-L07-B01", "M07-L07-I01", "M07-L07-A01"],
+      "levels": ["beginner", "intermediate", "advanced"],
+      "references": ["ARRIVE", "JULIOUS", "HERTZOG", "LAZIC"],
+      "videos": ["BIO_REPLICATES", "KHAN_EXPERIMENT"],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": ["fa", "en"]
+      },
+      "teaching_revision": "2026-11-27",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "07_sample_size_power/lessons/06_prediction_psychometrics.md",
+        "next": "07_sample_size_power/lessons/08_reporting_audit.md"
+      }
+    },
+    {
+      "id": "M07-L08",
+      "title": "گزارش حجم نمونه و بازبینی محاسبه",
+      "path": "07_sample_size_power/lessons/08_reporting_audit.md",
+      "exercises_path": "07_sample_size_power/exercises/08_exercises.md",
+      "solutions_path": "solutions/07_sample_size_power/08_solutions.md",
+      "exercise_ids": ["M07-L08-B01", "M07-L08-I01", "M07-L08-A01"],
+      "levels": ["beginner", "intermediate", "advanced"],
+      "references": ["LAKENS", "HOENIG", "CONSORT_2025", "SPIRIT_2013"],
+      "videos": ["POWER_ANALYSIS", "GRAPH_PAD"],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": ["fa", "en"]
+      },
+      "teaching_revision": "2026-11-27",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "07_sample_size_power/lessons/07_biological_pilot.md",
+        "next": "07_sample_size_power/exercises/01_exercises.md"
+      }
+    }
+  ]
+}

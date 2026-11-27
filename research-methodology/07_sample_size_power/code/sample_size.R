@@ -70,10 +70,21 @@ cat("10) Survival, HR=0.7: events =", ev, "| if 40% will have the event: N =", c
 
 ## ---- ۱۱) مطالعه تشخیصی (بودرر): حساسیت مورد انتظار، دقت d، شیوع
 n_sens <- function(se, d, prev, conf = .95) {
-  n_dis <- z(1 - (1 - conf) / 2)^2 * se * (1 - se) / d^2
-  c(diseased = ceiling(n_dis), total = ceiling(n_dis / prev))
+  n_dis <- ceiling(z(1 - (1 - conf) / 2)^2 * se * (1 - se) / d^2)
+  c(diseased = n_dis, total = ceiling(n_dis / prev))
+}
+n_diagnostic <- function(se, sp, d_sens, d_spec, prev, conf = .95) {
+  zcrit <- z(1 - (1 - conf) / 2)
+  n_dis <- ceiling(zcrit^2 * se * (1 - se) / d_sens^2)
+  n_non_dis <- ceiling(zcrit^2 * sp * (1 - sp) / d_spec^2)
+  c(diseased = n_dis, non_diseased = n_non_dis,
+    total = ceiling(max(n_dis / prev, n_non_dis / (1 - prev))))
 }
 cat("11) Sensitivity 0.9 ± 0.05, prevalence 20%:", n_sens(.9, .05, .2), "\n")
+cat("   Sensitivity and specificity 0.9 ± 0.05, prevalence 20%:",
+    n_diagnostic(.9, .9, .05, .05, .2), "\n")
+stopifnot(identical(unname(n_sens(.9, .05, .2)), c(139, 695)))
+stopifnot(identical(unname(n_diagnostic(.9, .9, .05, .05, .2)), c(139, 139, 695)))
 
 ## ---- ۱۲) کارآزمایی عدم‌برتری (پیامد پیوسته): حاشیه M، تفاوت واقعی فرضی = 0
 n_noninf <- function(sd, M, true_diff = 0, alpha = .025, power = .8)

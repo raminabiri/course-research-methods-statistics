@@ -1493,24 +1493,23 @@
       },
       "exercise_ids": {
         "beginner": [
-          "M07-L01-B01",
-          "M07-L01-B02",
-          "M07-L01-B03"
+          "M07-L01-B01"
         ],
         "intermediate": [
-          "M07-L01-I01",
-          "M07-L01-I02",
-          "M07-L01-I03"
+          "M07-L01-I01"
         ],
         "advanced": [
-          "M07-L01-A01",
-          "M07-L01-A02",
-          "M07-L01-A03"
+          "M07-L01-A01"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "previous outline archived; current self-study lesson replaces it",
+      "source_review": "documented_partial_verification",
+      "human_scientific_review": "pending",
+      "teaching_revision": "2026-11-27",
+      "path": "07_sample_size_power/lessons/01_question_to_inputs.md",
+      "exercises_path": "07_sample_size_power/exercises/01_exercises.md",
+      "solutions_path": "solutions/07_sample_size_power/01_solutions.md",
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
@@ -1518,7 +1517,8 @@
           "fa",
           "en"
         ]
-      }
+      },
+      "navigation_required": true
     },
     {
       "id": "M07-L02",
@@ -1537,24 +1537,23 @@
       },
       "exercise_ids": {
         "beginner": [
-          "M07-L02-B01",
-          "M07-L02-B02",
-          "M07-L02-B03"
+          "M07-L02-B01"
         ],
         "intermediate": [
-          "M07-L02-I01",
-          "M07-L02-I02",
-          "M07-L02-I03"
+          "M07-L02-I01"
         ],
         "advanced": [
-          "M07-L02-A01",
-          "M07-L02-A02",
-          "M07-L02-A03"
+          "M07-L02-A01"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "previous outline archived; current self-study lesson replaces it",
+      "source_review": "documented_partial_verification",
+      "human_scientific_review": "pending",
+      "teaching_revision": "2026-11-27",
+      "path": "07_sample_size_power/lessons/02_estimating_mean_proportion.md",
+      "exercises_path": "07_sample_size_power/exercises/02_exercises.md",
+      "solutions_path": "solutions/07_sample_size_power/02_solutions.md",
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
@@ -1562,7 +1561,8 @@
           "fa",
           "en"
         ]
-      }
+      },
+      "navigation_required": true
     },
     {
       "id": "M07-L03",
@@ -1581,24 +1581,23 @@
       },
       "exercise_ids": {
         "beginner": [
-          "M07-L03-B01",
-          "M07-L03-B02",
-          "M07-L03-B03"
+          "M07-L03-B01"
         ],
         "intermediate": [
-          "M07-L03-I01",
-          "M07-L03-I02",
-          "M07-L03-I03"
+          "M07-L03-I01"
         ],
         "advanced": [
-          "M07-L03-A01",
-          "M07-L03-A02",
-          "M07-L03-A03"
+          "M07-L03-A01"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "previous outline archived; current self-study lesson replaces it",
+      "source_review": "documented_partial_verification",
+      "human_scientific_review": "pending",
+      "teaching_revision": "2026-11-27",
+      "path": "07_sample_size_power/lessons/03_group_comparisons.md",
+      "exercises_path": "07_sample_size_power/exercises/03_exercises.md",
+      "solutions_path": "solutions/07_sample_size_power/03_solutions.md",
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
@@ -1606,7 +1605,8 @@
           "fa",
           "en"
         ]
-      }
+      },
+      "navigation_required": true
     },
     {
       "id": "M07-L04",
@@ -1625,24 +1625,23 @@
       },
       "exercise_ids": {
         "beginner": [
-          "M07-L04-B01",
-          "M07-L04-B02",
-          "M07-L04-B03"
+          "M07-L04-B01"
         ],
         "intermediate": [
-          "M07-L04-I01",
-          "M07-L04-I02",
-          "M07-L04-I03"
+          "M07-L04-I01"
         ],
         "advanced": [
-          "M07-L04-A01",
-          "M07-L04-A02",
-          "M07-L04-A03"
+          "M07-L04-A01"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "previous outline archived; current self-study lesson replaces it",
+      "source_review": "documented_partial_verification",
+      "human_scientific_review": "pending",
+      "teaching_revision": "2026-11-27",
+      "path": "07_sample_size_power/lessons/04_survival_diagnostic.md",
+      "exercises_path": "07_sample_size_power/exercises/04_exercises.md",
+      "solutions_path": "solutions/07_sample_size_power/04_solutions.md",
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
@@ -1650,7 +1649,8 @@
           "fa",
           "en"
         ]
-      }
+      },
+      "navigation_required": true
     },
     {
       "id": "M07-L05",
@@ -1669,24 +1669,23 @@
       },
       "exercise_ids": {
         "beginner": [
-          "M07-L05-B01",
-          "M07-L05-B02",
-          "M07-L05-B03"
+          "M07-L05-B01"
         ],
         "intermediate": [
-          "M07-L05-I01",
-          "M07-L05-I02",
-          "M07-L05-I03"
+          "M07-L05-I01"
         ],
         "advanced": [
-          "M07-L05-A01",
-          "M07-L05-A02",
-          "M07-L05-A03"
+          "M07-L05-A01"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "previous outline archived; current self-study lesson replaces it",
+      "source_review": "documented_partial_verification",
+      "human_scientific_review": "pending",
+      "teaching_revision": "2026-11-27",
+      "path": "07_sample_size_power/lessons/05_cluster_repeated.md",
+      "exercises_path": "07_sample_size_power/exercises/05_exercises.md",
+      "solutions_path": "solutions/07_sample_size_power/05_solutions.md",
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
@@ -1694,7 +1693,8 @@
           "fa",
           "en"
         ]
-      }
+      },
+      "navigation_required": true
     },
     {
       "id": "M07-L06",
@@ -1713,24 +1713,23 @@
       },
       "exercise_ids": {
         "beginner": [
-          "M07-L06-B01",
-          "M07-L06-B02",
-          "M07-L06-B03"
+          "M07-L06-B01"
         ],
         "intermediate": [
-          "M07-L06-I01",
-          "M07-L06-I02",
-          "M07-L06-I03"
+          "M07-L06-I01"
         ],
         "advanced": [
-          "M07-L06-A01",
-          "M07-L06-A02",
-          "M07-L06-A03"
+          "M07-L06-A01"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "previous outline archived; current self-study lesson replaces it",
+      "source_review": "documented_partial_verification",
+      "human_scientific_review": "pending",
+      "teaching_revision": "2026-11-27",
+      "path": "07_sample_size_power/lessons/06_prediction_psychometrics.md",
+      "exercises_path": "07_sample_size_power/exercises/06_exercises.md",
+      "solutions_path": "solutions/07_sample_size_power/06_solutions.md",
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
@@ -1738,7 +1737,8 @@
           "fa",
           "en"
         ]
-      }
+      },
+      "navigation_required": true
     },
     {
       "id": "M07-L07",
@@ -1757,24 +1757,23 @@
       },
       "exercise_ids": {
         "beginner": [
-          "M07-L07-B01",
-          "M07-L07-B02",
-          "M07-L07-B03"
+          "M07-L07-B01"
         ],
         "intermediate": [
-          "M07-L07-I01",
-          "M07-L07-I02",
-          "M07-L07-I03"
+          "M07-L07-I01"
         ],
         "advanced": [
-          "M07-L07-A01",
-          "M07-L07-A02",
-          "M07-L07-A03"
+          "M07-L07-A01"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "previous outline archived; current self-study lesson replaces it",
+      "source_review": "documented_partial_verification",
+      "human_scientific_review": "pending",
+      "teaching_revision": "2026-11-27",
+      "path": "07_sample_size_power/lessons/07_biological_pilot.md",
+      "exercises_path": "07_sample_size_power/exercises/07_exercises.md",
+      "solutions_path": "solutions/07_sample_size_power/07_solutions.md",
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
@@ -1782,7 +1781,8 @@
           "fa",
           "en"
         ]
-      }
+      },
+      "navigation_required": true
     },
     {
       "id": "M07-L08",
@@ -1801,24 +1801,23 @@
       },
       "exercise_ids": {
         "beginner": [
-          "M07-L08-B01",
-          "M07-L08-B02",
-          "M07-L08-B03"
+          "M07-L08-B01"
         ],
         "intermediate": [
-          "M07-L08-I01",
-          "M07-L08-I02",
-          "M07-L08-I03"
+          "M07-L08-I01"
         ],
         "advanced": [
-          "M07-L08-A01",
-          "M07-L08-A02",
-          "M07-L08-A03"
+          "M07-L08-A01"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "previous outline archived; current self-study lesson replaces it",
+      "source_review": "documented_partial_verification",
+      "human_scientific_review": "pending",
+      "teaching_revision": "2026-11-27",
+      "path": "07_sample_size_power/lessons/08_reporting_audit.md",
+      "exercises_path": "07_sample_size_power/exercises/08_exercises.md",
+      "solutions_path": "solutions/07_sample_size_power/08_solutions.md",
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
@@ -1826,7 +1825,8 @@
           "fa",
           "en"
         ]
-      }
+      },
+      "navigation_required": true
     },
     {
       "id": "M08-L01",

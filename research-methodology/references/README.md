@@ -20,6 +20,9 @@
 - [منابع نمونه‌گیری و دامنهٔ بررسی هر منبع](../06_sampling/resources/references.md)
 - [فیلم‌های نمونه‌گیری و وضعیت پیوندها](../06_sampling/resources/videos.md)
 - [فهرست ماشینی منابع و فیلم‌ها](../06_sampling/resources/catalog.json)
+- [منابع تعیین حجم نمونه و دامنهٔ بررسی هر منبع](../07_sample_size_power/resources/references.md)
+- [فیلم‌های حجم نمونه و وضعیت فراداده](../07_sample_size_power/resources/videos.md)
+- [فهرست ماشینی منابع و فیلم‌های ماژول ۷](../07_sample_size_power/resources/catalog.json)
 
 ## روش ثبت منابع دیگر ماژول‌ها
 

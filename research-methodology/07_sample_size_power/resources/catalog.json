@@ -1,0 +1,265 @@
+{
+  "checked_on": "2026-11-27",
+  "references": {
+    "LAKENS": {
+      "title": "Lakens D. Sample Size Justification.",
+      "url": "https://doi.org/10.1525/collabra.33267",
+      "description": "توجیه حجم نمونه و آشکارسازی فرض‌ها",
+      "verification": "فرادادهٔ DOI بررسی شد؛ همهٔ متن مقاله ممیزی نشده است"
+    },
+    "CHOW": {
+      "title": "Chow SC, Shao J, Wang H, Lokhnygina Y. Sample Size Calculations in Clinical Research. 3rd ed.",
+      "url": "https://www.routledge.com/Sample-Size-Calculations-in-Clinical-Research/Chow-Shao-Wang-Lokhnygina/p/book/9780367574728",
+      "description": "کتاب مرجع محاسبات حجم نمونه در پژوهش بالینی",
+      "verification": "عنوان و اطلاعات ناشر بررسی شد؛ متن کامل کتاب خوانده نشده است"
+    },
+    "GPOWER": {
+      "title": "Faul F, et al. Statistical power analyses using G*Power 3.1: Tests for correlation and regression analyses.",
+      "url": "https://doi.org/10.3758/BRM.41.4.1149",
+      "description": "روش‌های تحلیل توان و نرم‌افزار G*Power",
+      "verification": "فرادادهٔ DOI بررسی شد؛ نرم‌افزار در این پروژه اجرا نشده است"
+    },
+    "WHO_SIZE": {
+      "title": "Lwanga SK, Lemeshow S. Sample Size Determination in Health Studies: A Practical Manual. WHO.",
+      "url": "https://iris.who.int/handle/10665/40062",
+      "description": "راهنمای سازمان جهانی بهداشت برای محاسبهٔ نمونه در مطالعات سلامت",
+      "verification": "عنوان و رکورد WHO بررسی شد؛ همهٔ فصل‌ها ممیزی نشده‌اند"
+    },
+    "COCHRAN": {
+      "title": "Cochran WG. Sampling Techniques. 3rd ed. Wiley; 1977.",
+      "url": "https://www.wiley.com/en-us/Sampling+Techniques%2C+3rd+Edition-p-9780471162407",
+      "description": "مرجع نظریهٔ نمونه‌گیری و جامعهٔ محدود",
+      "verification": "اطلاعات کتاب در صفحهٔ ناشر بررسی شد؛ متن کامل کتاب خوانده نشده است"
+    },
+    "SCHOENFELD": {
+      "title": "Schoenfeld DA. Sample-Size Formula for the Proportional-Hazards Regression Model. Biometrics. 1983;39(2):499–503.",
+      "url": "https://doi.org/10.2307/2531021",
+      "description": "محاسبهٔ شمار رویداد برای آزمون نسبت مخاطره",
+      "verification": "فرادادهٔ DOI و عنوان بررسی شد"
+    },
+    "BUDERER": {
+      "title": "Buderer NM. Statistical Methodology: I. Incorporating the Prevalence of Disease into the Sample Size Calculation for Sensitivity and Specificity. Acad Emerg Med. 1996;3(9):895–900.",
+      "url": "https://doi.org/10.1111/j.1553-2712.1996.tb03538.x",
+      "description": "تبدیل دقت موردنیاز حساسیت و ویژگی به شمار کل بر پایهٔ شیوع",
+      "verification": "فرادادهٔ DOI بررسی شد؛ مقاله برای بازبینی علمی انسانی مشخص شده است"
+    },
+    "STARD": {
+      "title": "STARD 2015: An Updated List of Essential Items for Reporting Diagnostic Accuracy Studies.",
+      "url": "https://doi.org/10.1136/bmj.h5527",
+      "description": "چک‌لیست گزارش پژوهش دقت تشخیصی",
+      "verification": "فرادادهٔ DOI با Crossref بررسی شد"
+    },
+    "ELDRIDGE": {
+      "title": "Eldridge SM, Ashby D, Kerry S. Sample size for cluster randomized trials: effect of coefficient of variation of cluster size and analysis method. Int J Epidemiol. 2006;35(5):1292–1300.",
+      "url": "https://doi.org/10.1093/ije/dyl129",
+      "description": "اثر شمار و پراکندگی اندازهٔ خوشه بر حجم نمونه",
+      "verification": "فرادادهٔ DOI بررسی شد"
+    },
+    "HAYES": {
+      "title": "Hayes RJ, Bennett S. Simple sample size calculation for cluster-randomized trials. Int J Epidemiol. 1999;28(2):319–326.",
+      "url": "https://doi.org/10.1093/ije/28.2.319",
+      "description": "محاسبهٔ پایه برای کارآزمایی خوشه‌ای",
+      "verification": "فرادادهٔ DOI بررسی شد"
+    },
+    "CAMPBELL": {
+      "title": "Campbell MK, et al. CONSORT statement: extension to cluster randomised trials.",
+      "url": "https://doi.org/10.1136/bmj.e5661",
+      "description": "راهنمای گزارش طرح خوشه‌ای",
+      "verification": "فرادادهٔ DOI بررسی شد"
+    },
+    "RILEY_BMJ": {
+      "title": "Riley RD, et al. Calculating the sample size required for developing a clinical prediction model. BMJ. 2020;368:m441.",
+      "url": "https://doi.org/10.1136/bmj.m441",
+      "description": "چارچوب توسعهٔ مدل پیش‌بینی بالینی",
+      "verification": "فرادادهٔ DOI بررسی شد"
+    },
+    "RILEY_II": {
+      "title": "Riley RD, et al. Minimum sample size for developing a multivariable prediction model: Part II—binary and time-to-event outcomes. Stat Med. 2019;38(7):1276–1296.",
+      "url": "https://doi.org/10.1002/sim.7992",
+      "description": "روش حجم نمونه برای توسعهٔ مدل پیامد دودویی و زمان‌تا‌رویداد",
+      "verification": "عنوان و سال انتشار چاپی با Crossref بررسی شد"
+    },
+    "COSMIN": {
+      "title": "Mokkink LB, et al. The COSMIN study reached international consensus on taxonomy, terminology, and definitions of measurement properties for health-related patient-reported outcomes.",
+      "url": "https://doi.org/10.1016/j.jclinepi.2010.02.006",
+      "description": "تعریف ویژگی‌های سنجش در ابزارهای پیامد گزارش‌شده از سوی بیمار",
+      "verification": "فرادادهٔ DOI بررسی شد؛ چارچوب‌های خاص روان‌سنجی نیازمند مطالعهٔ منبع اصلی‌اند"
+    },
+    "ARRIVE": {
+      "title": "Percie du Sert N, et al. The ARRIVE guidelines 2.0: Updated guidelines for reporting animal research. PLoS Biol. 2020;18(7):e3000410.",
+      "url": "https://doi.org/10.1371/journal.pbio.3000410",
+      "description": "راهنمای گزارش پژوهش حیوانی و طراحی آزمایش",
+      "verification": "فرادادهٔ DOI بررسی شد"
+    },
+    "JULIOUS": {
+      "title": "Julious SA. Sample size of 12 per group rule of thumb for a pilot study. Pharm Stat. 2005;4(4):287–291.",
+      "url": "https://doi.org/10.1002/pst.185",
+      "description": "منشأ و محدودیت قاعدهٔ سرانگشتی پایلوت",
+      "verification": "فرادادهٔ DOI بررسی شد"
+    },
+    "HERTZOG": {
+      "title": "Hertzog MA. Considerations in determining sample size for pilot studies. Res Nurs Health. 2008;31(2):180–191.",
+      "url": "https://doi.org/10.1002/nur.20247",
+      "description": "ملاحظات هدف و حجم نمونه در مطالعهٔ پایلوت",
+      "verification": "فرادادهٔ DOI بررسی شد"
+    },
+    "LAZIC": {
+      "title": "Lazic SE, et al. What exactly is N in cell culture and animal experiments?",
+      "url": "https://doi.org/10.1371/journal.pbio.2005282",
+      "description": "واحد آزمایشی و تمایز تکرار زیستی از سنجش فنی",
+      "verification": "فرادادهٔ DOI بررسی شد؛ متن کامل در این بررسی ممیزی نشده است"
+    },
+    "HOENIG": {
+      "title": "Hoenig JM, Heisey DM. The Abuse of Power: The Pervasive Fallacy of Power Calculations for Data Analysis. The American Statistician. 2001;55(1):19–24.",
+      "url": "https://doi.org/10.1198/000313001300339897",
+      "description": "نقد تفسیر توان پس از مشاهدهٔ داده",
+      "verification": "فرادادهٔ DOI بررسی شد"
+    },
+    "CONSORT_2025": {
+      "title": "CONSORT 2025 explanation and elaboration: updated guideline for reporting randomised trials. BMJ. 2025;389:e081124.",
+      "url": "https://doi.org/10.1136/bmj-2024-081124",
+      "description": "رهنمود گزارش کارآزمایی تصادفی",
+      "verification": "DOI و عنوان بررسی شد؛ همهٔ بندهای راهنما ممیزی نشده‌اند"
+    },
+    "SPIRIT_2013": {
+      "title": "SPIRIT 2013 explanation and elaboration: guidance for protocols of clinical trials. BMJ. 2013;346:e7586.",
+      "url": "https://doi.org/10.1136/bmj.e7586",
+      "description": "رهنمود گزارش پروتکل کارآزمایی بالینی",
+      "verification": "DOI و عنوان بررسی شد"
+    }
+  },
+  "videos": {
+    "POWER_CLEAR": {
+      "title": "Statistical Power, Clearly Explained!!!",
+      "provider": "StatQuest with Josh Starmer",
+      "url": "https://www.youtube.com/watch?v=Rsc5znwR5FA",
+      "topic": "مفهوم توان آماری",
+      "level": "مقدماتی",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و سازنده از فرادادهٔ YouTube بررسی شد؛ پخش آزموده نشد"
+    },
+    "POWER_ANALYSIS": {
+      "title": "Power Analysis, Clearly Explained!!!",
+      "provider": "StatQuest with Josh Starmer",
+      "url": "https://www.youtube.com/watch?v=VX_M3tIyiYk",
+      "topic": "پیوند توان، اندازهٔ اثر و حجم نمونه",
+      "level": "مقدماتی و متوسط",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و سازنده از فرادادهٔ YouTube بررسی شد؛ پخش آزموده نشد"
+    },
+    "NREF_CALC": {
+      "title": "Calculating Sample Size",
+      "provider": "NREF",
+      "url": "https://www.youtube.com/watch?v=ZdvycATHF00",
+      "topic": "نمونهٔ محاسبهٔ حجم نمونه",
+      "level": "مقدماتی",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و سازنده از فرادادهٔ YouTube بررسی شد؛ پخش آزموده نشد"
+    },
+    "JHM_POWER": {
+      "title": "Understanding Power and Sample Size Calculations for Vision Research",
+      "provider": "Johns Hopkins Medicine",
+      "url": "https://www.youtube.com/watch?v=B_dnBP6aEyM",
+      "topic": "حجم نمونه و توان با نمونهٔ پژوهش بالینی",
+      "level": "مقدماتی و متوسط",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و ناشر از فرادادهٔ YouTube بررسی شد؛ پخش آزموده نشد"
+    },
+    "GRAPH_PAD": {
+      "title": "How To Calculate Sample Size Using Power Analysis",
+      "provider": "GraphPad Software",
+      "url": "https://www.youtube.com/watch?v=PnWBh-mOrpM",
+      "topic": "اجرای محاسبهٔ حجم نمونه با تحلیل توان",
+      "level": "مقدماتی و متوسط",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و ناشر از فرادادهٔ YouTube بررسی شد؛ پخش آزموده نشد"
+    },
+    "GPOWER_DEMO": {
+      "title": "G*Power Sample Size Calculations: 5 Min Demo",
+      "provider": "Stuart McErlain-Naylor",
+      "url": "https://www.youtube.com/watch?v=veaEDIM13Ks",
+      "topic": "نمایش محاسبه در G*Power",
+      "level": "متوسط",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و سازنده از فرادادهٔ YouTube بررسی شد؛ پخش آزموده نشد"
+    },
+    "PRED_AI": {
+      "title": "Importance of sample size for AI-based prediction models in healthcare",
+      "provider": "Richard D. Riley",
+      "url": "https://www.youtube.com/watch?v=EN8NuKBS0W4",
+      "topic": "حجم نمونه در مدل‌های پیش‌بینی سلامت",
+      "level": "پیشرفته",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و سازنده از فرادادهٔ YouTube بررسی شد؛ پخش آزموده نشد"
+    },
+    "PRED_EXTERNAL": {
+      "title": "Minimum sample size for external validation of a clinical prediction model with a continuous outcome",
+      "provider": "Richard D. Riley",
+      "url": "https://www.youtube.com/watch?v=JfYIa3ynY7I",
+      "topic": "حجم نمونه برای اعتبارسنجی بیرونی مدل پیش‌بینی",
+      "level": "پیشرفته",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و سازنده از فرادادهٔ YouTube بررسی شد؛ پخش آزموده نشد"
+    },
+    "CLUSTER_RCT": {
+      "title": "How Cluster RCTs Work",
+      "provider": "NEJM Group",
+      "url": "https://www.youtube.com/watch?v=T1uitUnZBgc",
+      "topic": "ساختار کارآزمایی تصادفی خوشه‌ای",
+      "level": "مقدماتی و متوسط",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و سازنده از فرادادهٔ YouTube بررسی شد؛ پخش آزموده نشد"
+    },
+    "BIO_REPLICATES": {
+      "title": "The Difference Between Technical and Biological Replicates",
+      "provider": "StatQuest with Josh Starmer",
+      "url": "https://www.youtube.com/watch?v=Exk0OoRG0PQ",
+      "topic": "تمایز تکرار فنی و زیستی",
+      "level": "مقدماتی و متوسط",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و سازنده از فرادادهٔ YouTube بررسی شد؛ پخش آزموده نشد"
+    },
+    "KHAN_EXPERIMENT": {
+      "title": "Introduction to experimental design",
+      "provider": "Khan Academy",
+      "url": "https://www.youtube.com/watch?v=ceWyayKg3QY",
+      "topic": "منطق طراحی آزمایش",
+      "level": "مقدماتی",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و سازنده از فرادادهٔ YouTube بررسی شد؛ پخش آزموده نشد"
+    }
+  }
+}
