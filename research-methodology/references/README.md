@@ -2,6 +2,9 @@
 
 ## ماژول‌های نوشته‌شده
 
+- [منابع طراحی مطالعه در پزشکی و زیست‌شناسی](../03_study_designs/resources/references.md)
+- [فیلم‌های طراحی مطالعه و وضعیت پیوندها](../03_study_designs/resources/videos.md)
+- [فهرست ماشینی منابع و فیلم‌های ماژول ۳](../03_study_designs/resources/catalog.json)
 - [منابع جست‌وجو، مرور و ارزیابی شواهد](../02_literature_review/resources/references.md)
 - [فیلم‌های جست‌وجو، مرور و ارزیابی شواهد و وضعیت پیوندها](../02_literature_review/resources/videos.md)
 - [فهرست ماشینی منابع و فیلم‌های ماژول ۲](../02_literature_review/resources/catalog.json)

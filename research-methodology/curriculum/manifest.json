@@ -443,24 +443,18 @@
       },
       "exercise_ids": {
         "beginner": [
-          "M03-L01-B01",
-          "M03-L01-B02",
-          "M03-L01-B03"
+          "M03-L01-B01"
         ],
         "intermediate": [
-          "M03-L01-I01",
-          "M03-L01-I02",
-          "M03-L01-I03"
+          "M03-L01-I01"
         ],
         "advanced": [
-          "M03-L01-A01",
-          "M03-L01-A02",
-          "M03-L01-A03"
+          "M03-L01-A01"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "previous outline archived; current self-study lesson replaces it",
+      "source_review": "pending_human_scientific_review",
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
@@ -468,7 +462,10 @@
           "fa",
           "en"
         ]
-      }
+      },
+      "path": "03_study_designs/lessons/01_descriptive_cross_sectional.md",
+      "exercises_path": "03_study_designs/exercises/01_exercises.md",
+      "solutions_path": "solutions/03_study_designs/01_solutions.md"
     },
     {
       "id": "M03-L02",
@@ -485,24 +482,18 @@
       },
       "exercise_ids": {
         "beginner": [
-          "M03-L02-B01",
-          "M03-L02-B02",
-          "M03-L02-B03"
+          "M03-L02-B01"
         ],
         "intermediate": [
-          "M03-L02-I01",
-          "M03-L02-I02",
-          "M03-L02-I03"
+          "M03-L02-I01"
         ],
         "advanced": [
-          "M03-L02-A01",
-          "M03-L02-A02",
-          "M03-L02-A03"
+          "M03-L02-A01"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "previous outline archived; current self-study lesson replaces it",
+      "source_review": "pending_human_scientific_review",
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
@@ -510,7 +501,10 @@
           "fa",
           "en"
         ]
-      }
+      },
+      "path": "03_study_designs/lessons/02_cohort_case_control.md",
+      "exercises_path": "03_study_designs/exercises/02_exercises.md",
+      "solutions_path": "solutions/03_study_designs/02_solutions.md"
     },
     {
       "id": "M03-L03",
@@ -527,24 +521,18 @@
       },
       "exercise_ids": {
         "beginner": [
-          "M03-L03-B01",
-          "M03-L03-B02",
-          "M03-L03-B03"
+          "M03-L03-B01"
         ],
         "intermediate": [
-          "M03-L03-I01",
-          "M03-L03-I02",
-          "M03-L03-I03"
+          "M03-L03-I01"
         ],
         "advanced": [
-          "M03-L03-A01",
-          "M03-L03-A02",
-          "M03-L03-A03"
+          "M03-L03-A01"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "previous outline archived; current self-study lesson replaces it",
+      "source_review": "pending_human_scientific_review",
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
@@ -552,7 +540,10 @@
           "fa",
           "en"
         ]
-      }
+      },
+      "path": "03_study_designs/lessons/03_clinical_trials.md",
+      "exercises_path": "03_study_designs/exercises/03_exercises.md",
+      "solutions_path": "solutions/03_study_designs/03_solutions.md"
     },
     {
       "id": "M03-L04",
@@ -569,24 +560,18 @@
       },
       "exercise_ids": {
         "beginner": [
-          "M03-L04-B01",
-          "M03-L04-B02",
-          "M03-L04-B03"
+          "M03-L04-B01"
         ],
         "intermediate": [
-          "M03-L04-I01",
-          "M03-L04-I02",
-          "M03-L04-I03"
+          "M03-L04-I01"
         ],
         "advanced": [
-          "M03-L04-A01",
-          "M03-L04-A02",
-          "M03-L04-A03"
+          "M03-L04-A01"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "previous outline archived; current self-study lesson replaces it",
+      "source_review": "pending_human_scientific_review",
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
@@ -594,7 +579,10 @@
           "fa",
           "en"
         ]
-      }
+      },
+      "path": "03_study_designs/lessons/04_laboratory_animal.md",
+      "exercises_path": "03_study_designs/exercises/04_exercises.md",
+      "solutions_path": "solutions/03_study_designs/04_solutions.md"
     },
     {
       "id": "M03-L05",
@@ -611,24 +599,18 @@
       },
       "exercise_ids": {
         "beginner": [
-          "M03-L05-B01",
-          "M03-L05-B02",
-          "M03-L05-B03"
+          "M03-L05-B01"
         ],
         "intermediate": [
-          "M03-L05-I01",
-          "M03-L05-I02",
-          "M03-L05-I03"
+          "M03-L05-I01"
         ],
         "advanced": [
-          "M03-L05-A01",
-          "M03-L05-A02",
-          "M03-L05-A03"
+          "M03-L05-A01"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "previous outline archived; current self-study lesson replaces it",
+      "source_review": "pending_human_scientific_review",
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
@@ -636,7 +618,10 @@
           "fa",
           "en"
         ]
-      }
+      },
+      "path": "03_study_designs/lessons/05_diagnostic_screening.md",
+      "exercises_path": "03_study_designs/exercises/05_exercises.md",
+      "solutions_path": "solutions/03_study_designs/05_solutions.md"
     },
     {
       "id": "M03-L06",
@@ -653,24 +638,18 @@
       },
       "exercise_ids": {
         "beginner": [
-          "M03-L06-B01",
-          "M03-L06-B02",
-          "M03-L06-B03"
+          "M03-L06-B01"
         ],
         "intermediate": [
-          "M03-L06-I01",
-          "M03-L06-I02",
-          "M03-L06-I03"
+          "M03-L06-I01"
         ],
         "advanced": [
-          "M03-L06-A01",
-          "M03-L06-A02",
-          "M03-L06-A03"
+          "M03-L06-A01"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "previous outline archived; current self-study lesson replaces it",
+      "source_review": "pending_human_scientific_review",
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
@@ -678,7 +657,10 @@
           "fa",
           "en"
         ]
-      }
+      },
+      "path": "03_study_designs/lessons/06_prediction_omics.md",
+      "exercises_path": "03_study_designs/exercises/06_exercises.md",
+      "solutions_path": "solutions/03_study_designs/06_solutions.md"
     },
     {
       "id": "M03-L07",
@@ -695,24 +677,18 @@
       },
       "exercise_ids": {
         "beginner": [
-          "M03-L07-B01",
-          "M03-L07-B02",
-          "M03-L07-B03"
+          "M03-L07-B01"
         ],
         "intermediate": [
-          "M03-L07-I01",
-          "M03-L07-I02",
-          "M03-L07-I03"
+          "M03-L07-I01"
         ],
         "advanced": [
-          "M03-L07-A01",
-          "M03-L07-A02",
-          "M03-L07-A03"
+          "M03-L07-A01"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "previous outline archived; current self-study lesson replaces it",
+      "source_review": "pending_human_scientific_review",
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
@@ -720,7 +696,10 @@
           "fa",
           "en"
         ]
-      }
+      },
+      "path": "03_study_designs/lessons/07_qualitative_mixed.md",
+      "exercises_path": "03_study_designs/exercises/07_exercises.md",
+      "solutions_path": "solutions/03_study_designs/07_solutions.md"
     },
     {
       "id": "M03-L08",
@@ -737,24 +716,18 @@
       },
       "exercise_ids": {
         "beginner": [
-          "M03-L08-B01",
-          "M03-L08-B02",
-          "M03-L08-B03"
+          "M03-L08-B01"
         ],
         "intermediate": [
-          "M03-L08-I01",
-          "M03-L08-I02",
-          "M03-L08-I03"
+          "M03-L08-I01"
         ],
         "advanced": [
-          "M03-L08-A01",
-          "M03-L08-A02",
-          "M03-L08-A03"
+          "M03-L08-A01"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "previous outline archived; current self-study lesson replaces it",
+      "source_review": "pending_human_scientific_review",
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
@@ -762,7 +735,10 @@
           "fa",
           "en"
         ]
-      }
+      },
+      "path": "03_study_designs/lessons/08_implementation.md",
+      "exercises_path": "03_study_designs/exercises/08_exercises.md",
+      "solutions_path": "solutions/03_study_designs/08_solutions.md"
     },
     {
       "id": "M04-L01",

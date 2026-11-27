@@ -496,6 +496,166 @@
       "previous": "02_literature_review/README.md",
       "next": "solutions/02_literature_review/README.md",
       "home": "02_literature_review/README.md"
+    },
+    "03_study_designs/README.md": {
+      "previous": "curriculum/README.md",
+      "next": "03_study_designs/lessons/01_descriptive_cross_sectional.md",
+      "home": "03_study_designs/README.md"
+    },
+    "03_study_designs/lesson.md": {
+      "previous": "03_study_designs/README.md",
+      "next": "03_study_designs/README.md",
+      "home": "03_study_designs/README.md"
+    },
+    "03_study_designs/exercises.md": {
+      "previous": "03_study_designs/README.md",
+      "next": "03_study_designs/exercises/01_exercises.md",
+      "home": "03_study_designs/README.md"
+    },
+    "03_study_designs/solutions.md": {
+      "previous": "03_study_designs/README.md",
+      "next": "solutions/03_study_designs/README.md",
+      "home": "03_study_designs/README.md"
+    },
+    "03_study_designs/lessons/01_descriptive_cross_sectional.md": {
+      "previous": "03_study_designs/README.md",
+      "next": "03_study_designs/lessons/02_cohort_case_control.md",
+      "home": "03_study_designs/README.md"
+    },
+    "03_study_designs/lessons/02_cohort_case_control.md": {
+      "previous": "03_study_designs/lessons/01_descriptive_cross_sectional.md",
+      "next": "03_study_designs/lessons/03_clinical_trials.md",
+      "home": "03_study_designs/README.md"
+    },
+    "03_study_designs/lessons/03_clinical_trials.md": {
+      "previous": "03_study_designs/lessons/02_cohort_case_control.md",
+      "next": "03_study_designs/lessons/04_laboratory_animal.md",
+      "home": "03_study_designs/README.md"
+    },
+    "03_study_designs/lessons/04_laboratory_animal.md": {
+      "previous": "03_study_designs/lessons/03_clinical_trials.md",
+      "next": "03_study_designs/lessons/05_diagnostic_screening.md",
+      "home": "03_study_designs/README.md"
+    },
+    "03_study_designs/lessons/05_diagnostic_screening.md": {
+      "previous": "03_study_designs/lessons/04_laboratory_animal.md",
+      "next": "03_study_designs/lessons/06_prediction_omics.md",
+      "home": "03_study_designs/README.md"
+    },
+    "03_study_designs/lessons/06_prediction_omics.md": {
+      "previous": "03_study_designs/lessons/05_diagnostic_screening.md",
+      "next": "03_study_designs/lessons/07_qualitative_mixed.md",
+      "home": "03_study_designs/README.md"
+    },
+    "03_study_designs/lessons/07_qualitative_mixed.md": {
+      "previous": "03_study_designs/lessons/06_prediction_omics.md",
+      "next": "03_study_designs/lessons/08_implementation.md",
+      "home": "03_study_designs/README.md"
+    },
+    "03_study_designs/lessons/08_implementation.md": {
+      "previous": "03_study_designs/lessons/07_qualitative_mixed.md",
+      "next": "03_study_designs/exercises/01_exercises.md",
+      "home": "03_study_designs/README.md"
+    },
+    "03_study_designs/exercises/01_exercises.md": {
+      "previous": "03_study_designs/lessons/08_implementation.md",
+      "next": "03_study_designs/exercises/02_exercises.md",
+      "home": "03_study_designs/README.md"
+    },
+    "03_study_designs/exercises/02_exercises.md": {
+      "previous": "03_study_designs/exercises/01_exercises.md",
+      "next": "03_study_designs/exercises/03_exercises.md",
+      "home": "03_study_designs/README.md"
+    },
+    "03_study_designs/exercises/03_exercises.md": {
+      "previous": "03_study_designs/exercises/02_exercises.md",
+      "next": "03_study_designs/exercises/04_exercises.md",
+      "home": "03_study_designs/README.md"
+    },
+    "03_study_designs/exercises/04_exercises.md": {
+      "previous": "03_study_designs/exercises/03_exercises.md",
+      "next": "03_study_designs/exercises/05_exercises.md",
+      "home": "03_study_designs/README.md"
+    },
+    "03_study_designs/exercises/05_exercises.md": {
+      "previous": "03_study_designs/exercises/04_exercises.md",
+      "next": "03_study_designs/exercises/06_exercises.md",
+      "home": "03_study_designs/README.md"
+    },
+    "03_study_designs/exercises/06_exercises.md": {
+      "previous": "03_study_designs/exercises/05_exercises.md",
+      "next": "03_study_designs/exercises/07_exercises.md",
+      "home": "03_study_designs/README.md"
+    },
+    "03_study_designs/exercises/07_exercises.md": {
+      "previous": "03_study_designs/exercises/06_exercises.md",
+      "next": "03_study_designs/exercises/08_exercises.md",
+      "home": "03_study_designs/README.md"
+    },
+    "03_study_designs/exercises/08_exercises.md": {
+      "previous": "03_study_designs/exercises/07_exercises.md",
+      "next": "solutions/03_study_designs/README.md",
+      "home": "03_study_designs/README.md"
+    },
+    "solutions/03_study_designs/README.md": {
+      "previous": "03_study_designs/exercises/08_exercises.md",
+      "next": "solutions/03_study_designs/01_solutions.md",
+      "home": "03_study_designs/README.md"
+    },
+    "solutions/03_study_designs/01_solutions.md": {
+      "previous": "solutions/03_study_designs/README.md",
+      "next": "solutions/03_study_designs/02_solutions.md",
+      "home": "03_study_designs/README.md"
+    },
+    "solutions/03_study_designs/02_solutions.md": {
+      "previous": "solutions/03_study_designs/01_solutions.md",
+      "next": "solutions/03_study_designs/03_solutions.md",
+      "home": "03_study_designs/README.md"
+    },
+    "solutions/03_study_designs/03_solutions.md": {
+      "previous": "solutions/03_study_designs/02_solutions.md",
+      "next": "solutions/03_study_designs/04_solutions.md",
+      "home": "03_study_designs/README.md"
+    },
+    "solutions/03_study_designs/04_solutions.md": {
+      "previous": "solutions/03_study_designs/03_solutions.md",
+      "next": "solutions/03_study_designs/05_solutions.md",
+      "home": "03_study_designs/README.md"
+    },
+    "solutions/03_study_designs/05_solutions.md": {
+      "previous": "solutions/03_study_designs/04_solutions.md",
+      "next": "solutions/03_study_designs/06_solutions.md",
+      "home": "03_study_designs/README.md"
+    },
+    "solutions/03_study_designs/06_solutions.md": {
+      "previous": "solutions/03_study_designs/05_solutions.md",
+      "next": "solutions/03_study_designs/07_solutions.md",
+      "home": "03_study_designs/README.md"
+    },
+    "solutions/03_study_designs/07_solutions.md": {
+      "previous": "solutions/03_study_designs/06_solutions.md",
+      "next": "solutions/03_study_designs/08_solutions.md",
+      "home": "03_study_designs/README.md"
+    },
+    "solutions/03_study_designs/08_solutions.md": {
+      "previous": "solutions/03_study_designs/07_solutions.md",
+      "next": "03_study_designs/resources/glossary.md",
+      "home": "03_study_designs/README.md"
+    },
+    "03_study_designs/resources/glossary.md": {
+      "previous": "solutions/03_study_designs/08_solutions.md",
+      "next": "03_study_designs/resources/references.md",
+      "home": "03_study_designs/README.md"
+    },
+    "03_study_designs/resources/references.md": {
+      "previous": "03_study_designs/resources/glossary.md",
+      "next": "03_study_designs/resources/videos.md",
+      "home": "03_study_designs/README.md"
+    },
+    "03_study_designs/resources/videos.md": {
+      "previous": "03_study_designs/resources/references.md",
+      "next": "curriculum/README.md",
+      "home": "03_study_designs/README.md"
     }
   }
 }

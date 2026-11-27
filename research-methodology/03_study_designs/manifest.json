@@ -1,0 +1,394 @@
+{
+  "module": "M03",
+  "version": 1,
+  "date": "2026-11-27",
+  "lessons": [
+    {
+      "id": "M03-L01",
+      "title": "مطالعات توصیفی و مقطعی",
+      "path": "03_study_designs/lessons/01_descriptive_cross_sectional.md",
+      "exercises_path": "03_study_designs/exercises/01_exercises.md",
+      "solutions_path": "solutions/03_study_designs/01_solutions.md",
+      "exercise_ids": [
+        "M03-L01-B01",
+        "M03-L01-I01",
+        "M03-L01-A01"
+      ],
+      "levels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "references": [
+        "STROBE",
+        "WHO_STEPS",
+        "NHANES"
+      ],
+      "videos": [
+        "YT_RANDOM",
+        "YT_COMPLEX"
+      ],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "supplementary_video_ids": [],
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      },
+      "teaching_revision": "2026-11-27",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "03_study_designs/README.md",
+        "next": "03_study_designs/lessons/02_cohort_case_control.md"
+      }
+    },
+    {
+      "id": "M03-L02",
+      "title": "هم‌گروهی و موردـشاهدی",
+      "path": "03_study_designs/lessons/02_cohort_case_control.md",
+      "exercises_path": "03_study_designs/exercises/02_exercises.md",
+      "solutions_path": "solutions/03_study_designs/02_solutions.md",
+      "exercise_ids": [
+        "M03-L02-B01",
+        "M03-L02-I01",
+        "M03-L02-A01"
+      ],
+      "levels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "references": [
+        "COHORT_GRIMES",
+        "CASE_CONTROL_GRIMES",
+        "STROBE",
+        "HERNAN"
+      ],
+      "videos": [
+        "YT_RANDOM",
+        "YT_EXPERIMENT"
+      ],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "supplementary_video_ids": [],
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      },
+      "teaching_revision": "2026-11-27",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "03_study_designs/lessons/01_descriptive_cross_sectional.md",
+        "next": "03_study_designs/lessons/03_clinical_trials.md"
+      }
+    },
+    {
+      "id": "M03-L03",
+      "title": "کارآزمایی بالینی",
+      "path": "03_study_designs/lessons/03_clinical_trials.md",
+      "exercises_path": "03_study_designs/exercises/03_exercises.md",
+      "solutions_path": "solutions/03_study_designs/03_solutions.md",
+      "exercise_ids": [
+        "M03-L03-B01",
+        "M03-L03-I01",
+        "M03-L03-A01"
+      ],
+      "levels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "references": [
+        "CONSORT2025",
+        "ICH_E9R1",
+        "PRECIS2"
+      ],
+      "videos": [
+        "YT_QUESTION",
+        "YT_EXPERIMENT"
+      ],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "supplementary_video_ids": [],
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      },
+      "teaching_revision": "2026-11-27",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "03_study_designs/lessons/02_cohort_case_control.md",
+        "next": "03_study_designs/lessons/04_laboratory_animal.md"
+      }
+    },
+    {
+      "id": "M03-L04",
+      "title": "طراحی آزمایشگاهی، سلولی و حیوانی",
+      "path": "03_study_designs/lessons/04_laboratory_animal.md",
+      "exercises_path": "03_study_designs/exercises/04_exercises.md",
+      "solutions_path": "solutions/03_study_designs/04_solutions.md",
+      "exercise_ids": [
+        "M03-L04-B01",
+        "M03-L04-I01",
+        "M03-L04-A01"
+      ],
+      "levels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "references": [
+        "ARRIVE2",
+        "LAZIC",
+        "SUPERPLOTS"
+      ],
+      "videos": [
+        "YT_UNIT",
+        "YT_EXPERIMENT"
+      ],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "supplementary_video_ids": [],
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      },
+      "teaching_revision": "2026-11-27",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "03_study_designs/lessons/03_clinical_trials.md",
+        "next": "03_study_designs/lessons/05_diagnostic_screening.md"
+      }
+    },
+    {
+      "id": "M03-L05",
+      "title": "مطالعات تشخیصی و غربالگری",
+      "path": "03_study_designs/lessons/05_diagnostic_screening.md",
+      "exercises_path": "03_study_designs/exercises/05_exercises.md",
+      "solutions_path": "solutions/03_study_designs/05_solutions.md",
+      "exercise_ids": [
+        "M03-L05-B01",
+        "M03-L05-I01",
+        "M03-L05-A01"
+      ],
+      "levels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "references": [
+        "STARD",
+        "QUADAS2",
+        "COCHRANE_DTA"
+      ],
+      "videos": [
+        "YT_RANDOM",
+        "YT_COMPLEX"
+      ],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "supplementary_video_ids": [],
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      },
+      "teaching_revision": "2026-11-27",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "03_study_designs/lessons/04_laboratory_animal.md",
+        "next": "03_study_designs/lessons/06_prediction_omics.md"
+      }
+    },
+    {
+      "id": "M03-L06",
+      "title": "مدل‌های پیش‌بینی و پژوهش اُمیکس",
+      "path": "03_study_designs/lessons/06_prediction_omics.md",
+      "exercises_path": "03_study_designs/exercises/06_exercises.md",
+      "solutions_path": "solutions/03_study_designs/06_solutions.md",
+      "exercise_ids": [
+        "M03-L06-B01",
+        "M03-L06-I01",
+        "M03-L06-A01"
+      ],
+      "levels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "references": [
+        "TRIPODAI",
+        "PROBAST",
+        "MIAME",
+        "RILEY"
+      ],
+      "videos": [
+        "YT_FRAMEWORK",
+        "YT_REPRO"
+      ],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "supplementary_video_ids": [],
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      },
+      "teaching_revision": "2026-11-27",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "03_study_designs/lessons/05_diagnostic_screening.md",
+        "next": "03_study_designs/lessons/07_qualitative_mixed.md"
+      }
+    },
+    {
+      "id": "M03-L07",
+      "title": "پژوهش کیفی و آمیخته",
+      "path": "03_study_designs/lessons/07_qualitative_mixed.md",
+      "exercises_path": "03_study_designs/exercises/07_exercises.md",
+      "solutions_path": "solutions/03_study_designs/07_solutions.md",
+      "exercise_ids": [
+        "M03-L07-B01",
+        "M03-L07-I01",
+        "M03-L07-A01"
+      ],
+      "levels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "references": [
+        "COREQ",
+        "SRQR",
+        "FETTERS"
+      ],
+      "videos": [
+        "YT_MIXED",
+        "YT_QUAL"
+      ],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "supplementary_video_ids": [],
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      },
+      "teaching_revision": "2026-11-27",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "03_study_designs/lessons/06_prediction_omics.md",
+        "next": "03_study_designs/lessons/08_implementation.md"
+      }
+    },
+    {
+      "id": "M03-L08",
+      "title": "ترجمان دانش و پژوهش پیاده‌سازی",
+      "path": "03_study_designs/lessons/08_implementation.md",
+      "exercises_path": "03_study_designs/exercises/08_exercises.md",
+      "solutions_path": "solutions/03_study_designs/08_solutions.md",
+      "exercise_ids": [
+        "M03-L08-B01",
+        "M03-L08-I01",
+        "M03-L08-A01"
+      ],
+      "levels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "references": [
+        "CFIR",
+        "REAIM",
+        "PROCTOR",
+        "STARI"
+      ],
+      "videos": [
+        "YT_MIXED",
+        "YT_QUAL"
+      ],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "supplementary_video_ids": [],
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      },
+      "teaching_revision": "2026-11-27",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "03_study_designs/lessons/07_qualitative_mixed.md",
+        "next": "03_study_designs/exercises/01_exercises.md"
+      }
+    }
+  ]
+}

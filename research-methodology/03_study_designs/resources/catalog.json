@@ -1,0 +1,244 @@
+{
+  "checked_on": "2026-11-27",
+  "references": {
+    "STROBE": {
+      "title": "STROBE Statement: guidelines for reporting observational studies.",
+      "url": "https://doi.org/10.1371/journal.pmed.0040296",
+      "description": "گزارش مطالعه‌های غیرمداخله‌ای",
+      "verification": "شناسهٔ پایدار ثبت شد؛ متن کامل در این نوبت بازبینی نشد"
+    },
+    "WHO_STEPS": {
+      "title": "World Health Organization. STEPwise approach to NCD risk factor surveillance: STEPS instrument.",
+      "url": "https://www.who.int/teams/noncommunicable-diseases/surveillance/systems-tools/steps/instrument",
+      "description": "ابزار و روش‌کار پیمایش عوامل خطر",
+      "verification": "صفحهٔ رسمی WHO و شرح سه گام بررسی شد"
+    },
+    "NHANES": {
+      "title": "CDC/NCHS. NHANES Sample Design.",
+      "url": "https://wwwn.cdc.gov/nchs/nhanes/tutorials/SampleDesign.aspx",
+      "description": "نمونه‌گیری چندمرحله‌ای، وزن و تعمیم در پیمایش",
+      "verification": "صفحهٔ رسمی و شرح طراحی نمونه بررسی شد"
+    },
+    "COHORT_GRIMES": {
+      "title": "Grimes DA, Schulz KF. Cohort studies: marching towards outcomes. Lancet. 2002;359:341-345.",
+      "url": "https://doi.org/10.1016/S0140-6736(02)07500-1",
+      "description": "منطق، برآورد و محدودیت مطالعهٔ هم‌گروهی",
+      "verification": "عنوان و شناسهٔ DOI ثبت شد؛ متن کامل در این نوبت بازبینی نشد"
+    },
+    "CASE_CONTROL_GRIMES": {
+      "title": "Grimes DA, Schulz KF. Compared to what? Finding controls for case-control studies. Lancet. 2005;365:1429-1433.",
+      "url": "https://doi.org/10.1016/S0140-6736(05)66379-4",
+      "description": "انتخاب شاهد از جمعیت منشأ",
+      "verification": "عنوان و شناسهٔ DOI ثبت شد؛ متن کامل در این نوبت بازبینی نشد"
+    },
+    "HERNAN": {
+      "title": "Hernán MA, Robins JM. Causal Inference: What If.",
+      "url": "https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/",
+      "description": "زمان صفر، طراحی مطالعه و استنباط علّی",
+      "verification": "صفحهٔ رسمی کتاب آزاد ثبت شد؛ فصل‌های مرتبط باید برای مطالعهٔ ژرف‌تر خوانده شوند"
+    },
+    "CONSORT2025": {
+      "title": "CONSORT Group. CONSORT 2025 explanation and elaboration: updated guideline for reporting randomised trials.",
+      "url": "https://doi.org/10.1136/bmj-2024-081124",
+      "description": "راهنمای گزارش کارآزمایی تصادفی",
+      "verification": "همان منبعی است که در فهرست منابع ماژول ۰۶ ثبت شده؛ PDF جست‌وجو شد و متن کامل بندبه‌بند ممیزی نشد"
+    },
+    "ICH_E9R1": {
+      "title": "International Council for Harmonisation. E9(R1) Addendum on estimands and sensitivity analysis in clinical trials.",
+      "url": "https://www.ich.org/page/efficacy-guidelines",
+      "description": "راهنمای تعریف estimand و تحلیل حساسیت",
+      "verification": "صفحهٔ رسمی راهنمای کارایی ثبت شد؛ نسخهٔ جاری سند باید هنگام تدوین پروتکل بازبینی شود"
+    },
+    "PRECIS2": {
+      "title": "Loudon K, et al. The PRECIS-2 tool: designing trials that are fit for purpose. BMJ. 2015;350:h2147.",
+      "url": "https://doi.org/10.1136/bmj.h2147",
+      "description": "تعیین جایگاه طرح در پیوستار تبیینی تا عمل‌گرا",
+      "verification": "عنوان، سال و DOI با Crossref بررسی شد"
+    },
+    "ARRIVE2": {
+      "title": "Percie du Sert N, et al. The ARRIVE guidelines 2.0.",
+      "url": "https://arriveguidelines.org/arrive-guidelines",
+      "description": "طراحی، کاهش سوگیری و گزارش پژوهش جانوری",
+      "verification": "صفحهٔ رسمی؛ Essential 10 و مجموعهٔ تکمیلی بررسی شد"
+    },
+    "LAZIC": {
+      "title": "Lazic SE, et al. What exactly is N in cell culture and animal experiments? PLOS Biology. 2018;16(4):e2005282.",
+      "url": "https://doi.org/10.1371/journal.pbio.2005282",
+      "description": "تمایز واحد آزمایشی، تکرار زیستی و تکرار فنی",
+      "verification": "شناسهٔ مقاله ثبت شد؛ متن کامل در این نوبت بازبینی نشد"
+    },
+    "SUPERPLOTS": {
+      "title": "Lord SJ, et al. SuperPlots: Communicating reproducibility and variability in cell biology. J Cell Biol. 2020;219(6):e202001064.",
+      "url": "https://doi.org/10.1083/jcb.202001064",
+      "description": "نمایش داده‌های تودرتو و تغییرپذیری زیستی",
+      "verification": "عنوان و پیوند مقاله در منابع ماژول ۰۶ بررسی شده"
+    },
+    "STARD": {
+      "title": "Bossuyt PM, et al. STARD 2015: An Updated List of Essential Items for Reporting Diagnostic Accuracy Studies. BMJ. 2015;351:h5527.",
+      "url": "https://doi.org/10.1136/bmj.h5527",
+      "description": "گزارش مطالعات دقت تشخیصی",
+      "verification": "صفحهٔ رسمی EQUATOR و پیوند متن مقاله بررسی شد"
+    },
+    "QUADAS2": {
+      "title": "Whiting PF, et al. QUADAS-2: a revised tool for the quality assessment of diagnostic accuracy studies. Ann Intern Med. 2011;155:529-536.",
+      "url": "https://doi.org/10.1016/j.jclinepi.2010.06.001",
+      "description": "ارزیابی خطر سوگیری و کاربردپذیری مطالعهٔ دقت تشخیصی",
+      "verification": "عنوان و شناسهٔ DOI ثبت شد؛ ابزار باید با نسخهٔ جاری بازبینی شود"
+    },
+    "COCHRANE_DTA": {
+      "title": "Deeks JJ, Bossuyt PM, Leeflang MM, Takwoingi Y, eds. Cochrane Handbook for Systematic Reviews of Diagnostic Test Accuracy. Version 2.0.",
+      "url": "https://training.cochrane.org/handbook-diagnostic-test-accuracy/current",
+      "description": "راهنمای روش‌شناختی مرورهای دقت تشخیصی",
+      "verification": "صفحهٔ جاری Cochrane و نسخهٔ کتاب ۲٫۰ بررسی شد؛ دسترسی بعضی فصل‌ها محدود است"
+    },
+    "TRIPODAI": {
+      "title": "Collins GS, et al. TRIPOD+AI statement: updated guidance for reporting clinical prediction models that use regression or machine learning methods. BMJ. 2024;385:e078378.",
+      "url": "https://doi.org/10.1136/bmj-2023-078378",
+      "description": "گزارش مدل‌های پیش‌بینی بالینی مبتنی بر رگرسیون یا یادگیری ماشین",
+      "verification": "عنوان، نویسندهٔ نخست، سال و DOI با Crossref بررسی شد"
+    },
+    "PROBAST": {
+      "title": "PROBAST. Prediction model Risk Of Bias ASsessment Tool.",
+      "url": "https://www.probast.org/",
+      "description": "ارزیابی خطر سوگیری و کاربردپذیری مدل پیش‌بینی",
+      "verification": "صفحهٔ رسمی ابزار ثبت شد؛ ارزیابی موردی مدل در این نوبت انجام نشد"
+    },
+    "MIAME": {
+      "title": "Brazma A, et al. Minimum information about a microarray experiment (MIAME).",
+      "url": "https://www.ncbi.nlm.nih.gov/geo/info/MIAME.html",
+      "description": "حداقل اطلاعات گزارش آزمایش ریزآرایه",
+      "verification": "صفحهٔ رسمی GEO/NLM ثبت شد؛ دامنهٔ MIAME به داده‌های ریزآرایه محدود است"
+    },
+    "RILEY": {
+      "title": "Riley RD, et al. Calculating the sample size required for developing a clinical prediction model. BMJ. 2020;368:m441.",
+      "url": "https://doi.org/10.1136/bmj.m441",
+      "description": "توجیه حجم نمونه در توسعهٔ مدل پیش‌بینی",
+      "verification": "عنوان و DOI ثبت شد؛ ابزار محاسبه اجرا نشده"
+    },
+    "COREQ": {
+      "title": "Tong A, Sainsbury P, Craig J. Consolidated criteria for reporting qualitative research (COREQ). Int J Qual Health Care. 2007;19:349-357.",
+      "url": "https://doi.org/10.1093/intqhc/mzm042",
+      "description": "گزارش مصاحبه و گروه کانونی",
+      "verification": "شناسهٔ DOI ثبت شد؛ چک‌لیست در این نوبت اجرا نشده"
+    },
+    "SRQR": {
+      "title": "O’Brien BC, et al. Standards for Reporting Qualitative Research: a synthesis of recommendations. Acad Med. 2014;89:1245-1251.",
+      "url": "https://doi.org/10.1097/ACM.0000000000000388",
+      "description": "راهنمای گزارش پژوهش کیفی",
+      "verification": "شناسهٔ DOI ثبت شد؛ متن کامل در این نوبت بازبینی نشد"
+    },
+    "FETTERS": {
+      "title": "Fetters MD, Curry LA, Creswell JW. Achieving integration in mixed methods designs. Health Serv Res. 2013;48:2134-2156.",
+      "url": "https://doi.org/10.1111/1475-6773.12117",
+      "description": "نقاط یکپارچه‌سازی در طرح‌های آمیخته",
+      "verification": "شناسهٔ DOI ثبت شد؛ متن کامل در این نوبت بازبینی نشد"
+    },
+    "CFIR": {
+      "title": "Damschroder LJ, et al. The updated Consolidated Framework for Implementation Research based on user feedback. Implement Sci. 2022;17:75.",
+      "url": "https://doi.org/10.1186/s13012-022-01245-0",
+      "description": "چارچوب عوامل و فرایندهای پیاده‌سازی",
+      "verification": "عنوان و DOI ثبت شد؛ دسترسی مستقیم صفحه در این نوبت خطای 406 داد"
+    },
+    "REAIM": {
+      "title": "RE-AIM. Reach, Effectiveness, Adoption, Implementation, Maintenance.",
+      "url": "https://re-aim.org/",
+      "description": "چارچوب دامنه، اثربخشی، پذیرش، اجرا و نگهداشت",
+      "verification": "صفحهٔ رسمی چارچوب ثبت شد؛ ابزار ارزیابی در این نوبت اجرا نشده"
+    },
+    "PROCTOR": {
+      "title": "Proctor E, et al. Outcomes for implementation research: conceptual distinctions, measurement challenges, and research agenda. Adm Policy Ment Health. 2011;38:65-76.",
+      "url": "https://doi.org/10.1007/s10488-010-0319-7",
+      "description": "تعریف پیامدهای پژوهش پیاده‌سازی",
+      "verification": "شناسهٔ DOI ثبت شد؛ متن کامل در این نوبت بازبینی نشد"
+    },
+    "STARI": {
+      "title": "Pinnock H, et al. Standards for Reporting Implementation Studies (StaRI). BMJ Open. 2017;7:e013318.",
+      "url": "https://doi.org/10.1136/bmjopen-2017-013318",
+      "description": "گزارش پژوهش‌های پیاده‌سازی",
+      "verification": "شناسهٔ DOI ثبت شد؛ متن کامل در این نوبت بازبینی نشد"
+    }
+  },
+  "videos": {
+    "YT_RANDOM": {
+      "title": "Techniques for random sampling and avoiding bias",
+      "provider": "Khan Academy",
+      "url": "https://www.youtube.com/watch?v=PdXDLNNXPik",
+      "topic": "نمونه‌گیری و سوگیری انتخاب",
+      "level": "مقدماتی",
+      "duration": "در این نوبت ثبت نشد",
+      "status": "عنوان و سازنده از فهرست آموزشی پیشین ثبت شد؛ پخش این پیوند در این فاز آزموده نشد"
+    },
+    "YT_COMPLEX": {
+      "title": "Introduction to Complex Samples",
+      "provider": "NCRM / Roxanne Connelly",
+      "url": "https://www.youtube.com/watch?v=6RuRSZIUcn8",
+      "topic": "طرح‌های پیچیدهٔ پیمایش و برآورد",
+      "level": "مقدماتی و متوسط",
+      "duration": "در این نوبت ثبت نشد",
+      "status": "عنوان و سازنده از فهرست آموزشی پیشین ثبت شد؛ پخش این پیوند در این فاز آزموده نشد"
+    },
+    "YT_EXPERIMENT": {
+      "title": "Introduction to experimental design",
+      "provider": "Khan Academy",
+      "url": "https://www.youtube.com/watch?v=ceWyayKg3QY",
+      "topic": "فرضیه، شاهد و طراحی آزمایش",
+      "level": "مقدماتی",
+      "duration": "در این نوبت ثبت نشد",
+      "status": "عنوان و سازنده از فهرست آموزشی پیشین ثبت شد؛ پخش این پیوند در این فاز آزموده نشد"
+    },
+    "YT_QUESTION": {
+      "title": "IPPCR 2015: A Research Question and Implications for Efficient Clinical Trials",
+      "provider": "NIH VideoCast / John Powers III",
+      "url": "https://www.youtube.com/watch?v=tOj9TimZU7k",
+      "topic": "پرسش پژوهش و کارآزمایی بالینی",
+      "level": "مقدماتی و متوسط",
+      "duration": "در این نوبت ثبت نشد",
+      "status": "عنوان و سازنده از فهرست آموزشی پیشین ثبت شد؛ پخش این پیوند در این فاز آزموده نشد"
+    },
+    "YT_UNIT": {
+      "title": "Experimental Unit",
+      "provider": "British Pharmacological Society",
+      "url": "https://www.youtube.com/watch?v=WQSWJLDcy5M",
+      "topic": "واحد آزمایشی",
+      "level": "مقدماتی و متوسط",
+      "duration": "در این نوبت ثبت نشد",
+      "status": "عنوان و سازنده از فهرست آموزشی پیشین ثبت شد؛ پخش این پیوند در این فاز آزموده نشد"
+    },
+    "YT_FRAMEWORK": {
+      "title": "How to Develop a Conceptual Framework — with a REAL Example",
+      "provider": "Scribbr",
+      "url": "https://www.youtube.com/watch?v=MnfRdTCUIsc",
+      "topic": "چارچوب مفهومی و نقش متغیرها",
+      "level": "مقدماتی",
+      "duration": "در این نوبت ثبت نشد",
+      "status": "عنوان و سازنده از فهرست آموزشی پیشین ثبت شد؛ پخش این پیوند در این فاز آزموده نشد"
+    },
+    "YT_REPRO": {
+      "title": "Reproducibility and Replicability in Science",
+      "provider": "National Academies of Sciences, Engineering, and Medicine",
+      "url": "https://www.youtube.com/watch?v=Y6hhJvIZhls",
+      "topic": "بازتولیدپذیری و تکرارپذیری",
+      "level": "مقدماتی و متوسط",
+      "duration": "در این نوبت ثبت نشد",
+      "status": "عنوان و سازنده از فهرست آموزشی پیشین ثبت شد؛ پخش این پیوند در این فاز آزموده نشد"
+    },
+    "YT_MIXED": {
+      "title": "Creative Research Methods — Technology and mixed methods research",
+      "provider": "NCRM / Helen Kara",
+      "url": "https://www.youtube.com/watch?v=4vhXUJQecVA",
+      "topic": "روش‌های خلاق و آمیخته",
+      "level": "مقدماتی و متوسط",
+      "duration": "در این نوبت ثبت نشد",
+      "status": "عنوان و سازنده از فهرست آموزشی پیشین ثبت شد؛ پخش این پیوند در این فاز آزموده نشد"
+    },
+    "YT_QUAL": {
+      "title": "Qualitative Sampling",
+      "provider": "Chris Flipp",
+      "url": "https://www.youtube.com/watch?v=-Dn4u9DPmDs",
+      "topic": "نمونه‌گیری کیفی",
+      "level": "مقدماتی",
+      "duration": "در این نوبت ثبت نشد",
+      "status": "عنوان و سازنده از فهرست آموزشی پیشین ثبت شد؛ پخش این پیوند در این فاز آزموده نشد"
+    }
+  }
+}
