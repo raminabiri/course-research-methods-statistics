@@ -1,0 +1,119 @@
+{
+  "checked_on": "2026-11-27",
+  "references": {
+    "SELECTION_HERNAN": {
+      "title": "Hernán MA, Hernández-Díaz S, Robins JM. A structural approach to selection bias.",
+      "url": "https://doi.org/10.1097/01.ede.0000135174.63482.43",
+      "description": "سازوکار انتخاب و سوگیری در تحلیل علّی",
+      "verification": "عنوان و DOI ثبت شد؛ متن کامل در این نوبت بازبینی نشد"
+    },
+    "COCHRANE_ROB": {
+      "title": "Cochrane Handbook for Systematic Reviews of Interventions, Chapter 8: Assessing risk of bias in a randomized trial.",
+      "url": "https://training.cochrane.org/handbook/current/chapter-08",
+      "description": "ارزیابی سوگیری در کارآزمایی",
+      "verification": "پیوند رسمی راهنمای Cochrane ثبت شد؛ فصل در این نوبت بندبه‌بند بررسی نشد"
+    },
+    "STROBE": {
+      "title": "STROBE Statement: guidelines for reporting observational studies.",
+      "url": "https://www.strobe-statement.org/",
+      "description": "راهنمای گزارش مطالعه‌های مشاهده‌ای",
+      "verification": "وبگاه رسمی و صفحهٔ راهنما ثبت شد؛ اجرای چک‌لیست روی مقاله انجام نشد"
+    },
+    "MODERN_EPI": {
+      "title": "Rothman KJ, Greenland S, Lash TL. Modern Epidemiology.",
+      "url": "https://shop.lww.com/Modern-Epidemiology/p/9781451193282",
+      "description": "مرجع دانشگاهی اپیدمیولوژی و تحلیل سوگیری",
+      "verification": "صفحهٔ ناشر برای مشخصات کتاب ثبت شد؛ دسترسی به متن کامل بررسی نشد"
+    },
+    "HERNAN_WHATIF": {
+      "title": "Hernán MA, Robins JM. Causal Inference: What If.",
+      "url": "https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/",
+      "description": "کتاب آزاد دربارهٔ استنباط علّی و کارآزمایی هدف",
+      "verification": "صفحهٔ رسمی کتاب ثبت شد"
+    },
+    "GREENLAND_DAG": {
+      "title": "Greenland S, Pearl J, Robins JM. Causal diagrams for epidemiologic research.",
+      "url": "https://doi.org/10.1097/00001648-199901000-00008",
+      "description": "مقالهٔ بنیادی دربارهٔ نمودار علّی در اپیدمیولوژی",
+      "verification": "عنوان و DOI ثبت شد؛ متن کامل در این نوبت بازبینی نشد"
+    },
+    "E_VALUE": {
+      "title": "VanderWeele TJ, Ding P. Sensitivity Analysis in Observational Research: Introducing the E-Value.",
+      "url": "https://doi.org/10.7326/M16-2607",
+      "description": "مقالهٔ روش‌شناختی دربارهٔ E-value و تحلیل حساسیت",
+      "verification": "عنوان و DOI ثبت شد؛ محاسبهٔ بیرونی در این نوبت انجام نشد"
+    },
+    "TARGET_TRIAL": {
+      "title": "Hernán MA, Robins JM. Using big data to emulate a target trial when a randomized trial is not available.",
+      "url": "https://doi.org/10.1093/aje/kwv254",
+      "description": "تعریف و شبیه‌سازی کارآزمایی هدف",
+      "verification": "عنوان و DOI ثبت شد؛ متن کامل در این نوبت بازبینی نشد"
+    },
+    "TEXTOR_DAG": {
+      "title": "Textor J, et al. Robust causal inference using directed acyclic graphs: the R package 'dagitty'.",
+      "url": "https://doi.org/10.1093/ije/dyw341",
+      "description": "تحلیل استحکام استنباط بر پایهٔ DAG",
+      "verification": "عنوان، سال انتشار و DOI با Crossref بررسی شد؛ متن کامل در این نوبت بازبینی نشد"
+    },
+    "DAGITTY": {
+      "title": "DAGitty: drawing and analyzing causal diagrams.",
+      "url": "https://www.dagitty.net/",
+      "description": "ابزار برخط ترسیم گراف و یافتن مجموعه‌های تعدیل",
+      "verification": "وبگاه رسمی ابزار ثبت شد؛ تحلیل گراف با ابزار اجرا نشده"
+    },
+    "SHADISH": {
+      "title": "Shadish WR, Cook TD, Campbell DT. Experimental and quasi-experimental designs for generalized causal inference.",
+      "url": "https://www.worldcat.org/title/47825254",
+      "description": "مرجع طراحی آزمایشی و روایی",
+      "verification": "رکورد کتاب برای مطالعهٔ تکمیلی ثبت شد"
+    },
+    "STUART_GENERALIZABILITY": {
+      "title": "Stuart EA, Cole SR, Bradshaw CP, Leaf PJ. The use of propensity scores to assess the generalizability of results from randomized trials.",
+      "url": "https://doi.org/10.1111/j.1467-985X.2010.00673.x",
+      "description": "انتقال نتیجهٔ کارآزمایی به جمعیت هدف",
+      "verification": "عنوان و DOI ثبت شد؛ متن کامل در این نوبت بازبینی نشد"
+    }
+  },
+  "videos": {
+    "YT_RANDOM": {
+      "title": "Techniques for random sampling and avoiding bias",
+      "provider": "Khan Academy",
+      "url": "https://www.youtube.com/watch?v=PdXDLNNXPik",
+      "topic": "نمونه‌گیری و سوگیری انتخاب",
+      "level": "مقدماتی",
+      "status": "از فهرست پیشین بازیابی شد؛ پخش و محتوای کنونی آزموده نشده؛ مکمل بخشی از درس است"
+    },
+    "YT_EXPERIMENT": {
+      "title": "Introduction to experimental design",
+      "provider": "Khan Academy",
+      "url": "https://www.youtube.com/watch?v=ceWyayKg3QY",
+      "topic": "تخصیص و منطق طراحی آزمایشی",
+      "level": "مقدماتی",
+      "status": "از فهرست پیشین بازیابی شد؛ پخش و محتوای کنونی آزموده نشده؛ مکمل بخشی از درس است"
+    },
+    "YT_FRAMEWORK": {
+      "title": "How to Develop a Conceptual Framework — with a REAL Example",
+      "provider": "Scribbr",
+      "url": "https://www.youtube.com/watch?v=MnfRdTCUIsc",
+      "topic": "چارچوب مفهومی و نقش متغیرها",
+      "level": "مقدماتی",
+      "status": "از فهرست پیشین بازیابی شد؛ پخش و محتوای کنونی آزموده نشده؛ مکمل بخشی از درس است"
+    },
+    "YT_QUESTION": {
+      "title": "IPPCR 2015: A Research Question and Implications for Efficient Clinical Trials",
+      "provider": "NIH VideoCast / John Powers III",
+      "url": "https://www.youtube.com/watch?v=tOj9TimZU7k",
+      "topic": "صورت‌بندی پرسش پژوهش و طراحی کارآزمایی",
+      "level": "مقدماتی و متوسط",
+      "status": "از فهرست پیشین بازیابی شد؛ پخش و محتوای کنونی آزموده نشده؛ مکمل بخشی از درس است"
+    },
+    "YT_REPRO": {
+      "title": "Reproducibility and Replicability in Science",
+      "provider": "National Academies of Sciences, Engineering, and Medicine",
+      "url": "https://www.youtube.com/watch?v=Y6hhJvIZhls",
+      "topic": "بازتولیدپذیری و تکرارپذیری",
+      "level": "مقدماتی و متوسط",
+      "status": "از فهرست پیشین بازیابی شد؛ پخش و محتوای کنونی آزموده نشده؛ مکمل بخشی از درس است"
+    }
+  }
+}

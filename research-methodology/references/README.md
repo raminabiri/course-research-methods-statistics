@@ -2,6 +2,9 @@
 
 ## ماژول‌های نوشته‌شده
 
+- [منابع سوگیری و علیت در پزشکی و زیست‌شناسی](../04_bias_confounding_causality/resources/references.md)
+- [فیلم‌های سوگیری و علیت و وضعیت پیوندها](../04_bias_confounding_causality/resources/videos.md)
+- [فهرست ماشینی منابع و فیلم‌های ماژول ۴](../04_bias_confounding_causality/resources/catalog.json)
 - [منابع طراحی مطالعه در پزشکی و زیست‌شناسی](../03_study_designs/resources/references.md)
 - [فیلم‌های طراحی مطالعه و وضعیت پیوندها](../03_study_designs/resources/videos.md)
 - [فهرست ماشینی منابع و فیلم‌های ماژول ۳](../03_study_designs/resources/catalog.json)

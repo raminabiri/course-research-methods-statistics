@@ -656,6 +656,106 @@
       "previous": "03_study_designs/resources/references.md",
       "next": "curriculum/README.md",
       "home": "03_study_designs/README.md"
+    },
+    "04_bias_confounding_causality/README.md": {
+      "previous": "curriculum/README.md",
+      "next": "04_bias_confounding_causality/lessons/01_error_bias.md",
+      "home": "04_bias_confounding_causality/README.md"
+    },
+    "04_bias_confounding_causality/lesson.md": {
+      "previous": "03_study_designs/README.md",
+      "next": "04_bias_confounding_causality/lessons/01_error_bias.md",
+      "home": "04_bias_confounding_causality/README.md"
+    },
+    "04_bias_confounding_causality/exercises.md": {
+      "previous": "04_bias_confounding_causality/lessons/04_validity_transportability.md",
+      "next": "04_bias_confounding_causality/exercises/01_exercises.md",
+      "home": "04_bias_confounding_causality/README.md"
+    },
+    "04_bias_confounding_causality/solutions.md": {
+      "previous": "04_bias_confounding_causality/exercises/04_exercises.md",
+      "next": "solutions/04_bias_confounding_causality/README.md",
+      "home": "04_bias_confounding_causality/README.md"
+    },
+    "04_bias_confounding_causality/lessons/01_error_bias.md": {
+      "previous": "04_bias_confounding_causality/README.md",
+      "next": "04_bias_confounding_causality/lessons/02_confounding_effect_modification.md",
+      "home": "04_bias_confounding_causality/README.md"
+    },
+    "04_bias_confounding_causality/lessons/02_confounding_effect_modification.md": {
+      "previous": "04_bias_confounding_causality/lessons/01_error_bias.md",
+      "next": "04_bias_confounding_causality/lessons/03_dags_target_estimand.md",
+      "home": "04_bias_confounding_causality/README.md"
+    },
+    "04_bias_confounding_causality/lessons/03_dags_target_estimand.md": {
+      "previous": "04_bias_confounding_causality/lessons/02_confounding_effect_modification.md",
+      "next": "04_bias_confounding_causality/lessons/04_validity_transportability.md",
+      "home": "04_bias_confounding_causality/README.md"
+    },
+    "04_bias_confounding_causality/lessons/04_validity_transportability.md": {
+      "previous": "04_bias_confounding_causality/lessons/03_dags_target_estimand.md",
+      "next": "04_bias_confounding_causality/exercises/01_exercises.md",
+      "home": "04_bias_confounding_causality/README.md"
+    },
+    "04_bias_confounding_causality/exercises/01_exercises.md": {
+      "previous": "04_bias_confounding_causality/lessons/04_validity_transportability.md",
+      "next": "04_bias_confounding_causality/exercises/02_exercises.md",
+      "home": "04_bias_confounding_causality/README.md"
+    },
+    "04_bias_confounding_causality/exercises/02_exercises.md": {
+      "previous": "04_bias_confounding_causality/exercises/01_exercises.md",
+      "next": "04_bias_confounding_causality/exercises/03_exercises.md",
+      "home": "04_bias_confounding_causality/README.md"
+    },
+    "04_bias_confounding_causality/exercises/03_exercises.md": {
+      "previous": "04_bias_confounding_causality/exercises/02_exercises.md",
+      "next": "04_bias_confounding_causality/exercises/04_exercises.md",
+      "home": "04_bias_confounding_causality/README.md"
+    },
+    "04_bias_confounding_causality/exercises/04_exercises.md": {
+      "previous": "04_bias_confounding_causality/exercises/03_exercises.md",
+      "next": "solutions/04_bias_confounding_causality/README.md",
+      "home": "04_bias_confounding_causality/README.md"
+    },
+    "solutions/04_bias_confounding_causality/README.md": {
+      "previous": "04_bias_confounding_causality/exercises/04_exercises.md",
+      "next": "solutions/04_bias_confounding_causality/01_solutions.md",
+      "home": "04_bias_confounding_causality/README.md"
+    },
+    "solutions/04_bias_confounding_causality/01_solutions.md": {
+      "previous": "solutions/04_bias_confounding_causality/README.md",
+      "next": "solutions/04_bias_confounding_causality/02_solutions.md",
+      "home": "04_bias_confounding_causality/README.md"
+    },
+    "solutions/04_bias_confounding_causality/02_solutions.md": {
+      "previous": "solutions/04_bias_confounding_causality/01_solutions.md",
+      "next": "solutions/04_bias_confounding_causality/03_solutions.md",
+      "home": "04_bias_confounding_causality/README.md"
+    },
+    "solutions/04_bias_confounding_causality/03_solutions.md": {
+      "previous": "solutions/04_bias_confounding_causality/02_solutions.md",
+      "next": "solutions/04_bias_confounding_causality/04_solutions.md",
+      "home": "04_bias_confounding_causality/README.md"
+    },
+    "solutions/04_bias_confounding_causality/04_solutions.md": {
+      "previous": "solutions/04_bias_confounding_causality/03_solutions.md",
+      "next": "04_bias_confounding_causality/resources/glossary.md",
+      "home": "04_bias_confounding_causality/README.md"
+    },
+    "04_bias_confounding_causality/resources/glossary.md": {
+      "previous": "solutions/04_bias_confounding_causality/04_solutions.md",
+      "next": "04_bias_confounding_causality/resources/references.md",
+      "home": "04_bias_confounding_causality/README.md"
+    },
+    "04_bias_confounding_causality/resources/references.md": {
+      "previous": "04_bias_confounding_causality/resources/glossary.md",
+      "next": "04_bias_confounding_causality/resources/videos.md",
+      "home": "04_bias_confounding_causality/README.md"
+    },
+    "04_bias_confounding_causality/resources/videos.md": {
+      "previous": "04_bias_confounding_causality/resources/references.md",
+      "next": "curriculum/README.md",
+      "home": "04_bias_confounding_causality/README.md"
     }
   }
 }

@@ -1,0 +1,204 @@
+{
+  "module": "M04",
+  "version": 1,
+  "date": "2026-11-27",
+  "lessons": [
+    {
+      "id": "M04-L01",
+      "title": "خطای تصادفی و سوگیری",
+      "path": "04_bias_confounding_causality/lessons/01_error_bias.md",
+      "exercises_path": "04_bias_confounding_causality/exercises/01_exercises.md",
+      "solutions_path": "solutions/04_bias_confounding_causality/01_solutions.md",
+      "exercise_ids": [
+        "M04-L01-B01",
+        "M04-L01-I01",
+        "M04-L01-A01"
+      ],
+      "levels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "references": [
+        "SELECTION_HERNAN",
+        "COCHRANE_ROB",
+        "STROBE",
+        "MODERN_EPI"
+      ],
+      "videos": [
+        "YT_RANDOM",
+        "YT_EXPERIMENT"
+      ],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "supplementary_video_ids": [],
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      },
+      "teaching_revision": "2026-11-27",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "04_bias_confounding_causality/README.md",
+        "next": "04_bias_confounding_causality/lessons/02_confounding_effect_modification.md"
+      }
+    },
+    {
+      "id": "M04-L02",
+      "title": "مخدوش‌گری و تغییر اثر",
+      "path": "04_bias_confounding_causality/lessons/02_confounding_effect_modification.md",
+      "exercises_path": "04_bias_confounding_causality/exercises/02_exercises.md",
+      "solutions_path": "solutions/04_bias_confounding_causality/02_solutions.md",
+      "exercise_ids": [
+        "M04-L02-B01",
+        "M04-L02-I01",
+        "M04-L02-A01"
+      ],
+      "levels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "references": [
+        "HERNAN_WHATIF",
+        "GREENLAND_DAG",
+        "E_VALUE",
+        "MODERN_EPI"
+      ],
+      "videos": [
+        "YT_FRAMEWORK",
+        "YT_EXPERIMENT"
+      ],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "supplementary_video_ids": [],
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      },
+      "teaching_revision": "2026-11-27",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "04_bias_confounding_causality/lessons/01_error_bias.md",
+        "next": "04_bias_confounding_causality/lessons/03_dags_target_estimand.md"
+      }
+    },
+    {
+      "id": "M04-L03",
+      "title": "نمودار علّی و برآورد هدف",
+      "path": "04_bias_confounding_causality/lessons/03_dags_target_estimand.md",
+      "exercises_path": "04_bias_confounding_causality/exercises/03_exercises.md",
+      "solutions_path": "solutions/04_bias_confounding_causality/03_solutions.md",
+      "exercise_ids": [
+        "M04-L03-B01",
+        "M04-L03-I01",
+        "M04-L03-A01"
+      ],
+      "levels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "references": [
+        "HERNAN_WHATIF",
+        "GREENLAND_DAG",
+        "TARGET_TRIAL",
+        "TEXTOR_DAG",
+        "DAGITTY"
+      ],
+      "videos": [
+        "YT_FRAMEWORK",
+        "YT_QUESTION"
+      ],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "supplementary_video_ids": [],
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      },
+      "teaching_revision": "2026-11-27",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "04_bias_confounding_causality/lessons/02_confounding_effect_modification.md",
+        "next": "04_bias_confounding_causality/lessons/04_validity_transportability.md"
+      }
+    },
+    {
+      "id": "M04-L04",
+      "title": "روایی و انتقال‌پذیری",
+      "path": "04_bias_confounding_causality/lessons/04_validity_transportability.md",
+      "exercises_path": "04_bias_confounding_causality/exercises/04_exercises.md",
+      "solutions_path": "solutions/04_bias_confounding_causality/04_solutions.md",
+      "exercise_ids": [
+        "M04-L04-B01",
+        "M04-L04-I01",
+        "M04-L04-A01"
+      ],
+      "levels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "references": [
+        "SHADISH",
+        "HERNAN_WHATIF",
+        "E_VALUE",
+        "STUART_GENERALIZABILITY"
+      ],
+      "videos": [
+        "YT_REPRO",
+        "YT_RANDOM"
+      ],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "supplementary_video_ids": [],
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
+      },
+      "teaching_revision": "2026-11-27",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "04_bias_confounding_causality/lessons/03_dags_target_estimand.md",
+        "next": "04_bias_confounding_causality/exercises/01_exercises.md"
+      }
+    }
+  ]
+}
