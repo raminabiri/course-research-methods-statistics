@@ -1845,24 +1845,23 @@
       },
       "exercise_ids": {
         "beginner": [
-          "M08-L01-B01",
-          "M08-L01-B02",
-          "M08-L01-B03"
+          "M08-L01-B01"
         ],
         "intermediate": [
-          "M08-L01-I01",
-          "M08-L01-I02",
-          "M08-L01-I03"
+          "M08-L01-I01"
         ],
         "advanced": [
-          "M08-L01-A01",
-          "M08-L01-A02",
-          "M08-L01-A03"
+          "M08-L01-A01"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "previous outline archived; current self-study lesson replaces it",
+      "source_review": "documented_partial_verification",
+      "human_scientific_review": "pending",
+      "teaching_revision": "2026-11-27",
+      "path": "08_data_management_analysis/lessons/01_data_dictionary_forms.md",
+      "exercises_path": "08_data_management_analysis/exercises/01_exercises.md",
+      "solutions_path": "solutions/08_data_management_analysis/01_solutions.md",
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
@@ -1870,7 +1869,8 @@
           "fa",
           "en"
         ]
-      }
+      },
+      "navigation_required": true
     },
     {
       "id": "M08-L02",
@@ -1889,24 +1889,23 @@
       },
       "exercise_ids": {
         "beginner": [
-          "M08-L02-B01",
-          "M08-L02-B02",
-          "M08-L02-B03"
+          "M08-L02-B01"
         ],
         "intermediate": [
-          "M08-L02-I01",
-          "M08-L02-I02",
-          "M08-L02-I03"
+          "M08-L02-I01"
         ],
         "advanced": [
-          "M08-L02-A01",
-          "M08-L02-A02",
-          "M08-L02-A03"
+          "M08-L02-A01"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "previous outline archived; current self-study lesson replaces it",
+      "source_review": "documented_partial_verification",
+      "human_scientific_review": "pending",
+      "teaching_revision": "2026-11-27",
+      "path": "08_data_management_analysis/lessons/02_cleaning_missing_quality.md",
+      "exercises_path": "08_data_management_analysis/exercises/02_exercises.md",
+      "solutions_path": "solutions/08_data_management_analysis/02_solutions.md",
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
@@ -1914,7 +1913,8 @@
           "fa",
           "en"
         ]
-      }
+      },
+      "navigation_required": true
     },
     {
       "id": "M08-L03",
@@ -1933,24 +1933,23 @@
       },
       "exercise_ids": {
         "beginner": [
-          "M08-L03-B01",
-          "M08-L03-B02",
-          "M08-L03-B03"
+          "M08-L03-B01"
         ],
         "intermediate": [
-          "M08-L03-I01",
-          "M08-L03-I02",
-          "M08-L03-I03"
+          "M08-L03-I01"
         ],
         "advanced": [
-          "M08-L03-A01",
-          "M08-L03-A02",
-          "M08-L03-A03"
+          "M08-L03-A01"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "previous outline archived; current self-study lesson replaces it",
+      "source_review": "documented_partial_verification",
+      "human_scientific_review": "pending",
+      "teaching_revision": "2026-11-27",
+      "path": "08_data_management_analysis/lessons/03_analysis_plan.md",
+      "exercises_path": "08_data_management_analysis/exercises/03_exercises.md",
+      "solutions_path": "solutions/08_data_management_analysis/03_solutions.md",
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
@@ -1958,7 +1957,8 @@
           "fa",
           "en"
         ]
-      }
+      },
+      "navigation_required": true
     },
     {
       "id": "M08-L04",
@@ -1977,24 +1977,23 @@
       },
       "exercise_ids": {
         "beginner": [
-          "M08-L04-B01",
-          "M08-L04-B02",
-          "M08-L04-B03"
+          "M08-L04-B01"
         ],
         "intermediate": [
-          "M08-L04-I01",
-          "M08-L04-I02",
-          "M08-L04-I03"
+          "M08-L04-I01"
         ],
         "advanced": [
-          "M08-L04-A01",
-          "M08-L04-A02",
-          "M08-L04-A03"
+          "M08-L04-A01"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "previous outline archived; current self-study lesson replaces it",
+      "source_review": "documented_partial_verification",
+      "human_scientific_review": "pending",
+      "teaching_revision": "2026-11-27",
+      "path": "08_data_management_analysis/lessons/04_reading_statistical_output.md",
+      "exercises_path": "08_data_management_analysis/exercises/04_exercises.md",
+      "solutions_path": "solutions/08_data_management_analysis/04_solutions.md",
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
@@ -2002,7 +2001,8 @@
           "fa",
           "en"
         ]
-      }
+      },
+      "navigation_required": true
     },
     {
       "id": "M08-L05",
@@ -2021,24 +2021,23 @@
       },
       "exercise_ids": {
         "beginner": [
-          "M08-L05-B01",
-          "M08-L05-B02",
-          "M08-L05-B03"
+          "M08-L05-B01"
         ],
         "intermediate": [
-          "M08-L05-I01",
-          "M08-L05-I02",
-          "M08-L05-I03"
+          "M08-L05-I01"
         ],
         "advanced": [
-          "M08-L05-A01",
-          "M08-L05-A02",
-          "M08-L05-A03"
+          "M08-L05-A01"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "previous outline archived; current self-study lesson replaces it",
+      "source_review": "documented_partial_verification",
+      "human_scientific_review": "pending",
+      "teaching_revision": "2026-11-27",
+      "path": "08_data_management_analysis/lessons/05_qualitative_biological_data.md",
+      "exercises_path": "08_data_management_analysis/exercises/05_exercises.md",
+      "solutions_path": "solutions/08_data_management_analysis/05_solutions.md",
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
@@ -2046,7 +2045,8 @@
           "fa",
           "en"
         ]
-      }
+      },
+      "navigation_required": true
     },
     {
       "id": "M09-L01",

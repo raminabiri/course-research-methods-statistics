@@ -1,0 +1,152 @@
+{
+  "module": "M08",
+  "version": 1,
+  "date": "2026-11-27",
+  "lessons": [
+    {
+      "id": "M08-L01",
+      "title": "فرهنگ داده و طراحی فرم",
+      "path": "08_data_management_analysis/lessons/01_data_dictionary_forms.md",
+      "exercises_path": "08_data_management_analysis/exercises/01_exercises.md",
+      "solutions_path": "solutions/08_data_management_analysis/01_solutions.md",
+      "exercise_ids": ["M08-L01-B01", "M08-L01-I01", "M08-L01-A01"],
+      "levels": ["beginner", "intermediate", "advanced"],
+      "references": ["WICKHAM2014", "REDCAP2009", "NIH_DMS"],
+      "videos": ["REDCAP_NIHR", "REDCAP_UA"],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": ["fa", "en"]
+      },
+      "teaching_revision": "2026-11-27",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "08_data_management_analysis/README.md",
+        "next": "08_data_management_analysis/lessons/02_cleaning_missing_quality.md"
+      }
+    },
+    {
+      "id": "M08-L02",
+      "title": "پاک‌سازی، دادهٔ گمشده و کیفیت",
+      "path": "08_data_management_analysis/lessons/02_cleaning_missing_quality.md",
+      "exercises_path": "08_data_management_analysis/exercises/02_exercises.md",
+      "solutions_path": "solutions/08_data_management_analysis/02_solutions.md",
+      "exercise_ids": ["M08-L02-B01", "M08-L02-I01", "M08-L02-A01"],
+      "levels": ["beginner", "intermediate", "advanced"],
+      "references": ["RUBIN1976", "STERNE2009", "WHITE2011"],
+      "videos": ["MISSING_STATS_MIA", "MISSING_RITVIK"],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": ["fa", "en"]
+      },
+      "teaching_revision": "2026-11-27",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "08_data_management_analysis/lessons/01_data_dictionary_forms.md",
+        "next": "08_data_management_analysis/lessons/03_analysis_plan.md"
+      }
+    },
+    {
+      "id": "M08-L03",
+      "title": "برنامهٔ تحلیل پیش از اجرا",
+      "path": "08_data_management_analysis/lessons/03_analysis_plan.md",
+      "exercises_path": "08_data_management_analysis/exercises/03_exercises.md",
+      "solutions_path": "solutions/08_data_management_analysis/03_solutions.md",
+      "exercise_ids": ["M08-L03-B01", "M08-L03-I01", "M08-L03-A01"],
+      "levels": ["beginner", "intermediate", "advanced"],
+      "references": ["GAMBLE2017", "ICH_E9R1", "SPIRIT2013"],
+      "videos": ["ANALYSIS_OXFORD", "ANALYSIS_UTAH"],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": ["fa", "en"]
+      },
+      "teaching_revision": "2026-11-27",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "08_data_management_analysis/lessons/02_cleaning_missing_quality.md",
+        "next": "08_data_management_analysis/lessons/04_reading_statistical_output.md"
+      }
+    },
+    {
+      "id": "M08-L04",
+      "title": "خواندن خروجی آماری",
+      "path": "08_data_management_analysis/lessons/04_reading_statistical_output.md",
+      "exercises_path": "08_data_management_analysis/exercises/04_exercises.md",
+      "solutions_path": "solutions/08_data_management_analysis/04_solutions.md",
+      "exercise_ids": ["M08-L04-B01", "M08-L04-I01", "M08-L04-A01"],
+      "levels": ["beginner", "intermediate", "advanced"],
+      "references": ["ASA2016", "GREENLAND2016", "GARDNER1986"],
+      "videos": ["PVALUES_STATQUEST", "PVALUES_CI_REGE"],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": ["fa", "en"]
+      },
+      "teaching_revision": "2026-11-27",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "08_data_management_analysis/lessons/03_analysis_plan.md",
+        "next": "08_data_management_analysis/lessons/05_qualitative_biological_data.md"
+      }
+    },
+    {
+      "id": "M08-L05",
+      "title": "مدیریت دادهٔ کیفی و زیستی",
+      "path": "08_data_management_analysis/lessons/05_qualitative_biological_data.md",
+      "exercises_path": "08_data_management_analysis/exercises/05_exercises.md",
+      "solutions_path": "solutions/08_data_management_analysis/05_solutions.md",
+      "exercise_ids": ["M08-L05-B01", "M08-L05-I01", "M08-L05-A01"],
+      "levels": ["beginner", "intermediate", "advanced"],
+      "references": ["BRAUN_CLARKE2006", "COREQ2007", "MIQE2009", "FAIR2016"],
+      "videos": ["THEMATIC_CLARKE", "MIQE_THERMO"],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "resource_requirements": {
+        "min_references": 3,
+        "min_direct_youtube_videos": 2,
+        "allowed_languages": ["fa", "en"]
+      },
+      "teaching_revision": "2026-11-27",
+      "pedagogy": {
+        "plain_language_before_technical_term": true,
+        "worked_walkthrough": true,
+        "formative_feedback": true,
+        "reading_route": true
+      },
+      "navigation": {
+        "previous": "08_data_management_analysis/lessons/04_reading_statistical_output.md",
+        "next": "08_data_management_analysis/exercises/01_exercises.md"
+      }
+    }
+  ]
+}

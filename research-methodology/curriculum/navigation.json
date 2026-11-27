@@ -1009,8 +1009,123 @@
     },
     "07_sample_size_power/code/README.md": {
       "previous": "07_sample_size_power/resources/videos.md",
-      "next": "curriculum/README.md",
+      "next": "08_data_management_analysis/README.md",
       "home": "07_sample_size_power/README.md"
+    },
+    "08_data_management_analysis/README.md": {
+      "previous": "07_sample_size_power/README.md",
+      "next": "08_data_management_analysis/lessons/01_data_dictionary_forms.md",
+      "home": "08_data_management_analysis/README.md"
+    },
+    "08_data_management_analysis/lessons/01_data_dictionary_forms.md": {
+      "previous": "08_data_management_analysis/README.md",
+      "next": "08_data_management_analysis/lessons/02_cleaning_missing_quality.md",
+      "home": "08_data_management_analysis/README.md"
+    },
+    "08_data_management_analysis/lessons/02_cleaning_missing_quality.md": {
+      "previous": "08_data_management_analysis/lessons/01_data_dictionary_forms.md",
+      "next": "08_data_management_analysis/lessons/03_analysis_plan.md",
+      "home": "08_data_management_analysis/README.md"
+    },
+    "08_data_management_analysis/lessons/03_analysis_plan.md": {
+      "previous": "08_data_management_analysis/lessons/02_cleaning_missing_quality.md",
+      "next": "08_data_management_analysis/lessons/04_reading_statistical_output.md",
+      "home": "08_data_management_analysis/README.md"
+    },
+    "08_data_management_analysis/lessons/04_reading_statistical_output.md": {
+      "previous": "08_data_management_analysis/lessons/03_analysis_plan.md",
+      "next": "08_data_management_analysis/lessons/05_qualitative_biological_data.md",
+      "home": "08_data_management_analysis/README.md"
+    },
+    "08_data_management_analysis/lessons/05_qualitative_biological_data.md": {
+      "previous": "08_data_management_analysis/lessons/04_reading_statistical_output.md",
+      "next": "08_data_management_analysis/exercises/01_exercises.md",
+      "home": "08_data_management_analysis/README.md"
+    },
+    "08_data_management_analysis/exercises/01_exercises.md": {
+      "previous": "08_data_management_analysis/lessons/05_qualitative_biological_data.md",
+      "next": "08_data_management_analysis/exercises/02_exercises.md",
+      "home": "08_data_management_analysis/README.md"
+    },
+    "08_data_management_analysis/exercises/02_exercises.md": {
+      "previous": "08_data_management_analysis/exercises/01_exercises.md",
+      "next": "08_data_management_analysis/exercises/03_exercises.md",
+      "home": "08_data_management_analysis/README.md"
+    },
+    "08_data_management_analysis/exercises/03_exercises.md": {
+      "previous": "08_data_management_analysis/exercises/02_exercises.md",
+      "next": "08_data_management_analysis/exercises/04_exercises.md",
+      "home": "08_data_management_analysis/README.md"
+    },
+    "08_data_management_analysis/exercises/04_exercises.md": {
+      "previous": "08_data_management_analysis/exercises/03_exercises.md",
+      "next": "08_data_management_analysis/exercises/05_exercises.md",
+      "home": "08_data_management_analysis/README.md"
+    },
+    "08_data_management_analysis/exercises/05_exercises.md": {
+      "previous": "08_data_management_analysis/exercises/04_exercises.md",
+      "next": "solutions/08_data_management_analysis/README.md",
+      "home": "08_data_management_analysis/README.md"
+    },
+    "solutions/08_data_management_analysis/README.md": {
+      "previous": "08_data_management_analysis/exercises/05_exercises.md",
+      "next": "solutions/08_data_management_analysis/01_solutions.md",
+      "home": "08_data_management_analysis/README.md"
+    },
+    "solutions/08_data_management_analysis/01_solutions.md": {
+      "previous": "solutions/08_data_management_analysis/README.md",
+      "next": "solutions/08_data_management_analysis/02_solutions.md",
+      "home": "08_data_management_analysis/README.md"
+    },
+    "solutions/08_data_management_analysis/02_solutions.md": {
+      "previous": "solutions/08_data_management_analysis/01_solutions.md",
+      "next": "solutions/08_data_management_analysis/03_solutions.md",
+      "home": "08_data_management_analysis/README.md"
+    },
+    "solutions/08_data_management_analysis/03_solutions.md": {
+      "previous": "solutions/08_data_management_analysis/02_solutions.md",
+      "next": "solutions/08_data_management_analysis/04_solutions.md",
+      "home": "08_data_management_analysis/README.md"
+    },
+    "solutions/08_data_management_analysis/04_solutions.md": {
+      "previous": "solutions/08_data_management_analysis/03_solutions.md",
+      "next": "solutions/08_data_management_analysis/05_solutions.md",
+      "home": "08_data_management_analysis/README.md"
+    },
+    "solutions/08_data_management_analysis/05_solutions.md": {
+      "previous": "solutions/08_data_management_analysis/04_solutions.md",
+      "next": "08_data_management_analysis/resources/README.md",
+      "home": "08_data_management_analysis/README.md"
+    },
+    "08_data_management_analysis/resources/README.md": {
+      "previous": "solutions/08_data_management_analysis/05_solutions.md",
+      "next": "08_data_management_analysis/resources/glossary.md",
+      "home": "08_data_management_analysis/README.md"
+    },
+    "08_data_management_analysis/resources/glossary.md": {
+      "previous": "08_data_management_analysis/resources/README.md",
+      "next": "08_data_management_analysis/resources/references.md",
+      "home": "08_data_management_analysis/README.md"
+    },
+    "08_data_management_analysis/resources/references.md": {
+      "previous": "08_data_management_analysis/resources/glossary.md",
+      "next": "08_data_management_analysis/resources/videos.md",
+      "home": "08_data_management_analysis/README.md"
+    },
+    "08_data_management_analysis/resources/videos.md": {
+      "previous": "08_data_management_analysis/resources/references.md",
+      "next": "08_data_management_analysis/code/README.md",
+      "home": "08_data_management_analysis/README.md"
+    },
+    "08_data_management_analysis/code/README.md": {
+      "previous": "08_data_management_analysis/resources/videos.md",
+      "next": "08_data_management_analysis/data/README.md",
+      "home": "08_data_management_analysis/README.md"
+    },
+    "08_data_management_analysis/data/README.md": {
+      "previous": "08_data_management_analysis/code/README.md",
+      "next": "curriculum/README.md",
+      "home": "08_data_management_analysis/README.md"
     }
   }
 }

@@ -1,0 +1,223 @@
+{
+  "checked_on": "2026-11-27",
+  "references": {
+    "WICKHAM2014": {
+      "title": "Wickham H. Tidy Data. Journal of Statistical Software. 2014;59(10).",
+      "url": "https://doi.org/10.18637/jss.v059.i10",
+      "description": "ساختاردهی داده برای تحلیل",
+      "verification": "عنوان و DOI با Crossref بررسی شد؛ متن کامل مقاله ممیزی نشده است"
+    },
+    "REDCAP2009": {
+      "title": "Harris PA, et al. Research electronic data capture (REDCap). Journal of Biomedical Informatics. 2009;42(2):377–381.",
+      "url": "https://doi.org/10.1016/j.jbi.2008.08.010",
+      "description": "گردآوری و مدیریت دادهٔ پژوهشی",
+      "verification": "عنوان، سال و DOI با Crossref بررسی شد"
+    },
+    "NIH_DMS": {
+      "title": "NIH Data Management and Sharing Policy",
+      "url": "https://sharing.nih.gov/data-management-and-sharing-policy",
+      "description": "سیاست مدیریت و اشتراک‌گذاری داده",
+      "verification": "پیوند رسمی NIH؛ دسترسی خودکار به صفحه در این محیط محدود بود و الزامات سازمانی و حوزه‌ای را پوشش نمی‌دهد"
+    },
+    "RUBIN1976": {
+      "title": "Rubin DB. Inference and missing data. Biometrika. 1976;63(3):581–592.",
+      "url": "https://doi.org/10.1093/biomet/63.3.581",
+      "description": "چارچوب سازوکار دادهٔ گمشده",
+      "verification": "عنوان، سال و DOI با Crossref بررسی شد"
+    },
+    "STERNE2009": {
+      "title": "Sterne JAC, et al. Multiple imputation for missing data in epidemiological and clinical research: potential and pitfalls. BMJ. 2009;338:b2393.",
+      "url": "https://doi.org/10.1136/bmj.b2393",
+      "description": "کاربرد و محدودیت جایگذاری چندگانه",
+      "verification": "عنوان، سال و DOI با Crossref بررسی شد"
+    },
+    "WHITE2011": {
+      "title": "White IR, Royston P, Wood AM. Multiple imputation using chained equations: Issues and guidance for practice. Statistics in Medicine. 2011;30:377–399.",
+      "url": "https://doi.org/10.1002/sim.4067",
+      "description": "راهنمای جایگذاری زنجیره‌ای",
+      "verification": "عنوان، سال و DOI با Crossref بررسی شد"
+    },
+    "GAMBLE2017": {
+      "title": "Gamble C, et al. Guidelines for the Content of Statistical Analysis Plans in Clinical Trials. JAMA. 2017;318(23):2337–2343.",
+      "url": "https://doi.org/10.1001/jama.2017.18556",
+      "description": "محتوای برنامهٔ تحلیل کارآزمایی",
+      "verification": "عنوان، سال و DOI با Crossref بررسی شد"
+    },
+    "ICH_E9R1": {
+      "title": "ICH E9(R1): Addendum on Estimands and Sensitivity Analysis in Clinical Trials",
+      "url": "https://database.ich.org/sites/default/files/E9-R1_Step4_Guideline_2019_1203.pdf",
+      "description": "برآورد هدف و تحلیل حساسیت",
+      "verification": "پیوند رسمی ICH؛ پاسخ HTTP 200 و نوع فایل PDF بررسی شد"
+    },
+    "SPIRIT2013": {
+      "title": "Chan AW, et al. SPIRIT 2013 explanation and elaboration: guidance for protocols of clinical trials. BMJ. 2013;346:e7586.",
+      "url": "https://doi.org/10.1136/bmj.e7586",
+      "description": "گزارش پروتکل کارآزمایی",
+      "verification": "عنوان، سال و DOI با Crossref بررسی شد"
+    },
+    "ASA2016": {
+      "title": "Wasserstein RL, Lazar NA. The ASA's Statement on p-Values: Context, Process, and Purpose. The American Statistician. 2016;70(2):129–133.",
+      "url": "https://doi.org/10.1080/00031305.2016.1154108",
+      "description": "تفسیر مسئولانهٔ مقدار p",
+      "verification": "عنوان، سال و DOI با Crossref بررسی شد"
+    },
+    "GREENLAND2016": {
+      "title": "Greenland S, et al. Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations. European Journal of Epidemiology. 2016;31:337–350.",
+      "url": "https://doi.org/10.1007/s10654-016-0149-3",
+      "description": "سوءبرداشت از خروجی آماری",
+      "verification": "عنوان، سال و DOI با Crossref بررسی شد"
+    },
+    "GARDNER1986": {
+      "title": "Gardner MJ, Altman DG. Confidence intervals rather than P values: estimation rather than hypothesis testing. BMJ. 1986;292:746–750.",
+      "url": "https://doi.org/10.1136/bmj.292.6522.746",
+      "description": "گزارش برآورد و دقت",
+      "verification": "عنوان، سال و DOI با Crossref بررسی شد"
+    },
+    "BRAUN_CLARKE2006": {
+      "title": "Braun V, Clarke V. Using thematic analysis in psychology. Qualitative Research in Psychology. 2006;3(2):77–101.",
+      "url": "https://doi.org/10.1191/1478088706qp063oa",
+      "description": "مبانی تحلیل مضمون",
+      "verification": "عنوان، سال و DOI با Crossref بررسی شد"
+    },
+    "COREQ2007": {
+      "title": "Tong A, Sainsbury P, Craig J. Consolidated criteria for reporting qualitative research (COREQ). International Journal for Quality in Health Care. 2007;19(6):349–357.",
+      "url": "https://doi.org/10.1093/intqhc/mzm042",
+      "description": "راهنمای گزارش مصاحبه و گروه کانونی",
+      "verification": "عنوان، سال و DOI با Crossref بررسی شد"
+    },
+    "MIQE2009": {
+      "title": "Bustin SA, et al. The MIQE guidelines: minimum information for publication of quantitative real-time PCR experiments. Clinical Chemistry. 2009;55(4):611–622.",
+      "url": "https://doi.org/10.1373/clinchem.2008.112797",
+      "description": "راهنمای گزارش آزمایش RT-qPCR",
+      "verification": "عنوان، سال و DOI با Crossref بررسی شد"
+    },
+    "FAIR2016": {
+      "title": "Wilkinson MD, et al. The FAIR Guiding Principles for scientific data management and stewardship. Scientific Data. 2016;3:160018.",
+      "url": "https://doi.org/10.1038/sdata.2016.18",
+      "description": "اصول مدیریت دادهٔ علمی",
+      "verification": "عنوان، سال و DOI با Crossref بررسی شد"
+    }
+  },
+  "videos": {
+    "REDCAP_NIHR": {
+      "title": "Guide on how to input data into REDCap",
+      "provider": "NIHR Global Health Research Unit on Global Surgery",
+      "url": "https://www.youtube.com/watch?v=tVd_VH3sdnM",
+      "topic": "ورود داده در REDCap",
+      "level": "مقدماتی",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و ناشر از فرادادهٔ YouTube بررسی شد؛ پخش آزموده نشد"
+    },
+    "REDCAP_UA": {
+      "title": "REDCap Training Series - REDCap Beginner Course",
+      "provider": "UA CB2: REDCap",
+      "url": "https://www.youtube.com/watch?v=PL7VjUB_-8g",
+      "topic": "ساخت فرم و گردش کار REDCap",
+      "level": "مقدماتی",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و کانال از فرادادهٔ YouTube بررسی شد؛ پخش آزموده نشد"
+    },
+    "MISSING_STATS_MIA": {
+      "title": "Missing Data Assumptions (MCAR, MAR, MNAR)",
+      "provider": "Stats with Mia",
+      "url": "https://www.youtube.com/watch?v=YpqUbirqFxQ",
+      "topic": "فرض‌های دادهٔ گمشده",
+      "level": "مقدماتی",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و کانال از فرادادهٔ YouTube بررسی شد؛ پخش آزموده نشد"
+    },
+    "MISSING_RITVIK": {
+      "title": "Missing Data Mechanisms",
+      "provider": "ritvikmath",
+      "url": "https://www.youtube.com/watch?v=XnnA9z7lv4Q",
+      "topic": "سازوکارهای دادهٔ گمشده",
+      "level": "مقدماتی",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و کانال از فرادادهٔ YouTube بررسی شد؛ پخش آزموده نشد"
+    },
+    "ANALYSIS_OXFORD": {
+      "title": "NIHR Oxford BRC Statistics Hub Seminar: Statistics for Clinical Trials - Good Practice",
+      "provider": "Oxford BRC",
+      "url": "https://www.youtube.com/watch?v=DSqdltzzgFE",
+      "topic": "روش‌های آماری در کارآزمایی بالینی",
+      "level": "متوسط",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و کانال از فرادادهٔ YouTube بررسی شد؛ پخش آزموده نشد"
+    },
+    "ANALYSIS_UTAH": {
+      "title": "Statistical Analysis Plans video",
+      "provider": "Utah Center for Clinical & Translational Science",
+      "url": "https://www.youtube.com/watch?v=r_LyFkKku9o",
+      "topic": "برنامهٔ تحلیل آماری",
+      "level": "مقدماتی",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و کانال از فرادادهٔ YouTube بررسی شد؛ پخش آزموده نشد"
+    },
+    "PVALUES_STATQUEST": {
+      "title": "p-values: What they are and how to interpret them",
+      "provider": "StatQuest with Josh Starmer",
+      "url": "https://www.youtube.com/watch?v=vemZtEM63GY",
+      "topic": "تفسیر مقدار p",
+      "level": "مقدماتی",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و سازنده از فرادادهٔ YouTube بررسی شد؛ پخش آزموده نشد"
+    },
+    "PVALUES_CI_REGE": {
+      "title": "P values and Confidence Intervals in less than 4 minutes",
+      "provider": "Dr. Rege",
+      "url": "https://www.youtube.com/watch?v=0gMIL-s5kSU",
+      "topic": "مقدار p و فاصلهٔ اطمینان",
+      "level": "مقدماتی",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و کانال از فرادادهٔ YouTube بررسی شد؛ پخش آزموده نشد"
+    },
+    "THEMATIC_CLARKE": {
+      "title": "Thematic analysis - an introduction",
+      "provider": "Professor Victoria Clarke",
+      "url": "https://www.youtube.com/watch?v=5zFcC10vOVY",
+      "topic": "مقدمهٔ تحلیل مضمون",
+      "level": "مقدماتی",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و کانال از فرادادهٔ YouTube بررسی شد؛ پخش آزموده نشد"
+    },
+    "MIQE_THERMO": {
+      "title": "MIQE Guidelines and TaqMan Assays--Taq Talk Episode 28",
+      "provider": "Thermo Fisher Scientific",
+      "url": "https://www.youtube.com/watch?v=Bq_52XQ4EXA",
+      "topic": "گزارش آزمایش qPCR",
+      "level": "مقدماتی و متوسط",
+      "language": "English",
+      "platform": "YouTube",
+      "checked_on": "2026-11-27",
+      "playback_verified": false,
+      "verification": "عنوان و کانال از فرادادهٔ YouTube بررسی شد؛ پخش آزموده نشد"
+    }
+  }
+}

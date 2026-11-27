@@ -1,63 +1,60 @@
-* =============================================================.
-* فصل ۸ — پاک‌سازی، توصیف و تحلیل در SPSS (معادل analysis.R).
-* فقط مسیر FILE HANDLE را تغییر دهید.
-* =============================================================.
-FILE HANDLE datadir /NAME='C:/research_methods/data'.
-INSERT FILE='datadir/load_survey.sps'.
+* Educational example using the synthetic data file.
+* Run from the research-methodology directory or edit the path below.
 
-* ۱) کیفیت داده: گمشده‌ها، دامنه، تکراری‌ها.
-FREQUENCIES VARIABLES=q1 TO q10 /FORMAT=NOTABLE /STATISTICS=MINIMUM MAXIMUM.
-DESCRIPTIVES VARIABLES=age pre_score post_score /STATISTICS=MEAN STDDEV MIN MAX.
-COMPUTE miss_post = MISSING(post_score).
-CROSSTABS /TABLES=group BY miss_post.
-SORT CASES BY id.
-MATCH FILES /FILE=* /BY id /FIRST=first_id.
-FREQUENCIES first_id.
-EXAMINE VARIABLES=pre_score post_score BY group
-  /PLOT BOXPLOT HISTOGRAM NPPLOT /STATISTICS DESCRIPTIVES.
-
-* ۲) نمره مقیاس (بدون q10).
-COMPUTE scale = SUM(q1 TO q9).
+GET DATA
+  /TYPE=TXT
+  /FILE='08_data_management_analysis/data/synthetic_followup.csv'
+  /DELCASE=LINE
+  /DELIMITERS=","
+  /QUALIFIER='"'
+  /ARRANGEMENT=DELIMITED
+  /FIRSTCASE=2
+  /VARIABLES=
+    participant_id A8
+    site_id A3
+    group A12
+    age_years F3.0
+    sex A1
+    baseline_sbp_mmhg F8.1
+    week12_sbp_mmhg F8.1
+    adverse_event F1.0.
 EXECUTE.
 
-* ۳) جدول ۱ به تفکیک گروه.
-MEANS TABLES=age pre_score BY group /CELLS=MEAN STDDEV COUNT.
-CROSSTABS /TABLES=sex BY group /CELLS=COUNT COLUMN.
+VARIABLE LABELS
+  participant_id "Synthetic participant identifier"
+  site_id "Synthetic study site"
+  group "Synthetic assigned group"
+  age_years "Age in years"
+  baseline_sbp_mmhg "Baseline systolic pressure in mmHg"
+  week12_sbp_mmhg "Week-12 systolic pressure in mmHg"
+  adverse_event "Synthetic adverse event indicator".
 
-* ۴) t مستقل (خروجی Levene و Welch هر دو را می‌دهد) و من-ویتنی.
-T-TEST GROUPS=group('control' 'intervention') /VARIABLES=post_score /CRITERIA=CI(.95).
-NPAR TESTS /M-W=post_score BY group('control' 'intervention').
+VALUE LABELS group
+  "control" "Control"
+  "intervention" "Intervention".
+VALUE LABELS adverse_event
+  0 "No"
+  1 "Yes".
+EXECUTE.
 
-* ۵) ANCOVA: پس‌آزمون ~ گروه + پیش‌آزمون.
-UNIANOVA post_score BY group WITH pre_score
-  /METHOD=SSTYPE(3)
-  /EMMEANS=TABLES(group) WITH(pre_score=MEAN) COMPARE ADJ(SIDAK)
-  /PRINT=ETASQ PARAMETER
-  /DESIGN=pre_score group.
+FREQUENCIES VARIABLES=group site_id sex adverse_event.
+DESCRIPTIVES VARIABLES=age_years baseline_sbp_mmhg week12_sbp_mmhg
+  /STATISTICS=MEAN STDDEV MIN MAX.
 
-* ۶) t زوجی در گروه مداخله.
-TEMPORARY.
-SELECT IF group = 'intervention'.
-T-TEST PAIRS=pre_score WITH post_score (PAIRED).
+COMPUTE week12_missing = MISSING(week12_sbp_mmhg).
+COMPUTE group_intervention = (group = "intervention").
+EXECUTE.
 
-* ۷) کای‌اسکوئر، ANOVA با توکی، کروسکال-والیس.
-CROSSTABS /TABLES=region BY smoker /STATISTICS=CHISQ /CELLS=COUNT EXPECTED.
-AUTORECODE VARIABLES=region /INTO region_n.
-ONEWAY pre_score BY region_n /STATISTICS=DESCRIPTIVES HOMOGENEITY WELCH /POSTHOC=TUKEY.
-NPAR TESTS /K-W=pre_score BY region_n(1 5).
+* Missingness summaries describe the observed file; they do not prove a mechanism.
+CROSSTABS
+  /TABLES=group BY week12_missing
+  /CELLS=COUNT ROW.
 
-* ۸) همبستگی و رگرسیون.
-CORRELATIONS /VARIABLES=age pre_score.
-NONPAR CORR /VARIABLES=age scale /PRINT=SPEARMAN.
-REGRESSION /STATISTICS COEFF CI(95) R ANOVA COLLIN TOL
-  /DEPENDENT pre_score /METHOD=ENTER age sex
-  /RESIDUALS HISTOGRAM(ZRESID) NORMPROB(ZRESID).
-LOGISTIC REGRESSION VARIABLES disease /METHOD=ENTER smoker age sex /PRINT=CI(95).
+T-TEST GROUPS=group("control" "intervention")
+  /VARIABLES=week12_sbp_mmhg
+  /CRITERIA=CI(.95).
 
-* ۹) مدل آمیخته برای داده خوشه‌ای (دانش‌آموز درون مدرسه).
-MIXED post_score BY group WITH pre_score
-  /FIXED=group pre_score
-  /RANDOM=INTERCEPT | SUBJECT(school)
-  /PRINT=SOLUTION TESTCOV.
-
-* ۱۰) جانهی چندگانه: Analyze > Multiple Imputation (ماژول Missing Values).
+* Complete-case model for teaching only; justify assumptions before real use.
+REGRESSION
+  /DEPENDENT week12_sbp_mmhg
+  /METHOD=ENTER group_intervention baseline_sbp_mmhg age_years.

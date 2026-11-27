@@ -22,7 +22,7 @@ Rscript 07_sample_size_power/code/sample_size.R
 
 ---
 
-[صفحهٔ پیشین: فیلم‌های آموزشی](../resources/videos.md) · [فهرست](../README.md) · [صفحهٔ پسین: نقشهٔ دوره](../../curriculum/README.md)
+[صفحهٔ پیشین: فیلم‌های آموزشی](../resources/videos.md) · [فهرست](../README.md) · [صفحهٔ پسین: مدیریت داده و برنامهٔ تحلیل](../../08_data_management_analysis/README.md)
 
 <!-- COURSE_NAV_END -->
 
