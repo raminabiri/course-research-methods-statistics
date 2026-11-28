@@ -1,0 +1,97 @@
+{
+  "checked_on": "2026-11-28",
+  "references": {
+    "M12-L01-R1": {
+      "title": "NIH، یافتن فرصت، افراد تماس و مهلت‌ها",
+      "url": "https://www.grants.nih.gov/grants-process/plan-to-apply/find-your-opportunity-contacts-and-due-dates",
+      "language": "en",
+      "verification": "صفحه یا نمایهٔ رسمی در جست‌وجو بررسی شد"
+    },
+    "M12-L01-R2": {
+      "title": "NIH، خواندن بخش‌های فراخوان",
+      "url": "https://www.grants.nih.gov/grants-process/plan-to-apply/find-your-opportunity-contacts-and-due-dates/understand-funding-opportunities",
+      "language": "en",
+      "verification": "صفحه یا نمایهٔ رسمی در جست‌وجو بررسی شد"
+    },
+    "M12-L01-R3": {
+      "title": "NIH، سنجش ایده، منابع و همکاران",
+      "url": "https://grants.nih.gov/grants-process/plan-to-apply/consider-your-idea-resources-and-collaborators",
+      "language": "en",
+      "verification": "صفحه یا نمایهٔ رسمی در جست‌وجو بررسی شد"
+    },
+    "M12-L02-R1": {
+      "title": "NIH، راهنمای نگارش بخش‌های درخواست",
+      "url": "https://www.grants.nih.gov/grants-process/write-application/advice-on-application-sections",
+      "language": "en",
+      "verification": "صفحه یا نمایهٔ رسمی در جست‌وجو بررسی شد"
+    },
+    "M12-L02-R2": {
+      "title": "NIH، ساخت و توجیه بودجه",
+      "url": "https://www.grants.nih.gov/grants-process/write-application/advice-on-application-sections/develop-your-budget",
+      "language": "en",
+      "verification": "صفحه یا نمایهٔ رسمی در جست‌وجو بررسی شد"
+    },
+    "M12-L02-R3": {
+      "title": "NIH، پیش‌نیازهای برنامه‌ریزی درخواست",
+      "url": "https://www.grants.nih.gov/grants-process/plan-to-apply",
+      "language": "en",
+      "verification": "صفحه یا نمایهٔ رسمی در جست‌وجو بررسی شد"
+    },
+    "M12-L03-R1": {
+      "title": "NIH، مسیر پژوهشگر از درخواست تا مدیریت اعطا",
+      "url": "https://www.grants.nih.gov/new-to-nih/information-for/researchers",
+      "language": "en",
+      "verification": "صفحه یا نمایهٔ رسمی در جست‌وجو بررسی شد"
+    },
+    "M12-L03-R2": {
+      "title": "NIH، مرور چرخهٔ گرنت و گزارش‌ها",
+      "url": "https://grants.nih.gov/grants/grants-process-overview.pdf",
+      "language": "en",
+      "verification": "صفحه یا نمایهٔ رسمی در جست‌وجو بررسی شد"
+    },
+    "M12-L03-R3": {
+      "title": "NIDDK، ارسال و داوری درخواست",
+      "url": "https://www.niddk.nih.gov/research-funding/process/apply",
+      "language": "en",
+      "verification": "صفحه یا نمایهٔ رسمی در جست‌وجو بررسی شد"
+    }
+  },
+  "videos": {
+    "M12-L01-V1": {
+      "title": "NIH Funding، آشنایی با گرنت و یافتن فرصت",
+      "url": "https://www.youtube.com/watch?v=YWSB4Mjsk2M&t=869s",
+      "language": "en",
+      "verification": "عنوان و نشانی بررسی شد. پخش آزموده نشد."
+    },
+    "M12-L01-V2": {
+      "title": "NIH Funding، مراحل ارسال با ASSIST، گام نخست یافتن فرصت",
+      "url": "https://www.youtube.com/watch?v=Dx6ok21D044&t=55s",
+      "language": "en",
+      "verification": "عنوان و نشانی بررسی شد. پخش آزموده نشد."
+    },
+    "M12-L02-V1": {
+      "title": "NIH Funding، آشنایی با فرایند درخواست گرنت",
+      "url": "https://www.youtube.com/watch?v=YWSB4Mjsk2M",
+      "language": "en",
+      "verification": "عنوان و نشانی بررسی شد. پخش آزموده نشد."
+    },
+    "M12-L02-V2": {
+      "title": "NIH Funding، بخش‌های فرم و پیوست‌های درخواست در ASSIST",
+      "url": "https://www.youtube.com/watch?v=Dx6ok21D044",
+      "language": "en",
+      "verification": "عنوان و نشانی بررسی شد. پخش آزموده نشد."
+    },
+    "M12-L03-V1": {
+      "title": "NIH Funding، نمونهٔ جلسهٔ داوری",
+      "url": "https://www.youtube.com/watch?v=Vx6qO8z9swQ",
+      "language": "en",
+      "verification": "عنوان و نشانی بررسی شد. پخش آزموده نشد."
+    },
+    "M12-L03-V2": {
+      "title": "NIH Funding، مسیر پس از داوری تا اعطا",
+      "url": "https://www.youtube.com/watch?v=YWSB4Mjsk2M&t=1848s",
+      "language": "en",
+      "verification": "عنوان و نشانی بررسی شد. پخش آزموده نشد."
+    }
+  }
+}

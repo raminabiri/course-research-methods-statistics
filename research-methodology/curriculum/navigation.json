@@ -1431,6 +1431,61 @@
       "previous": "11_reporting_publication/resources/videos.md",
       "next": "curriculum/README.md",
       "home": "11_reporting_publication/README.md"
+    },
+    "12_research_grants/README.md": {
+      "previous": "curriculum/README.md",
+      "next": "12_research_grants/lessons/01_finding_funding.md",
+      "home": "12_research_grants/README.md"
+    },
+    "12_research_grants/lessons/01_finding_funding.md": {
+      "previous": "12_research_grants/README.md",
+      "next": "12_research_grants/lessons/02_application_budget.md",
+      "home": "12_research_grants/README.md"
+    },
+    "12_research_grants/lessons/02_application_budget.md": {
+      "previous": "12_research_grants/lessons/01_finding_funding.md",
+      "next": "12_research_grants/lessons/03_review_award_management.md",
+      "home": "12_research_grants/README.md"
+    },
+    "12_research_grants/lessons/03_review_award_management.md": {
+      "previous": "12_research_grants/lessons/02_application_budget.md",
+      "next": "12_research_grants/exercises/01_exercises.md",
+      "home": "12_research_grants/README.md"
+    },
+    "12_research_grants/exercises/01_exercises.md": {
+      "previous": "12_research_grants/lessons/03_review_award_management.md",
+      "next": "12_research_grants/exercises/02_exercises.md",
+      "home": "12_research_grants/README.md"
+    },
+    "12_research_grants/exercises/02_exercises.md": {
+      "previous": "12_research_grants/exercises/01_exercises.md",
+      "next": "12_research_grants/exercises/03_exercises.md",
+      "home": "12_research_grants/README.md"
+    },
+    "12_research_grants/exercises/03_exercises.md": {
+      "previous": "12_research_grants/exercises/02_exercises.md",
+      "next": "solutions/12_research_grants/README.md",
+      "home": "12_research_grants/README.md"
+    },
+    "solutions/12_research_grants/README.md": {
+      "previous": "12_research_grants/exercises/03_exercises.md",
+      "next": "solutions/12_research_grants/01_solutions.md",
+      "home": "12_research_grants/README.md"
+    },
+    "solutions/12_research_grants/01_solutions.md": {
+      "previous": "solutions/12_research_grants/README.md",
+      "next": "solutions/12_research_grants/02_solutions.md",
+      "home": "12_research_grants/README.md"
+    },
+    "solutions/12_research_grants/02_solutions.md": {
+      "previous": "solutions/12_research_grants/01_solutions.md",
+      "next": "solutions/12_research_grants/03_solutions.md",
+      "home": "12_research_grants/README.md"
+    },
+    "solutions/12_research_grants/03_solutions.md": {
+      "previous": "solutions/12_research_grants/02_solutions.md",
+      "next": "curriculum/README.md",
+      "home": "12_research_grants/README.md"
     }
   }
 }

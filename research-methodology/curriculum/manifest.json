@@ -2688,9 +2688,9 @@
           "M12-L01-A03"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "rewritten",
+      "source_review": "documented_partial_verification",
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
@@ -2698,7 +2698,13 @@
           "fa",
           "en"
         ]
-      }
+      },
+      "path": "12_research_grants/lessons/01_finding_funding.md",
+      "exercises_path": "12_research_grants/exercises/01_exercises.md",
+      "solutions_path": "solutions/12_research_grants/01_solutions.md",
+      "human_scientific_review": "pending",
+      "teaching_revision": "2026-11-28",
+      "navigation_required": true
     },
     {
       "id": "M12-L02",
@@ -2730,9 +2736,9 @@
           "M12-L02-A03"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "rewritten",
+      "source_review": "documented_partial_verification",
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
@@ -2740,7 +2746,13 @@
           "fa",
           "en"
         ]
-      }
+      },
+      "path": "12_research_grants/lessons/02_application_budget.md",
+      "exercises_path": "12_research_grants/exercises/02_exercises.md",
+      "solutions_path": "solutions/12_research_grants/02_solutions.md",
+      "human_scientific_review": "pending",
+      "teaching_revision": "2026-11-28",
+      "navigation_required": true
     },
     {
       "id": "M12-L03",
@@ -2772,9 +2784,9 @@
           "M12-L03-A03"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "rewritten",
+      "source_review": "documented_partial_verification",
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
@@ -2782,7 +2794,13 @@
           "fa",
           "en"
         ]
-      }
+      },
+      "path": "12_research_grants/lessons/03_review_award_management.md",
+      "exercises_path": "12_research_grants/exercises/03_exercises.md",
+      "solutions_path": "solutions/12_research_grants/03_solutions.md",
+      "human_scientific_review": "pending",
+      "teaching_revision": "2026-11-28",
+      "navigation_required": true
     },
     {
       "id": "M13-L01",
