@@ -1832,33 +1832,36 @@
       "id": "M08-L01",
       "module": "M08",
       "module_title": "مدیریت داده و برنامهٔ کوتاه تحلیل",
-      "title": "فرهنگ داده و طراحی فرم",
+      "title": "طراحی فرهنگ داده، پاک‌سازی و ارزیابی کیفیت",
       "prerequisites": [
         "M03",
         "M05",
         "M06"
       ],
       "levels": {
-        "beginner": "نام‌گذاری و کدگذاری",
-        "intermediate": "فرم، شناسه و روش ثبت",
-        "advanced": "ردیابی تغییر و پیوند پایگاه‌ها"
+        "beginner": "تعریف متغیر، شناسه، کد و وضعیت نامعلوم",
+        "intermediate": "ساخت فرم، وارسی سازگاری و ثبت تغییر",
+        "advanced": "سازوکار دادهٔ گمشده، تحلیل حساسیت و منشأ داده"
       },
       "exercise_ids": {
         "beginner": [
-          "M08-L01-B01"
+          "M08-L01-B01",
+          "M08-L01-B02"
         ],
         "intermediate": [
-          "M08-L01-I01"
+          "M08-L01-I01",
+          "M08-L01-I02"
         ],
         "advanced": [
-          "M08-L01-A01"
+          "M08-L01-A01",
+          "M08-L01-A02"
         ]
       },
       "status": "written_for_review",
       "existing_content": "previous outline archived; current self-study lesson replaces it",
       "source_review": "documented_partial_verification",
       "human_scientific_review": "pending",
-      "teaching_revision": "2026-11-27",
+      "teaching_revision": "2026-11-28",
       "path": "08_data_management_analysis/lessons/01_data_dictionary_forms.md",
       "exercises_path": "08_data_management_analysis/exercises/01_exercises.md",
       "solutions_path": "solutions/08_data_management_analysis/01_solutions.md",
@@ -1870,83 +1873,45 @@
           "en"
         ]
       },
-      "navigation_required": true
-    },
-    {
-      "id": "M08-L02",
-      "module": "M08",
-      "module_title": "مدیریت داده و برنامهٔ کوتاه تحلیل",
-      "title": "پاک‌سازی، دادهٔ گمشده و کیفیت",
-      "prerequisites": [
-        "M03",
-        "M05",
-        "M06"
-      ],
-      "levels": {
-        "beginner": "کنترل دامنه و سازگاری",
-        "intermediate": "ثبت خطا و رسیدگی به دادهٔ گمشده",
-        "advanced": "پیامد فرض‌های گم‌شدن و تحلیل حساسیت"
-      },
-      "exercise_ids": {
-        "beginner": [
-          "M08-L02-B01"
-        ],
-        "intermediate": [
-          "M08-L02-I01"
-        ],
-        "advanced": [
-          "M08-L02-A01"
-        ]
-      },
-      "status": "written_for_review",
-      "existing_content": "previous outline archived; current self-study lesson replaces it",
-      "source_review": "documented_partial_verification",
-      "human_scientific_review": "pending",
-      "teaching_revision": "2026-11-27",
-      "path": "08_data_management_analysis/lessons/02_cleaning_missing_quality.md",
-      "exercises_path": "08_data_management_analysis/exercises/02_exercises.md",
-      "solutions_path": "solutions/08_data_management_analysis/02_solutions.md",
-      "resource_requirements": {
-        "min_references": 3,
-        "min_direct_youtube_videos": 2,
-        "allowed_languages": [
-          "fa",
-          "en"
-        ]
-      },
-      "navigation_required": true
+      "navigation_required": true,
+      "merged_from": [
+        "M08-L02"
+      ]
     },
     {
       "id": "M08-L03",
       "module": "M08",
       "module_title": "مدیریت داده و برنامهٔ کوتاه تحلیل",
-      "title": "برنامهٔ تحلیل پیش از اجرا",
+      "title": "برنامهٔ تحلیل و خواندن برآوردهای آماری",
       "prerequisites": [
         "M03",
         "M05",
         "M06"
       ],
       "levels": {
-        "beginner": "پیامد و برآورد هدف",
-        "intermediate": "طرح کوتاه تحلیل و زیرگروه‌ها",
-        "advanced": "تغییر برنامه و جداسازی تحلیل اکتشافی"
+        "beginner": "پیامد، برآورد هدف و جملهٔ نتیجه",
+        "intermediate": "جدول تحلیل، اندازهٔ اثر و نااطمینانی",
+        "advanced": "تغییر برنامه، تحلیل حساسیت و مرز استنباط"
       },
       "exercise_ids": {
         "beginner": [
-          "M08-L03-B01"
+          "M08-L03-B01",
+          "M08-L03-B02"
         ],
         "intermediate": [
-          "M08-L03-I01"
+          "M08-L03-I01",
+          "M08-L03-I02"
         ],
         "advanced": [
-          "M08-L03-A01"
+          "M08-L03-A01",
+          "M08-L03-A02"
         ]
       },
       "status": "written_for_review",
       "existing_content": "previous outline archived; current self-study lesson replaces it",
       "source_review": "documented_partial_verification",
       "human_scientific_review": "pending",
-      "teaching_revision": "2026-11-27",
+      "teaching_revision": "2026-11-28",
       "path": "08_data_management_analysis/lessons/03_analysis_plan.md",
       "exercises_path": "08_data_management_analysis/exercises/03_exercises.md",
       "solutions_path": "solutions/08_data_management_analysis/03_solutions.md",
@@ -1958,51 +1923,10 @@
           "en"
         ]
       },
-      "navigation_required": true
-    },
-    {
-      "id": "M08-L04",
-      "module": "M08",
-      "module_title": "مدیریت داده و برنامهٔ کوتاه تحلیل",
-      "title": "خواندن خروجی آماری؛ درس کوتاه",
-      "prerequisites": [
-        "M03",
-        "M05",
-        "M06"
-      ],
-      "levels": {
-        "beginner": "اندازهٔ اثر و فاصلهٔ اطمینان",
-        "intermediate": "تفسیر نتیجه با اهمیت بالینی",
-        "advanced": "محدودیت آزمون و پیوند به داشبورد آمار"
-      },
-      "exercise_ids": {
-        "beginner": [
-          "M08-L04-B01"
-        ],
-        "intermediate": [
-          "M08-L04-I01"
-        ],
-        "advanced": [
-          "M08-L04-A01"
-        ]
-      },
-      "status": "written_for_review",
-      "existing_content": "previous outline archived; current self-study lesson replaces it",
-      "source_review": "documented_partial_verification",
-      "human_scientific_review": "pending",
-      "teaching_revision": "2026-11-27",
-      "path": "08_data_management_analysis/lessons/04_reading_statistical_output.md",
-      "exercises_path": "08_data_management_analysis/exercises/04_exercises.md",
-      "solutions_path": "solutions/08_data_management_analysis/04_solutions.md",
-      "resource_requirements": {
-        "min_references": 3,
-        "min_direct_youtube_videos": 2,
-        "allowed_languages": [
-          "fa",
-          "en"
-        ]
-      },
-      "navigation_required": true
+      "navigation_required": true,
+      "merged_from": [
+        "M08-L04"
+      ]
     },
     {
       "id": "M08-L05",
@@ -2052,25 +1976,28 @@
       "id": "M09-L01",
       "module": "M09",
       "module_title": "اخلاق و درستکاری پژوهش",
-      "title": "اخلاق پژوهش انسانی",
+      "title": "اخلاق پژوهش انسانی، ثبت و نظارت بر اجرا",
       "prerequisites": [
         "M01",
         "M03"
       ],
       "levels": {
-        "beginner": "سود، زیان و رضایت آگاهانه",
-        "intermediate": "گروه‌های آسیب‌پذیر و محرمانگی",
-        "advanced": "کاربرد ثانویه، زیست‌بانک و دادهٔ ژنومی"
+        "beginner": "احترام، سود و زیان، رضایت و مسئولیت نظارت",
+        "intermediate": "پروتکل، حفاظت داده و ثبت تغییر",
+        "advanced": "کاربرد دوبارهٔ داده، گزارش رخداد و مرز بهبود کیفیت"
       },
       "exercise_ids": {
         "beginner": [
-          "M09-L01-B01"
+          "M09-L01-B01",
+          "M09-L01-B02"
         ],
         "intermediate": [
-          "M09-L01-I01"
+          "M09-L01-I01",
+          "M09-L01-I02"
         ],
         "advanced": [
-          "M09-L01-A01"
+          "M09-L01-A01",
+          "M09-L01-A02"
         ]
       },
       "status": "written_for_review",
@@ -2080,7 +2007,7 @@
       "exercises_path": "09_ethics_integrity/exercises/01_exercises.md",
       "solutions_path": "solutions/09_ethics_integrity/01_solutions.md",
       "human_scientific_review": "pending",
-      "teaching_revision": "2026-11-27",
+      "teaching_revision": "2026-11-28",
       "navigation_required": true,
       "resource_requirements": {
         "min_references": 3,
@@ -2089,7 +2016,10 @@
           "fa",
           "en"
         ]
-      }
+      },
+      "merged_from": [
+        "M09-L04"
+      ]
     },
     {
       "id": "M09-L02",
@@ -2165,49 +2095,6 @@
       "path": "09_ethics_integrity/lessons/03_research_integrity.md",
       "exercises_path": "09_ethics_integrity/exercises/03_exercises.md",
       "solutions_path": "solutions/09_ethics_integrity/03_solutions.md",
-      "human_scientific_review": "pending",
-      "teaching_revision": "2026-11-27",
-      "navigation_required": true,
-      "resource_requirements": {
-        "min_references": 3,
-        "min_direct_youtube_videos": 2,
-        "allowed_languages": [
-          "fa",
-          "en"
-        ]
-      }
-    },
-    {
-      "id": "M09-L04",
-      "module": "M09",
-      "module_title": "اخلاق و درستکاری پژوهش",
-      "title": "ثبت و نظارت اخلاقی",
-      "prerequisites": [
-        "M01",
-        "M03"
-      ],
-      "levels": {
-        "beginner": "پروتکل و ثبت پیش از اجرا",
-        "intermediate": "گزارش رویداد و تغییر پروتکل",
-        "advanced": "مرز پژوهش، خدمت و بهبود کیفیت"
-      },
-      "exercise_ids": {
-        "beginner": [
-          "M09-L04-B01"
-        ],
-        "intermediate": [
-          "M09-L04-I01"
-        ],
-        "advanced": [
-          "M09-L04-A01"
-        ]
-      },
-      "status": "written_for_review",
-      "existing_content": "rewritten",
-      "source_review": "documented_partial_verification",
-      "path": "09_ethics_integrity/lessons/04_registration_oversight.md",
-      "exercises_path": "09_ethics_integrity/exercises/04_exercises.md",
-      "solutions_path": "solutions/09_ethics_integrity/04_solutions.md",
       "human_scientific_review": "pending",
       "teaching_revision": "2026-11-27",
       "navigation_required": true,

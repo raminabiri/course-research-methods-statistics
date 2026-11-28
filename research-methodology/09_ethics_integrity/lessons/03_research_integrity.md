@@ -151,7 +151,7 @@
 
 ---
 
-[صفحهٔ پیشین: اخلاق پژوهش حیوانی و ایمنی زیستی](02_animal_ethics_biosafety.md) · [فهرست](../../curriculum/README.md) · [صفحهٔ پسین: ثبت و نظارت اخلاقی](04_registration_oversight.md)
+[صفحهٔ پیشین: اخلاق پژوهش حیوانی و ایمنی زیستی](02_animal_ethics_biosafety.md) · [فهرست](../../curriculum/README.md) · [صفحهٔ پسین: تمرین‌های اخلاق پژوهش انسانی، ثبت و نظارت بر اجرا](../exercises/01_exercises.md)
 
 <!-- COURSE_NAV_END -->
 

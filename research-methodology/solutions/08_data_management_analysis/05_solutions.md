@@ -26,7 +26,7 @@
 
 ---
 
-[صفحهٔ پیشین: پاسخ‌های درس ۴](04_solutions.md) · [فهرست](../../curriculum/README.md) · [صفحهٔ پسین: منابع ماژول ۸](../../08_data_management_analysis/resources/README.md)
+[صفحهٔ پیشین: پاسخ‌های برنامهٔ تحلیل و خواندن برآوردهای آماری](03_solutions.md) · [فهرست](../../curriculum/README.md) · [صفحهٔ پسین: منابع ماژول ۸](../../08_data_management_analysis/resources/README.md)
 
 <!-- COURSE_NAV_END -->
 

@@ -32,7 +32,7 @@
 
 ---
 
-[صفحهٔ پیشین: تمرین‌های درس ۴](04_exercises.md) · [فهرست](../../curriculum/README.md) · [صفحهٔ پسین: پاسخ‌های تشریحی](../../solutions/08_data_management_analysis/README.md)
+[صفحهٔ پیشین: تمرین‌های برنامهٔ تحلیل و خواندن برآوردهای آماری](03_exercises.md) · [فهرست](../../curriculum/README.md) · [صفحهٔ پسین: پاسخ‌های تشریحی](../../solutions/08_data_management_analysis/README.md)
 
 <!-- COURSE_NAV_END -->
 

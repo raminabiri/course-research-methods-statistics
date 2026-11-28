@@ -34,7 +34,7 @@
 
 ---
 
-[صفحهٔ پیشین: پاسخ‌های درس ۲](02_solutions.md) · [فهرست](../../curriculum/README.md) · [صفحهٔ پسین: پاسخ‌های درس ۴](04_solutions.md)
+[صفحهٔ پیشین: پاسخ‌های درس ۲](02_solutions.md) · [فهرست](../../curriculum/README.md) · [صفحهٔ پسین: ادامهٔ مسیر دوره](../../09_ethics_integrity/resources/README.md)
 
 <!-- COURSE_NAV_END -->
 

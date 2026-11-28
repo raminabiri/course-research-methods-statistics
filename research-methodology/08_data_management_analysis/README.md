@@ -6,24 +6,17 @@
 
 ## مسیر یادگیری
 
-| درس | موضوع |
-|---|---|
-| [۱. فرهنگ داده و طراحی فرم](lessons/01_data_dictionary_forms.md) | تعریف متغیر، کدگذاری، شناسه و فرم گردآوری |
-| [۲. پاک‌سازی، دادهٔ گمشده و کیفیت](lessons/02_cleaning_missing_quality.md) | کنترل دامنه و سازگاری، ثبت تغییرها و تحلیل دادهٔ گمشده |
-| [۳. برنامهٔ تحلیل پیش از اجرا](lessons/03_analysis_plan.md) | ثبت پیامد، برآورد هدف، مدل، زیرگروه و تغییرهای برنامه |
-| [۴. خواندن خروجی آماری](lessons/04_reading_statistical_output.md) | اندازهٔ اثر، فاصلهٔ اطمینان، مقدار p و اهمیت تصمیم‌گیری |
-| [۵. مدیریت دادهٔ کیفی و زیستی](lessons/05_qualitative_biological_data.md) | منشأ داده، محرمانگی، اثر دسته و بازتولیدپذیری |
+| درس | تمرین | پاسخ |
+| --- | --- | --- |
+| [طراحی فرهنگ داده، پاک‌سازی و ارزیابی کیفیت](lessons/01_data_dictionary_forms.md) | [تمرین](exercises/01_exercises.md) | [پاسخ](../solutions/08_data_management_analysis/01_solutions.md) |
+| [برنامهٔ تحلیل و خواندن برآوردهای آماری](lessons/03_analysis_plan.md) | [تمرین](exercises/03_exercises.md) | [پاسخ](../solutions/08_data_management_analysis/03_solutions.md) |
+| [مدیریت دادهٔ کیفی و زیستی](lessons/05_qualitative_biological_data.md) | [تمرین](exercises/05_exercises.md) | [پاسخ](../solutions/08_data_management_analysis/05_solutions.md) |
 
-هر درس سه سطح دارد. نمونه‌های حل‌شده، تمرین و پاسخ جداگانه کمک می‌کنند مفهوم را از تشخیص ساده تا تصمیم‌گیری انتقادی دنبال کنید.
+## منابع و کاربرگ
 
-## تمرین‌ها و منابع
-
-- [تمرین‌های درس ۱](exercises/01_exercises.md) تا [درس ۵](exercises/05_exercises.md)
-- [پاسخ‌های تشریحی و معیارهای ارزیابی](../solutions/08_data_management_analysis/README.md)
-- [واژه‌نامه](resources/glossary.md)، [منابع علمی](resources/references.md) و [فیلم‌های آموزشی](resources/videos.md)
-- [دادهٔ ساختگی و تعریف متغیرها](data/README.md)
-- [کدهای R و SPSS](code/README.md)
-- [فهرست ماشینی منابع و فیلم‌ها](resources/catalog.json)
+- [واژه‌نامه](resources/glossary.md)، [منابع](resources/references.md) و [فیلم‌ها](resources/videos.md)
+- [پاسخ‌های ماژول](../solutions/08_data_management_analysis/README.md)
+- [دادهٔ ساختگی](data/README.md)، [کدهای آموزشی](code/README.md) و [فهرست ماشینی منابع](resources/catalog.json)
 
 ## نکتهٔ روش‌شناختی
 
@@ -33,7 +26,7 @@
 
 ---
 
-[صفحهٔ پیشین: ماژول ۷: تعیین حجم نمونه](../07_sample_size_power/README.md) · [فهرست](../curriculum/README.md) · [صفحهٔ پسین: فرهنگ داده و طراحی فرم](lessons/01_data_dictionary_forms.md)
+[صفحهٔ پیشین: ماژول ۷: تعیین حجم نمونه](../07_sample_size_power/README.md) · [فهرست](../curriculum/README.md) · [صفحهٔ پسین: طراحی فرهنگ داده، پاک‌سازی و ارزیابی کیفیت](lessons/01_data_dictionary_forms.md)
 
 <!-- COURSE_NAV_END -->
 

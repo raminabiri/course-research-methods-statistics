@@ -13,7 +13,7 @@
 
 ---
 
-[صفحهٔ پیشین: پاسخ‌های درس ۴](../../solutions/09_ethics_integrity/04_solutions.md) · [فهرست](../../curriculum/README.md) · [صفحهٔ پسین: واژه‌نامه](glossary.md)
+[صفحهٔ پیشین: پاسخ‌های درستکاری و پاسخ‌گویی](../../solutions/09_ethics_integrity/03_solutions.md) · [فهرست](../../curriculum/README.md) · [صفحهٔ پسین: واژه‌نامه](glossary.md)
 
 <!-- COURSE_NAV_END -->
 

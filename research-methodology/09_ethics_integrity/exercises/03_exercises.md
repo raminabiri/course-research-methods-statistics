@@ -37,7 +37,7 @@
 
 ---
 
-[صفحهٔ پیشین: تمرین‌های درس ۲](02_exercises.md) · [فهرست](../../curriculum/README.md) · [صفحهٔ پسین: تمرین‌های درس ۴](04_exercises.md)
+[صفحهٔ پیشین: تمرین‌های درس ۲](02_exercises.md) · [فهرست](../../curriculum/README.md) · [صفحهٔ پسین: ادامهٔ مسیر دوره](../../solutions/09_ethics_integrity/README.md)
 
 <!-- COURSE_NAV_END -->
 

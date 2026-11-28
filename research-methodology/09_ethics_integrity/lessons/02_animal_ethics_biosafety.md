@@ -121,7 +121,7 @@ ARRIVE 2.0 چارچوب گزارش پژوهش حیوانی است و ده مور
 
 ---
 
-[صفحهٔ پیشین: اخلاق پژوهش انسانی](01_human_research_ethics.md) · [فهرست](../../curriculum/README.md) · [صفحهٔ پسین: درستکاری و پاسخ‌گویی](03_research_integrity.md)
+[صفحهٔ پیشین: اخلاق پژوهش انسانی، ثبت و نظارت بر اجرا](01_human_research_ethics.md) · [فهرست](../../curriculum/README.md) · [صفحهٔ پسین: درستکاری و پاسخ‌گویی](03_research_integrity.md)
 
 <!-- COURSE_NAV_END -->
 

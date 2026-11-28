@@ -105,7 +105,7 @@
 
 ---
 
-[صفحهٔ پیشین: خواندن خروجی آماری](04_reading_statistical_output.md) · [فهرست](../../curriculum/README.md) · [صفحهٔ پسین: تمرین‌های درس ۱](../exercises/01_exercises.md)
+[صفحهٔ پیشین: برنامهٔ تحلیل و خواندن برآوردهای آماری](03_analysis_plan.md) · [فهرست](../../curriculum/README.md) · [صفحهٔ پسین: تمرین‌های طراحی فرهنگ داده، پاک‌سازی و ارزیابی کیفیت](../exercises/01_exercises.md)
 
 <!-- COURSE_NAV_END -->
 

@@ -1014,51 +1014,31 @@
     },
     "08_data_management_analysis/lessons/01_data_dictionary_forms.md": {
       "previous": "08_data_management_analysis/README.md",
-      "next": "08_data_management_analysis/lessons/02_cleaning_missing_quality.md",
-      "home": "08_data_management_analysis/README.md"
-    },
-    "08_data_management_analysis/lessons/02_cleaning_missing_quality.md": {
-      "previous": "08_data_management_analysis/lessons/01_data_dictionary_forms.md",
       "next": "08_data_management_analysis/lessons/03_analysis_plan.md",
       "home": "08_data_management_analysis/README.md"
     },
     "08_data_management_analysis/lessons/03_analysis_plan.md": {
-      "previous": "08_data_management_analysis/lessons/02_cleaning_missing_quality.md",
-      "next": "08_data_management_analysis/lessons/04_reading_statistical_output.md",
-      "home": "08_data_management_analysis/README.md"
-    },
-    "08_data_management_analysis/lessons/04_reading_statistical_output.md": {
-      "previous": "08_data_management_analysis/lessons/03_analysis_plan.md",
+      "previous": "08_data_management_analysis/lessons/01_data_dictionary_forms.md",
       "next": "08_data_management_analysis/lessons/05_qualitative_biological_data.md",
       "home": "08_data_management_analysis/README.md"
     },
     "08_data_management_analysis/lessons/05_qualitative_biological_data.md": {
-      "previous": "08_data_management_analysis/lessons/04_reading_statistical_output.md",
+      "previous": "08_data_management_analysis/lessons/03_analysis_plan.md",
       "next": "08_data_management_analysis/exercises/01_exercises.md",
       "home": "08_data_management_analysis/README.md"
     },
     "08_data_management_analysis/exercises/01_exercises.md": {
       "previous": "08_data_management_analysis/lessons/05_qualitative_biological_data.md",
-      "next": "08_data_management_analysis/exercises/02_exercises.md",
-      "home": "08_data_management_analysis/README.md"
-    },
-    "08_data_management_analysis/exercises/02_exercises.md": {
-      "previous": "08_data_management_analysis/exercises/01_exercises.md",
       "next": "08_data_management_analysis/exercises/03_exercises.md",
       "home": "08_data_management_analysis/README.md"
     },
     "08_data_management_analysis/exercises/03_exercises.md": {
-      "previous": "08_data_management_analysis/exercises/02_exercises.md",
-      "next": "08_data_management_analysis/exercises/04_exercises.md",
-      "home": "08_data_management_analysis/README.md"
-    },
-    "08_data_management_analysis/exercises/04_exercises.md": {
-      "previous": "08_data_management_analysis/exercises/03_exercises.md",
+      "previous": "08_data_management_analysis/exercises/01_exercises.md",
       "next": "08_data_management_analysis/exercises/05_exercises.md",
       "home": "08_data_management_analysis/README.md"
     },
     "08_data_management_analysis/exercises/05_exercises.md": {
-      "previous": "08_data_management_analysis/exercises/04_exercises.md",
+      "previous": "08_data_management_analysis/exercises/03_exercises.md",
       "next": "solutions/08_data_management_analysis/README.md",
       "home": "08_data_management_analysis/README.md"
     },
@@ -1069,26 +1049,16 @@
     },
     "solutions/08_data_management_analysis/01_solutions.md": {
       "previous": "solutions/08_data_management_analysis/README.md",
-      "next": "solutions/08_data_management_analysis/02_solutions.md",
-      "home": "08_data_management_analysis/README.md"
-    },
-    "solutions/08_data_management_analysis/02_solutions.md": {
-      "previous": "solutions/08_data_management_analysis/01_solutions.md",
       "next": "solutions/08_data_management_analysis/03_solutions.md",
       "home": "08_data_management_analysis/README.md"
     },
     "solutions/08_data_management_analysis/03_solutions.md": {
-      "previous": "solutions/08_data_management_analysis/02_solutions.md",
-      "next": "solutions/08_data_management_analysis/04_solutions.md",
-      "home": "08_data_management_analysis/README.md"
-    },
-    "solutions/08_data_management_analysis/04_solutions.md": {
-      "previous": "solutions/08_data_management_analysis/03_solutions.md",
+      "previous": "solutions/08_data_management_analysis/01_solutions.md",
       "next": "solutions/08_data_management_analysis/05_solutions.md",
       "home": "08_data_management_analysis/README.md"
     },
     "solutions/08_data_management_analysis/05_solutions.md": {
-      "previous": "solutions/08_data_management_analysis/04_solutions.md",
+      "previous": "solutions/08_data_management_analysis/03_solutions.md",
       "next": "08_data_management_analysis/resources/README.md",
       "home": "08_data_management_analysis/README.md"
     },
@@ -1139,16 +1109,11 @@
     },
     "09_ethics_integrity/lessons/03_research_integrity.md": {
       "previous": "09_ethics_integrity/lessons/02_animal_ethics_biosafety.md",
-      "next": "09_ethics_integrity/lessons/04_registration_oversight.md",
-      "home": "09_ethics_integrity/README.md"
-    },
-    "09_ethics_integrity/lessons/04_registration_oversight.md": {
-      "previous": "09_ethics_integrity/lessons/03_research_integrity.md",
       "next": "09_ethics_integrity/exercises/01_exercises.md",
       "home": "09_ethics_integrity/README.md"
     },
     "09_ethics_integrity/exercises/01_exercises.md": {
-      "previous": "09_ethics_integrity/lessons/04_registration_oversight.md",
+      "previous": "09_ethics_integrity/lessons/03_research_integrity.md",
       "next": "09_ethics_integrity/exercises/02_exercises.md",
       "home": "09_ethics_integrity/README.md"
     },
@@ -1159,16 +1124,11 @@
     },
     "09_ethics_integrity/exercises/03_exercises.md": {
       "previous": "09_ethics_integrity/exercises/02_exercises.md",
-      "next": "09_ethics_integrity/exercises/04_exercises.md",
-      "home": "09_ethics_integrity/README.md"
-    },
-    "09_ethics_integrity/exercises/04_exercises.md": {
-      "previous": "09_ethics_integrity/exercises/03_exercises.md",
       "next": "solutions/09_ethics_integrity/README.md",
       "home": "09_ethics_integrity/README.md"
     },
     "solutions/09_ethics_integrity/README.md": {
-      "previous": "09_ethics_integrity/exercises/04_exercises.md",
+      "previous": "09_ethics_integrity/exercises/03_exercises.md",
       "next": "solutions/09_ethics_integrity/01_solutions.md",
       "home": "09_ethics_integrity/README.md"
     },
@@ -1184,16 +1144,11 @@
     },
     "solutions/09_ethics_integrity/03_solutions.md": {
       "previous": "solutions/09_ethics_integrity/02_solutions.md",
-      "next": "solutions/09_ethics_integrity/04_solutions.md",
-      "home": "09_ethics_integrity/README.md"
-    },
-    "solutions/09_ethics_integrity/04_solutions.md": {
-      "previous": "solutions/09_ethics_integrity/03_solutions.md",
       "next": "09_ethics_integrity/resources/README.md",
       "home": "09_ethics_integrity/README.md"
     },
     "09_ethics_integrity/resources/README.md": {
-      "previous": "solutions/09_ethics_integrity/04_solutions.md",
+      "previous": "solutions/09_ethics_integrity/03_solutions.md",
       "next": "09_ethics_integrity/resources/glossary.md",
       "home": "09_ethics_integrity/README.md"
     },

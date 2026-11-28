@@ -6,20 +6,16 @@
 
 ## مسیر یادگیری
 
-| درس | موضوع |
-|---|---|
-| [۱. اخلاق پژوهش انسانی](lessons/01_human_research_ethics.md) | سود و زیان، رضایت آگاهانه، گروه‌های نیازمند حمایت بیشتر، محرمانگی و کاربرد دوبارهٔ داده |
-| [۲. اخلاق پژوهش حیوانی و ایمنی زیستی](lessons/02_animal_ethics_biosafety.md) | جایگزینی، کاهش، بهسازی، نقطهٔ پایان انسانی و ارزیابی خطر زیستی |
-| [۳. درستکاری و پاسخ‌گویی](lessons/03_research_integrity.md) | جعل، تحریف، سرقت ادبی، نویسندگی، تعارض منافع و رسیدگی به خطا |
-| [۴. ثبت و نظارت اخلاقی](lessons/04_registration_oversight.md) | پروتکل، بررسی اخلاقی، ثبت پیش‌نگر، گزارش رویداد و مرز بهبود کیفیت |
+| درس | تمرین | پاسخ |
+| --- | --- | --- |
+| [اخلاق پژوهش انسانی، ثبت و نظارت بر اجرا](lessons/01_human_research_ethics.md) | [تمرین](exercises/01_exercises.md) | [پاسخ](../solutions/09_ethics_integrity/01_solutions.md) |
+| [اخلاق پژوهش حیوانی و ایمنی زیستی](lessons/02_animal_ethics_biosafety.md) | [تمرین](exercises/02_exercises.md) | [پاسخ](../solutions/09_ethics_integrity/02_solutions.md) |
+| [درستکاری و پاسخ‌گویی](lessons/03_research_integrity.md) | [تمرین](exercises/03_exercises.md) | [پاسخ](../solutions/09_ethics_integrity/03_solutions.md) |
 
-هر درس سه سطح دارد، با نمونهٔ گام‌به‌گام، تمرین و پاسخ جداگانه. شناسه‌های تمرین با نقشهٔ دوره همسان‌اند.
+## منابع و کاربرگ
 
-## تمرین‌ها و منابع
-
-- [تمرین‌های درس ۱](exercises/01_exercises.md) تا [درس ۴](exercises/04_exercises.md)
-- [پاسخ‌های جداگانه و معیارهای ارزیابی](../solutions/09_ethics_integrity/README.md)
-- [واژه‌نامه](resources/glossary.md)، [منابع علمی](resources/references.md)، [فیلم‌های آموزشی](resources/videos.md) و [فهرست ماشینی](resources/catalog.json)
+- [واژه‌نامه](resources/glossary.md)، [منابع](resources/references.md) و [فیلم‌ها](resources/videos.md)
+- [پاسخ‌های ماژول](../solutions/09_ethics_integrity/README.md)
 
 ## مرزهای کاربرد
 
@@ -29,7 +25,7 @@
 
 ---
 
-[صفحهٔ پیشین: دادهٔ ساختگی ماژول ۸](../08_data_management_analysis/data/README.md) · [فهرست](../curriculum/README.md) · [صفحهٔ پسین: اخلاق پژوهش انسانی](lessons/01_human_research_ethics.md)
+[صفحهٔ پیشین: دادهٔ ساختگی ماژول ۸](../08_data_management_analysis/data/README.md) · [فهرست](../curriculum/README.md) · [صفحهٔ پسین: اخلاق پژوهش انسانی، ثبت و نظارت بر اجرا](lessons/01_human_research_ethics.md)
 
 <!-- COURSE_NAV_END -->
 
