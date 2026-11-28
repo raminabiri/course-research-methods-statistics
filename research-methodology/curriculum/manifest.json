@@ -2806,31 +2806,40 @@
       "id": "M13-L01",
       "module": "M13",
       "module_title": "مدیریت پروژه و پژوهش",
-      "title": "چرخهٔ پروژه و ساختار کار",
+      "title": "برنامه‌ریزی پروژه، زمان و بودجه",
       "prerequisites": [
         "M09",
         "M10"
       ],
       "levels": {
-        "beginner": "خروجی و مرحله",
-        "intermediate": "بستهٔ کاری و وابستگی",
-        "advanced": "مسیر بحرانی و اولویت‌بندی"
+        "beginner": "تعریف خروجی، معیار پذیرش و برنامهٔ پایه",
+        "intermediate": "وابستگی کارها، پایش زمان و هزینه",
+        "advanced": "مسیر بحرانی، ظرفیت و بازبرآورد"
       },
       "exercise_ids": {
         "beginner": [
           "M13-L01-B01",
           "M13-L01-B02",
-          "M13-L01-B03"
+          "M13-L01-B03",
+          "M13-L01-B04",
+          "M13-L01-B05",
+          "M13-L01-B06"
         ],
         "intermediate": [
           "M13-L01-I01",
           "M13-L01-I02",
-          "M13-L01-I03"
+          "M13-L01-I03",
+          "M13-L01-I04",
+          "M13-L01-I05",
+          "M13-L01-I06"
         ],
         "advanced": [
           "M13-L01-A01",
           "M13-L01-A02",
-          "M13-L01-A03"
+          "M13-L01-A03",
+          "M13-L01-A04",
+          "M13-L01-A05",
+          "M13-L01-A06"
         ]
       },
       "status": "written_for_review",
@@ -2849,86 +2858,49 @@
       "solutions_path": "solutions/13_project_research_management/01_solutions.md",
       "human_scientific_review": "pending",
       "teaching_revision": "2026-11-28",
-      "navigation_required": true
-    },
-    {
-      "id": "M13-L02",
-      "module": "M13",
-      "module_title": "مدیریت پروژه و پژوهش",
-      "title": "زمان، هزینه و منابع",
-      "prerequisites": [
-        "M09",
-        "M10"
-      ],
-      "levels": {
-        "beginner": "برنامهٔ پایه",
-        "intermediate": "پایش هزینه و زمان",
-        "advanced": "تخصیص منابع و بازبرنامه‌ریزی"
-      },
-      "exercise_ids": {
-        "beginner": [
-          "M13-L02-B01",
-          "M13-L02-B02",
-          "M13-L02-B03"
-        ],
-        "intermediate": [
-          "M13-L02-I01",
-          "M13-L02-I02",
-          "M13-L02-I03"
-        ],
-        "advanced": [
-          "M13-L02-A01",
-          "M13-L02-A02",
-          "M13-L02-A03"
-        ]
-      },
-      "status": "written_for_review",
-      "existing_content": "new",
-      "source_review": "documented_partial_verification",
-      "resource_requirements": {
-        "min_references": 3,
-        "min_direct_youtube_videos": 2,
-        "allowed_languages": [
-          "fa",
-          "en"
-        ]
-      },
-      "path": "13_project_research_management/lessons/02_schedule_cost_resources.md",
-      "exercises_path": "13_project_research_management/exercises/02_exercises.md",
-      "solutions_path": "solutions/13_project_research_management/02_solutions.md",
-      "human_scientific_review": "pending",
-      "teaching_revision": "2026-11-28",
-      "navigation_required": true
+      "navigation_required": true,
+      "merged_from": [
+        "M13-L02"
+      ]
     },
     {
       "id": "M13-L03",
       "module": "M13",
       "module_title": "مدیریت پروژه و پژوهش",
-      "title": "تیم و همکاری",
+      "title": "همکاری تیم، اختیار تصمیم و مدیریت سبد پژوهش",
       "prerequisites": [
         "M09",
         "M10"
       ],
       "levels": {
-        "beginner": "نقش و مسئولیت",
-        "intermediate": "توافق همکاری و جلسه",
-        "advanced": "حل تعارض و همکاری چندمرکزی"
+        "beginner": "تعریف نقش، اختیار و دامنهٔ پروژه",
+        "intermediate": "توافق چندمرکزی، اولویت و ظرفیت مشترک",
+        "advanced": "حل تعارض، حکمرانی و ارزیابی اثر"
       },
       "exercise_ids": {
         "beginner": [
           "M13-L03-B01",
           "M13-L03-B02",
-          "M13-L03-B03"
+          "M13-L03-B03",
+          "M13-L03-B04",
+          "M13-L03-B05",
+          "M13-L03-B06"
         ],
         "intermediate": [
           "M13-L03-I01",
           "M13-L03-I02",
-          "M13-L03-I03"
+          "M13-L03-I03",
+          "M13-L03-I04",
+          "M13-L03-I05",
+          "M13-L03-I06"
         ],
         "advanced": [
           "M13-L03-A01",
           "M13-L03-A02",
-          "M13-L03-A03"
+          "M13-L03-A03",
+          "M13-L03-A04",
+          "M13-L03-A05",
+          "M13-L03-A06"
         ]
       },
       "status": "written_for_review",
@@ -2947,37 +2919,49 @@
       "solutions_path": "solutions/13_project_research_management/03_solutions.md",
       "human_scientific_review": "pending",
       "teaching_revision": "2026-11-28",
-      "navigation_required": true
+      "navigation_required": true,
+      "merged_from": [
+        "M13-L06"
+      ]
     },
     {
       "id": "M13-L04",
       "module": "M13",
       "module_title": "مدیریت پروژه و پژوهش",
-      "title": "خطر، کیفیت و تغییر",
+      "title": "اجرای میدانی، پایش کیفیت و مدیریت تغییر",
       "prerequisites": [
         "M09",
         "M10"
       ],
       "levels": {
-        "beginner": "فهرست خطرها",
-        "intermediate": "پایش کیفیت و ثبت تغییر",
-        "advanced": "تصمیم توقف یا تغییر مسیر"
+        "beginner": "آمادگی تیم، خطر و رخداد",
+        "intermediate": "قیف جذب، سنجهٔ کیفیت و دفتر تصمیم",
+        "advanced": "انحراف، آستانهٔ اقدام و پیامد تحلیل"
       },
       "exercise_ids": {
         "beginner": [
           "M13-L04-B01",
           "M13-L04-B02",
-          "M13-L04-B03"
+          "M13-L04-B03",
+          "M13-L04-B04",
+          "M13-L04-B05",
+          "M13-L04-B06"
         ],
         "intermediate": [
           "M13-L04-I01",
           "M13-L04-I02",
-          "M13-L04-I03"
+          "M13-L04-I03",
+          "M13-L04-I04",
+          "M13-L04-I05",
+          "M13-L04-I06"
         ],
         "advanced": [
           "M13-L04-A01",
           "M13-L04-A02",
-          "M13-L04-A03"
+          "M13-L04-A03",
+          "M13-L04-A04",
+          "M13-L04-A05",
+          "M13-L04-A06"
         ]
       },
       "status": "written_for_review",
@@ -2996,105 +2980,10 @@
       "solutions_path": "solutions/13_project_research_management/04_solutions.md",
       "human_scientific_review": "pending",
       "teaching_revision": "2026-11-28",
-      "navigation_required": true
-    },
-    {
-      "id": "M13-L05",
-      "module": "M13",
-      "module_title": "مدیریت پروژه و پژوهش",
-      "title": "گردآوری و پیگیری میدانی",
-      "prerequisites": [
-        "M09",
-        "M10"
-      ],
-      "levels": {
-        "beginner": "آموزش تیم",
-        "intermediate": "پایش جذب و کیفیت داده",
-        "advanced": "مدیریت افت جذب و انحراف از روش کار"
-      },
-      "exercise_ids": {
-        "beginner": [
-          "M13-L05-B01",
-          "M13-L05-B02",
-          "M13-L05-B03"
-        ],
-        "intermediate": [
-          "M13-L05-I01",
-          "M13-L05-I02",
-          "M13-L05-I03"
-        ],
-        "advanced": [
-          "M13-L05-A01",
-          "M13-L05-A02",
-          "M13-L05-A03"
-        ]
-      },
-      "status": "written_for_review",
-      "existing_content": "new",
-      "source_review": "documented_partial_verification",
-      "resource_requirements": {
-        "min_references": 3,
-        "min_direct_youtube_videos": 2,
-        "allowed_languages": [
-          "fa",
-          "en"
-        ]
-      },
-      "path": "13_project_research_management/lessons/05_fieldwork_follow_up.md",
-      "exercises_path": "13_project_research_management/exercises/05_exercises.md",
-      "solutions_path": "solutions/13_project_research_management/05_solutions.md",
-      "human_scientific_review": "pending",
-      "teaching_revision": "2026-11-28",
-      "navigation_required": true
-    },
-    {
-      "id": "M13-L06",
-      "module": "M13",
-      "module_title": "مدیریت پروژه و پژوهش",
-      "title": "مدیریت پژوهش در سازمان",
-      "prerequisites": [
-        "M09",
-        "M10"
-      ],
-      "levels": {
-        "beginner": "طرح در برابر سبد پژوهش",
-        "intermediate": "اولویت و شاخص‌های پایش",
-        "advanced": "حکمرانی، زیرساخت و ارزیابی اثر پژوهش"
-      },
-      "exercise_ids": {
-        "beginner": [
-          "M13-L06-B01",
-          "M13-L06-B02",
-          "M13-L06-B03"
-        ],
-        "intermediate": [
-          "M13-L06-I01",
-          "M13-L06-I02",
-          "M13-L06-I03"
-        ],
-        "advanced": [
-          "M13-L06-A01",
-          "M13-L06-A02",
-          "M13-L06-A03"
-        ]
-      },
-      "status": "written_for_review",
-      "existing_content": "new",
-      "source_review": "documented_partial_verification",
-      "resource_requirements": {
-        "min_references": 3,
-        "min_direct_youtube_videos": 2,
-        "allowed_languages": [
-          "fa",
-          "en"
-        ]
-      },
-      "path": "13_project_research_management/lessons/06_research_portfolio.md",
-      "exercises_path": "13_project_research_management/exercises/06_exercises.md",
-      "solutions_path": "solutions/13_project_research_management/06_solutions.md",
-      "human_scientific_review": "pending",
-      "teaching_revision": "2026-11-28",
-      "navigation_required": true
+      "navigation_required": true,
+      "merged_from": [
+        "M13-L05"
+      ]
     },
     {
       "id": "M14-L01",

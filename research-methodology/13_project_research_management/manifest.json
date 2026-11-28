@@ -5,7 +5,7 @@
   "lessons": [
     {
       "id": "M13-L01",
-      "title": "چرخهٔ پروژه و ساختار کار",
+      "title": "برنامه‌ریزی پروژه، زمان و بودجه",
       "path": "13_project_research_management/lessons/01_project_lifecycle.md",
       "exercises_path": "13_project_research_management/exercises/01_exercises.md",
       "solutions_path": "solutions/13_project_research_management/01_solutions.md",
@@ -13,12 +13,21 @@
         "M13-L01-B01",
         "M13-L01-B02",
         "M13-L01-B03",
+        "M13-L01-B04",
+        "M13-L01-B05",
+        "M13-L01-B06",
         "M13-L01-I01",
         "M13-L01-I02",
         "M13-L01-I03",
+        "M13-L01-I04",
+        "M13-L01-I05",
+        "M13-L01-I06",
         "M13-L01-A01",
         "M13-L01-A02",
-        "M13-L01-A03"
+        "M13-L01-A03",
+        "M13-L01-A04",
+        "M13-L01-A05",
+        "M13-L01-A06"
       ],
       "levels": [
         "beginner",
@@ -28,48 +37,14 @@
       "references": [
         "M13-L01-R1",
         "M13-L01-R2",
-        "M13-L01-R3"
-      ],
-      "videos": [
-        "M13-L01-V1",
-        "M13-L01-V2"
-      ],
-      "status": "written_for_review",
-      "human_scientific_review": "pending",
-      "teaching_revision": "2026-11-28",
-      "navigation": {
-        "previous": "13_project_research_management/README.md",
-        "next": "13_project_research_management/lessons/02_schedule_cost_resources.md"
-      }
-    },
-    {
-      "id": "M13-L02",
-      "title": "زمان، هزینه و منابع",
-      "path": "13_project_research_management/lessons/02_schedule_cost_resources.md",
-      "exercises_path": "13_project_research_management/exercises/02_exercises.md",
-      "solutions_path": "solutions/13_project_research_management/02_solutions.md",
-      "exercise_ids": [
-        "M13-L02-B01",
-        "M13-L02-B02",
-        "M13-L02-B03",
-        "M13-L02-I01",
-        "M13-L02-I02",
-        "M13-L02-I03",
-        "M13-L02-A01",
-        "M13-L02-A02",
-        "M13-L02-A03"
-      ],
-      "levels": [
-        "beginner",
-        "intermediate",
-        "advanced"
-      ],
-      "references": [
+        "M13-L01-R3",
         "M13-L02-R1",
         "M13-L02-R2",
         "M13-L02-R3"
       ],
       "videos": [
+        "M13-L01-V1",
+        "M13-L01-V2",
         "M13-L02-V1",
         "M13-L02-V2"
       ],
@@ -77,13 +52,16 @@
       "human_scientific_review": "pending",
       "teaching_revision": "2026-11-28",
       "navigation": {
-        "previous": "13_project_research_management/lessons/01_project_lifecycle.md",
+        "previous": "13_project_research_management/README.md",
         "next": "13_project_research_management/lessons/03_team_collaboration.md"
-      }
+      },
+      "merged_from": [
+        "M13-L02"
+      ]
     },
     {
       "id": "M13-L03",
-      "title": "تیم و همکاری",
+      "title": "همکاری تیم، اختیار تصمیم و مدیریت سبد پژوهش",
       "path": "13_project_research_management/lessons/03_team_collaboration.md",
       "exercises_path": "13_project_research_management/exercises/03_exercises.md",
       "solutions_path": "solutions/13_project_research_management/03_solutions.md",
@@ -91,12 +69,21 @@
         "M13-L03-B01",
         "M13-L03-B02",
         "M13-L03-B03",
+        "M13-L03-B04",
+        "M13-L03-B05",
+        "M13-L03-B06",
         "M13-L03-I01",
         "M13-L03-I02",
         "M13-L03-I03",
+        "M13-L03-I04",
+        "M13-L03-I05",
+        "M13-L03-I06",
         "M13-L03-A01",
         "M13-L03-A02",
-        "M13-L03-A03"
+        "M13-L03-A03",
+        "M13-L03-A04",
+        "M13-L03-A05",
+        "M13-L03-A06"
       ],
       "levels": [
         "beginner",
@@ -106,23 +93,31 @@
       "references": [
         "M13-L03-R1",
         "M13-L03-R2",
-        "M13-L03-R3"
+        "M13-L03-R3",
+        "M13-L06-R1",
+        "M13-L06-R2",
+        "M13-L06-R3"
       ],
       "videos": [
         "M13-L03-V1",
-        "M13-L03-V2"
+        "M13-L03-V2",
+        "M13-L06-V1",
+        "M13-L06-V2"
       ],
       "status": "written_for_review",
       "human_scientific_review": "pending",
       "teaching_revision": "2026-11-28",
       "navigation": {
-        "previous": "13_project_research_management/lessons/02_schedule_cost_resources.md",
+        "previous": "13_project_research_management/lessons/01_project_lifecycle.md",
         "next": "13_project_research_management/lessons/04_risk_quality_change.md"
-      }
+      },
+      "merged_from": [
+        "M13-L06"
+      ]
     },
     {
       "id": "M13-L04",
-      "title": "خطر، کیفیت و تغییر",
+      "title": "اجرای میدانی، پایش کیفیت و مدیریت تغییر",
       "path": "13_project_research_management/lessons/04_risk_quality_change.md",
       "exercises_path": "13_project_research_management/exercises/04_exercises.md",
       "solutions_path": "solutions/13_project_research_management/04_solutions.md",
@@ -130,12 +125,21 @@
         "M13-L04-B01",
         "M13-L04-B02",
         "M13-L04-B03",
+        "M13-L04-B04",
+        "M13-L04-B05",
+        "M13-L04-B06",
         "M13-L04-I01",
         "M13-L04-I02",
         "M13-L04-I03",
+        "M13-L04-I04",
+        "M13-L04-I05",
+        "M13-L04-I06",
         "M13-L04-A01",
         "M13-L04-A02",
-        "M13-L04-A03"
+        "M13-L04-A03",
+        "M13-L04-A04",
+        "M13-L04-A05",
+        "M13-L04-A06"
       ],
       "levels": [
         "beginner",
@@ -145,48 +149,14 @@
       "references": [
         "M13-L04-R1",
         "M13-L04-R2",
-        "M13-L04-R3"
-      ],
-      "videos": [
-        "M13-L04-V1",
-        "M13-L04-V2"
-      ],
-      "status": "written_for_review",
-      "human_scientific_review": "pending",
-      "teaching_revision": "2026-11-28",
-      "navigation": {
-        "previous": "13_project_research_management/lessons/03_team_collaboration.md",
-        "next": "13_project_research_management/lessons/05_fieldwork_follow_up.md"
-      }
-    },
-    {
-      "id": "M13-L05",
-      "title": "گردآوری و پیگیری میدانی",
-      "path": "13_project_research_management/lessons/05_fieldwork_follow_up.md",
-      "exercises_path": "13_project_research_management/exercises/05_exercises.md",
-      "solutions_path": "solutions/13_project_research_management/05_solutions.md",
-      "exercise_ids": [
-        "M13-L05-B01",
-        "M13-L05-B02",
-        "M13-L05-B03",
-        "M13-L05-I01",
-        "M13-L05-I02",
-        "M13-L05-I03",
-        "M13-L05-A01",
-        "M13-L05-A02",
-        "M13-L05-A03"
-      ],
-      "levels": [
-        "beginner",
-        "intermediate",
-        "advanced"
-      ],
-      "references": [
+        "M13-L04-R3",
         "M13-L05-R1",
         "M13-L05-R2",
         "M13-L05-R3"
       ],
       "videos": [
+        "M13-L04-V1",
+        "M13-L04-V2",
         "M13-L05-V1",
         "M13-L05-V2"
       ],
@@ -194,48 +164,12 @@
       "human_scientific_review": "pending",
       "teaching_revision": "2026-11-28",
       "navigation": {
-        "previous": "13_project_research_management/lessons/04_risk_quality_change.md",
-        "next": "13_project_research_management/lessons/06_research_portfolio.md"
-      }
-    },
-    {
-      "id": "M13-L06",
-      "title": "مدیریت پژوهش در سازمان",
-      "path": "13_project_research_management/lessons/06_research_portfolio.md",
-      "exercises_path": "13_project_research_management/exercises/06_exercises.md",
-      "solutions_path": "solutions/13_project_research_management/06_solutions.md",
-      "exercise_ids": [
-        "M13-L06-B01",
-        "M13-L06-B02",
-        "M13-L06-B03",
-        "M13-L06-I01",
-        "M13-L06-I02",
-        "M13-L06-I03",
-        "M13-L06-A01",
-        "M13-L06-A02",
-        "M13-L06-A03"
-      ],
-      "levels": [
-        "beginner",
-        "intermediate",
-        "advanced"
-      ],
-      "references": [
-        "M13-L06-R1",
-        "M13-L06-R2",
-        "M13-L06-R3"
-      ],
-      "videos": [
-        "M13-L06-V1",
-        "M13-L06-V2"
-      ],
-      "status": "written_for_review",
-      "human_scientific_review": "pending",
-      "teaching_revision": "2026-11-28",
-      "navigation": {
-        "previous": "13_project_research_management/lessons/05_fieldwork_follow_up.md",
+        "previous": "13_project_research_management/lessons/03_team_collaboration.md",
         "next": "13_project_research_management/exercises/01_exercises.md"
-      }
+      },
+      "merged_from": [
+        "M13-L05"
+      ]
     }
   ]
 }
