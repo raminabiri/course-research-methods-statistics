@@ -2833,9 +2833,9 @@
           "M13-L01-A03"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "new",
+      "source_review": "documented_partial_verification",
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
@@ -2843,7 +2843,13 @@
           "fa",
           "en"
         ]
-      }
+      },
+      "path": "13_project_research_management/lessons/01_project_lifecycle.md",
+      "exercises_path": "13_project_research_management/exercises/01_exercises.md",
+      "solutions_path": "solutions/13_project_research_management/01_solutions.md",
+      "human_scientific_review": "pending",
+      "teaching_revision": "2026-11-28",
+      "navigation_required": true
     },
     {
       "id": "M13-L02",
@@ -2876,9 +2882,9 @@
           "M13-L02-A03"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "new",
+      "source_review": "documented_partial_verification",
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
@@ -2886,7 +2892,13 @@
           "fa",
           "en"
         ]
-      }
+      },
+      "path": "13_project_research_management/lessons/02_schedule_cost_resources.md",
+      "exercises_path": "13_project_research_management/exercises/02_exercises.md",
+      "solutions_path": "solutions/13_project_research_management/02_solutions.md",
+      "human_scientific_review": "pending",
+      "teaching_revision": "2026-11-28",
+      "navigation_required": true
     },
     {
       "id": "M13-L03",
@@ -2919,9 +2931,9 @@
           "M13-L03-A03"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "new",
+      "source_review": "documented_partial_verification",
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
@@ -2929,7 +2941,13 @@
           "fa",
           "en"
         ]
-      }
+      },
+      "path": "13_project_research_management/lessons/03_team_collaboration.md",
+      "exercises_path": "13_project_research_management/exercises/03_exercises.md",
+      "solutions_path": "solutions/13_project_research_management/03_solutions.md",
+      "human_scientific_review": "pending",
+      "teaching_revision": "2026-11-28",
+      "navigation_required": true
     },
     {
       "id": "M13-L04",
@@ -2962,9 +2980,9 @@
           "M13-L04-A03"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "new",
+      "source_review": "documented_partial_verification",
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
@@ -2972,7 +2990,13 @@
           "fa",
           "en"
         ]
-      }
+      },
+      "path": "13_project_research_management/lessons/04_risk_quality_change.md",
+      "exercises_path": "13_project_research_management/exercises/04_exercises.md",
+      "solutions_path": "solutions/13_project_research_management/04_solutions.md",
+      "human_scientific_review": "pending",
+      "teaching_revision": "2026-11-28",
+      "navigation_required": true
     },
     {
       "id": "M13-L05",
@@ -3005,9 +3029,9 @@
           "M13-L05-A03"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "new",
+      "source_review": "documented_partial_verification",
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
@@ -3015,7 +3039,13 @@
           "fa",
           "en"
         ]
-      }
+      },
+      "path": "13_project_research_management/lessons/05_fieldwork_follow_up.md",
+      "exercises_path": "13_project_research_management/exercises/05_exercises.md",
+      "solutions_path": "solutions/13_project_research_management/05_solutions.md",
+      "human_scientific_review": "pending",
+      "teaching_revision": "2026-11-28",
+      "navigation_required": true
     },
     {
       "id": "M13-L06",
@@ -3048,9 +3078,9 @@
           "M13-L06-A03"
         ]
       },
-      "status": "planned",
-      "existing_content": "needs_mapping",
-      "source_review": "pending",
+      "status": "written_for_review",
+      "existing_content": "new",
+      "source_review": "documented_partial_verification",
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
@@ -3058,7 +3088,13 @@
           "fa",
           "en"
         ]
-      }
+      },
+      "path": "13_project_research_management/lessons/06_research_portfolio.md",
+      "exercises_path": "13_project_research_management/exercises/06_exercises.md",
+      "solutions_path": "solutions/13_project_research_management/06_solutions.md",
+      "human_scientific_review": "pending",
+      "teaching_revision": "2026-11-28",
+      "navigation_required": true
     },
     {
       "id": "M14-L01",

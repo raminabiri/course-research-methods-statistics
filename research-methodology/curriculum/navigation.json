@@ -1486,6 +1486,106 @@
       "previous": "solutions/12_research_grants/02_solutions.md",
       "next": "curriculum/README.md",
       "home": "12_research_grants/README.md"
+    },
+    "13_project_research_management/README.md": {
+      "previous": "12_research_grants/README.md",
+      "next": "13_project_research_management/lessons/01_project_lifecycle.md",
+      "home": "13_project_research_management/README.md"
+    },
+    "13_project_research_management/lessons/01_project_lifecycle.md": {
+      "previous": "13_project_research_management/README.md",
+      "next": "13_project_research_management/lessons/02_schedule_cost_resources.md",
+      "home": "13_project_research_management/README.md"
+    },
+    "13_project_research_management/lessons/02_schedule_cost_resources.md": {
+      "previous": "13_project_research_management/lessons/01_project_lifecycle.md",
+      "next": "13_project_research_management/lessons/03_team_collaboration.md",
+      "home": "13_project_research_management/README.md"
+    },
+    "13_project_research_management/lessons/03_team_collaboration.md": {
+      "previous": "13_project_research_management/lessons/02_schedule_cost_resources.md",
+      "next": "13_project_research_management/lessons/04_risk_quality_change.md",
+      "home": "13_project_research_management/README.md"
+    },
+    "13_project_research_management/lessons/04_risk_quality_change.md": {
+      "previous": "13_project_research_management/lessons/03_team_collaboration.md",
+      "next": "13_project_research_management/lessons/05_fieldwork_follow_up.md",
+      "home": "13_project_research_management/README.md"
+    },
+    "13_project_research_management/lessons/05_fieldwork_follow_up.md": {
+      "previous": "13_project_research_management/lessons/04_risk_quality_change.md",
+      "next": "13_project_research_management/lessons/06_research_portfolio.md",
+      "home": "13_project_research_management/README.md"
+    },
+    "13_project_research_management/lessons/06_research_portfolio.md": {
+      "previous": "13_project_research_management/lessons/05_fieldwork_follow_up.md",
+      "next": "13_project_research_management/exercises/01_exercises.md",
+      "home": "13_project_research_management/README.md"
+    },
+    "13_project_research_management/exercises/01_exercises.md": {
+      "previous": "13_project_research_management/lessons/06_research_portfolio.md",
+      "next": "13_project_research_management/exercises/02_exercises.md",
+      "home": "13_project_research_management/README.md"
+    },
+    "13_project_research_management/exercises/02_exercises.md": {
+      "previous": "13_project_research_management/exercises/01_exercises.md",
+      "next": "13_project_research_management/exercises/03_exercises.md",
+      "home": "13_project_research_management/README.md"
+    },
+    "13_project_research_management/exercises/03_exercises.md": {
+      "previous": "13_project_research_management/exercises/02_exercises.md",
+      "next": "13_project_research_management/exercises/04_exercises.md",
+      "home": "13_project_research_management/README.md"
+    },
+    "13_project_research_management/exercises/04_exercises.md": {
+      "previous": "13_project_research_management/exercises/03_exercises.md",
+      "next": "13_project_research_management/exercises/05_exercises.md",
+      "home": "13_project_research_management/README.md"
+    },
+    "13_project_research_management/exercises/05_exercises.md": {
+      "previous": "13_project_research_management/exercises/04_exercises.md",
+      "next": "13_project_research_management/exercises/06_exercises.md",
+      "home": "13_project_research_management/README.md"
+    },
+    "13_project_research_management/exercises/06_exercises.md": {
+      "previous": "13_project_research_management/exercises/05_exercises.md",
+      "next": "solutions/13_project_research_management/README.md",
+      "home": "13_project_research_management/README.md"
+    },
+    "solutions/13_project_research_management/README.md": {
+      "previous": "13_project_research_management/exercises/06_exercises.md",
+      "next": "solutions/13_project_research_management/01_solutions.md",
+      "home": "13_project_research_management/README.md"
+    },
+    "solutions/13_project_research_management/01_solutions.md": {
+      "previous": "solutions/13_project_research_management/README.md",
+      "next": "solutions/13_project_research_management/02_solutions.md",
+      "home": "13_project_research_management/README.md"
+    },
+    "solutions/13_project_research_management/02_solutions.md": {
+      "previous": "solutions/13_project_research_management/01_solutions.md",
+      "next": "solutions/13_project_research_management/03_solutions.md",
+      "home": "13_project_research_management/README.md"
+    },
+    "solutions/13_project_research_management/03_solutions.md": {
+      "previous": "solutions/13_project_research_management/02_solutions.md",
+      "next": "solutions/13_project_research_management/04_solutions.md",
+      "home": "13_project_research_management/README.md"
+    },
+    "solutions/13_project_research_management/04_solutions.md": {
+      "previous": "solutions/13_project_research_management/03_solutions.md",
+      "next": "solutions/13_project_research_management/05_solutions.md",
+      "home": "13_project_research_management/README.md"
+    },
+    "solutions/13_project_research_management/05_solutions.md": {
+      "previous": "solutions/13_project_research_management/04_solutions.md",
+      "next": "solutions/13_project_research_management/06_solutions.md",
+      "home": "13_project_research_management/README.md"
+    },
+    "solutions/13_project_research_management/06_solutions.md": {
+      "previous": "solutions/13_project_research_management/05_solutions.md",
+      "next": "curriculum/README.md",
+      "home": "13_project_research_management/README.md"
     }
   }
 }
