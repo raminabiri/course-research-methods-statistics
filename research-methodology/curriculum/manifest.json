@@ -2224,7 +2224,7 @@
       "id": "M10-L01",
       "module": "M10",
       "module_title": "نوشتن پروپوزال و پروتکل",
-      "title": "بیان مسئله و ارزش پژوهش",
+      "title": "از بیان مسئله تا طراحی و نوشتن روش پژوهش",
       "prerequisites": [
         "M02",
         "M03",
@@ -2235,19 +2235,22 @@
         "M09"
       ],
       "levels": {
-        "beginner": "ساخت استدلال",
-        "intermediate": "پیوند شکاف، پرسش و هدف",
-        "advanced": "نقد ادعای نوآوری"
+        "beginner": "بیان شکاف، پرسش پژوهش و طرح",
+        "intermediate": "پیوند هدف، جمعیت، سنجش و تحلیل",
+        "advanced": "برآورد هدف، سازوکار سوگیری و طرح جایگزین"
       },
       "exercise_ids": {
         "beginner": [
-          "M10-L01-B01"
+          "M10-L01-B01",
+          "M10-L01-B02"
         ],
         "intermediate": [
-          "M10-L01-I01"
+          "M10-L01-I01",
+          "M10-L01-I02"
         ],
         "advanced": [
-          "M10-L01-A01"
+          "M10-L01-A01",
+          "M10-L01-A02"
         ]
       },
       "status": "written_for_review",
@@ -2257,7 +2260,7 @@
       "exercises_path": "10_proposal_writing/exercises/01_exercises.md",
       "solutions_path": "solutions/10_proposal_writing/01_solutions.md",
       "human_scientific_review": "pending",
-      "teaching_revision": "2026-11-27",
+      "teaching_revision": "2026-11-28",
       "navigation_required": true,
       "resource_requirements": {
         "min_references": 3,
@@ -2266,55 +2269,10 @@
           "fa",
           "en"
         ]
-      }
-    },
-    {
-      "id": "M10-L02",
-      "module": "M10",
-      "module_title": "نوشتن پروپوزال و پروتکل",
-      "title": "نوشتن روش پژوهش",
-      "prerequisites": [
-        "M02",
-        "M03",
-        "M04",
-        "M05",
-        "M06",
-        "M07",
-        "M09"
-      ],
-      "levels": {
-        "beginner": "جمعیت و طرح",
-        "intermediate": "همسویی سنجش، نمونه و تحلیل",
-        "advanced": "سناریوی شکست و روش جایگزین"
       },
-      "exercise_ids": {
-        "beginner": [
-          "M10-L02-B01"
-        ],
-        "intermediate": [
-          "M10-L02-I01"
-        ],
-        "advanced": [
-          "M10-L02-A01"
-        ]
-      },
-      "status": "written_for_review",
-      "existing_content": "rewritten",
-      "source_review": "documented_partial_verification",
-      "path": "10_proposal_writing/lessons/02_methods_design.md",
-      "exercises_path": "10_proposal_writing/exercises/02_exercises.md",
-      "solutions_path": "solutions/10_proposal_writing/02_solutions.md",
-      "human_scientific_review": "pending",
-      "teaching_revision": "2026-11-27",
-      "navigation_required": true,
-      "resource_requirements": {
-        "min_references": 3,
-        "min_direct_youtube_videos": 2,
-        "allowed_languages": [
-          "fa",
-          "en"
-        ]
-      }
+      "merged_from": [
+        "M10-L02"
+      ]
     },
     {
       "id": "M10-L03",
@@ -2368,7 +2326,7 @@
       "id": "M11-L01",
       "module": "M11",
       "module_title": "گزارش‌دهی و انتشار",
-      "title": "انتخاب رهنمود گزارش‌دهی",
+      "title": "گونهٔ مقاله و رهنمود گزارش‌دهی",
       "prerequisites": [
         "M02",
         "M03",
@@ -2376,19 +2334,22 @@
         "M09"
       ],
       "levels": {
-        "beginner": "رهنمود متناسب با طرح",
-        "intermediate": "نگاشت رهنمود به بخش‌های گزارش",
-        "advanced": "فاصلهٔ کامل‌بودن گزارش و کیفیت روش"
+        "beginner": "انتخاب گونهٔ مقاله از روی پرسش",
+        "intermediate": "نگاشت طرح، قالب مقاله و رهنمود",
+        "advanced": "افزونه‌ها، گزارش شفاف و مرز کیفیت روش"
       },
       "exercise_ids": {
         "beginner": [
-          "M11-L01-B01"
+          "M11-L01-B01",
+          "M11-L01-B02"
         ],
         "intermediate": [
-          "M11-L01-I01"
+          "M11-L01-I01",
+          "M11-L01-I02"
         ],
         "advanced": [
-          "M11-L01-A01"
+          "M11-L01-A01",
+          "M11-L01-A02"
         ]
       },
       "status": "written_for_review",
@@ -2404,13 +2365,18 @@
       },
       "path": "11_reporting_publication/lessons/01_reporting_guidelines.md",
       "exercises_path": "11_reporting_publication/exercises/01_exercises.md",
-      "solutions_path": "solutions/11_reporting_publication/01_solutions.md"
+      "solutions_path": "solutions/11_reporting_publication/01_solutions.md",
+      "navigation_required": true,
+      "merged_from": [
+        "M11-L05"
+      ],
+      "teaching_revision": "2026-11-28"
     },
     {
       "id": "M11-L02",
       "module": "M11",
       "module_title": "گزارش‌دهی و انتشار",
-      "title": "نوشتن مقاله و نمایش یافته‌ها",
+      "title": "نگارش یافته‌ها برای خوانندهٔ تخصصی و عمومی",
       "prerequisites": [
         "M02",
         "M03",
@@ -2418,19 +2384,22 @@
         "M09"
       ],
       "levels": {
-        "beginner": "ساختار مقاله",
-        "intermediate": "جدول، شکل و روایت نتیجه",
-        "advanced": "پرهیز از اغراق و گزارش گزینشی"
+        "beginner": "ساختار مقاله و مخاطب گزارش",
+        "intermediate": "جدول، شکل، خطر مطلق و روایت روشن",
+        "advanced": "نااطمینانی، مخرج و مرز استنباط برای هر مخاطب"
       },
       "exercise_ids": {
         "beginner": [
-          "M11-L02-B01"
+          "M11-L02-B01",
+          "M11-L02-B02"
         ],
         "intermediate": [
-          "M11-L02-I01"
+          "M11-L02-I01",
+          "M11-L02-I02"
         ],
         "advanced": [
-          "M11-L02-A01"
+          "M11-L02-A01",
+          "M11-L02-A02"
         ]
       },
       "status": "written_for_review",
@@ -2446,7 +2415,12 @@
       },
       "path": "11_reporting_publication/lessons/02_manuscript_results.md",
       "exercises_path": "11_reporting_publication/exercises/02_exercises.md",
-      "solutions_path": "solutions/11_reporting_publication/02_solutions.md"
+      "solutions_path": "solutions/11_reporting_publication/02_solutions.md",
+      "navigation_required": true,
+      "merged_from": [
+        "M11-L04"
+      ],
+      "teaching_revision": "2026-11-28"
     },
     {
       "id": "M11-L03",
@@ -2491,94 +2465,10 @@
       "solutions_path": "solutions/11_reporting_publication/03_solutions.md"
     },
     {
-      "id": "M11-L04",
-      "module": "M11",
-      "module_title": "گزارش‌دهی و انتشار",
-      "title": "ارتباط با مخاطب غیرتخصصی",
-      "prerequisites": [
-        "M02",
-        "M03",
-        "M08",
-        "M09"
-      ],
-      "levels": {
-        "beginner": "چکیدهٔ روشن",
-        "intermediate": "گزارش برای بیمار و سیاست‌گذار",
-        "advanced": "بیان مرز شواهد و نااطمینانی"
-      },
-      "exercise_ids": {
-        "beginner": [
-          "M11-L04-B01"
-        ],
-        "intermediate": [
-          "M11-L04-I01"
-        ],
-        "advanced": [
-          "M11-L04-A01"
-        ]
-      },
-      "status": "written_for_review",
-      "existing_content": "rewritten",
-      "source_review": "documented_partial_verification",
-      "resource_requirements": {
-        "min_references": 3,
-        "min_direct_youtube_videos": 2,
-        "allowed_languages": [
-          "fa",
-          "en"
-        ]
-      },
-      "path": "11_reporting_publication/lessons/04_public_communication.md",
-      "exercises_path": "11_reporting_publication/exercises/04_exercises.md",
-      "solutions_path": "solutions/11_reporting_publication/04_solutions.md"
-    },
-    {
-      "id": "M11-L05",
-      "module": "M11",
-      "module_title": "گزارش‌دهی و انتشار",
-      "title": "گونه‌های مقالهٔ علمی و پیوند آن‌ها با طرح پژوهش",
-      "prerequisites": [
-        "M02",
-        "M03",
-        "M08",
-        "M09"
-      ],
-      "levels": {
-        "beginner": "تمایز مقالهٔ پژوهشی، مرور، گزارش مورد و پروتکل",
-        "intermediate": "انتخاب قالب مقاله متناسب با پرسش و طرح",
-        "advanced": "نقد مرزهای قالب‌های مقاله و رهنمود گزارش‌دهی"
-      },
-      "exercise_ids": {
-        "beginner": [
-          "M11-L05-B01"
-        ],
-        "intermediate": [
-          "M11-L05-I01"
-        ],
-        "advanced": [
-          "M11-L05-A01"
-        ]
-      },
-      "status": "written_for_review",
-      "existing_content": "rewritten",
-      "source_review": "documented_partial_verification",
-      "resource_requirements": {
-        "min_references": 3,
-        "min_direct_youtube_videos": 2,
-        "allowed_languages": [
-          "fa",
-          "en"
-        ]
-      },
-      "path": "11_reporting_publication/lessons/05_article_types.md",
-      "exercises_path": "11_reporting_publication/exercises/05_exercises.md",
-      "solutions_path": "solutions/11_reporting_publication/05_solutions.md"
-    },
-    {
       "id": "M11-L06",
       "module": "M11",
       "module_title": "گزارش‌دهی و انتشار",
-      "title": "انتخاب ژورنال و ارزیابی اعتبار نشر",
+      "title": "انتخاب ژورنال و خواندن مسئولانهٔ شاخص‌های نشر",
       "prerequisites": [
         "M02",
         "M03",
@@ -2586,19 +2476,22 @@
         "M09"
       ],
       "levels": {
-        "beginner": "دامنه، مخاطب، داوری و هزینهٔ نشر",
-        "intermediate": "راستی‌آزمایی نمایه، ناشر و سیاست‌های مجله",
-        "advanced": "ارزیابی ژورنال‌های فریبنده، ربوده‌شده و تعارض منافع"
+        "beginner": "تناسب با مخاطب و سطح شاخص",
+        "intermediate": "راستی‌آزمایی نمایه، سیاست و سنجه",
+        "advanced": "نشر فریبنده، سوگیری شاخص و ارزیابی مسئولانه"
       },
       "exercise_ids": {
         "beginner": [
-          "M11-L06-B01"
+          "M11-L06-B01",
+          "M11-L06-B02"
         ],
         "intermediate": [
-          "M11-L06-I01"
+          "M11-L06-I01",
+          "M11-L06-I02"
         ],
         "advanced": [
-          "M11-L06-A01"
+          "M11-L06-A01",
+          "M11-L06-A02"
         ]
       },
       "status": "written_for_review",
@@ -2614,78 +2507,50 @@
       },
       "path": "11_reporting_publication/lessons/06_journal_selection.md",
       "exercises_path": "11_reporting_publication/exercises/06_exercises.md",
-      "solutions_path": "solutions/11_reporting_publication/06_solutions.md"
-    },
-    {
-      "id": "M11-L07",
-      "module": "M11",
-      "module_title": "گزارش‌دهی و انتشار",
-      "title": "شاخص‌های علم‌سنجی و محدودیت‌های ارزیابی پژوهش",
-      "prerequisites": [
-        "M02",
-        "M03",
-        "M08",
-        "M09"
+      "solutions_path": "solutions/11_reporting_publication/06_solutions.md",
+      "navigation_required": true,
+      "merged_from": [
+        "M11-L07"
       ],
-      "levels": {
-        "beginner": "تمایز شاخص مجله، مقاله و پژوهشگر",
-        "intermediate": "خواندن عامل اثر، چارک، استناد و شاخص اچ",
-        "advanced": "نقد نرمال‌سازی، دست‌کاری شاخص و ارزیابی مسئولانه"
-      },
-      "exercise_ids": {
-        "beginner": [
-          "M11-L07-B01"
-        ],
-        "intermediate": [
-          "M11-L07-I01"
-        ],
-        "advanced": [
-          "M11-L07-A01"
-        ]
-      },
-      "status": "written_for_review",
-      "existing_content": "rewritten",
-      "source_review": "documented_partial_verification",
-      "resource_requirements": {
-        "min_references": 3,
-        "min_direct_youtube_videos": 2,
-        "allowed_languages": [
-          "fa",
-          "en"
-        ]
-      },
-      "path": "11_reporting_publication/lessons/07_research_metrics.md",
-      "exercises_path": "11_reporting_publication/exercises/07_exercises.md",
-      "solutions_path": "solutions/11_reporting_publication/07_solutions.md"
+      "teaching_revision": "2026-11-28"
     },
     {
       "id": "M12-L01",
       "module": "M12",
       "module_title": "تأمین مالی پژوهش",
-      "title": "یافتن فراخوان و سنجش همخوانی",
+      "title": "از انتخاب فراخوان تا نوشتن درخواست و بودجه",
       "prerequisites": [
         "M10"
       ],
       "levels": {
-        "beginner": "خواندن هدف فراخوان",
-        "intermediate": "شرایط و جدول زمان",
-        "advanced": "سنجش تناسب تیم و برنامهٔ مالی"
+        "beginner": "همخوانی طرح، شرایط درخواست و هدف قابل سنجش",
+        "intermediate": "زمان، بستهٔ کاری، توجیه هزینه و مدارک",
+        "advanced": "بازطراحی در برابر سقف، ریسک و کمبود ظرفیت"
       },
       "exercise_ids": {
         "beginner": [
           "M12-L01-B01",
           "M12-L01-B02",
-          "M12-L01-B03"
+          "M12-L01-B03",
+          "M12-L01-B04",
+          "M12-L01-B05",
+          "M12-L01-B06"
         ],
         "intermediate": [
           "M12-L01-I01",
           "M12-L01-I02",
-          "M12-L01-I03"
+          "M12-L01-I03",
+          "M12-L01-I04",
+          "M12-L01-I05",
+          "M12-L01-I06"
         ],
         "advanced": [
           "M12-L01-A01",
           "M12-L01-A02",
-          "M12-L01-A03"
+          "M12-L01-A03",
+          "M12-L01-A04",
+          "M12-L01-A05",
+          "M12-L01-A06"
         ]
       },
       "status": "written_for_review",
@@ -2704,55 +2569,10 @@
       "solutions_path": "solutions/12_research_grants/01_solutions.md",
       "human_scientific_review": "pending",
       "teaching_revision": "2026-11-28",
-      "navigation_required": true
-    },
-    {
-      "id": "M12-L02",
-      "module": "M12",
-      "module_title": "تأمین مالی پژوهش",
-      "title": "نوشتن درخواست و بودجه",
-      "prerequisites": [
-        "M10"
-      ],
-      "levels": {
-        "beginner": "هدف و دستاورد",
-        "intermediate": "بستهٔ کاری و توجیه هزینه",
-        "advanced": "ریسک مالی و سناریوی کاهش بودجه"
-      },
-      "exercise_ids": {
-        "beginner": [
-          "M12-L02-B01",
-          "M12-L02-B02",
-          "M12-L02-B03"
-        ],
-        "intermediate": [
-          "M12-L02-I01",
-          "M12-L02-I02",
-          "M12-L02-I03"
-        ],
-        "advanced": [
-          "M12-L02-A01",
-          "M12-L02-A02",
-          "M12-L02-A03"
-        ]
-      },
-      "status": "written_for_review",
-      "existing_content": "rewritten",
-      "source_review": "documented_partial_verification",
-      "resource_requirements": {
-        "min_references": 3,
-        "min_direct_youtube_videos": 2,
-        "allowed_languages": [
-          "fa",
-          "en"
-        ]
-      },
-      "path": "12_research_grants/lessons/02_application_budget.md",
-      "exercises_path": "12_research_grants/exercises/02_exercises.md",
-      "solutions_path": "solutions/12_research_grants/02_solutions.md",
-      "human_scientific_review": "pending",
-      "teaching_revision": "2026-11-28",
-      "navigation_required": true
+      "navigation_required": true,
+      "merged_from": [
+        "M12-L02"
+      ]
     },
     {
       "id": "M12-L03",

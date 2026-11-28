@@ -167,7 +167,7 @@
 
 ---
 
-[صفحهٔ پیشین: نوشتن روش پژوهش](02_methods_design.md) · [فهرست](../../curriculum/README.md) · [صفحهٔ پسین: تمرین‌های درس ۱](../exercises/01_exercises.md)
+[صفحهٔ پیشین: از بیان مسئله تا طراحی و نوشتن روش پژوهش](01_problem_rationale.md) · [فهرست](../../curriculum/README.md) · [صفحهٔ پسین: تمرین‌های از بیان مسئله تا طراحی و نوشتن روش پژوهش](../exercises/01_exercises.md)
 
 <!-- COURSE_NAV_END -->
 

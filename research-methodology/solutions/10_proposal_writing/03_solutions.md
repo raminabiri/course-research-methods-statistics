@@ -40,7 +40,7 @@
 
 ---
 
-[صفحهٔ پیشین: پاسخ‌های درس ۲](02_solutions.md) · [فهرست](../../curriculum/README.md) · [صفحهٔ پسین: منابع ماژول ۱۰](../../10_proposal_writing/resources/README.md)
+[صفحهٔ پیشین: پاسخ‌های از بیان مسئله تا طراحی و نوشتن روش پژوهش](01_solutions.md) · [فهرست](../../curriculum/README.md) · [صفحهٔ پسین: منابع ماژول ۱۰](../../10_proposal_writing/resources/README.md)
 
 <!-- COURSE_NAV_END -->
 

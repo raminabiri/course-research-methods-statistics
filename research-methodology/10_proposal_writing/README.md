@@ -6,25 +6,22 @@
 
 ## مسیر یادگیری
 
-| درس | موضوع |
-|---|---|
-| [۱. بیان مسئله و ارزش پژوهش](lessons/01_problem_rationale.md) | ساخت استدلال، شناخت شکاف، پرسش، هدف و ارزش افزوده |
-| [۲. نوشتن روش پژوهش](lessons/02_methods_design.md) | همسویی پرسش، طرح، جمعیت، سنجش، نمونه، تحلیل و اخلاق |
-| [۳. برنامهٔ اجرا و پیوست‌ها](lessons/03_workplan_appendices.md) | زمان، بودجه، نقش‌ها، خطرها، پیوست‌ها و بازبینی همتا |
+| درس | تمرین | پاسخ |
+| --- | --- | --- |
+| [از بیان مسئله تا طراحی و نوشتن روش پژوهش](lessons/01_problem_rationale.md) | [تمرین](exercises/01_exercises.md) | [پاسخ](../solutions/10_proposal_writing/01_solutions.md) |
+| [برنامهٔ اجرا و پیوست‌های پروپوزال](lessons/03_workplan_appendices.md) | [تمرین](exercises/03_exercises.md) | [پاسخ](../solutions/10_proposal_writing/03_solutions.md) |
 
-هر درس سه سطح دارد، با نمونهٔ گام‌به‌گام، تمرین و پاسخ جداگانه. برای نوشتن طرح خود از [قالب کار پروپوزال](resources/proposal_template.md) بهره ببرید.
+## منابع و کاربرگ
 
-## تمرین‌ها و منابع
-
-- [تمرین‌های درس ۱](exercises/01_exercises.md) تا [درس ۳](exercises/03_exercises.md)
-- [پاسخ‌های جداگانه و معیارهای ارزیابی](../solutions/10_proposal_writing/README.md)
-- [واژه‌نامه](resources/glossary.md)، [منابع علمی](resources/references.md)، [فیلم‌های آموزشی](resources/videos.md) و [فهرست ماشینی](resources/catalog.json)
+- [قالب پروپوزال](resources/proposal_template.md)
+- [واژه‌نامه](resources/glossary.md)، [منابع](resources/references.md) و [فیلم‌ها](resources/videos.md)
+- [پاسخ‌های ماژول](../solutions/10_proposal_writing/README.md)
 
 <!-- COURSE_NAV_START -->
 
 ---
 
-[صفحهٔ پیشین: منابع ماژول ۹](../09_ethics_integrity/resources/videos.md) · [فهرست](../curriculum/README.md) · [صفحهٔ پسین: بیان مسئله و ارزش پژوهش](lessons/01_problem_rationale.md)
+[صفحهٔ پیشین: منابع ماژول ۹](../09_ethics_integrity/resources/videos.md) · [فهرست](../curriculum/README.md) · [صفحهٔ پسین: از بیان مسئله تا طراحی و نوشتن روش پژوهش](lessons/01_problem_rationale.md)
 
 <!-- COURSE_NAV_END -->
 

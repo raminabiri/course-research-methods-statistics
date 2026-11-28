@@ -5,26 +5,48 @@
   "lessons": [
     {
       "id": "M10-L01",
-      "title": "بیان مسئله و ارزش پژوهش",
+      "title": "از بیان مسئله تا طراحی و نوشتن روش پژوهش",
       "path": "10_proposal_writing/lessons/01_problem_rationale.md",
       "exercises_path": "10_proposal_writing/exercises/01_exercises.md",
       "solutions_path": "solutions/10_proposal_writing/01_solutions.md",
       "exercise_ids": [
         "M10-L01-B01",
+        "M10-L01-B02",
         "M10-L01-I01",
-        "M10-L01-A01"
+        "M10-L01-I02",
+        "M10-L01-A01",
+        "M10-L01-A02"
       ],
-      "levels": ["beginner", "intermediate", "advanced"],
-      "references": ["RATAN_2019", "FANDINO_2019", "OSMAN_2016"],
-      "videos": ["DR_AMINA_PROPOSAL", "NIH_SPECIFIC_AIMS"],
+      "levels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "references": [
+        "RATAN_2019",
+        "FANDINO_2019",
+        "OSMAN_2016",
+        "SPIRIT_2025",
+        "TIDIER_2014",
+        "ICH_E6R3_2025"
+      ],
+      "videos": [
+        "DR_AMINA_PROPOSAL",
+        "NIH_SPECIFIC_AIMS",
+        "NIH_PROTOCOL_TEMPLATE",
+        "SPIRIT_PROTOCOL_FAROOQ"
+      ],
       "status": "written_for_review",
       "human_scientific_review": "pending",
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
-        "allowed_languages": ["fa", "en"]
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
       },
-      "teaching_revision": "2026-11-27",
+      "teaching_revision": "2026-11-28",
       "pedagogy": {
         "plain_language_before_technical_term": true,
         "worked_walkthrough": true,
@@ -33,41 +55,11 @@
       },
       "navigation": {
         "previous": "10_proposal_writing/README.md",
-        "next": "10_proposal_writing/lessons/02_methods_design.md"
-      }
-    },
-    {
-      "id": "M10-L02",
-      "title": "نوشتن روش پژوهش",
-      "path": "10_proposal_writing/lessons/02_methods_design.md",
-      "exercises_path": "10_proposal_writing/exercises/02_exercises.md",
-      "solutions_path": "solutions/10_proposal_writing/02_solutions.md",
-      "exercise_ids": [
-        "M10-L02-B01",
-        "M10-L02-I01",
-        "M10-L02-A01"
-      ],
-      "levels": ["beginner", "intermediate", "advanced"],
-      "references": ["SPIRIT_2025", "TIDIER_2014", "ICH_E6R3_2025"],
-      "videos": ["NIH_PROTOCOL_TEMPLATE", "SPIRIT_PROTOCOL_FAROOQ"],
-      "status": "written_for_review",
-      "human_scientific_review": "pending",
-      "resource_requirements": {
-        "min_references": 3,
-        "min_direct_youtube_videos": 2,
-        "allowed_languages": ["fa", "en"]
-      },
-      "teaching_revision": "2026-11-27",
-      "pedagogy": {
-        "plain_language_before_technical_term": true,
-        "worked_walkthrough": true,
-        "formative_feedback": true,
-        "reading_route": true
-      },
-      "navigation": {
-        "previous": "10_proposal_writing/lessons/01_problem_rationale.md",
         "next": "10_proposal_writing/lessons/03_workplan_appendices.md"
-      }
+      },
+      "merged_from": [
+        "M10-L02"
+      ]
     },
     {
       "id": "M10-L03",
@@ -80,15 +72,29 @@
         "M10-L03-I01",
         "M10-L03-A01"
       ],
-      "levels": ["beginner", "intermediate", "advanced"],
-      "references": ["NIH_APPLICATION_GUIDE", "SPIRIT_2025", "ICH_E6R3_2025"],
-      "videos": ["LSE_GANTT", "UMICH_BUDGET"],
+      "levels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "references": [
+        "NIH_APPLICATION_GUIDE",
+        "SPIRIT_2025",
+        "ICH_E6R3_2025"
+      ],
+      "videos": [
+        "LSE_GANTT",
+        "UMICH_BUDGET"
+      ],
       "status": "written_for_review",
       "human_scientific_review": "pending",
       "resource_requirements": {
         "min_references": 3,
         "min_direct_youtube_videos": 2,
-        "allowed_languages": ["fa", "en"]
+        "allowed_languages": [
+          "fa",
+          "en"
+        ]
       },
       "teaching_revision": "2026-11-27",
       "pedagogy": {
@@ -98,7 +104,7 @@
         "reading_route": true
       },
       "navigation": {
-        "previous": "10_proposal_writing/lessons/02_methods_design.md",
+        "previous": "10_proposal_writing/lessons/01_problem_rationale.md",
         "next": "10_proposal_writing/exercises/01_exercises.md"
       }
     }

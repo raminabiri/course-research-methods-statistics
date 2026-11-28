@@ -88,7 +88,7 @@
 
 ---
 
-[صفحهٔ پیشین: پاسخ‌های درس 2](02_solutions.md) · [فهرست](../../12_research_grants/README.md) · [صفحهٔ پسین: نقشهٔ دوره](../../curriculum/README.md)
+[صفحهٔ پیشین: پاسخ‌های از انتخاب فراخوان تا نوشتن درخواست و بودجه](01_solutions.md) · [فهرست](../../12_research_grants/README.md) · [صفحهٔ پسین: نقشهٔ دوره](../../curriculum/README.md)
 
 <!-- COURSE_NAV_END -->
 

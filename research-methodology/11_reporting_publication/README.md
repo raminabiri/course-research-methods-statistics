@@ -6,34 +6,23 @@
 
 ## مسیر یادگیری
 
-| درس | موضوع |
-|---|---|
-| [۱. انتخاب رهنمود گزارش‌دهی](lessons/01_reporting_guidelines.md) | پیوند طرح و نوع گزارش با رهنمود مناسب |
-| [۲. نوشتن مقاله و نمایش یافته‌ها](lessons/02_manuscript_results.md) | ساختار مقاله، جدول، شکل و گزارش نتیجه |
-| [۳. ارسال، داوری و پس از انتشار](lessons/03_submission_review.md) | وارسی پیش از ارسال، پاسخ به داور و مسئولیت پس از انتشار |
-| [۴. ارتباط با مخاطب غیرتخصصی](lessons/04_public_communication.md) | چکیدهٔ ساده‌زبان و بیان مسئولانهٔ خطر |
-| [۵. گونه‌های مقالهٔ علمی](lessons/05_article_types.md) | انتخاب قالب بر پایهٔ پرسش، داده و مرحلهٔ پژوهش |
-| [۶. انتخاب ژورنال و ارزیابی اعتبار نشر](lessons/06_journal_selection.md) | تناسب، نمایه، هزینه و تشخیص نشانه‌های فریب |
-| [۷. شاخص‌های علم‌سنجی](lessons/07_research_metrics.md) | شاخص‌های مجله، مقاله و پژوهشگر و محدودیت آن‌ها |
+| درس | تمرین | پاسخ |
+| --- | --- | --- |
+| [گونهٔ مقاله و رهنمود گزارش‌دهی](lessons/01_reporting_guidelines.md) | [تمرین](exercises/01_exercises.md) | [پاسخ](../solutions/11_reporting_publication/01_solutions.md) |
+| [نگارش یافته‌ها برای خوانندهٔ تخصصی و عمومی](lessons/02_manuscript_results.md) | [تمرین](exercises/02_exercises.md) | [پاسخ](../solutions/11_reporting_publication/02_solutions.md) |
+| [ارسال، داوری و پس از انتشار](lessons/03_submission_review.md) | [تمرین](exercises/03_exercises.md) | [پاسخ](../solutions/11_reporting_publication/03_solutions.md) |
+| [انتخاب ژورنال و خواندن مسئولانهٔ شاخص‌های نشر](lessons/06_journal_selection.md) | [تمرین](exercises/06_exercises.md) | [پاسخ](../solutions/11_reporting_publication/06_solutions.md) |
 
-هر درس توضیح، نمونهٔ گام‌به‌گام و مکث آموزشی دارد. تمرین‌ها و پاسخ‌های تشریحی جدا هستند. هر درس یک تمرین مقدماتی، متوسط و پیشرفته دارد تا یادگیری به تعریف اصطلاح محدود نماند.
+## منابع و کارگاه
 
-## تمرین‌ها و منابع
-
-- [تمرین‌های درس ۱](exercises/01_exercises.md) تا [درس ۷](exercises/07_exercises.md)
-- [پاسخ‌های جداگانه و معیارهای ارزیابی](../solutions/11_reporting_publication/README.md)
-- [واژه‌نامه](resources/glossary.md)، [منابع علمی](resources/references.md)، [فیلم‌های آموزشی](resources/videos.md) و [فهرست ماشینی](resources/catalog.json)
-- [نمونهٔ کد R و خروجی‌های آموزشی](code/README.md)
-
-## مرزهای کاربرد
-
-رهنمود گزارش‌دهی جایگزین طراحی یا ارزیابی روش نیست. شاخص مجله کیفیت هر مقاله را پیش‌بینی نمی‌کند. داده و خروجی R این ماژول ساختگی‌اند و برای آموزش نگارش به کار می‌روند، نه برای استنتاج بالینی. وضعیت نمایه، هزینه و راهنمای نویسندگان تغییر می‌کند؛ پیش از ارسال، منبع رسمی جاری را بررسی کنید.
+- [واژه‌نامه](resources/glossary.md)، [منابع](resources/references.md) و [فیلم‌ها](resources/videos.md)
+- [پاسخ‌های ماژول](../solutions/11_reporting_publication/README.md) و [کد R](code/README.md)
 
 <!-- COURSE_NAV_START -->
 
 ---
 
-[صفحهٔ پیشین: قالب کار پروپوزال](../10_proposal_writing/resources/proposal_template.md) · [فهرست](../curriculum/README.md) · [صفحهٔ پسین: انتخاب رهنمود گزارش‌دهی](lessons/01_reporting_guidelines.md)
+[صفحهٔ پیشین: قالب کار پروپوزال](../10_proposal_writing/resources/proposal_template.md) · [فهرست](../curriculum/README.md) · [صفحهٔ پسین: گونهٔ مقاله و رهنمود گزارش‌دهی](lessons/01_reporting_guidelines.md)
 
 <!-- COURSE_NAV_END -->
 

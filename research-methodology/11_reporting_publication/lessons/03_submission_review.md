@@ -125,7 +125,7 @@ CRediT یک زبان ساختاریافته برای شرح ۱۴ نوع سهم،
 
 ---
 
-[صفحهٔ پیشین: نوشتن مقاله و نمایش یافته‌ها](02_manuscript_results.md) · [فهرست](../../curriculum/README.md) · [صفحهٔ پسین: ارتباط با مخاطب غیرتخصصی](04_public_communication.md)
+[صفحهٔ پیشین: نگارش یافته‌ها برای خوانندهٔ تخصصی و عمومی](02_manuscript_results.md) · [فهرست](../../curriculum/README.md) · [صفحهٔ پسین: انتخاب ژورنال و خواندن مسئولانهٔ شاخص‌های نشر](06_journal_selection.md)
 
 <!-- COURSE_NAV_END -->
 

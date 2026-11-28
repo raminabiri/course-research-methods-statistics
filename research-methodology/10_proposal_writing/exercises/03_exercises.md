@@ -32,7 +32,7 @@
 
 ---
 
-[صفحهٔ پیشین: تمرین‌های درس ۲](02_exercises.md) · [فهرست](../../curriculum/README.md) · [صفحهٔ پسین: پاسخ‌های جداگانهٔ ماژول ۱۰](../../solutions/10_proposal_writing/README.md)
+[صفحهٔ پیشین: تمرین‌های از بیان مسئله تا طراحی و نوشتن روش پژوهش](01_exercises.md) · [فهرست](../../curriculum/README.md) · [صفحهٔ پسین: پاسخ‌های جداگانهٔ ماژول ۱۰](../../solutions/10_proposal_writing/README.md)
 
 <!-- COURSE_NAV_END -->
 

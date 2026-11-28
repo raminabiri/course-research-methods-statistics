@@ -88,7 +88,7 @@
 
 ---
 
-[صفحهٔ پیشین: تمرین‌های درس 2](02_exercises.md) · [فهرست](../README.md) · [صفحهٔ پسین: فهرست پاسخ‌ها](../../solutions/12_research_grants/README.md)
+[صفحهٔ پیشین: تمرین‌های از انتخاب فراخوان تا نوشتن درخواست و بودجه](01_exercises.md) · [فهرست](../README.md) · [صفحهٔ پسین: فهرست پاسخ‌ها](../../solutions/12_research_grants/README.md)
 
 <!-- COURSE_NAV_END -->
 

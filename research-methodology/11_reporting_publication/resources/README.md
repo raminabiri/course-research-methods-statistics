@@ -14,7 +14,7 @@
 
 ---
 
-[صفحهٔ پیشین: پاسخ‌های درس ۷](../../solutions/11_reporting_publication/07_solutions.md) · [فهرست](../../curriculum/README.md) · [صفحهٔ پسین: واژه‌نامه](glossary.md)
+[صفحهٔ پیشین: پاسخ‌های انتخاب ژورنال و خواندن مسئولانهٔ شاخص‌های نشر](../../solutions/11_reporting_publication/06_solutions.md) · [فهرست](../../curriculum/README.md) · [صفحهٔ پسین: واژه‌نامه](glossary.md)
 
 <!-- COURSE_NAV_END -->
 
