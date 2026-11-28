@@ -1,0 +1,67 @@
+{
+  "checked_on": "2026-11-28",
+  "references": {
+    "M14-L01-R1": {
+      "title": "آیین پژوهش درست ALLEA",
+      "url": "https://allea.org/code-of-conduct/",
+      "language": "en",
+      "verification": "نشانی و دامنهٔ راهنمای سازمانی ثبت شد."
+    },
+    "M14-L01-R2": {
+      "title": "توصیه‌نامهٔ علم باز یونسکو",
+      "url": "https://www.unesco.org/en/legal-affairs/recommendation-open-science",
+      "language": "en",
+      "verification": "نشانی و دامنهٔ راهنمای سازمانی ثبت شد."
+    },
+    "M14-L01-R3": {
+      "title": "راهنمای داوری EQUATOR",
+      "url": "https://equator-network.org/toolkits/peer-reviewing-research/index.html",
+      "language": "en",
+      "verification": "نشانی و دامنهٔ راهنمای سازمانی ثبت شد."
+    },
+    "M14-L02-R1": {
+      "title": "آیین پژوهش درست ALLEA",
+      "url": "https://allea.org/code-of-conduct/",
+      "language": "en",
+      "verification": "نشانی و دامنهٔ راهنمای سازمانی ثبت شد."
+    },
+    "M14-L02-R2": {
+      "title": "راهکارهای همکاری PM²",
+      "url": "https://pm2.europa.eu/pm2-artefacts_en",
+      "language": "en",
+      "verification": "نشانی و دامنهٔ راهنمای سازمانی ثبت شد."
+    },
+    "M14-L02-R3": {
+      "title": "راهنمای اجرای پژوهش TDR",
+      "url": "https://adphealth.org/irtoolkit/",
+      "language": "en",
+      "verification": "نشانی و دامنهٔ راهنمای سازمانی ثبت شد."
+    }
+  },
+  "videos": {
+    "M14-L01-V1": {
+      "title": "جلسهٔ نمونهٔ داوری NIH برای بررسی شیوهٔ گفت‌وگو",
+      "url": "https://www.youtube.com/watch?v=Vx6qO8z9swQ",
+      "language": "en",
+      "verification": "عنوان و نشانی در نمایه بررسی شد. پخش آزموده نشد."
+    },
+    "M14-L01-V2": {
+      "title": "گردش کار جذب و همکاری در پروژهٔ PRESS",
+      "url": "https://www.youtube.com/watch?v=lZY41asYZJ8",
+      "language": "en",
+      "verification": "عنوان و نشانی در نمایه بررسی شد. پخش آزموده نشد."
+    },
+    "M14-L02-V1": {
+      "title": "گردش کار جذب و همکاری در پروژهٔ PRESS",
+      "url": "https://www.youtube.com/watch?v=lZY41asYZJ8",
+      "language": "en",
+      "verification": "عنوان و نشانی در نمایه بررسی شد. پخش آزموده نشد."
+    },
+    "M14-L02-V2": {
+      "title": "تقسیم کار به بسته‌های قابل تحویل",
+      "url": "https://www.youtube.com/watch?v=PyR2VLP3xnA",
+      "language": "en",
+      "verification": "عنوان و نشانی در نمایه بررسی شد. پخش آزموده نشد."
+    }
+  }
+}

@@ -1586,6 +1586,141 @@
       "previous": "solutions/13_project_research_management/05_solutions.md",
       "next": "curriculum/README.md",
       "home": "13_project_research_management/README.md"
+    },
+    "14_psychology_sociology_of_researchers/README.md": {
+      "home": "14_psychology_sociology_of_researchers/README.md",
+      "previous": "13_project_research_management/README.md",
+      "next": "14_psychology_sociology_of_researchers/lessons/01_judgment_and_research_culture.md"
+    },
+    "14_psychology_sociology_of_researchers/lessons/01_judgment_and_research_culture.md": {
+      "home": "14_psychology_sociology_of_researchers/README.md",
+      "previous": "14_psychology_sociology_of_researchers/README.md",
+      "next": "14_psychology_sociology_of_researchers/lessons/02_sustainable_research.md"
+    },
+    "14_psychology_sociology_of_researchers/lessons/02_sustainable_research.md": {
+      "home": "14_psychology_sociology_of_researchers/README.md",
+      "previous": "14_psychology_sociology_of_researchers/lessons/01_judgment_and_research_culture.md",
+      "next": "14_psychology_sociology_of_researchers/exercises/01_exercises.md"
+    },
+    "14_psychology_sociology_of_researchers/exercises/01_exercises.md": {
+      "home": "14_psychology_sociology_of_researchers/README.md",
+      "previous": "14_psychology_sociology_of_researchers/lessons/02_sustainable_research.md",
+      "next": "14_psychology_sociology_of_researchers/exercises/02_exercises.md"
+    },
+    "14_psychology_sociology_of_researchers/exercises/02_exercises.md": {
+      "home": "14_psychology_sociology_of_researchers/README.md",
+      "previous": "14_psychology_sociology_of_researchers/exercises/01_exercises.md",
+      "next": "solutions/14_psychology_sociology_of_researchers/README.md"
+    },
+    "solutions/14_psychology_sociology_of_researchers/README.md": {
+      "home": "14_psychology_sociology_of_researchers/README.md",
+      "previous": "14_psychology_sociology_of_researchers/exercises/02_exercises.md",
+      "next": "solutions/14_psychology_sociology_of_researchers/01_solutions.md"
+    },
+    "solutions/14_psychology_sociology_of_researchers/01_solutions.md": {
+      "home": "14_psychology_sociology_of_researchers/README.md",
+      "previous": "solutions/14_psychology_sociology_of_researchers/README.md",
+      "next": "solutions/14_psychology_sociology_of_researchers/02_solutions.md"
+    },
+    "solutions/14_psychology_sociology_of_researchers/02_solutions.md": {
+      "home": "14_psychology_sociology_of_researchers/README.md",
+      "previous": "solutions/14_psychology_sociology_of_researchers/01_solutions.md",
+      "next": "15_open_science_tools_ai/README.md"
+    },
+    "15_open_science_tools_ai/README.md": {
+      "home": "15_open_science_tools_ai/README.md",
+      "previous": "solutions/14_psychology_sociology_of_researchers/02_solutions.md",
+      "next": "15_open_science_tools_ai/lessons/01_preregistration.md"
+    },
+    "15_open_science_tools_ai/lessons/01_preregistration.md": {
+      "home": "15_open_science_tools_ai/README.md",
+      "previous": "15_open_science_tools_ai/README.md",
+      "next": "15_open_science_tools_ai/lessons/02_reproducible_data_and_sharing.md"
+    },
+    "15_open_science_tools_ai/lessons/02_reproducible_data_and_sharing.md": {
+      "home": "15_open_science_tools_ai/README.md",
+      "previous": "15_open_science_tools_ai/lessons/01_preregistration.md",
+      "next": "15_open_science_tools_ai/lessons/04_responsible_ai.md"
+    },
+    "15_open_science_tools_ai/lessons/04_responsible_ai.md": {
+      "home": "15_open_science_tools_ai/README.md",
+      "previous": "15_open_science_tools_ai/lessons/02_reproducible_data_and_sharing.md",
+      "next": "15_open_science_tools_ai/exercises/01_exercises.md"
+    },
+    "15_open_science_tools_ai/exercises/01_exercises.md": {
+      "home": "15_open_science_tools_ai/README.md",
+      "previous": "15_open_science_tools_ai/lessons/04_responsible_ai.md",
+      "next": "15_open_science_tools_ai/exercises/02_exercises.md"
+    },
+    "15_open_science_tools_ai/exercises/02_exercises.md": {
+      "home": "15_open_science_tools_ai/README.md",
+      "previous": "15_open_science_tools_ai/exercises/01_exercises.md",
+      "next": "15_open_science_tools_ai/exercises/04_exercises.md"
+    },
+    "15_open_science_tools_ai/exercises/04_exercises.md": {
+      "home": "15_open_science_tools_ai/README.md",
+      "previous": "15_open_science_tools_ai/exercises/02_exercises.md",
+      "next": "solutions/15_open_science_tools_ai/README.md"
+    },
+    "solutions/15_open_science_tools_ai/README.md": {
+      "home": "15_open_science_tools_ai/README.md",
+      "previous": "15_open_science_tools_ai/exercises/04_exercises.md",
+      "next": "solutions/15_open_science_tools_ai/01_solutions.md"
+    },
+    "solutions/15_open_science_tools_ai/01_solutions.md": {
+      "home": "15_open_science_tools_ai/README.md",
+      "previous": "solutions/15_open_science_tools_ai/README.md",
+      "next": "solutions/15_open_science_tools_ai/02_solutions.md"
+    },
+    "solutions/15_open_science_tools_ai/02_solutions.md": {
+      "home": "15_open_science_tools_ai/README.md",
+      "previous": "solutions/15_open_science_tools_ai/01_solutions.md",
+      "next": "solutions/15_open_science_tools_ai/04_solutions.md"
+    },
+    "solutions/15_open_science_tools_ai/04_solutions.md": {
+      "home": "15_open_science_tools_ai/README.md",
+      "previous": "solutions/15_open_science_tools_ai/02_solutions.md",
+      "next": "16_capstone_project/README.md"
+    },
+    "16_capstone_project/README.md": {
+      "home": "16_capstone_project/README.md",
+      "previous": "solutions/15_open_science_tools_ai/04_solutions.md",
+      "next": "16_capstone_project/lessons/01_design_and_peer_review.md"
+    },
+    "16_capstone_project/lessons/01_design_and_peer_review.md": {
+      "home": "16_capstone_project/README.md",
+      "previous": "16_capstone_project/README.md",
+      "next": "16_capstone_project/lessons/03_final_research_package.md"
+    },
+    "16_capstone_project/lessons/03_final_research_package.md": {
+      "home": "16_capstone_project/README.md",
+      "previous": "16_capstone_project/lessons/01_design_and_peer_review.md",
+      "next": "16_capstone_project/exercises/01_exercises.md"
+    },
+    "16_capstone_project/exercises/01_exercises.md": {
+      "home": "16_capstone_project/README.md",
+      "previous": "16_capstone_project/lessons/03_final_research_package.md",
+      "next": "16_capstone_project/exercises/03_exercises.md"
+    },
+    "16_capstone_project/exercises/03_exercises.md": {
+      "home": "16_capstone_project/README.md",
+      "previous": "16_capstone_project/exercises/01_exercises.md",
+      "next": "solutions/16_capstone_project/README.md"
+    },
+    "solutions/16_capstone_project/README.md": {
+      "home": "16_capstone_project/README.md",
+      "previous": "16_capstone_project/exercises/03_exercises.md",
+      "next": "solutions/16_capstone_project/01_solutions.md"
+    },
+    "solutions/16_capstone_project/01_solutions.md": {
+      "home": "16_capstone_project/README.md",
+      "previous": "solutions/16_capstone_project/README.md",
+      "next": "solutions/16_capstone_project/03_solutions.md"
+    },
+    "solutions/16_capstone_project/03_solutions.md": {
+      "home": "16_capstone_project/README.md",
+      "previous": "solutions/16_capstone_project/01_solutions.md",
+      "next": "curriculum/README.md"
     }
   }
 }

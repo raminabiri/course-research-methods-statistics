@@ -1,0 +1,67 @@
+{
+  "checked_on": "2026-11-28",
+  "references": {
+    "M16-L01-R1": {
+      "title": "راهنمای اجرای پژوهش TDR",
+      "url": "https://adphealth.org/irtoolkit/",
+      "language": "en",
+      "verification": "نشانی و دامنهٔ راهنمای سازمانی ثبت شد."
+    },
+    "M16-L01-R2": {
+      "title": "راهنماهای گزارش پژوهش EQUATOR",
+      "url": "https://equator-network.org/about/reporting-guidelines.html",
+      "language": "en",
+      "verification": "نشانی و دامنهٔ راهنمای سازمانی ثبت شد."
+    },
+    "M16-L01-R3": {
+      "title": "راهنمای داوری EQUATOR",
+      "url": "https://equator-network.org/toolkits/peer-reviewing-research/index.html",
+      "language": "en",
+      "verification": "نشانی و دامنهٔ راهنمای سازمانی ثبت شد."
+    },
+    "M16-L03-R1": {
+      "title": "راهنماهای گزارش پژوهش EQUATOR",
+      "url": "https://equator-network.org/about/reporting-guidelines.html",
+      "language": "en",
+      "verification": "نشانی و دامنهٔ راهنمای سازمانی ثبت شد."
+    },
+    "M16-L03-R2": {
+      "title": "جعبه‌ابزار پژوهش بالینی NIMH",
+      "url": "https://www.nimh.nih.gov/funding/clinical-research/clinical-research-toolbox/nimh-clinical-research-toolbox",
+      "language": "en",
+      "verification": "نشانی و دامنهٔ راهنمای سازمانی ثبت شد."
+    },
+    "M16-L03-R3": {
+      "title": "توصیه‌نامهٔ علم باز یونسکو",
+      "url": "https://www.unesco.org/en/legal-affairs/recommendation-open-science",
+      "language": "en",
+      "verification": "نشانی و دامنهٔ راهنمای سازمانی ثبت شد."
+    }
+  },
+  "videos": {
+    "M16-L01-V1": {
+      "title": "جلسهٔ نمونهٔ داوری NIH برای بررسی شیوهٔ گفت‌وگو",
+      "url": "https://www.youtube.com/watch?v=Vx6qO8z9swQ",
+      "language": "en",
+      "verification": "عنوان و نشانی در نمایه بررسی شد. پخش آزموده نشد."
+    },
+    "M16-L01-V2": {
+      "title": "تقسیم کار به بسته‌های قابل تحویل",
+      "url": "https://www.youtube.com/watch?v=PyR2VLP3xnA",
+      "language": "en",
+      "verification": "عنوان و نشانی در نمایه بررسی شد. پخش آزموده نشد."
+    },
+    "M16-L03-V1": {
+      "title": "تقسیم کار به بسته‌های قابل تحویل",
+      "url": "https://www.youtube.com/watch?v=PyR2VLP3xnA",
+      "language": "en",
+      "verification": "عنوان و نشانی در نمایه بررسی شد. پخش آزموده نشد."
+    },
+    "M16-L03-V2": {
+      "title": "مراحل تشکیل پرونده و پیوست‌ها با ASSIST",
+      "url": "https://www.youtube.com/watch?v=Dx6ok21D044",
+      "language": "en",
+      "verification": "عنوان و نشانی در نمایه بررسی شد. پخش آزموده نشد."
+    }
+  }
+}

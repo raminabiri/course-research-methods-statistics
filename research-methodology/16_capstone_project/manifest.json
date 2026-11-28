@@ -1,0 +1,85 @@
+{
+  "module": "M16",
+  "version": 1,
+  "date": "2026-11-28",
+  "lessons": [
+    {
+      "id": "M16-L01",
+      "title": "طراحی پروژهٔ نهایی و بازبینی همتا",
+      "path": "16_capstone_project/lessons/01_design_and_peer_review.md",
+      "exercises_path": "16_capstone_project/exercises/01_exercises.md",
+      "solutions_path": "solutions/16_capstone_project/01_solutions.md",
+      "exercise_ids": [
+        "M16-L01-B01",
+        "M16-L01-B02",
+        "M16-L01-B03",
+        "M16-L01-I01",
+        "M16-L01-I02",
+        "M16-L01-I03",
+        "M16-L01-A01",
+        "M16-L01-A02",
+        "M16-L01-A03"
+      ],
+      "levels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "references": [
+        "M16-L01-R1",
+        "M16-L01-R2",
+        "M16-L01-R3"
+      ],
+      "videos": [
+        "M16-L01-V1",
+        "M16-L01-V2"
+      ],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "teaching_revision": "2026-11-28",
+      "navigation": {
+        "previous": "16_capstone_project/README.md",
+        "next": "16_capstone_project/lessons/03_final_research_package.md"
+      }
+    },
+    {
+      "id": "M16-L03",
+      "title": "بستهٔ نهایی، ارائه و بازتولید پروژه",
+      "path": "16_capstone_project/lessons/03_final_research_package.md",
+      "exercises_path": "16_capstone_project/exercises/03_exercises.md",
+      "solutions_path": "solutions/16_capstone_project/03_solutions.md",
+      "exercise_ids": [
+        "M16-L03-B01",
+        "M16-L03-B02",
+        "M16-L03-B03",
+        "M16-L03-I01",
+        "M16-L03-I02",
+        "M16-L03-I03",
+        "M16-L03-A01",
+        "M16-L03-A02",
+        "M16-L03-A03"
+      ],
+      "levels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "references": [
+        "M16-L03-R1",
+        "M16-L03-R2",
+        "M16-L03-R3"
+      ],
+      "videos": [
+        "M16-L03-V1",
+        "M16-L03-V2"
+      ],
+      "status": "written_for_review",
+      "human_scientific_review": "pending",
+      "teaching_revision": "2026-11-28",
+      "navigation": {
+        "previous": "16_capstone_project/lessons/01_design_and_peer_review.md",
+        "next": "16_capstone_project/exercises/01_exercises.md"
+      }
+    }
+  ]
+}

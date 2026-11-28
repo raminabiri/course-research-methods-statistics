@@ -1,0 +1,97 @@
+{
+  "checked_on": "2026-11-28",
+  "references": {
+    "M15-L01-R1": {
+      "title": "راهنمای ثبت OSF",
+      "url": "https://help.osf.io/article/330-registrations",
+      "language": "en",
+      "verification": "نشانی و دامنهٔ راهنمای سازمانی ثبت شد."
+    },
+    "M15-L01-R2": {
+      "title": "توصیه‌نامهٔ علم باز یونسکو",
+      "url": "https://www.unesco.org/en/legal-affairs/recommendation-open-science",
+      "language": "en",
+      "verification": "نشانی و دامنهٔ راهنمای سازمانی ثبت شد."
+    },
+    "M15-L01-R3": {
+      "title": "راهنماهای گزارش پژوهش EQUATOR",
+      "url": "https://equator-network.org/about/reporting-guidelines.html",
+      "language": "en",
+      "verification": "نشانی و دامنهٔ راهنمای سازمانی ثبت شد."
+    },
+    "M15-L02-R1": {
+      "title": "توصیه‌نامهٔ علم باز یونسکو",
+      "url": "https://www.unesco.org/en/legal-affairs/recommendation-open-science",
+      "language": "en",
+      "verification": "نشانی و دامنهٔ راهنمای سازمانی ثبت شد."
+    },
+    "M15-L02-R2": {
+      "title": "راهنمای ثبت OSF",
+      "url": "https://help.osf.io/article/330-registrations",
+      "language": "en",
+      "verification": "نشانی و دامنهٔ راهنمای سازمانی ثبت شد."
+    },
+    "M15-L02-R3": {
+      "title": "جعبه‌ابزار پژوهش بالینی NIMH",
+      "url": "https://www.nimh.nih.gov/funding/clinical-research/clinical-research-toolbox/nimh-clinical-research-toolbox",
+      "language": "en",
+      "verification": "نشانی و دامنهٔ راهنمای سازمانی ثبت شد."
+    },
+    "M15-L04-R1": {
+      "title": "توصیه‌های هوش مصنوعی ICMJE",
+      "url": "https://www.icmje.org/recommendations/browse/artificial-intelligence/",
+      "language": "en",
+      "verification": "نشانی و دامنهٔ راهنمای سازمانی ثبت شد."
+    },
+    "M15-L04-R2": {
+      "title": "آیین پژوهش درست ALLEA",
+      "url": "https://allea.org/code-of-conduct/",
+      "language": "en",
+      "verification": "نشانی و دامنهٔ راهنمای سازمانی ثبت شد."
+    },
+    "M15-L04-R3": {
+      "title": "توصیه‌نامهٔ علم باز یونسکو",
+      "url": "https://www.unesco.org/en/legal-affairs/recommendation-open-science",
+      "language": "en",
+      "verification": "نشانی و دامنهٔ راهنمای سازمانی ثبت شد."
+    }
+  },
+  "videos": {
+    "M15-L01-V1": {
+      "title": "ثبت و ثبت پیشینی",
+      "url": "https://www.youtube.com/watch?v=1fsqW-9MwNw",
+      "language": "en",
+      "verification": "عنوان و نشانی در نمایه بررسی شد. پخش آزموده نشد."
+    },
+    "M15-L01-V2": {
+      "title": "ثبت پیشینی و بازبینی برنامه",
+      "url": "https://www.youtube.com/watch?v=NzZTtB2qkmg",
+      "language": "en",
+      "verification": "عنوان و نشانی در نمایه بررسی شد. پخش آزموده نشد."
+    },
+    "M15-L02-V1": {
+      "title": "ثبت و ثبت پیشینی",
+      "url": "https://www.youtube.com/watch?v=1fsqW-9MwNw",
+      "language": "en",
+      "verification": "عنوان و نشانی در نمایه بررسی شد. پخش آزموده نشد."
+    },
+    "M15-L02-V2": {
+      "title": "مراحل تشکیل پرونده و پیوست‌ها با ASSIST",
+      "url": "https://www.youtube.com/watch?v=Dx6ok21D044",
+      "language": "en",
+      "verification": "عنوان و نشانی در نمایه بررسی شد. پخش آزموده نشد."
+    },
+    "M15-L04-V1": {
+      "title": "ویرایشگران و کاربرد هوش مصنوعی، COPE",
+      "url": "https://www.youtube.com/watch?v=R3sxqtOHYgw",
+      "language": "en",
+      "verification": "عنوان و نشانی در نمایه بررسی شد. پخش آزموده نشد."
+    },
+    "M15-L04-V2": {
+      "title": "هوش مصنوعی در نشر پزشکی",
+      "url": "https://www.youtube.com/watch?v=s1HFtBEhwok",
+      "language": "en",
+      "verification": "عنوان و نشانی در نمایه بررسی شد. پخش آزموده نشد."
+    }
+  }
+}
